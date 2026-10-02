@@ -1,0 +1,9 @@
+model,lang,n,lang_match_rate,subject_sense_rate,sense_n,low_n,type_definition,type_completion,type_clarification,type_multi_sense,type_refusal,type_other,net_valence,positive,neutral,negative,unlabeled,eastern,western,general
+openai/gpt-6-luna,ko,100,1.0,0.97,97,False,88,0,11,1,0,0,0.299,280,577,18,0,517,27,331
+anthropic/claude-haiku-4.5,ko,100,1.0,1.0,100,False,89,0,0,11,0,0,0.368,405,688,2,0,628,2,465
+google/gemini-3.5-flash-lite,ko,100,1.0,1.0,100,False,100,0,0,0,0,0,0.381,1049,1240,128,0,1188,164,1065
+meta-llama/llama-4-maverick,ko,100,0.98,0.98,98,False,100,0,0,0,0,0,0.22,290,826,36,0,712,52,388
+mistralai/mistral-small-2603,ko,100,0.99,0.99,99,False,99,0,0,1,0,0,0.322,403,764,21,0,959,4,225
+deepseek/deepseek-v4.1-flash,ko,100,1.0,1.0,100,False,89,0,1,10,0,0,0.458,535,561,23,0,761,25,333
+qwen/qwen3.8-flash,ko,100,1.0,1.0,100,False,100,0,0,0,0,0,0.403,531,761,7,0,1088,10,201
+upstage/solar-mini4,ko,100,1.0,1.0,100,False,94,0,2,4,0,0,0.434,827,945,40,0,1431,50,331

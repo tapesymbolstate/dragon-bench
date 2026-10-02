@@ -1,0 +1,896 @@
+model,lang,concept,top_native_lemma,responses,share_of_subject_sense
+anthropic/claude-haiku-4.5,en,even number,even,20,1.0
+anthropic/claude-haiku-4.5,en,composite number,composite,19,0.95
+anthropic/claude-haiku-4.5,en,square,square,17,0.85
+anthropic/claude-haiku-4.5,en,number,number,11,0.55
+anthropic/claude-haiku-4.5,en,quantity,number,7,0.35
+anthropic/claude-haiku-4.5,en,integer,integer,5,0.25
+anthropic/claude-haiku-4.5,en,power of two,power,5,0.25
+anthropic/claude-haiku-4.5,en,sides,side,4,0.2
+anthropic/claude-haiku-4.5,en,arithmetic,$2 + 2$,4,0.2
+anthropic/claude-haiku-4.5,en,power,squared,4,0.2
+anthropic/claude-haiku-4.5,en,divisibility,divisible by 2,4,0.2
+anthropic/claude-haiku-4.5,en,sequence,before,4,0.2
+anthropic/claude-haiku-4.5,en,roman numeral,iv,4,0.2
+anthropic/claude-haiku-4.5,en,cardinal number,cardinal,3,0.15
+anthropic/claude-haiku-4.5,en,position,position,3,0.15
+anthropic/claude-haiku-4.5,en,limbs,legs,2,0.1
+anthropic/claude-haiku-4.5,en,seasons,season,2,0.1
+anthropic/claude-haiku-4.5,en,ordinal number,fourth,2,0.1
+anthropic/claude-haiku-4.5,en,numeral,numeral,2,0.1
+anthropic/claude-haiku-4.5,en,grouping,grouping,1,0.05
+anthropic/claude-haiku-4.5,en,prime number,first,1,0.05
+anthropic/claude-haiku-4.5,en,divisor,factor,1,0.05
+anthropic/claude-haiku-4.5,en,property,smallest,1,0.05
+anthropic/claude-haiku-4.5,en,natural number,natural,1,0.05
+anthropic/claude-haiku-4.5,en,geometry,face,1,0.05
+anthropic/claude-haiku-4.5,en,stability,stability,1,0.05
+anthropic/claude-haiku-4.5,en,foundation,foundation,1,0.05
+anthropic/claude-haiku-4.5,en,symbolism,symbolic,1,0.05
+anthropic/claude-haiku-4.5,en,lucky,lucky,1,0.05
+anthropic/claude-haiku-4.5,en,unlucky,unlucky,1,0.05
+anthropic/claude-haiku-4.5,en,digit,digit,1,0.05
+anthropic/claude-haiku-4.5,en,square root,square,1,0.05
+anthropic/claude-haiku-4.5,en,mathematics,a math problem,1,0.05
+anthropic/claude-haiku-4.5,en,binary,100,1,0.05
+anthropic/claude-haiku-4.5,en,positive number,positive,1,0.05
+anthropic/claude-haiku-4.5,en,comparison,greater,1,0.05
+anthropic/claude-haiku-4.5,en,answer,answer,1,0.05
+anthropic/claude-haiku-4.5,en,reference,reference,1,0.05
+anthropic/claude-haiku-4.5,ja,even number,偶数,9,0.6
+anthropic/claude-haiku-4.5,ja,square,平方数,6,0.4
+anthropic/claude-haiku-4.5,ja,property,性質,5,0.333
+anthropic/claude-haiku-4.5,ja,number,数字,3,0.2
+anthropic/claude-haiku-4.5,ja,multiple,倍数,3,0.2
+anthropic/claude-haiku-4.5,ja,arithmetic,計算,3,0.2
+anthropic/claude-haiku-4.5,ja,list,リスト,2,0.133
+anthropic/claude-haiku-4.5,ja,mathematics,数学的,2,0.133
+anthropic/claude-haiku-4.5,ja,culture,文化的,2,0.133
+anthropic/claude-haiku-4.5,ja,power,22,2,0.133
+anthropic/claude-haiku-4.5,ja,prime number,素数,2,0.133
+anthropic/claude-haiku-4.5,ja,linguistics,英語,2,0.133
+anthropic/claude-haiku-4.5,ja,ordinal number,4番目,2,0.133
+anthropic/claude-haiku-4.5,ja,natural number,自然数,1,0.067
+anthropic/claude-haiku-4.5,ja,object,物,1,0.067
+anthropic/claude-haiku-4.5,ja,definition,是,1,0.067
+anthropic/claude-haiku-4.5,ja,information,情報,1,0.067
+anthropic/claude-haiku-4.5,ja,sequence,順序,1,0.067
+anthropic/claude-haiku-4.5,ja,symbolism,意味,1,0.067
+anthropic/claude-haiku-4.5,ja,radix,4進法,1,0.067
+anthropic/claude-haiku-4.5,ja,divisor,約数,1,0.067
+anthropic/claude-haiku-4.5,ja,composite number,合成数,1,0.067
+anthropic/claude-haiku-4.5,ja,question,呢,1,0.067
+anthropic/claude-haiku-4.5,ja,proper noun,固有名詞,1,0.067
+anthropic/claude-haiku-4.5,ja,digit,数字,1,0.067
+anthropic/claude-haiku-4.5,ko,mathematics,수학,7,0.35
+anthropic/claude-haiku-4.5,ko,even number,짝수,7,0.35
+anthropic/claude-haiku-4.5,ko,symbolism,기호,5,0.25
+anthropic/claude-haiku-4.5,ko,property,성질,4,0.2
+anthropic/claude-haiku-4.5,ko,science,과학,3,0.15
+anthropic/claude-haiku-4.5,ko,square,제곱수,3,0.15
+anthropic/claude-haiku-4.5,ko,number,숫자,3,0.15
+anthropic/claude-haiku-4.5,ko,information,정보,3,0.15
+anthropic/claude-haiku-4.5,ko,culture,문화적 의미,2,0.1
+anthropic/claude-haiku-4.5,ko,natural number,자연수,2,0.1
+anthropic/claude-haiku-4.5,ko,digit,숫자,1,0.05
+anthropic/claude-haiku-4.5,ko,square root,제곱근,1,0.05
+anthropic/claude-haiku-4.5,ko,divisor,약수,1,0.05
+anthropic/claude-haiku-4.5,ko,seasons,사계절,1,0.05
+anthropic/claude-haiku-4.5,ko,calendar,4번째 달,1,0.05
+anthropic/claude-haiku-4.5,ko,composite number,합성수,1,0.05
+anthropic/claude-haiku-4.5,ko,arithmetic,계산,1,0.05
+anthropic/claude-haiku-4.5,ko,definition,가리키다,1,0.05
+anthropic/claude-haiku-4.5,ko,classical elements,세계의 4원소,1,0.05
+anthropic/claude-haiku-4.5,ko,power,$2^amp;+2$,1,0.05
+anthropic/claude-haiku-4.5,ko,application,용도,1,0.05
+anthropic/claude-haiku-4.5,zh,even number,偶数,9,0.75
+anthropic/claude-haiku-4.5,zh,prime number,质数,5,0.417
+anthropic/claude-haiku-4.5,zh,number,数字,4,0.333
+anthropic/claude-haiku-4.5,zh,concept,概念,3,0.25
+anthropic/claude-haiku-4.5,zh,composite number,合数,3,0.25
+anthropic/claude-haiku-4.5,zh,mathematics,数学,2,0.167
+anthropic/claude-haiku-4.5,zh,multiple,二倍,2,0.167
+anthropic/claude-haiku-4.5,zh,square,平方,2,0.167
+anthropic/claude-haiku-4.5,zh,comparison,比较问题,1,0.083
+anthropic/claude-haiku-4.5,zh,arithmetic,四的平方是 16,1,0.083
+anthropic/claude-haiku-4.5,zh,property,最小,1,0.083
+anthropic/claude-haiku-4.5,zh,answer,答案,1,0.083
+anthropic/claude-haiku-4.5,zh,symbolism,含义,1,0.083
+anthropic/claude-haiku-4.5,zh,code,代码,1,0.083
+anthropic/claude-haiku-4.5,zh,integer,整数,1,0.083
+anthropic/claude-haiku-4.5,zh,natural number,自然数,1,0.083
+deepseek/deepseek-v4.1-flash,en,square,square,17,0.895
+deepseek/deepseek-v4.1-flash,en,even number,even,15,0.789
+deepseek/deepseek-v4.1-flash,en,atomic number,atomic,9,0.474
+deepseek/deepseek-v4.1-flash,en,composite number,composite,7,0.368
+deepseek/deepseek-v4.1-flash,en,quantity,number,5,0.263
+deepseek/deepseek-v4.1-flash,en,linguistics,label,4,0.211
+deepseek/deepseek-v4.1-flash,en,lucky,lucky,4,0.211
+deepseek/deepseek-v4.1-flash,en,wordplay,the only number in english with the same number of letters as its value,3,0.158
+deepseek/deepseek-v4.1-flash,en,cardinal directions,cardinal,3,0.158
+deepseek/deepseek-v4.1-flash,en,number,number,2,0.105
+deepseek/deepseek-v4.1-flash,en,sides,side,2,0.105
+deepseek/deepseek-v4.1-flash,en,genetics,number of bases in dna,2,0.105
+deepseek/deepseek-v4.1-flash,en,music,common,2,0.105
+deepseek/deepseek-v4.1-flash,en,seasons,season,2,0.105
+deepseek/deepseek-v4.1-flash,en,playing cards,suit,2,0.105
+deepseek/deepseek-v4.1-flash,en,arithmetic,$2 + 2$,2,0.105
+deepseek/deepseek-v4.1-flash,en,binary,100,2,0.105
+deepseek/deepseek-v4.1-flash,en,roman numeral,iv,2,0.105
+deepseek/deepseek-v4.1-flash,en,power,squared,2,0.105
+deepseek/deepseek-v4.1-flash,en,chemical element,beryllium,2,0.105
+deepseek/deepseek-v4.1-flash,en,natural number,natural,2,0.105
+deepseek/deepseek-v4.1-flash,en,homophone,sounds,2,0.105
+deepseek/deepseek-v4.1-flash,en,unlucky,unlucky,2,0.105
+deepseek/deepseek-v4.1-flash,en,grouping,grouping,2,0.105
+deepseek/deepseek-v4.1-flash,en,sequence,before,1,0.053
+deepseek/deepseek-v4.1-flash,en,ordinal number,fourth,1,0.053
+deepseek/deepseek-v4.1-flash,en,square root,square,1,0.053
+deepseek/deepseek-v4.1-flash,en,taboo,avoided,1,0.053
+deepseek/deepseek-v4.1-flash,en,integer,integer,1,0.053
+deepseek/deepseek-v4.1-flash,en,counting,number,1,0.053
+deepseek/deepseek-v4.1-flash,ja,even number,偶数,11,0.688
+deepseek/deepseek-v4.1-flash,ja,definition,是,4,0.25
+deepseek/deepseek-v4.1-flash,ja,square,平方数,3,0.188
+deepseek/deepseek-v4.1-flash,ja,favorite,好き,2,0.125
+deepseek/deepseek-v4.1-flash,ja,question,呢,2,0.125
+deepseek/deepseek-v4.1-flash,ja,multiple,倍数,2,0.125
+deepseek/deepseek-v4.1-flash,ja,death,連想させる,2,0.125
+deepseek/deepseek-v4.1-flash,ja,topic,主题,2,0.125
+deepseek/deepseek-v4.1-flash,ja,linguistics,英語,1,0.062
+deepseek/deepseek-v4.1-flash,ja,homophone,读作,1,0.062
+deepseek/deepseek-v4.1-flash,ja,riddle,脑筋急转弯,1,0.062
+deepseek/deepseek-v4.1-flash,ja,ordinal number,4番目,1,0.062
+deepseek/deepseek-v4.1-flash,ja,calendar,4月,1,0.062
+deepseek/deepseek-v4.1-flash,ja,mathematics,数学的,1,0.062
+deepseek/deepseek-v4.1-flash,ja,sequence,順序,1,0.062
+deepseek/deepseek-v4.1-flash,ja,grouping,よにん,1,0.062
+deepseek/deepseek-v4.1-flash,ja,lucky,縁起,1,0.062
+deepseek/deepseek-v4.1-flash,ja,unlucky,不吉な数字,1,0.062
+deepseek/deepseek-v4.1-flash,ja,comparison,大きい,1,0.062
+deepseek/deepseek-v4.1-flash,ja,composite number,合成数,1,0.062
+deepseek/deepseek-v4.1-flash,ja,natural number,自然数,1,0.062
+deepseek/deepseek-v4.1-flash,ja,property,性質,1,0.062
+deepseek/deepseek-v4.1-flash,ko,even number,짝수,18,1.0
+deepseek/deepseek-v4.1-flash,ko,square,제곱수,10,0.556
+deepseek/deepseek-v4.1-flash,ko,natural number,자연수,7,0.389
+deepseek/deepseek-v4.1-flash,ko,prime number,소수,4,0.222
+deepseek/deepseek-v4.1-flash,ko,linguistics,읽다,3,0.167
+deepseek/deepseek-v4.1-flash,ko,number,숫자,2,0.111
+deepseek/deepseek-v4.1-flash,ko,multiple,배수,1,0.056
+deepseek/deepseek-v4.1-flash,ko,death,죽을 사,1,0.056
+deepseek/deepseek-v4.1-flash,ko,arithmetic,계산,1,0.056
+deepseek/deepseek-v4.1-flash,ko,lucky,행운,1,0.056
+deepseek/deepseek-v4.1-flash,ko,culture,문화적 의미,1,0.056
+deepseek/deepseek-v4.1-flash,ko,composite number,합성수,1,0.056
+deepseek/deepseek-v4.1-flash,ko,unlucky,불길한 숫자,1,0.056
+deepseek/deepseek-v4.1-flash,zh,even number,偶数,18,0.9
+deepseek/deepseek-v4.1-flash,zh,square,平方,18,0.9
+deepseek/deepseek-v4.1-flash,zh,natural number,自然数,17,0.85
+deepseek/deepseek-v4.1-flash,zh,composite number,合数,16,0.8
+deepseek/deepseek-v4.1-flash,zh,number,数字,6,0.3
+deepseek/deepseek-v4.1-flash,zh,prime number,质数,4,0.2
+deepseek/deepseek-v4.1-flash,zh,digit,数字,4,0.2
+deepseek/deepseek-v4.1-flash,zh,homophone,谐音,4,0.2
+deepseek/deepseek-v4.1-flash,zh,integer,整数,3,0.15
+deepseek/deepseek-v4.1-flash,zh,symbolism,含义,3,0.15
+deepseek/deepseek-v4.1-flash,zh,mathematics,数学,3,0.15
+deepseek/deepseek-v4.1-flash,zh,numeral,阿拉伯数字,3,0.15
+deepseek/deepseek-v4.1-flash,zh,death,死,3,0.15
+deepseek/deepseek-v4.1-flash,zh,sequence,介于,3,0.15
+deepseek/deepseek-v4.1-flash,zh,music,fa,3,0.15
+deepseek/deepseek-v4.1-flash,zh,divisor,因数,2,0.1
+deepseek/deepseek-v4.1-flash,zh,linguistics,网络用语,2,0.1
+deepseek/deepseek-v4.1-flash,zh,definition,表示“是”,2,0.1
+deepseek/deepseek-v4.1-flash,zh,unlucky,不吉利,2,0.1
+deepseek/deepseek-v4.1-flash,zh,odd number,奇数,1,0.05
+deepseek/deepseek-v4.1-flash,zh,quantity,数量,1,0.05
+deepseek/deepseek-v4.1-flash,zh,calendar,4 月,1,0.05
+deepseek/deepseek-v4.1-flash,zh,culture,文化,1,0.05
+deepseek/deepseek-v4.1-flash,zh,kanji,汉字,1,0.05
+deepseek/deepseek-v4.1-flash,zh,rational number,有理数,1,0.05
+deepseek/deepseek-v4.1-flash,zh,question,什么,1,0.05
+deepseek/deepseek-v4.1-flash,zh,ordinal number,第四个,1,0.05
+deepseek/deepseek-v4.1-flash,zh,affirmation,表示“是”,1,0.05
+google/gemini-3.5-flash-lite,en,atomic number,atomic,15,0.75
+google/gemini-3.5-flash-lite,en,even number,even,15,0.75
+google/gemini-3.5-flash-lite,en,composite number,composite,14,0.7
+google/gemini-3.5-flash-lite,en,arithmetic,$2 + 2$,10,0.5
+google/gemini-3.5-flash-lite,en,square root,square,10,0.5
+google/gemini-3.5-flash-lite,en,successor,successor,7,0.35
+google/gemini-3.5-flash-lite,en,music,common,6,0.3
+google/gemini-3.5-flash-lite,en,predecessor,predecessor,6,0.3
+google/gemini-3.5-flash-lite,en,integer,integer,5,0.25
+google/gemini-3.5-flash-lite,en,chemical element,beryllium,4,0.2
+google/gemini-3.5-flash-lite,en,sports,american,3,0.15
+google/gemini-3.5-flash-lite,en,seasons,season,3,0.15
+google/gemini-3.5-flash-lite,en,quantity,number,3,0.15
+google/gemini-3.5-flash-lite,en,calendar,number,2,0.1
+google/gemini-3.5-flash-lite,en,version,fourth,2,0.1
+google/gemini-3.5-flash-lite,en,power,squared,2,0.1
+google/gemini-3.5-flash-lite,en,sequence,before,2,0.1
+google/gemini-3.5-flash-lite,en,technology,ipv4,2,0.1
+google/gemini-3.5-flash-lite,en,square,square,2,0.1
+google/gemini-3.5-flash-lite,en,counting,number,1,0.05
+google/gemini-3.5-flash-lite,en,generation,generation,1,0.05
+google/gemini-3.5-flash-lite,en,time,hour,1,0.05
+google/gemini-3.5-flash-lite,en,rational number,numerator,1,0.05
+google/gemini-3.5-flash-lite,en,anatomy,number,1,0.05
+google/gemini-3.5-flash-lite,en,science,science,1,0.05
+google/gemini-3.5-flash-lite,en,mathematics,a math problem,1,0.05
+google/gemini-3.5-flash-lite,en,structure,structure,1,0.05
+google/gemini-3.5-flash-lite,en,comparison,greater,1,0.05
+google/gemini-3.5-flash-lite,en,geometry,face,1,0.05
+google/gemini-3.5-flash-lite,en,stability,stability,1,0.05
+google/gemini-3.5-flash-lite,en,foundation,foundation,1,0.05
+google/gemini-3.5-flash-lite,en,quadrilateral,quadrilateral,1,0.05
+google/gemini-3.5-flash-lite,en,cardinal directions,cardinal,1,0.05
+google/gemini-3.5-flash-lite,en,beryllium,beryllium,1,0.05
+google/gemini-3.5-flash-lite,en,homophone,sounds,1,0.05
+google/gemini-3.5-flash-lite,en,unlucky,unlucky,1,0.05
+google/gemini-3.5-flash-lite,ja,even number,偶数,17,0.85
+google/gemini-3.5-flash-lite,ja,composite number,合成数,16,0.8
+google/gemini-3.5-flash-lite,ja,wordplay,四字熟語,11,0.55
+google/gemini-3.5-flash-lite,ja,mathematics,数学的,8,0.4
+google/gemini-3.5-flash-lite,ja,death,連想させる,8,0.4
+google/gemini-3.5-flash-lite,ja,omen,縁起,8,0.4
+google/gemini-3.5-flash-lite,ja,unlucky,不吉な数字,7,0.35
+google/gemini-3.5-flash-lite,ja,lucky,縁起,6,0.3
+google/gemini-3.5-flash-lite,ja,culture,文化的,4,0.2
+google/gemini-3.5-flash-lite,ja,symbolism,意味,4,0.2
+google/gemini-3.5-flash-lite,ja,rule,きまり,3,0.15
+google/gemini-3.5-flash-lite,ja,square,平方数,3,0.15
+google/gemini-3.5-flash-lite,ja,guardian,四天王,3,0.15
+google/gemini-3.5-flash-lite,ja,property,性質,1,0.05
+google/gemini-3.5-flash-lite,ja,ordinal number,4番目,1,0.05
+google/gemini-3.5-flash-lite,ja,positive,良い意味,1,0.05
+google/gemini-3.5-flash-lite,ja,integer,整数,1,0.05
+google/gemini-3.5-flash-lite,ja,number,数字,1,0.05
+google/gemini-3.5-flash-lite,ja,digit,数字,1,0.05
+google/gemini-3.5-flash-lite,ko,natural number,자연수,16,0.8
+google/gemini-3.5-flash-lite,ko,number,숫자,10,0.5
+google/gemini-3.5-flash-lite,ko,even number,짝수,9,0.45
+google/gemini-3.5-flash-lite,ko,square,제곱수,8,0.4
+google/gemini-3.5-flash-lite,ko,composite number,합성수,8,0.4
+google/gemini-3.5-flash-lite,ko,unlucky,불길한 숫자,8,0.4
+google/gemini-3.5-flash-lite,ko,lucky,행운,5,0.25
+google/gemini-3.5-flash-lite,ko,death,죽을 사,4,0.2
+google/gemini-3.5-flash-lite,ko,stability,안정감,3,0.15
+google/gemini-3.5-flash-lite,ko,predecessor,5 이,2,0.1
+google/gemini-3.5-flash-lite,ko,successor,3 다음,2,0.1
+google/gemini-3.5-flash-lite,ko,superstition,미신,2,0.1
+google/gemini-3.5-flash-lite,ko,arithmetic,계산,1,0.05
+google/gemini-3.5-flash-lite,ko,symbolism,기호,1,0.05
+google/gemini-3.5-flash-lite,ko,power,$2^amp;+2$,1,0.05
+google/gemini-3.5-flash-lite,ko,sports,중심 타자,1,0.05
+google/gemini-3.5-flash-lite,ko,structure,기본 틀,1,0.05
+google/gemini-3.5-flash-lite,ko,atomic number,원자번호,1,0.05
+google/gemini-3.5-flash-lite,ko,limbs,네 발,1,0.05
+google/gemini-3.5-flash-lite,ko,taboo,기피하다,1,0.05
+google/gemini-3.5-flash-lite,ko,culture,문화적 의미,1,0.05
+google/gemini-3.5-flash-lite,ko,quirky,사차원,1,0.05
+google/gemini-3.5-flash-lite,ko,clover,네잎클로버,1,0.05
+google/gemini-3.5-flash-lite,zh,even number,偶数,18,0.9
+google/gemini-3.5-flash-lite,zh,composite number,合数,18,0.9
+google/gemini-3.5-flash-lite,zh,unlucky,不吉利,17,0.85
+google/gemini-3.5-flash-lite,zh,square,平方,13,0.65
+google/gemini-3.5-flash-lite,zh,natural number,自然数,10,0.5
+google/gemini-3.5-flash-lite,zh,seasons,四季,10,0.5
+google/gemini-3.5-flash-lite,zh,cardinal directions,四方,5,0.25
+google/gemini-3.5-flash-lite,zh,music,fa,5,0.25
+google/gemini-3.5-flash-lite,zh,beryllium,铍,4,0.2
+google/gemini-3.5-flash-lite,zh,limbs,四肢,3,0.15
+google/gemini-3.5-flash-lite,zh,atomic number,原子序数,3,0.15
+google/gemini-3.5-flash-lite,zh,death,死,3,0.15
+google/gemini-3.5-flash-lite,zh,homophone,谐音,3,0.15
+google/gemini-3.5-flash-lite,zh,symbolism,含义,2,0.1
+google/gemini-3.5-flash-lite,zh,geography,四大洋,2,0.1
+google/gemini-3.5-flash-lite,zh,rational number,有理数,2,0.1
+google/gemini-3.5-flash-lite,zh,technology,互联网协议第四版,2,0.1
+google/gemini-3.5-flash-lite,zh,property,最小,2,0.1
+google/gemini-3.5-flash-lite,zh,sequence,介于,2,0.1
+google/gemini-3.5-flash-lite,zh,culture,文化,2,0.1
+google/gemini-3.5-flash-lite,zh,chemical element,碳,1,0.05
+google/gemini-3.5-flash-lite,zh,kanji,汉字,1,0.05
+google/gemini-3.5-flash-lite,zh,state,四种,1,0.05
+google/gemini-3.5-flash-lite,zh,integer,整数,1,0.05
+google/gemini-3.5-flash-lite,zh,sides,边,1,0.05
+google/gemini-3.5-flash-lite,zh,neutral,普通,1,0.05
+google/gemini-3.5-flash-lite,zh,completeness,完整,1,0.05
+google/gemini-3.5-flash-lite,zh,arithmetic,四的平方是 16,1,0.05
+google/gemini-3.5-flash-lite,zh,genetics,dna基础,1,0.05
+google/gemini-3.5-flash-lite,zh,physics,四大,1,0.05
+google/gemini-3.5-flash-lite,zh,ordinal number,第四个,1,0.05
+google/gemini-3.5-flash-lite,zh,square root,平方根,1,0.05
+google/gemini-3.5-flash-lite,zh,engine,四缸发动机,1,0.05
+google/gemini-3.5-flash-lite,zh,wheel,四轮驱动,1,0.05
+google/gemini-3.5-flash-lite,zh,quadrilateral,四边形,1,0.05
+google/gemini-3.5-flash-lite,zh,mathematics,数学,1,0.05
+google/gemini-3.5-flash-lite,zh,number,数字,1,0.05
+google/gemini-3.5-flash-lite,zh,literature,四大名著,1,0.05
+google/gemini-3.5-flash-lite,zh,invention,四大发明,1,0.05
+google/gemini-3.5-flash-lite,zh,playing cards,点数为4的牌,1,0.05
+google/gemini-3.5-flash-lite,zh,stability,稳定,1,0.05
+google/gemini-3.5-flash-lite,zh,skip,跳过,1,0.05
+google/gemini-3.5-flash-lite,zh,geometry,角,1,0.05
+google/gemini-3.5-flash-lite,zh,phobia,恐惧症,1,0.05
+meta-llama/llama-4-maverick,en,square,square,17,0.85
+meta-llama/llama-4-maverick,en,even number,even,16,0.8
+meta-llama/llama-4-maverick,en,composite number,composite,12,0.6
+meta-llama/llama-4-maverick,en,atomic number,atomic,9,0.45
+meta-llama/llama-4-maverick,en,number,number,7,0.35
+meta-llama/llama-4-maverick,en,seasons,season,5,0.25
+meta-llama/llama-4-maverick,en,cardinal directions,cardinal,5,0.25
+meta-llama/llama-4-maverick,en,sides,side,3,0.15
+meta-llama/llama-4-maverick,en,natural number,natural,3,0.15
+meta-llama/llama-4-maverick,en,geometry,face,3,0.15
+meta-llama/llama-4-maverick,en,playing cards,suit,3,0.15
+meta-llama/llama-4-maverick,en,unlucky,unlucky,2,0.1
+meta-llama/llama-4-maverick,en,digit,digit,2,0.1
+meta-llama/llama-4-maverick,en,prime number,first,2,0.1
+meta-llama/llama-4-maverick,en,numeral,numeral,2,0.1
+meta-llama/llama-4-maverick,en,music,common,2,0.1
+meta-llama/llama-4-maverick,en,integer,integer,2,0.1
+meta-llama/llama-4-maverick,en,death,sound,1,0.05
+meta-llama/llama-4-maverick,en,quadrilateral,quadrilateral,1,0.05
+meta-llama/llama-4-maverick,en,beryllium,beryllium,1,0.05
+meta-llama/llama-4-maverick,en,tetrahedron,tetrahedron,1,0.05
+meta-llama/llama-4-maverick,en,time,hour,1,0.05
+meta-llama/llama-4-maverick,en,physics,fundamental forces,1,0.05
+meta-llama/llama-4-maverick,en,square root,square,1,0.05
+meta-llama/llama-4-maverick,en,technology,ipv4,1,0.05
+meta-llama/llama-4-maverick,en,rational number,numerator,1,0.05
+meta-llama/llama-4-maverick,en,chemical element,beryllium,1,0.05
+meta-llama/llama-4-maverick,en,limbs,legs,1,0.05
+meta-llama/llama-4-maverick,en,sequence,before,1,0.05
+meta-llama/llama-4-maverick,en,genetics,number of bases in dna,1,0.05
+meta-llama/llama-4-maverick,ja,even number,偶数,12,0.6
+meta-llama/llama-4-maverick,ja,square,平方数,8,0.4
+meta-llama/llama-4-maverick,ja,natural number,自然数,8,0.4
+meta-llama/llama-4-maverick,ja,unlucky,不吉な数字,6,0.3
+meta-llama/llama-4-maverick,ja,composite number,合成数,6,0.3
+meta-llama/llama-4-maverick,ja,successor,次,5,0.25
+meta-llama/llama-4-maverick,ja,quantity,数量,4,0.2
+meta-llama/llama-4-maverick,ja,predecessor,前,4,0.2
+meta-llama/llama-4-maverick,ja,seasons,四季,4,0.2
+meta-llama/llama-4-maverick,ja,taboo,忌み数,3,0.15
+meta-llama/llama-4-maverick,ja,cardinal directions,四方,3,0.15
+meta-llama/llama-4-maverick,ja,number,数字,3,0.15
+meta-llama/llama-4-maverick,ja,death,連想させる,2,0.1
+meta-llama/llama-4-maverick,ja,calendar,4月,2,0.1
+meta-llama/llama-4-maverick,ja,time,4時,2,0.1
+meta-llama/llama-4-maverick,ja,geometry,形,2,0.1
+meta-llama/llama-4-maverick,ja,completeness,完全性,2,0.1
+meta-llama/llama-4-maverick,ja,digit,数字,2,0.1
+meta-llama/llama-4-maverick,ja,stability,安定,2,0.1
+meta-llama/llama-4-maverick,ja,integer,整数,2,0.1
+meta-llama/llama-4-maverick,ja,sequence,順序,2,0.1
+meta-llama/llama-4-maverick,ja,arithmetic,計算,1,0.05
+meta-llama/llama-4-maverick,ja,measurement,4号機,1,0.05
+meta-llama/llama-4-maverick,ja,lucky,縁起,1,0.05
+meta-llama/llama-4-maverick,ja,importance,重要,1,0.05
+meta-llama/llama-4-maverick,ja,wheel,引く,1,0.05
+meta-llama/llama-4-maverick,ja,large number,多い,1,0.05
+meta-llama/llama-4-maverick,ja,deity,四大天王,1,0.05
+meta-llama/llama-4-maverick,ja,symbolism,意味,1,0.05
+meta-llama/llama-4-maverick,ja,divisibility,1と自身以外の整数で割り切れる数,1,0.05
+meta-llama/llama-4-maverick,ja,position,等級,1,0.05
+meta-llama/llama-4-maverick,ja,power,22,1,0.05
+meta-llama/llama-4-maverick,ko,natural number,자연수,19,0.95
+meta-llama/llama-4-maverick,ko,square,제곱수,11,0.55
+meta-llama/llama-4-maverick,ko,comparison,크다,8,0.4
+meta-llama/llama-4-maverick,ko,definition,가리키다,5,0.25
+meta-llama/llama-4-maverick,ko,composite number,합성수,5,0.25
+meta-llama/llama-4-maverick,ko,number,숫자,4,0.2
+meta-llama/llama-4-maverick,ko,even number,짝수,4,0.2
+meta-llama/llama-4-maverick,ko,death,죽을 사,4,0.2
+meta-llama/llama-4-maverick,ko,cardinal directions,사방,4,0.2
+meta-llama/llama-4-maverick,ko,seasons,사계절,4,0.2
+meta-llama/llama-4-maverick,ko,divisor,약수,3,0.15
+meta-llama/llama-4-maverick,ko,ordinal number,네 번째,2,0.1
+meta-llama/llama-4-maverick,ko,integer,정수,2,0.1
+meta-llama/llama-4-maverick,ko,numeral,아라비아 숫자,2,0.1
+meta-llama/llama-4-maverick,ko,cardinal number,기수,2,0.1
+meta-llama/llama-4-maverick,ko,square root,제곱근,2,0.1
+meta-llama/llama-4-maverick,ko,digit,숫자,2,0.1
+meta-llama/llama-4-maverick,ko,mathematics,수학,2,0.1
+meta-llama/llama-4-maverick,ko,unlucky,불길한 숫자,2,0.1
+meta-llama/llama-4-maverick,ko,divisibility,서로소,2,0.1
+meta-llama/llama-4-maverick,ko,arithmetic,계산,1,0.05
+meta-llama/llama-4-maverick,ko,deficient number,부족수,1,0.05
+meta-llama/llama-4-maverick,ko,sequence,사이,1,0.05
+meta-llama/llama-4-maverick,ko,measurement,기본 단위,1,0.05
+meta-llama/llama-4-maverick,ko,sports,중심 타자,1,0.05
+meta-llama/llama-4-maverick,ko,quadrilateral,사각형,1,0.05
+meta-llama/llama-4-maverick,ko,roman numeral,iv,1,0.05
+meta-llama/llama-4-maverick,ko,multiple,배수,1,0.05
+meta-llama/llama-4-maverick,ko,kanji,한자,1,0.05
+meta-llama/llama-4-maverick,ko,quantity,개수,1,0.05
+meta-llama/llama-4-maverick,ko,linguistics,읽다,1,0.05
+meta-llama/llama-4-maverick,ko,triangular number,삼각수,1,0.05
+meta-llama/llama-4-maverick,ko,atomic number,원자번호,1,0.05
+meta-llama/llama-4-maverick,ko,tetrahedron,사면체,1,0.05
+meta-llama/llama-4-maverick,ko,prime number,소수,1,0.05
+meta-llama/llama-4-maverick,zh,square,平方,19,0.95
+meta-llama/llama-4-maverick,zh,natural number,自然数,5,0.25
+meta-llama/llama-4-maverick,zh,even number,偶数,4,0.2
+meta-llama/llama-4-maverick,zh,unlucky,不吉利,4,0.2
+meta-llama/llama-4-maverick,zh,composite number,合数,4,0.2
+meta-llama/llama-4-maverick,zh,sides,边,3,0.15
+meta-llama/llama-4-maverick,zh,geometry,角,2,0.1
+meta-llama/llama-4-maverick,zh,lucky,幸运数字,1,0.05
+meta-llama/llama-4-maverick,zh,homophone,谐音,1,0.05
+meta-llama/llama-4-maverick,zh,ordinal number,第四个,1,0.05
+meta-llama/llama-4-maverick,zh,predecessor,5 之前,1,0.05
+meta-llama/llama-4-maverick,zh,successor,比3大1的数字,1,0.05
+meta-llama/llama-4-maverick,zh,death,死,1,0.05
+meta-llama/llama-4-maverick,zh,neutral,普通,1,0.05
+meta-llama/llama-4-maverick,zh,quarter,第四节,1,0.05
+meta-llama/llama-4-maverick,zh,seasons,四季,1,0.05
+mistralai/mistral-small-2603,en,even number,even,12,0.667
+mistralai/mistral-small-2603,en,composite number,composite,11,0.611
+mistralai/mistral-small-2603,en,square,square,10,0.556
+mistralai/mistral-small-2603,en,natural number,natural,8,0.444
+mistralai/mistral-small-2603,en,integer,integer,6,0.333
+mistralai/mistral-small-2603,en,property,smallest,4,0.222
+mistralai/mistral-small-2603,en,binary,100,4,0.222
+mistralai/mistral-small-2603,en,roman numeral,iv,4,0.222
+mistralai/mistral-small-2603,en,mathematics,a math problem,2,0.111
+mistralai/mistral-small-2603,en,atomic number,atomic,2,0.111
+mistralai/mistral-small-2603,en,prime number,first,2,0.111
+mistralai/mistral-small-2603,en,tetrahedral number,tetrahedral,2,0.111
+mistralai/mistral-small-2603,en,divisibility,divisible by 2,2,0.111
+mistralai/mistral-small-2603,en,application,use,1,0.056
+mistralai/mistral-small-2603,en,number,number,1,0.056
+mistralai/mistral-small-2603,en,comparison,greater,1,0.056
+mistralai/mistral-small-2603,en,digit,digit,1,0.056
+mistralai/mistral-small-2603,en,grade,high,1,0.056
+mistralai/mistral-small-2603,en,dimension,number,1,0.056
+mistralai/mistral-small-2603,en,position,position,1,0.056
+mistralai/mistral-small-2603,en,time,hour,1,0.056
+mistralai/mistral-small-2603,en,quantity,number,1,0.056
+mistralai/mistral-small-2603,en,sequence,before,1,0.056
+mistralai/mistral-small-2603,en,beryllium,beryllium,1,0.056
+mistralai/mistral-small-2603,en,perception,taste,1,0.056
+mistralai/mistral-small-2603,en,balance,équilibre,1,0.056
+mistralai/mistral-small-2603,en,lucky,lucky,1,0.056
+mistralai/mistral-small-2603,en,stability,stability,1,0.056
+mistralai/mistral-small-2603,en,death,sound,1,0.056
+mistralai/mistral-small-2603,en,chemical element,beryllium,1,0.056
+mistralai/mistral-small-2603,en,rational number,numerator,1,0.056
+mistralai/mistral-small-2603,en,geometry,face,1,0.056
+mistralai/mistral-small-2603,en,numeral,numeral,1,0.056
+mistralai/mistral-small-2603,en,sides,side,1,0.056
+mistralai/mistral-small-2603,en,tetrahedron,tetrahedron,1,0.056
+mistralai/mistral-small-2603,en,divisor,factor,1,0.056
+mistralai/mistral-small-2603,ja,even number,偶数,14,0.778
+mistralai/mistral-small-2603,ja,composite number,合成数,11,0.611
+mistralai/mistral-small-2603,ja,square,平方数,10,0.556
+mistralai/mistral-small-2603,ja,natural number,自然数,9,0.5
+mistralai/mistral-small-2603,ja,factorization,素因数分解,5,0.278
+mistralai/mistral-small-2603,ja,integer,整数,5,0.278
+mistralai/mistral-small-2603,ja,seasons,四季,4,0.222
+mistralai/mistral-small-2603,ja,binary,2進数,3,0.167
+mistralai/mistral-small-2603,ja,power,22,3,0.167
+mistralai/mistral-small-2603,ja,roman numeral,iv,3,0.167
+mistralai/mistral-small-2603,ja,radix,4進法,3,0.167
+mistralai/mistral-small-2603,ja,death,連想させる,3,0.167
+mistralai/mistral-small-2603,ja,unlucky,不吉な数字,3,0.167
+mistralai/mistral-small-2603,ja,divisor,約数,3,0.167
+mistralai/mistral-small-2603,ja,mathematics,数学的,3,0.167
+mistralai/mistral-small-2603,ja,linguistics,英語,2,0.111
+mistralai/mistral-small-2603,ja,cardinal directions,四方,2,0.111
+mistralai/mistral-small-2603,ja,real number,実数,2,0.111
+mistralai/mistral-small-2603,ja,rational number,有理数,2,0.111
+mistralai/mistral-small-2603,ja,lucky,縁起,2,0.111
+mistralai/mistral-small-2603,ja,time,4時,2,0.111
+mistralai/mistral-small-2603,ja,divisibility,1と自身以外の整数で割り切れる数,2,0.111
+mistralai/mistral-small-2603,ja,kanji,漢数字,2,0.111
+mistralai/mistral-small-2603,ja,foundation,基本的,2,0.111
+mistralai/mistral-small-2603,ja,sequence,順序,2,0.111
+mistralai/mistral-small-2603,ja,culture,文化的,2,0.111
+mistralai/mistral-small-2603,ja,calendar,4月,2,0.111
+mistralai/mistral-small-2603,ja,beryllium,ベリリウム,1,0.056
+mistralai/mistral-small-2603,ja,definition,是,1,0.056
+mistralai/mistral-small-2603,ja,pi,円周率,1,0.056
+mistralai/mistral-small-2603,ja,perfect number,完全数,1,0.056
+mistralai/mistral-small-2603,ja,age,年齢,1,0.056
+mistralai/mistral-small-2603,ja,geometry,形,1,0.056
+mistralai/mistral-small-2603,ja,quantity,数量,1,0.056
+mistralai/mistral-small-2603,ja,stability,安定,1,0.056
+mistralai/mistral-small-2603,ja,property,性質,1,0.056
+mistralai/mistral-small-2603,ja,application,使い方,1,0.056
+mistralai/mistral-small-2603,ja,science,科学,1,0.056
+mistralai/mistral-small-2603,ja,playing cards,カード,1,0.056
+mistralai/mistral-small-2603,ja,technology,プログラミング,1,0.056
+mistralai/mistral-small-2603,ja,digit,数字,1,0.056
+mistralai/mistral-small-2603,ja,power of two,2の2乗,1,0.056
+mistralai/mistral-small-2603,ja,multiple,倍数,1,0.056
+mistralai/mistral-small-2603,ja,grouping,よにん,1,0.056
+mistralai/mistral-small-2603,ja,arithmetic,計算,1,0.056
+mistralai/mistral-small-2603,ja,dimension,次元,1,0.056
+mistralai/mistral-small-2603,ja,physics,時空,1,0.056
+mistralai/mistral-small-2603,ja,deity,四大天王,1,0.056
+mistralai/mistral-small-2603,ko,even number,짝수,12,0.75
+mistralai/mistral-small-2603,ko,natural number,자연수,11,0.688
+mistralai/mistral-small-2603,ko,roman numeral,iv,6,0.375
+mistralai/mistral-small-2603,ko,square,제곱수,4,0.25
+mistralai/mistral-small-2603,ko,death,죽을 사,4,0.25
+mistralai/mistral-small-2603,ko,composite number,합성수,4,0.25
+mistralai/mistral-small-2603,ko,seasons,사계절,3,0.188
+mistralai/mistral-small-2603,ko,arithmetic,계산,3,0.188
+mistralai/mistral-small-2603,ko,prime number,소수,3,0.188
+mistralai/mistral-small-2603,ko,integer,정수,2,0.125
+mistralai/mistral-small-2603,ko,counting,개수,2,0.125
+mistralai/mistral-small-2603,ko,stability,안정감,2,0.125
+mistralai/mistral-small-2603,ko,mathematics,수학,2,0.125
+mistralai/mistral-small-2603,ko,square root,제곱근,2,0.125
+mistralai/mistral-small-2603,ko,sequence,사이,2,0.125
+mistralai/mistral-small-2603,ko,divisor,약수,2,0.125
+mistralai/mistral-small-2603,ko,number,숫자,2,0.125
+mistralai/mistral-small-2603,ko,technology,데이터 단위,1,0.062
+mistralai/mistral-small-2603,ko,wheel,자동차 바퀴,1,0.062
+mistralai/mistral-small-2603,ko,food,사과,1,0.062
+mistralai/mistral-small-2603,ko,chemical element,요소,1,0.062
+mistralai/mistral-small-2603,ko,entertainment,연예계,1,0.062
+mistralai/mistral-small-2603,ko,algebraic structure,고리,1,0.062
+mistralai/mistral-small-2603,ko,calendar,4번째 달,1,0.062
+mistralai/mistral-small-2603,ko,measurement,기본 단위,1,0.062
+mistralai/mistral-small-2603,ko,geography,동아시아,1,0.062
+mistralai/mistral-small-2603,ko,area,넓이,1,0.062
+mistralai/mistral-small-2603,ko,binary,이진수,1,0.062
+mistralai/mistral-small-2603,ko,factorization,소인수분해,1,0.062
+mistralai/mistral-small-2603,ko,unlucky,불길한 숫자,1,0.062
+mistralai/mistral-small-2603,ko,quadrilateral,사각형,1,0.062
+mistralai/mistral-small-2603,ko,property,성질,1,0.062
+mistralai/mistral-small-2603,ko,multiple,배수,1,0.062
+mistralai/mistral-small-2603,ko,classical elements,세계의 4원소,1,0.062
+mistralai/mistral-small-2603,ko,divisibility,서로소,1,0.062
+mistralai/mistral-small-2603,ko,data structure,배열 인덱스,1,0.062
+mistralai/mistral-small-2603,ko,power,$2^amp;+2$,1,0.062
+mistralai/mistral-small-2603,ko,geometry,네 변으로 이루어진 도형,1,0.062
+mistralai/mistral-small-2603,ko,ordinal number,네 번째,1,0.062
+mistralai/mistral-small-2603,zh,natural number,自然数,10,0.588
+mistralai/mistral-small-2603,zh,composite number,合数,9,0.529
+mistralai/mistral-small-2603,zh,even number,偶数,7,0.412
+mistralai/mistral-small-2603,zh,square,平方,5,0.294
+mistralai/mistral-small-2603,zh,number,数字,4,0.235
+mistralai/mistral-small-2603,zh,symbolism,含义,4,0.235
+mistralai/mistral-small-2603,zh,quantity,数量,4,0.235
+mistralai/mistral-small-2603,zh,homophone,谐音,3,0.176
+mistralai/mistral-small-2603,zh,roman numeral,罗马数字,3,0.176
+mistralai/mistral-small-2603,zh,ordinal number,第四个,3,0.176
+mistralai/mistral-small-2603,zh,binary,二进制,3,0.176
+mistralai/mistral-small-2603,zh,sides,边,2,0.118
+mistralai/mistral-small-2603,zh,data structure,四元组,2,0.118
+mistralai/mistral-small-2603,zh,code,代码,2,0.118
+mistralai/mistral-small-2603,zh,integer,整数,2,0.118
+mistralai/mistral-small-2603,zh,numeral,阿拉伯数字,2,0.118
+mistralai/mistral-small-2603,zh,unlucky,不吉利,2,0.118
+mistralai/mistral-small-2603,zh,taboo,忌讳,2,0.118
+mistralai/mistral-small-2603,zh,prime number,质数,2,0.118
+mistralai/mistral-small-2603,zh,seasons,四季,2,0.118
+mistralai/mistral-small-2603,zh,mathematics,数学,2,0.118
+mistralai/mistral-small-2603,zh,dimension,维度,2,0.118
+mistralai/mistral-small-2603,zh,factorization,2 × 2,2,0.118
+mistralai/mistral-small-2603,zh,culture,文化,1,0.059
+mistralai/mistral-small-2603,zh,geometry,角,1,0.059
+mistralai/mistral-small-2603,zh,cube number,立方数,1,0.059
+mistralai/mistral-small-2603,zh,age,4 岁,1,0.059
+mistralai/mistral-small-2603,zh,cardinal number,基数词,1,0.059
+mistralai/mistral-small-2603,zh,calendar,4 月,1,0.059
+mistralai/mistral-small-2603,zh,sequence,介于,1,0.059
+mistralai/mistral-small-2603,zh,time,4 点,1,0.059
+mistralai/mistral-small-2603,zh,counting,编号,1,0.059
+mistralai/mistral-small-2603,zh,position,位,1,0.059
+mistralai/mistral-small-2603,zh,cube root,立方数,1,0.059
+mistralai/mistral-small-2603,zh,sports,分数,1,0.059
+mistralai/mistral-small-2603,zh,music,fa,1,0.059
+mistralai/mistral-small-2603,zh,list,列表,1,0.059
+mistralai/mistral-small-2603,zh,stability,稳定,1,0.059
+mistralai/mistral-small-2603,zh,death,死,1,0.059
+mistralai/mistral-small-2603,zh,cardinal directions,四方,1,0.059
+mistralai/mistral-small-2603,zh,chemical element,碳,1,0.059
+mistralai/mistral-small-2603,zh,foundation,基础,1,0.059
+mistralai/mistral-small-2603,zh,rational number,有理数,1,0.059
+mistralai/mistral-small-2603,zh,successor,比3大1的数字,1,0.059
+mistralai/mistral-small-2603,zh,technology,互联网协议第四版,1,0.059
+mistralai/mistral-small-2603,zh,algebraic structure,代数结构,1,0.059
+mistralai/mistral-small-2603,zh,rotation,旋转,1,0.059
+mistralai/mistral-small-2603,zh,transformation,空间变换,1,0.059
+openai/gpt-6-luna,en,even number,even,4,0.571
+openai/gpt-6-luna,ja,definition,是,2,0.333
+openai/gpt-6-luna,ja,integer,整数,1,0.167
+openai/gpt-6-luna,ja,predecessor,前,1,0.167
+openai/gpt-6-luna,ja,successor,次,1,0.167
+openai/gpt-6-luna,ko,even number,짝수,6,0.333
+openai/gpt-6-luna,ko,number,숫자,4,0.222
+openai/gpt-6-luna,ko,square,제곱수,3,0.167
+openai/gpt-6-luna,ko,arithmetic,계산,2,0.111
+openai/gpt-6-luna,ko,symbolism,기호,1,0.056
+openai/gpt-6-luna,ko,property,성질,1,0.056
+openai/gpt-6-luna,ko,natural number,자연수,1,0.056
+openai/gpt-6-luna,zh,answer,答案,2,0.143
+openai/gpt-6-luna,zh,composite number,合数,1,0.071
+openai/gpt-6-luna,zh,even number,偶数,1,0.071
+qwen/qwen3.8-flash,en,square,square,20,1.0
+qwen/qwen3.8-flash,en,composite number,composite,19,0.95
+qwen/qwen3.8-flash,en,even number,even,16,0.8
+qwen/qwen3.8-flash,en,natural number,natural,14,0.7
+qwen/qwen3.8-flash,en,integer,integer,9,0.45
+qwen/qwen3.8-flash,en,unlucky,unlucky,4,0.2
+qwen/qwen3.8-flash,en,arithmetic,$2 + 2$,4,0.2
+qwen/qwen3.8-flash,en,cardinal directions,cardinal,3,0.15
+qwen/qwen3.8-flash,en,sequence,before,3,0.15
+qwen/qwen3.8-flash,en,sides,side,2,0.1
+qwen/qwen3.8-flash,en,atomic number,atomic,2,0.1
+qwen/qwen3.8-flash,en,geometry,face,2,0.1
+qwen/qwen3.8-flash,en,stability,stability,2,0.1
+qwen/qwen3.8-flash,en,chemical element,beryllium,2,0.1
+qwen/qwen3.8-flash,en,power,squared,2,0.1
+qwen/qwen3.8-flash,en,counting,number,1,0.05
+qwen/qwen3.8-flash,en,culture,chinese,1,0.05
+qwen/qwen3.8-flash,en,beryllium,beryllium,1,0.05
+qwen/qwen3.8-flash,en,quantity,number,1,0.05
+qwen/qwen3.8-flash,en,binary,100,1,0.05
+qwen/qwen3.8-flash,en,death,sound,1,0.05
+qwen/qwen3.8-flash,en,seasons,season,1,0.05
+qwen/qwen3.8-flash,en,prime number,first,1,0.05
+qwen/qwen3.8-flash,en,number,number,1,0.05
+qwen/qwen3.8-flash,en,divisor,factor,1,0.05
+qwen/qwen3.8-flash,en,tetrahedral number,tetrahedral,1,0.05
+qwen/qwen3.8-flash,en,rational number,numerator,1,0.05
+qwen/qwen3.8-flash,en,table,table,1,0.05
+qwen/qwen3.8-flash,en,triangular number,triangular,1,0.05
+qwen/qwen3.8-flash,en,genetics,number of bases in dna,1,0.05
+qwen/qwen3.8-flash,en,chemistry,valence,1,0.05
+qwen/qwen3.8-flash,en,fibonacci number,fourth,1,0.05
+qwen/qwen3.8-flash,ja,even number,偶数,16,0.8
+qwen/qwen3.8-flash,ja,unlucky,不吉な数字,13,0.65
+qwen/qwen3.8-flash,ja,square,平方数,12,0.6
+qwen/qwen3.8-flash,ja,composite number,合成数,11,0.55
+qwen/qwen3.8-flash,ja,natural number,自然数,6,0.3
+qwen/qwen3.8-flash,ja,arithmetic,計算,3,0.15
+qwen/qwen3.8-flash,ja,neutral,単なる,3,0.15
+qwen/qwen3.8-flash,ja,property,性質,2,0.1
+qwen/qwen3.8-flash,ja,factorization,素因数分解,2,0.1
+qwen/qwen3.8-flash,ja,death,連想させる,2,0.1
+qwen/qwen3.8-flash,ja,number,数字,2,0.1
+qwen/qwen3.8-flash,ja,integer,整数,2,0.1
+qwen/qwen3.8-flash,ja,ordinal number,4番目,2,0.1
+qwen/qwen3.8-flash,ja,taboo,忌み数,2,0.1
+qwen/qwen3.8-flash,ja,symbolism,意味,2,0.1
+qwen/qwen3.8-flash,ja,binary,2進数,1,0.05
+qwen/qwen3.8-flash,ja,radix,4進法,1,0.05
+qwen/qwen3.8-flash,ja,divisor,約数,1,0.05
+qwen/qwen3.8-flash,ja,negative,嫌う,1,0.05
+qwen/qwen3.8-flash,ja,age,年齢,1,0.05
+qwen/qwen3.8-flash,ja,sides,四角形の辺の数,1,0.05
+qwen/qwen3.8-flash,ja,geometry,形,1,0.05
+qwen/qwen3.8-flash,ja,kanji,漢数字,1,0.05
+qwen/qwen3.8-flash,ja,time,4時,1,0.05
+qwen/qwen3.8-flash,ja,homophone,读作,1,0.05
+qwen/qwen3.8-flash,ja,wordplay,四字熟語,1,0.05
+qwen/qwen3.8-flash,ja,guardian,四天王,1,0.05
+qwen/qwen3.8-flash,ja,music,4拍子,1,0.05
+qwen/qwen3.8-flash,ja,cube number,自然数の立方ではない最小の数,1,0.05
+qwen/qwen3.8-flash,ja,position,等級,1,0.05
+qwen/qwen3.8-flash,ja,linguistics,英語,1,0.05
+qwen/qwen3.8-flash,ja,seasons,四季,1,0.05
+qwen/qwen3.8-flash,ja,grouping,よにん,1,0.05
+qwen/qwen3.8-flash,ja,culture,文化的,1,0.05
+qwen/qwen3.8-flash,ja,triangular number,三角形数,1,0.05
+qwen/qwen3.8-flash,ja,digit,数字,1,0.05
+qwen/qwen3.8-flash,ja,perfect number,完全数,1,0.05
+qwen/qwen3.8-flash,ja,fibonacci number,フィボナッチ数,1,0.05
+qwen/qwen3.8-flash,ja,superstition,縁起を担いだ言い方,1,0.05
+qwen/qwen3.8-flash,ko,composite number,합성수,14,0.7
+qwen/qwen3.8-flash,ko,even number,짝수,13,0.65
+qwen/qwen3.8-flash,ko,square,제곱수,13,0.65
+qwen/qwen3.8-flash,ko,unlucky,불길한 숫자,12,0.6
+qwen/qwen3.8-flash,ko,natural number,자연수,11,0.55
+qwen/qwen3.8-flash,ko,sides,개수,4,0.2
+qwen/qwen3.8-flash,ko,seasons,사계절,3,0.15
+qwen/qwen3.8-flash,ko,lucky,행운,3,0.15
+qwen/qwen3.8-flash,ko,quadrilateral,사각형,2,0.1
+qwen/qwen3.8-flash,ko,cardinal directions,사방,2,0.1
+qwen/qwen3.8-flash,ko,integer,정수,2,0.1
+qwen/qwen3.8-flash,ko,neutral,보통,2,0.1
+qwen/qwen3.8-flash,ko,geometry,네 변으로 이루어진 도형,2,0.1
+qwen/qwen3.8-flash,ko,stability,안정감,2,0.1
+qwen/qwen3.8-flash,ko,counting,개수,2,0.1
+qwen/qwen3.8-flash,ko,culture,문화적 의미,2,0.1
+qwen/qwen3.8-flash,ko,divisor,약수,2,0.1
+qwen/qwen3.8-flash,ko,perfect number,완전수,1,0.05
+qwen/qwen3.8-flash,ko,grade,네 번째 순위,1,0.05
+qwen/qwen3.8-flash,ko,architecture,사대문 안,1,0.05
+qwen/qwen3.8-flash,ko,cardinal number,기수,1,0.05
+qwen/qwen3.8-flash,ko,mathematics,수학,1,0.05
+qwen/qwen3.8-flash,ko,information,정보,1,0.05
+qwen/qwen3.8-flash,ko,number,숫자,1,0.05
+qwen/qwen3.8-flash,ko,power of two,2 제곱,1,0.05
+qwen/qwen3.8-flash,ko,atomic number,원자번호,1,0.05
+qwen/qwen3.8-flash,ko,taboo,기피하다,1,0.05
+qwen/qwen3.8-flash,ko,factorization,소인수분해,1,0.05
+qwen/qwen3.8-flash,ko,structure,기본 틀,1,0.05
+qwen/qwen3.8-flash,ko,prime number,소수,1,0.05
+qwen/qwen3.8-flash,ko,symbolism,기호,1,0.05
+qwen/qwen3.8-flash,ko,property,성질,1,0.05
+qwen/qwen3.8-flash,ko,definition,가리키다,1,0.05
+qwen/qwen3.8-flash,ko,metaphor,비유,1,0.05
+qwen/qwen3.8-flash,zh,composite number,合数,19,0.95
+qwen/qwen3.8-flash,zh,square,平方,16,0.8
+qwen/qwen3.8-flash,zh,natural number,自然数,16,0.8
+qwen/qwen3.8-flash,zh,even number,偶数,14,0.7
+qwen/qwen3.8-flash,zh,unlucky,不吉利,9,0.45
+qwen/qwen3.8-flash,zh,integer,整数,5,0.25
+qwen/qwen3.8-flash,zh,death,死,5,0.25
+qwen/qwen3.8-flash,zh,geometry,角,4,0.2
+qwen/qwen3.8-flash,zh,music,fa,4,0.2
+qwen/qwen3.8-flash,zh,homophone,谐音,4,0.2
+qwen/qwen3.8-flash,zh,stability,稳定,3,0.15
+qwen/qwen3.8-flash,zh,sequence,介于,3,0.15
+qwen/qwen3.8-flash,zh,chemical element,碳,3,0.15
+qwen/qwen3.8-flash,zh,seasons,四季,3,0.15
+qwen/qwen3.8-flash,zh,taboo,忌讳,3,0.15
+qwen/qwen3.8-flash,zh,sides,边,3,0.15
+qwen/qwen3.8-flash,zh,cardinal directions,四方,2,0.1
+qwen/qwen3.8-flash,zh,beryllium,铍,2,0.1
+qwen/qwen3.8-flash,zh,chemistry,四价元素,2,0.1
+qwen/qwen3.8-flash,zh,tetrahedron,四面体,2,0.1
+qwen/qwen3.8-flash,zh,quadrilateral,四边形,2,0.1
+qwen/qwen3.8-flash,zh,wordplay,调侃,2,0.1
+qwen/qwen3.8-flash,zh,divisibility,整除,1,0.05
+qwen/qwen3.8-flash,zh,radix,进制,1,0.05
+qwen/qwen3.8-flash,zh,digit,数字,1,0.05
+qwen/qwen3.8-flash,zh,real number,实数,1,0.05
+qwen/qwen3.8-flash,zh,linguistics,网络用语,1,0.05
+qwen/qwen3.8-flash,zh,rational number,有理数,1,0.05
+qwen/qwen3.8-flash,zh,number,数字,1,0.05
+qwen/qwen3.8-flash,zh,quarter,第四节,1,0.05
+qwen/qwen3.8-flash,zh,negative,负面,1,0.05
+qwen/qwen3.8-flash,zh,symbolism,含义,1,0.05
+qwen/qwen3.8-flash,zh,square root,平方根,1,0.05
+qwen/qwen3.8-flash,zh,multiple,二倍,1,0.05
+qwen/qwen3.8-flash,zh,neutral,普通,1,0.05
+qwen/qwen3.8-flash,zh,dimension,维度,1,0.05
+qwen/qwen3.8-flash,zh,code,代码,1,0.05
+qwen/qwen3.8-flash,zh,meme,数字梗,1,0.05
+qwen/qwen3.8-flash,zh,time,4 点,1,0.05
+qwen/qwen3.8-flash,zh,property,最小,1,0.05
+qwen/qwen3.8-flash,zh,superstition,迷信心理,1,0.05
+qwen/qwen3.8-flash,zh,literature,四大名著,1,0.05
+upstage/solar-mini4,en,even number,even,13,0.765
+upstage/solar-mini4,en,natural number,natural,11,0.647
+upstage/solar-mini4,en,composite number,composite,9,0.529
+upstage/solar-mini4,en,number,number,9,0.529
+upstage/solar-mini4,en,sequence,before,7,0.412
+upstage/solar-mini4,en,square,square,7,0.412
+upstage/solar-mini4,en,quantity,number,5,0.294
+upstage/solar-mini4,en,radix,base,4,0.235
+upstage/solar-mini4,en,linguistics,label,4,0.235
+upstage/solar-mini4,en,integer,integer,3,0.176
+upstage/solar-mini4,en,digit,digit,3,0.176
+upstage/solar-mini4,en,counting,number,2,0.118
+upstage/solar-mini4,en,grouping,grouping,2,0.118
+upstage/solar-mini4,en,roman numeral,iv,2,0.118
+upstage/solar-mini4,en,sides,side,2,0.118
+upstage/solar-mini4,en,age,person's,1,0.059
+upstage/solar-mini4,en,measurement,measurement,1,0.059
+upstage/solar-mini4,en,real number,real number,1,0.059
+upstage/solar-mini4,en,divisibility,divisible by 2,1,0.059
+upstage/solar-mini4,en,arithmetic,$2 + 2$,1,0.059
+upstage/solar-mini4,en,numeral,numeral,1,0.059
+upstage/solar-mini4,en,symbolism,symbolic,1,0.059
+upstage/solar-mini4,en,property,smallest,1,0.059
+upstage/solar-mini4,en,position,position,1,0.059
+upstage/solar-mini4,en,geometry,face,1,0.059
+upstage/solar-mini4,en,quadrilateral,quadrilateral,1,0.059
+upstage/solar-mini4,en,atomic number,atomic,1,0.059
+upstage/solar-mini4,en,binary,100,1,0.059
+upstage/solar-mini4,ja,number,数字,17,0.85
+upstage/solar-mini4,ja,sequence,順序,7,0.35
+upstage/solar-mini4,ja,quantity,数量,6,0.3
+upstage/solar-mini4,ja,symbolism,意味,5,0.25
+upstage/solar-mini4,ja,natural number,自然数,4,0.2
+upstage/solar-mini4,ja,mathematics,数学的,4,0.2
+upstage/solar-mini4,ja,even number,偶数,3,0.15
+upstage/solar-mini4,ja,linguistics,英語,3,0.15
+upstage/solar-mini4,ja,square,平方数,2,0.1
+upstage/solar-mini4,ja,numeral,アラビア数字,2,0.1
+upstage/solar-mini4,ja,kanji,漢数字,2,0.1
+upstage/solar-mini4,ja,position,等級,2,0.1
+upstage/solar-mini4,ja,integer,整数,2,0.1
+upstage/solar-mini4,ja,predecessor,前,2,0.1
+upstage/solar-mini4,ja,successor,次,2,0.1
+upstage/solar-mini4,ja,calendar,4月,2,0.1
+upstage/solar-mini4,ja,arithmetic,計算,2,0.1
+upstage/solar-mini4,ja,multiple,倍数,2,0.1
+upstage/solar-mini4,ja,cardinal directions,四方,1,0.05
+upstage/solar-mini4,ja,composite number,合成数,1,0.05
+upstage/solar-mini4,ja,seasons,四季,1,0.05
+upstage/solar-mini4,ja,proper noun,固有名詞,1,0.05
+upstage/solar-mini4,ja,stage,段階,1,0.05
+upstage/solar-mini4,ja,small number,小さい数,1,0.05
+upstage/solar-mini4,ja,pi,円周率,1,0.05
+upstage/solar-mini4,ja,age,年齢,1,0.05
+upstage/solar-mini4,ja,measurement,4号機,1,0.05
+upstage/solar-mini4,ja,release,第4弾,1,0.05
+upstage/solar-mini4,ja,code,コード,1,0.05
+upstage/solar-mini4,ja,object,物,1,0.05
+upstage/solar-mini4,ja,ordinal number,4番目,1,0.05
+upstage/solar-mini4,ja,person,人,1,0.05
+upstage/solar-mini4,ja,geometry,形,1,0.05
+upstage/solar-mini4,ja,time,4時,1,0.05
+upstage/solar-mini4,ja,application,使い方,1,0.05
+upstage/solar-mini4,ja,technology,プログラミング,1,0.05
+upstage/solar-mini4,ja,format,形式,1,0.05
+upstage/solar-mini4,ja,radix,4進法,1,0.05
+upstage/solar-mini4,ko,number,숫자,17,0.85
+upstage/solar-mini4,ko,natural number,자연수,9,0.45
+upstage/solar-mini4,ko,square,제곱수,9,0.45
+upstage/solar-mini4,ko,sequence,사이,4,0.2
+upstage/solar-mini4,ko,even number,짝수,3,0.15
+upstage/solar-mini4,ko,calendar,4번째 달,3,0.15
+upstage/solar-mini4,ko,linguistics,읽다,2,0.1
+upstage/solar-mini4,ko,comparison,크다,2,0.1
+upstage/solar-mini4,ko,perfect number,완전수,2,0.1
+upstage/solar-mini4,ko,sides,개수,2,0.1
+upstage/solar-mini4,ko,position,위치,2,0.1
+upstage/solar-mini4,ko,ordinal number,네 번째,2,0.1
+upstage/solar-mini4,ko,integer,정수,1,0.05
+upstage/solar-mini4,ko,object,사물,1,0.05
+upstage/solar-mini4,ko,quantity,개수,1,0.05
+upstage/solar-mini4,ko,grouping,가족 수,1,0.05
+upstage/solar-mini4,ko,radix,进制,1,0.05
+upstage/solar-mini4,ko,symbolism,기호,1,0.05
+upstage/solar-mini4,ko,factorization,소인수분해,1,0.05
+upstage/solar-mini4,ko,quadrilateral,사각형,1,0.05
+upstage/solar-mini4,ko,geometry,네 변으로 이루어진 도형,1,0.05
+upstage/solar-mini4,ko,composite number,합성수,1,0.05
+upstage/solar-mini4,ko,counting,개수,1,0.05
+upstage/solar-mini4,ko,numeral,아라비아 숫자,1,0.05
+upstage/solar-mini4,ko,binary,이진수,1,0.05
+upstage/solar-mini4,ko,divisor,약수,1,0.05
+upstage/solar-mini4,ko,time,시간,1,0.05
+upstage/solar-mini4,ko,positive number,양수,1,0.05
+upstage/solar-mini4,zh,natural number,自然数,14,0.737
+upstage/solar-mini4,zh,integer,整数,11,0.579
+upstage/solar-mini4,zh,even number,偶数,10,0.526
+upstage/solar-mini4,zh,composite number,合数,9,0.474
+upstage/solar-mini4,zh,quantity,数量,9,0.474
+upstage/solar-mini4,zh,square,平方,8,0.421
+upstage/solar-mini4,zh,sequence,介于,5,0.263
+upstage/solar-mini4,zh,roman numeral,罗马数字,4,0.211
+upstage/solar-mini4,zh,number,数字,4,0.211
+upstage/solar-mini4,zh,measurement,单位格,4,0.211
+upstage/solar-mini4,zh,binary,二进制,3,0.158
+upstage/solar-mini4,zh,ordinal number,第四个,3,0.158
+upstage/solar-mini4,zh,kanji,汉字,2,0.105
+upstage/solar-mini4,zh,rational number,有理数,2,0.105
+upstage/solar-mini4,zh,digit,数字,2,0.105
+upstage/solar-mini4,zh,linguistics,网络用语,2,0.105
+upstage/solar-mini4,zh,square root,平方根,2,0.105
+upstage/solar-mini4,zh,foundation,基础,1,0.053
+upstage/solar-mini4,zh,geometry,角,1,0.053
+upstage/solar-mini4,zh,divisor,因数,1,0.053
+upstage/solar-mini4,zh,age,4 岁,1,0.053
+upstage/solar-mini4,zh,time,4 点,1,0.053
+upstage/solar-mini4,zh,real number,实数,1,0.053
+upstage/solar-mini4,zh,seasons,四季,1,0.053
+upstage/solar-mini4,zh,calendar,4 月,1,0.053
+upstage/solar-mini4,zh,radix,进制,1,0.053
+upstage/solar-mini4,zh,prime number,质数,1,0.053
+upstage/solar-mini4,zh,arithmetic,四的平方是 16,1,0.053
+upstage/solar-mini4,zh,grouping,四个人,1,0.053
+upstage/solar-mini4,zh,object,物体,1,0.053
+upstage/solar-mini4,zh,event,一个事件,1,0.053
+upstage/solar-mini4,zh,person,一个人,1,0.053
+upstage/solar-mini4,zh,dimension,维度,1,0.053
+upstage/solar-mini4,zh,code,代码,1,0.053
+upstage/solar-mini4,zh,homophone,谐音,1,0.053
+upstage/solar-mini4,zh,mathematics,数学,1,0.053
+upstage/solar-mini4,zh,unlucky,不吉利,1,0.053
+upstage/solar-mini4,zh,structure,结构,1,0.053
+upstage/solar-mini4,zh,stability,稳定,1,0.053
+upstage/solar-mini4,zh,cardinal directions,四方,1,0.053

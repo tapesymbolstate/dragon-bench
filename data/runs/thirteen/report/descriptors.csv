@@ -1,0 +1,783 @@
+model,lang,concept,top_native_lemma,responses,share_of_subject_sense
+anthropic/claude-haiku-4.5,en,unlucky,unlucky,19,0.95
+anthropic/claude-haiku-4.5,en,prime number,prime,18,0.9
+anthropic/claude-haiku-4.5,en,odd number,odd,18,0.9
+anthropic/claude-haiku-4.5,en,lucky,lucky,10,0.5
+anthropic/claude-haiku-4.5,en,fibonacci sequence,fibonacci,9,0.45
+anthropic/claude-haiku-4.5,en,natural number,natural,8,0.4
+anthropic/claude-haiku-4.5,en,lunar cycle,lunar,4,0.2
+anthropic/claude-haiku-4.5,en,atomic number,atomic,3,0.15
+anthropic/claude-haiku-4.5,en,thirteen colonies,original,3,0.15
+anthropic/claude-haiku-4.5,en,age,age,3,0.15
+anthropic/claude-haiku-4.5,en,death,death,2,0.1
+anthropic/claude-haiku-4.5,en,integer,integer,2,0.1
+anthropic/claude-haiku-4.5,en,culture,culture,2,0.1
+anthropic/claude-haiku-4.5,en,dozen,baker's,2,0.1
+anthropic/claude-haiku-4.5,en,comparison,greater,2,0.1
+anthropic/claude-haiku-4.5,en,superstition,superstition,2,0.1
+anthropic/claude-haiku-4.5,en,tarot,tarot,2,0.1
+anthropic/claude-haiku-4.5,en,numerology,numerology,2,0.1
+anthropic/claude-haiku-4.5,en,adolescence,teenager,1,0.05
+anthropic/claude-haiku-4.5,en,divisor,divisor,1,0.05
+anthropic/claude-haiku-4.5,en,property,property,1,0.05
+anthropic/claude-haiku-4.5,en,numeral,xiii,1,0.05
+anthropic/claude-haiku-4.5,en,number,number,1,0.05
+anthropic/claude-haiku-4.5,en,astrology,number,1,0.05
+anthropic/claude-haiku-4.5,en,transformation,transformation,1,0.05
+anthropic/claude-haiku-4.5,en,quantity,number,1,0.05
+anthropic/claude-haiku-4.5,en,sports,jersey,1,0.05
+anthropic/claude-haiku-4.5,en,fear,triskaidekaphobia,1,0.05
+anthropic/claude-haiku-4.5,en,history,original,1,0.05
+anthropic/claude-haiku-4.5,en,bakers dozen,baker's,1,0.05
+anthropic/claude-haiku-4.5,en,successor,14,1,0.05
+anthropic/claude-haiku-4.5,en,card,high,1,0.05
+anthropic/claude-haiku-4.5,en,symbolism,significant,1,0.05
+anthropic/claude-haiku-4.5,ja,prime number,素数,18,0.9
+anthropic/claude-haiku-4.5,ja,unlucky,不吉な数,15,0.75
+anthropic/claude-haiku-4.5,ja,odd number,奇数,8,0.4
+anthropic/claude-haiku-4.5,ja,natural number,自然数,6,0.3
+anthropic/claude-haiku-4.5,ja,card,k,6,0.3
+anthropic/claude-haiku-4.5,ja,number,数字,4,0.2
+anthropic/claude-haiku-4.5,ja,neutral,13は,4,0.2
+anthropic/claude-haiku-4.5,ja,superstition,迷信,3,0.15
+anthropic/claude-haiku-4.5,ja,successor,12の次,3,0.15
+anthropic/claude-haiku-4.5,ja,property,性質,3,0.15
+anthropic/claude-haiku-4.5,ja,time,午後1時,3,0.15
+anthropic/claude-haiku-4.5,ja,radix,十三進法,2,0.1
+anthropic/claude-haiku-4.5,ja,ordinal number,thirteenth,2,0.1
+anthropic/claude-haiku-4.5,ja,binary,1101,2,0.1
+anthropic/claude-haiku-4.5,ja,fibonacci sequence,フィボナッチ数,2,0.1
+anthropic/claude-haiku-4.5,ja,astrology,占星術,2,0.1
+anthropic/claude-haiku-4.5,ja,predecessor,14の前,2,0.1
+anthropic/claude-haiku-4.5,ja,divisor,約数,1,0.05
+anthropic/claude-haiku-4.5,ja,lucky,ラッキーナンバー,1,0.05
+anthropic/claude-haiku-4.5,ja,bakers dozen,1ダース+1,1,0.05
+anthropic/claude-haiku-4.5,ja,friday the 13th,13日の金曜日,1,0.05
+anthropic/claude-haiku-4.5,ja,numeral,アラビア数字,1,0.05
+anthropic/claude-haiku-4.5,ja,decimal,10進数,1,0.05
+anthropic/claude-haiku-4.5,ja,integer,整数,1,0.05
+anthropic/claude-haiku-4.5,ja,christianity,最後,1,0.05
+anthropic/claude-haiku-4.5,ja,calendar,13日,1,0.05
+anthropic/claude-haiku-4.5,ja,language,訓読み,1,0.05
+anthropic/claude-haiku-4.5,ja,education,13ページ,1,0.05
+anthropic/claude-haiku-4.5,ja,omen,縁起,1,0.05
+anthropic/claude-haiku-4.5,ja,culture,文化,1,0.05
+anthropic/claude-haiku-4.5,ja,death,死神,1,0.05
+anthropic/claude-haiku-4.5,ja,comparison,間,1,0.05
+anthropic/claude-haiku-4.5,ja,dozen,ダース,1,0.05
+anthropic/claude-haiku-4.5,ja,beginning,始まり,1,0.05
+anthropic/claude-haiku-4.5,ja,two-digit number,最小の2桁の数,1,0.05
+anthropic/claude-haiku-4.5,ko,prime number,소수,20,1.0
+anthropic/claude-haiku-4.5,ko,unlucky,불길한 숫자,20,1.0
+anthropic/claude-haiku-4.5,ko,natural number,자연수,13,0.65
+anthropic/claude-haiku-4.5,ko,odd number,홀수,7,0.35
+anthropic/claude-haiku-4.5,ko,numeral,xiii,6,0.3
+anthropic/claude-haiku-4.5,ko,number,숫자,6,0.3
+anthropic/claude-haiku-4.5,ko,friday the 13th,13일의 금요일,5,0.25
+anthropic/claude-haiku-4.5,ko,symbolism,의미,3,0.15
+anthropic/claude-haiku-4.5,ko,ordinal number,13번째,3,0.15
+anthropic/claude-haiku-4.5,ko,christianity,최후의 만찬,2,0.1
+anthropic/claude-haiku-4.5,ko,binary,2진법에서는 `1101`,2,0.1
+anthropic/claude-haiku-4.5,ko,divisor,약수,2,0.1
+anthropic/claude-haiku-4.5,ko,card,에이스를 상징하는 번호,2,0.1
+anthropic/claude-haiku-4.5,ko,decimal,십진법,2,0.1
+anthropic/claude-haiku-4.5,ko,taboo,금기,2,0.1
+anthropic/claude-haiku-4.5,ko,superstition,미신,2,0.1
+anthropic/claude-haiku-4.5,ko,predecessor,12 다음,1,0.05
+anthropic/claude-haiku-4.5,ko,positive,거듭제곱,1,0.05
+anthropic/claude-haiku-4.5,ko,successor,크다,1,0.05
+anthropic/claude-haiku-4.5,ko,meaningless,특별한 의미가 없는 경우,1,0.05
+anthropic/claude-haiku-4.5,ko,time,오후,1,0.05
+anthropic/claude-haiku-4.5,ko,astrology,뱀주인자리,1,0.05
+anthropic/claude-haiku-4.5,ko,neutral,주제,1,0.05
+anthropic/claude-haiku-4.5,ko,fibonacci sequence,피보나치 수열,1,0.05
+anthropic/claude-haiku-4.5,ko,language,영어,1,0.05
+anthropic/claude-haiku-4.5,ko,calendar,날짜,1,0.05
+anthropic/claude-haiku-4.5,ko,lucky,행운의 숫자,1,0.05
+anthropic/claude-haiku-4.5,ko,two-digit number,두 자리 수,1,0.05
+anthropic/claude-haiku-4.5,ko,sequence,다음,1,0.05
+anthropic/claude-haiku-4.5,ko,religion,종교적,1,0.05
+anthropic/claude-haiku-4.5,ko,negative,나쁜 기운을 상징,1,0.05
+anthropic/claude-haiku-4.5,zh,prime number,质数,16,0.842
+anthropic/claude-haiku-4.5,zh,natural number,自然数,12,0.632
+anthropic/claude-haiku-4.5,zh,unlucky,不吉利的数字,10,0.526
+anthropic/claude-haiku-4.5,zh,odd number,奇数,9,0.474
+anthropic/claude-haiku-4.5,zh,number,数字,5,0.263
+anthropic/claude-haiku-4.5,zh,numeral,阿拉伯数字,4,0.211
+anthropic/claude-haiku-4.5,zh,two-digit number,两位数,4,0.211
+anthropic/claude-haiku-4.5,zh,integer,整数,3,0.158
+anthropic/claude-haiku-4.5,zh,calendar,日期,3,0.158
+anthropic/claude-haiku-4.5,zh,mathematics,数学,3,0.158
+anthropic/claude-haiku-4.5,zh,superstition,迷信,3,0.158
+anthropic/claude-haiku-4.5,zh,friday the 13th,黑色星期五,2,0.105
+anthropic/claude-haiku-4.5,zh,culture,文化意义,2,0.105
+anthropic/claude-haiku-4.5,zh,time,13点,2,0.105
+anthropic/claude-haiku-4.5,zh,digit,阿拉伯数字,1,0.053
+anthropic/claude-haiku-4.5,zh,sequence,卢卡斯数列,1,0.053
+anthropic/claude-haiku-4.5,zh,property,数学性质,1,0.053
+anthropic/claude-haiku-4.5,zh,divisor,整除,1,0.053
+anthropic/claude-haiku-4.5,zh,christianity,基督教文化,1,0.053
+anthropic/claude-haiku-4.5,zh,pop culture,某个事件或产品,1,0.053
+anthropic/claude-haiku-4.5,zh,lucky,幸运数字,1,0.053
+anthropic/claude-haiku-4.5,zh,decimal,十进制,1,0.053
+anthropic/claude-haiku-4.5,zh,radix,十四进制,1,0.053
+anthropic/claude-haiku-4.5,zh,card,扑克牌,1,0.053
+deepseek/deepseek-v4.1-flash,en,unlucky,unlucky,18,1.0
+deepseek/deepseek-v4.1-flash,en,prime number,prime,17,0.944
+deepseek/deepseek-v4.1-flash,en,odd number,odd,9,0.5
+deepseek/deepseek-v4.1-flash,en,age,age,9,0.5
+deepseek/deepseek-v4.1-flash,en,quantity,number,4,0.222
+deepseek/deepseek-v4.1-flash,en,numeral,xiii,2,0.111
+deepseek/deepseek-v4.1-flash,en,lucky,lucky,2,0.111
+deepseek/deepseek-v4.1-flash,en,sports,jersey,2,0.111
+deepseek/deepseek-v4.1-flash,en,lunar cycle,lunar,2,0.111
+deepseek/deepseek-v4.1-flash,en,fear,triskaidekaphobia,2,0.111
+deepseek/deepseek-v4.1-flash,en,card,high,2,0.111
+deepseek/deepseek-v4.1-flash,en,sequence,before,2,0.111
+deepseek/deepseek-v4.1-flash,en,adolescence,teenager,2,0.111
+deepseek/deepseek-v4.1-flash,en,natural number,natural,2,0.111
+deepseek/deepseek-v4.1-flash,en,atomic number,atomic,2,0.111
+deepseek/deepseek-v4.1-flash,en,dozen,baker's,2,0.111
+deepseek/deepseek-v4.1-flash,en,bakers dozen,baker's,1,0.056
+deepseek/deepseek-v4.1-flash,en,integer,integer,1,0.056
+deepseek/deepseek-v4.1-flash,en,binary,1101,1,0.056
+deepseek/deepseek-v4.1-flash,en,pop culture,album,1,0.056
+deepseek/deepseek-v4.1-flash,en,calendar,13th,1,0.056
+deepseek/deepseek-v4.1-flash,en,history,original,1,0.056
+deepseek/deepseek-v4.1-flash,en,cardinal number,number,1,0.056
+deepseek/deepseek-v4.1-flash,en,mathematics,sum,1,0.056
+deepseek/deepseek-v4.1-flash,en,fibonacci sequence,fibonacci,1,0.056
+deepseek/deepseek-v4.1-flash,en,beginning,beginning,1,0.056
+deepseek/deepseek-v4.1-flash,en,superstition,superstition,1,0.056
+deepseek/deepseek-v4.1-flash,ja,prime number,素数,14,0.778
+deepseek/deepseek-v4.1-flash,ja,odd number,奇数,11,0.611
+deepseek/deepseek-v4.1-flash,ja,unlucky,不吉な数,10,0.556
+deepseek/deepseek-v4.1-flash,ja,language,訓読み,4,0.222
+deepseek/deepseek-v4.1-flash,ja,lucky,ラッキーナンバー,3,0.167
+deepseek/deepseek-v4.1-flash,ja,neutral,13は,2,0.111
+deepseek/deepseek-v4.1-flash,ja,number,数字,2,0.111
+deepseek/deepseek-v4.1-flash,ja,symbolism,特別,1,0.056
+deepseek/deepseek-v4.1-flash,ko,prime number,소수,16,0.941
+deepseek/deepseek-v4.1-flash,ko,unlucky,불길한 숫자,10,0.588
+deepseek/deepseek-v4.1-flash,ko,odd number,홀수,9,0.529
+deepseek/deepseek-v4.1-flash,ko,lucky,행운의 숫자,4,0.235
+deepseek/deepseek-v4.1-flash,ko,natural number,자연수,4,0.235
+deepseek/deepseek-v4.1-flash,ko,numeral,xiii,3,0.176
+deepseek/deepseek-v4.1-flash,ko,even number,짝수,3,0.176
+deepseek/deepseek-v4.1-flash,ko,number,숫자,3,0.176
+deepseek/deepseek-v4.1-flash,ko,age,나이,2,0.118
+deepseek/deepseek-v4.1-flash,ko,language,영어,1,0.059
+deepseek/deepseek-v4.1-flash,ko,divisor,약수,1,0.059
+deepseek/deepseek-v4.1-flash,ko,neutral,주제,1,0.059
+deepseek/deepseek-v4.1-flash,ko,friday the 13th,13일의 금요일,1,0.059
+deepseek/deepseek-v4.1-flash,ko,fibonacci sequence,피보나치 수열,1,0.059
+deepseek/deepseek-v4.1-flash,zh,unlucky,不吉利的数字,18,0.9
+deepseek/deepseek-v4.1-flash,zh,prime number,质数,15,0.75
+deepseek/deepseek-v4.1-flash,zh,odd number,奇数,10,0.5
+deepseek/deepseek-v4.1-flash,zh,number,数字,8,0.4
+deepseek/deepseek-v4.1-flash,zh,age,一生,7,0.35
+deepseek/deepseek-v4.1-flash,zh,comparison,介于,4,0.2
+deepseek/deepseek-v4.1-flash,zh,fibonacci sequence,斐波那契数列,4,0.2
+deepseek/deepseek-v4.1-flash,zh,foolish,傻,3,0.15
+deepseek/deepseek-v4.1-flash,zh,natural number,自然数,3,0.15
+deepseek/deepseek-v4.1-flash,zh,language,普通话,3,0.15
+deepseek/deepseek-v4.1-flash,zh,life,一生,2,0.1
+deepseek/deepseek-v4.1-flash,zh,ordinal number,第,2,0.1
+deepseek/deepseek-v4.1-flash,zh,superstition,迷信,2,0.1
+deepseek/deepseek-v4.1-flash,zh,quantity,数量,2,0.1
+deepseek/deepseek-v4.1-flash,zh,calendar,日期,2,0.1
+deepseek/deepseek-v4.1-flash,zh,lucky,幸运数字,2,0.1
+deepseek/deepseek-v4.1-flash,zh,fear,十三恐惧症,2,0.1
+deepseek/deepseek-v4.1-flash,zh,time,13点,2,0.1
+deepseek/deepseek-v4.1-flash,zh,derogatory,贬义,2,0.1
+deepseek/deepseek-v4.1-flash,zh,negative,负面含义,1,0.05
+deepseek/deepseek-v4.1-flash,zh,symbolism,象征意义,1,0.05
+deepseek/deepseek-v4.1-flash,zh,numeral,阿拉伯数字,1,0.05
+deepseek/deepseek-v4.1-flash,zh,game,游戏,1,0.05
+deepseek/deepseek-v4.1-flash,zh,neutral,中性,1,0.05
+deepseek/deepseek-v4.1-flash,zh,decimal,十进制,1,0.05
+deepseek/deepseek-v4.1-flash,zh,internet,网名,1,0.05
+deepseek/deepseek-v4.1-flash,zh,confused,拎不清,1,0.05
+deepseek/deepseek-v4.1-flash,zh,transportation,13 路公交,1,0.05
+deepseek/deepseek-v4.1-flash,zh,aluminum,铝,1,0.05
+deepseek/deepseek-v4.1-flash,zh,education,初中生,1,0.05
+deepseek/deepseek-v4.1-flash,zh,two-digit number,两位数,1,0.05
+google/gemini-3.5-flash-lite,en,prime number,prime,20,1.0
+google/gemini-3.5-flash-lite,en,unlucky,unlucky,20,1.0
+google/gemini-3.5-flash-lite,en,adolescence,teenager,11,0.55
+google/gemini-3.5-flash-lite,en,fear,triskaidekaphobia,11,0.55
+google/gemini-3.5-flash-lite,en,odd number,odd,11,0.55
+google/gemini-3.5-flash-lite,en,fibonacci sequence,fibonacci,10,0.5
+google/gemini-3.5-flash-lite,en,lucky,lucky,9,0.45
+google/gemini-3.5-flash-lite,en,age,age,7,0.35
+google/gemini-3.5-flash-lite,en,property,property,6,0.3
+google/gemini-3.5-flash-lite,en,thirteen colonies,original,3,0.15
+google/gemini-3.5-flash-lite,en,adulthood,adulthood,3,0.15
+google/gemini-3.5-flash-lite,en,atomic number,atomic,3,0.15
+google/gemini-3.5-flash-lite,en,aluminum,aluminum,3,0.15
+google/gemini-3.5-flash-lite,en,sequence,before,2,0.1
+google/gemini-3.5-flash-lite,en,transition,transition,2,0.1
+google/gemini-3.5-flash-lite,en,integer,integer,2,0.1
+google/gemini-3.5-flash-lite,en,superstition,superstition,2,0.1
+google/gemini-3.5-flash-lite,en,quantity,number,2,0.1
+google/gemini-3.5-flash-lite,en,beginning,beginning,2,0.1
+google/gemini-3.5-flash-lite,en,bakers dozen,baker's,1,0.05
+google/gemini-3.5-flash-lite,en,time,1:00,1,0.05
+google/gemini-3.5-flash-lite,en,culture,culture,1,0.05
+google/gemini-3.5-flash-lite,en,ordinal number,13th,1,0.05
+google/gemini-3.5-flash-lite,en,calendar,13th,1,0.05
+google/gemini-3.5-flash-lite,en,sports,jersey,1,0.05
+google/gemini-3.5-flash-lite,en,number,number,1,0.05
+google/gemini-3.5-flash-lite,en,happy number,happy,1,0.05
+google/gemini-3.5-flash-lite,ja,prime number,素数,20,1.0
+google/gemini-3.5-flash-lite,ja,unlucky,不吉な数,20,1.0
+google/gemini-3.5-flash-lite,ja,number,数字,17,0.85
+google/gemini-3.5-flash-lite,ja,lucky,ラッキーナンバー,13,0.65
+google/gemini-3.5-flash-lite,ja,odd number,奇数,12,0.6
+google/gemini-3.5-flash-lite,ja,lunar cycle,満月,8,0.4
+google/gemini-3.5-flash-lite,ja,deficient number,不足数,8,0.4
+google/gemini-3.5-flash-lite,ja,sacred,聖なる数,6,0.3
+google/gemini-3.5-flash-lite,ja,calendar,13日,5,0.25
+google/gemini-3.5-flash-lite,ja,fibonacci sequence,フィボナッチ数,4,0.2
+google/gemini-3.5-flash-lite,ja,card,k,4,0.2
+google/gemini-3.5-flash-lite,ja,atomic number,原子番号,4,0.2
+google/gemini-3.5-flash-lite,ja,symbolism,特別,2,0.1
+google/gemini-3.5-flash-lite,ja,cycle,サイクル,1,0.05
+google/gemini-3.5-flash-lite,ja,astrology,占星術,1,0.05
+google/gemini-3.5-flash-lite,ja,time,午後1時,1,0.05
+google/gemini-3.5-flash-lite,ja,death,死神,1,0.05
+google/gemini-3.5-flash-lite,ja,predecessor,14の前,1,0.05
+google/gemini-3.5-flash-lite,ja,successor,12の次,1,0.05
+google/gemini-3.5-flash-lite,ko,prime number,소수,19,0.95
+google/gemini-3.5-flash-lite,ko,unlucky,불길한 숫자,19,0.95
+google/gemini-3.5-flash-lite,ko,number,숫자,14,0.7
+google/gemini-3.5-flash-lite,ko,sacred,신성한 숫자,11,0.55
+google/gemini-3.5-flash-lite,ko,adolescence,청소년,11,0.55
+google/gemini-3.5-flash-lite,ko,lucky,행운의 숫자,6,0.3
+google/gemini-3.5-flash-lite,ko,age,나이,4,0.2
+google/gemini-3.5-flash-lite,ko,superstition,미신,4,0.2
+google/gemini-3.5-flash-lite,ko,natural number,자연수,3,0.15
+google/gemini-3.5-flash-lite,ko,education,중학교 1학년,3,0.15
+google/gemini-3.5-flash-lite,ko,ordinal number,13번째,2,0.1
+google/gemini-3.5-flash-lite,ko,odd number,홀수,2,0.1
+google/gemini-3.5-flash-lite,ko,calendar,날짜,2,0.1
+google/gemini-3.5-flash-lite,ko,sequence,다음,1,0.05
+google/gemini-3.5-flash-lite,ko,thirteen colonies,아메리카 13개 식민지,1,0.05
+google/gemini-3.5-flash-lite,ko,property,특징,1,0.05
+google/gemini-3.5-flash-lite,ko,individuality,개성,1,0.05
+google/gemini-3.5-flash-lite,ko,card,에이스를 상징하는 번호,1,0.05
+google/gemini-3.5-flash-lite,ko,transition,시기,1,0.05
+google/gemini-3.5-flash-lite,ko,sports,점수,1,0.05
+google/gemini-3.5-flash-lite,zh,prime number,质数,20,1.0
+google/gemini-3.5-flash-lite,zh,unlucky,不吉利的数字,20,1.0
+google/gemini-3.5-flash-lite,zh,odd number,奇数,18,0.9
+google/gemini-3.5-flash-lite,zh,lunar cycle,闰月,13,0.65
+google/gemini-3.5-flash-lite,zh,aluminum,铝,11,0.55
+google/gemini-3.5-flash-lite,zh,atomic number,原子序数,11,0.55
+google/gemini-3.5-flash-lite,zh,lucky,幸运数字,7,0.35
+google/gemini-3.5-flash-lite,zh,hexadecimal,d,6,0.3
+google/gemini-3.5-flash-lite,zh,derogatory,贬义,5,0.25
+google/gemini-3.5-flash-lite,zh,fibonacci sequence,斐波那契数列,5,0.25
+google/gemini-3.5-flash-lite,zh,foolish,傻,5,0.25
+google/gemini-3.5-flash-lite,zh,positive,积极的含义,4,0.2
+google/gemini-3.5-flash-lite,zh,isotope,碳-13,4,0.2
+google/gemini-3.5-flash-lite,zh,neutral,中性,3,0.15
+google/gemini-3.5-flash-lite,zh,natural number,自然数,3,0.15
+google/gemini-3.5-flash-lite,zh,language,普通话,3,0.15
+google/gemini-3.5-flash-lite,zh,superstition,迷信,3,0.15
+google/gemini-3.5-flash-lite,zh,rebellious,叛逆,3,0.15
+google/gemini-3.5-flash-lite,zh,prosperous,实生,3,0.15
+google/gemini-3.5-flash-lite,zh,two-digit number,两位数,2,0.1
+google/gemini-3.5-flash-lite,zh,mythology,北欧神话,2,0.1
+google/gemini-3.5-flash-lite,zh,christianity,基督教文化,2,0.1
+google/gemini-3.5-flash-lite,zh,negative,负面含义,2,0.1
+google/gemini-3.5-flash-lite,zh,individuality,个性,2,0.1
+google/gemini-3.5-flash-lite,zh,sacred,神圣的数字,2,0.1
+google/gemini-3.5-flash-lite,zh,property,数学性质,1,0.05
+google/gemini-3.5-flash-lite,zh,science,科学领域,1,0.05
+google/gemini-3.5-flash-lite,zh,culture,文化意义,1,0.05
+google/gemini-3.5-flash-lite,zh,sports,第13号运动员或球员,1,0.05
+google/gemini-3.5-flash-lite,zh,growth,实生,1,0.05
+google/gemini-3.5-flash-lite,zh,age,一生,1,0.05
+google/gemini-3.5-flash-lite,zh,internet slang,网络含义,1,0.05
+google/gemini-3.5-flash-lite,zh,fertile,实生,1,0.05
+google/gemini-3.5-flash-lite,zh,naive,憨直,1,0.05
+google/gemini-3.5-flash-lite,zh,happy number,快乐数,1,0.05
+google/gemini-3.5-flash-lite,zh,calendar,日期,1,0.05
+google/gemini-3.5-flash-lite,zh,friday the 13th,黑色星期五,1,0.05
+google/gemini-3.5-flash-lite,zh,everyday object,依伞,1,0.05
+google/gemini-3.5-flash-lite,zh,life,一生,1,0.05
+google/gemini-3.5-flash-lite,zh,astrology,星座,1,0.05
+meta-llama/llama-4-maverick,en,prime number,prime,19,1.0
+meta-llama/llama-4-maverick,en,unlucky,unlucky,11,0.579
+meta-llama/llama-4-maverick,en,odd number,odd,9,0.474
+meta-llama/llama-4-maverick,en,fibonacci sequence,fibonacci,8,0.421
+meta-llama/llama-4-maverick,en,fear,triskaidekaphobia,7,0.368
+meta-llama/llama-4-maverick,en,lucky,lucky,5,0.263
+meta-llama/llama-4-maverick,en,natural number,natural,3,0.158
+meta-llama/llama-4-maverick,en,bakers dozen,baker's,2,0.105
+meta-llama/llama-4-maverick,en,symbolism,significant,2,0.105
+meta-llama/llama-4-maverick,en,positive,positive,2,0.105
+meta-llama/llama-4-maverick,en,divisor,divisor,2,0.105
+meta-llama/llama-4-maverick,en,neutral,fact,2,0.105
+meta-llama/llama-4-maverick,en,adolescence,teenager,2,0.105
+meta-llama/llama-4-maverick,en,property,property,2,0.105
+meta-llama/llama-4-maverick,en,sacred,sacred,1,0.053
+meta-llama/llama-4-maverick,en,dozen,baker's,1,0.053
+meta-llama/llama-4-maverick,en,mathematics,sum,1,0.053
+meta-llama/llama-4-maverick,en,comparison,greater,1,0.053
+meta-llama/llama-4-maverick,en,incomplete,incomplete,1,0.053
+meta-llama/llama-4-maverick,en,integer,integer,1,0.053
+meta-llama/llama-4-maverick,ja,natural number,自然数,15,0.75
+meta-llama/llama-4-maverick,ja,successor,12の次,15,0.75
+meta-llama/llama-4-maverick,ja,integer,整数,14,0.7
+meta-llama/llama-4-maverick,ja,predecessor,14の前,14,0.7
+meta-llama/llama-4-maverick,ja,prime number,素数,11,0.55
+meta-llama/llama-4-maverick,ja,unlucky,不吉な数,6,0.3
+meta-llama/llama-4-maverick,ja,ordinal number,thirteenth,5,0.25
+meta-llama/llama-4-maverick,ja,fibonacci sequence,フィボナッチ数,4,0.2
+meta-llama/llama-4-maverick,ja,mathematics,計算,4,0.2
+meta-llama/llama-4-maverick,ja,adolescence,ティーンエイジャー,3,0.15
+meta-llama/llama-4-maverick,ja,language,訓読み,3,0.15
+meta-llama/llama-4-maverick,ja,number,数字,3,0.15
+meta-llama/llama-4-maverick,ja,divisor,約数,2,0.1
+meta-llama/llama-4-maverick,ja,age,年齢,2,0.1
+meta-llama/llama-4-maverick,ja,figurate number,三角数,2,0.1
+meta-llama/llama-4-maverick,ja,lucky,ラッキーナンバー,1,0.05
+meta-llama/llama-4-maverick,ja,taboo,忌み数,1,0.05
+meta-llama/llama-4-maverick,ja,culture,文化,1,0.05
+meta-llama/llama-4-maverick,ja,two-digit number,最小の2桁の数,1,0.05
+meta-llama/llama-4-maverick,ja,sequence,順番,1,0.05
+meta-llama/llama-4-maverick,ja,beginning,始まり,1,0.05
+meta-llama/llama-4-maverick,ja,neutral,13は,1,0.05
+meta-llama/llama-4-maverick,ja,milestone,節目,1,0.05
+meta-llama/llama-4-maverick,ko,natural number,자연수,15,0.75
+meta-llama/llama-4-maverick,ko,prime number,소수,14,0.7
+meta-llama/llama-4-maverick,ko,unlucky,불길한 숫자,12,0.6
+meta-llama/llama-4-maverick,ko,fibonacci sequence,피보나치 수열,8,0.4
+meta-llama/llama-4-maverick,ko,comparison,크다,7,0.35
+meta-llama/llama-4-maverick,ko,composite number,합성수,4,0.2
+meta-llama/llama-4-maverick,ko,divisor,약수,4,0.2
+meta-llama/llama-4-maverick,ko,lucky,행운의 숫자,4,0.2
+meta-llama/llama-4-maverick,ko,number,숫자,3,0.15
+meta-llama/llama-4-maverick,ko,mathematics,계산,2,0.1
+meta-llama/llama-4-maverick,ko,odd number,홀수,2,0.1
+meta-llama/llama-4-maverick,ko,culture,문화적,2,0.1
+meta-llama/llama-4-maverick,ko,meaningless,특별한 의미가 없는 경우,1,0.05
+meta-llama/llama-4-maverick,ko,card,에이스를 상징하는 번호,1,0.05
+meta-llama/llama-4-maverick,ko,monster,괴수,1,0.05
+meta-llama/llama-4-maverick,ko,successor,크다,1,0.05
+meta-llama/llama-4-maverick,ko,cardinal number,기수,1,0.05
+meta-llama/llama-4-maverick,ko,friday the 13th,13일의 금요일,1,0.05
+meta-llama/llama-4-maverick,ko,calendar,날짜,1,0.05
+meta-llama/llama-4-maverick,ko,symbolism,의미,1,0.05
+meta-llama/llama-4-maverick,ko,quantity,개수,1,0.05
+meta-llama/llama-4-maverick,ko,atomic number,원자 번호,1,0.05
+meta-llama/llama-4-maverick,zh,prime number,质数,19,1.0
+meta-llama/llama-4-maverick,zh,unlucky,不吉利的数字,12,0.632
+meta-llama/llama-4-maverick,zh,number,数字,8,0.421
+meta-llama/llama-4-maverick,zh,fibonacci sequence,斐波那契数列,6,0.316
+meta-llama/llama-4-maverick,zh,fear,十三恐惧症,5,0.263
+meta-llama/llama-4-maverick,zh,odd number,奇数,3,0.158
+meta-llama/llama-4-maverick,zh,foolish,傻,2,0.105
+meta-llama/llama-4-maverick,zh,natural number,自然数,2,0.105
+meta-llama/llama-4-maverick,zh,beginning,新,2,0.105
+meta-llama/llama-4-maverick,zh,neutral,中性,2,0.105
+meta-llama/llama-4-maverick,zh,adolescence,青少年,1,0.053
+meta-llama/llama-4-maverick,zh,quirky,搞怪,1,0.053
+meta-llama/llama-4-maverick,zh,abnormal,有点不正常,1,0.053
+meta-llama/llama-4-maverick,zh,aluminum,铝,1,0.053
+meta-llama/llama-4-maverick,zh,individuality,个性,1,0.053
+meta-llama/llama-4-maverick,zh,lucky,幸运数字,1,0.053
+meta-llama/llama-4-maverick,zh,unstable,不太稳重的,1,0.053
+mistralai/mistral-small-2603,en,prime number,prime,11,0.688
+mistralai/mistral-small-2603,en,natural number,natural,6,0.375
+mistralai/mistral-small-2603,en,unlucky,unlucky,5,0.312
+mistralai/mistral-small-2603,en,symbolism,significant,4,0.25
+mistralai/mistral-small-2603,en,odd number,odd,3,0.188
+mistralai/mistral-small-2603,en,fibonacci sequence,fibonacci,3,0.188
+mistralai/mistral-small-2603,en,mathematics,sum,2,0.125
+mistralai/mistral-small-2603,en,atomic number,atomic,2,0.125
+mistralai/mistral-small-2603,en,figurate number,centered,2,0.125
+mistralai/mistral-small-2603,en,ordinal number,13th,2,0.125
+mistralai/mistral-small-2603,en,number,number,2,0.125
+mistralai/mistral-small-2603,en,science,science,1,0.062
+mistralai/mistral-small-2603,en,culture,culture,1,0.062
+mistralai/mistral-small-2603,en,quantity,number,1,0.062
+mistralai/mistral-small-2603,en,age,age,1,0.062
+mistralai/mistral-small-2603,en,successor,14,1,0.062
+mistralai/mistral-small-2603,en,astrology,number,1,0.062
+mistralai/mistral-small-2603,en,history,original,1,0.062
+mistralai/mistral-small-2603,en,square,square,1,0.062
+mistralai/mistral-small-2603,en,binary,1101,1,0.062
+mistralai/mistral-small-2603,en,divisor,divisor,1,0.062
+mistralai/mistral-small-2603,en,numerology,numerology,1,0.062
+mistralai/mistral-small-2603,en,sports,jersey,1,0.062
+mistralai/mistral-small-2603,en,superstition,superstition,1,0.062
+mistralai/mistral-small-2603,en,comparison,greater,1,0.062
+mistralai/mistral-small-2603,en,property,property,1,0.062
+mistralai/mistral-small-2603,ja,prime number,素数,14,0.7
+mistralai/mistral-small-2603,ja,natural number,自然数,9,0.45
+mistralai/mistral-small-2603,ja,fibonacci sequence,フィボナッチ数,8,0.4
+mistralai/mistral-small-2603,ja,unlucky,不吉な数,7,0.35
+mistralai/mistral-small-2603,ja,lucky,ラッキーナンバー,5,0.25
+mistralai/mistral-small-2603,ja,number,数字,4,0.2
+mistralai/mistral-small-2603,ja,integer,整数,4,0.2
+mistralai/mistral-small-2603,ja,successor,12の次,3,0.15
+mistralai/mistral-small-2603,ja,divisor,約数,3,0.15
+mistralai/mistral-small-2603,ja,numeral,アラビア数字,3,0.15
+mistralai/mistral-small-2603,ja,figurate number,三角数,2,0.1
+mistralai/mistral-small-2603,ja,predecessor,14の前,2,0.1
+mistralai/mistral-small-2603,ja,superstition,迷信,2,0.1
+mistralai/mistral-small-2603,ja,mathematics,計算,2,0.1
+mistralai/mistral-small-2603,ja,radix,十三進法,2,0.1
+mistralai/mistral-small-2603,ja,interesting,興味深い,1,0.05
+mistralai/mistral-small-2603,ja,famous,有名,1,0.05
+mistralai/mistral-small-2603,ja,aluminum,アルミニウム,1,0.05
+mistralai/mistral-small-2603,ja,astronomy,太陽系,1,0.05
+mistralai/mistral-small-2603,ja,atomic number,原子番号,1,0.05
+mistralai/mistral-small-2603,ja,age,年齢,1,0.05
+mistralai/mistral-small-2603,ja,time,午後1時,1,0.05
+mistralai/mistral-small-2603,ja,language,訓読み,1,0.05
+mistralai/mistral-small-2603,ja,culture,文化,1,0.05
+mistralai/mistral-small-2603,ja,neutral,13は,1,0.05
+mistralai/mistral-small-2603,ja,sequence,順番,1,0.05
+mistralai/mistral-small-2603,ja,property,性質,1,0.05
+mistralai/mistral-small-2603,ja,calendar,13日,1,0.05
+mistralai/mistral-small-2603,ja,decimal,10進数,1,0.05
+mistralai/mistral-small-2603,ja,hexadecimal,十六進数,1,0.05
+mistralai/mistral-small-2603,ja,symbolism,特別,1,0.05
+mistralai/mistral-small-2603,ja,odd number,奇数,1,0.05
+mistralai/mistral-small-2603,ja,binary,1101,1,0.05
+mistralai/mistral-small-2603,ja,sacred,聖なる数,1,0.05
+mistralai/mistral-small-2603,ko,prime number,소수,19,1.0
+mistralai/mistral-small-2603,ko,natural number,자연수,10,0.526
+mistralai/mistral-small-2603,ko,unlucky,불길한 숫자,8,0.421
+mistralai/mistral-small-2603,ko,number,숫자,4,0.211
+mistralai/mistral-small-2603,ko,odd number,홀수,4,0.211
+mistralai/mistral-small-2603,ko,divisor,약수,3,0.158
+mistralai/mistral-small-2603,ko,atomic number,원자 번호,2,0.105
+mistralai/mistral-small-2603,ko,symbolism,의미,2,0.105
+mistralai/mistral-small-2603,ko,aluminum,알루미늄,2,0.105
+mistralai/mistral-small-2603,ko,square,제곱,2,0.105
+mistralai/mistral-small-2603,ko,lucky,행운의 숫자,2,0.105
+mistralai/mistral-small-2603,ko,numeral,xiii,2,0.105
+mistralai/mistral-small-2603,ko,figurate number,십삼각수,1,0.053
+mistralai/mistral-small-2603,ko,neutral,주제,1,0.053
+mistralai/mistral-small-2603,ko,composite number,합성수,1,0.053
+mistralai/mistral-small-2603,ko,radix,13진법,1,0.053
+mistralai/mistral-small-2603,ko,cardinal number,기수,1,0.053
+mistralai/mistral-small-2603,ko,fibonacci sequence,피보나치 수열,1,0.053
+mistralai/mistral-small-2603,ko,everyday object,일상용품,1,0.053
+mistralai/mistral-small-2603,ko,integer,정수,1,0.053
+mistralai/mistral-small-2603,ko,hexadecimal,'d',1,0.053
+mistralai/mistral-small-2603,ko,celebration,기념하다,1,0.053
+mistralai/mistral-small-2603,ko,comparison,크다,1,0.053
+mistralai/mistral-small-2603,ko,superstition,미신,1,0.053
+mistralai/mistral-small-2603,ko,negative,나쁜 기운을 상징,1,0.053
+mistralai/mistral-small-2603,ko,intermediate,중간 수,1,0.053
+mistralai/mistral-small-2603,ko,language,영어,1,0.053
+mistralai/mistral-small-2603,ko,quantity,개수,1,0.053
+mistralai/mistral-small-2603,zh,prime number,质数,17,0.85
+mistralai/mistral-small-2603,zh,unlucky,不吉利的数字,7,0.35
+mistralai/mistral-small-2603,zh,odd number,奇数,6,0.3
+mistralai/mistral-small-2603,zh,natural number,自然数,6,0.3
+mistralai/mistral-small-2603,zh,divisor,整除,5,0.25
+mistralai/mistral-small-2603,zh,fibonacci sequence,斐波那契数列,4,0.2
+mistralai/mistral-small-2603,zh,mathematics,数学,3,0.15
+mistralai/mistral-small-2603,zh,comparison,介于,2,0.1
+mistralai/mistral-small-2603,zh,superstition,迷信,2,0.1
+mistralai/mistral-small-2603,zh,atomic number,原子序数,2,0.1
+mistralai/mistral-small-2603,zh,calendar,日期,2,0.1
+mistralai/mistral-small-2603,zh,age,一生,2,0.1
+mistralai/mistral-small-2603,zh,property,数学性质,1,0.05
+mistralai/mistral-small-2603,zh,science,科学领域,1,0.05
+mistralai/mistral-small-2603,zh,square,平方,1,0.05
+mistralai/mistral-small-2603,zh,culture,文化意义,1,0.05
+mistralai/mistral-small-2603,zh,aluminum,铝,1,0.05
+mistralai/mistral-small-2603,zh,mythology,北欧神话,1,0.05
+mistralai/mistral-small-2603,zh,digit,阿拉伯数字,1,0.05
+mistralai/mistral-small-2603,zh,numeral,阿拉伯数字,1,0.05
+mistralai/mistral-small-2603,zh,sequence,卢卡斯数列,1,0.05
+mistralai/mistral-small-2603,zh,card,扑克牌,1,0.05
+mistralai/mistral-small-2603,zh,adolescence,青少年,1,0.05
+mistralai/mistral-small-2603,zh,lucky,幸运数字,1,0.05
+mistralai/mistral-small-2603,zh,hexadecimal,d,1,0.05
+mistralai/mistral-small-2603,zh,polygon,十三边形,1,0.05
+mistralai/mistral-small-2603,zh,number,数字,1,0.05
+mistralai/mistral-small-2603,zh,cardinal number,基数,1,0.05
+openai/gpt-6-luna,en,odd number,odd,4,0.4
+openai/gpt-6-luna,en,prime number,prime,4,0.4
+openai/gpt-6-luna,en,predecessor,come,1,0.1
+openai/gpt-6-luna,en,successor,14,1,0.1
+openai/gpt-6-luna,en,integer,integer,1,0.1
+openai/gpt-6-luna,en,hexadecimal,10,1,0.1
+openai/gpt-6-luna,en,binary,1101,1,0.1
+openai/gpt-6-luna,ja,prime number,素数,4,0.444
+openai/gpt-6-luna,ja,mathematics,計算,3,0.333
+openai/gpt-6-luna,ja,symbolism,特別,2,0.222
+openai/gpt-6-luna,ja,divisor,約数,2,0.222
+openai/gpt-6-luna,ja,quantity,13個,1,0.111
+openai/gpt-6-luna,ja,age,年齢,1,0.111
+openai/gpt-6-luna,ja,number,数字,1,0.111
+openai/gpt-6-luna,ja,property,性質,1,0.111
+openai/gpt-6-luna,ko,mathematics,계산,5,0.357
+openai/gpt-6-luna,ko,number,숫자,4,0.286
+openai/gpt-6-luna,ko,symbolism,의미,3,0.214
+openai/gpt-6-luna,ko,natural number,자연수,3,0.214
+openai/gpt-6-luna,ko,prime number,소수,3,0.214
+openai/gpt-6-luna,ko,odd number,홀수,3,0.214
+openai/gpt-6-luna,ko,property,특징,2,0.143
+openai/gpt-6-luna,ko,language,영어,2,0.143
+openai/gpt-6-luna,ko,even number,짝수,1,0.071
+openai/gpt-6-luna,ko,divisor,약수,1,0.071
+openai/gpt-6-luna,ko,comparison,크다,1,0.071
+openai/gpt-6-luna,zh,prime number,质数,7,0.538
+openai/gpt-6-luna,zh,odd number,奇数,6,0.462
+openai/gpt-6-luna,zh,natural number,自然数,2,0.154
+openai/gpt-6-luna,zh,number,数字,2,0.154
+openai/gpt-6-luna,zh,comparison,介于,1,0.077
+openai/gpt-6-luna,zh,composite number,合数,1,0.077
+openai/gpt-6-luna,zh,age,一生,1,0.077
+qwen/qwen3.8-flash,en,prime number,prime,20,1.0
+qwen/qwen3.8-flash,en,unlucky,unlucky,15,0.75
+qwen/qwen3.8-flash,en,fibonacci sequence,fibonacci,9,0.45
+qwen/qwen3.8-flash,en,integer,integer,7,0.35
+qwen/qwen3.8-flash,en,odd number,odd,7,0.35
+qwen/qwen3.8-flash,en,natural number,natural,7,0.35
+qwen/qwen3.8-flash,en,lucky,lucky,4,0.2
+qwen/qwen3.8-flash,en,sequence,before,4,0.2
+qwen/qwen3.8-flash,en,divisor,divisor,4,0.2
+qwen/qwen3.8-flash,en,figurate number,centered,2,0.1
+qwen/qwen3.8-flash,en,symbolism,significant,2,0.1
+qwen/qwen3.8-flash,en,square,square,2,0.1
+qwen/qwen3.8-flash,en,superstition,superstition,2,0.1
+qwen/qwen3.8-flash,en,atomic number,atomic,1,0.05
+qwen/qwen3.8-flash,en,thirteen colonies,original,1,0.05
+qwen/qwen3.8-flash,en,number,number,1,0.05
+qwen/qwen3.8-flash,en,mathematics,sum,1,0.05
+qwen/qwen3.8-flash,en,astrology,number,1,0.05
+qwen/qwen3.8-flash,en,growth,growth,1,0.05
+qwen/qwen3.8-flash,en,happy number,happy,1,0.05
+qwen/qwen3.8-flash,en,life,vitality,1,0.05
+qwen/qwen3.8-flash,en,positive,positive,1,0.05
+qwen/qwen3.8-flash,en,neutral,fact,1,0.05
+qwen/qwen3.8-flash,en,binary,1101,1,0.05
+qwen/qwen3.8-flash,en,dozen,baker's,1,0.05
+qwen/qwen3.8-flash,en,calendar,13th,1,0.05
+qwen/qwen3.8-flash,en,religion,apostles,1,0.05
+qwen/qwen3.8-flash,en,time,1:00,1,0.05
+qwen/qwen3.8-flash,en,history,original,1,0.05
+qwen/qwen3.8-flash,en,fear,triskaidekaphobia,1,0.05
+qwen/qwen3.8-flash,en,digit,two-digit,1,0.05
+qwen/qwen3.8-flash,ja,prime number,素数,20,1.0
+qwen/qwen3.8-flash,ja,unlucky,不吉な数,13,0.65
+qwen/qwen3.8-flash,ja,odd number,奇数,9,0.45
+qwen/qwen3.8-flash,ja,fibonacci sequence,フィボナッチ数,8,0.4
+qwen/qwen3.8-flash,ja,natural number,自然数,6,0.3
+qwen/qwen3.8-flash,ja,divisor,約数,3,0.15
+qwen/qwen3.8-flash,ja,superstition,迷信,2,0.1
+qwen/qwen3.8-flash,ja,fear,フォボニック数,2,0.1
+qwen/qwen3.8-flash,ja,figurate number,三角数,2,0.1
+qwen/qwen3.8-flash,ja,card,k,2,0.1
+qwen/qwen3.8-flash,ja,sports,背番号,2,0.1
+qwen/qwen3.8-flash,ja,lucky,ラッキーナンバー,2,0.1
+qwen/qwen3.8-flash,ja,numeral,アラビア数字,2,0.1
+qwen/qwen3.8-flash,ja,binary,1101,2,0.1
+qwen/qwen3.8-flash,ja,integer,整数,2,0.1
+qwen/qwen3.8-flash,ja,friday the 13th,13日の金曜日,1,0.05
+qwen/qwen3.8-flash,ja,sequence,順番,1,0.05
+qwen/qwen3.8-flash,ja,relationship,仲間,1,0.05
+qwen/qwen3.8-flash,ja,symbolism,特別,1,0.05
+qwen/qwen3.8-flash,ja,adulthood,大人,1,0.05
+qwen/qwen3.8-flash,ja,neutral,13は,1,0.05
+qwen/qwen3.8-flash,ja,game,トランプや花札などのゲームでもよく使われます,1,0.05
+qwen/qwen3.8-flash,ja,death,死神,1,0.05
+qwen/qwen3.8-flash,ja,astrology,占星術,1,0.05
+qwen/qwen3.8-flash,ja,tarot,死神,1,0.05
+qwen/qwen3.8-flash,ja,composite number,半素数,1,0.05
+qwen/qwen3.8-flash,ja,adolescence,ティーンエイジャー,1,0.05
+qwen/qwen3.8-flash,ja,predecessor,14の前,1,0.05
+qwen/qwen3.8-flash,ja,successor,12の次,1,0.05
+qwen/qwen3.8-flash,ja,growth,成長する,1,0.05
+qwen/qwen3.8-flash,ja,prosperous,実りある,1,0.05
+qwen/qwen3.8-flash,ja,calendar,13日,1,0.05
+qwen/qwen3.8-flash,ja,positive,特に不吉とは限りません,1,0.05
+qwen/qwen3.8-flash,ja,bakers dozen,1ダース+1,1,0.05
+qwen/qwen3.8-flash,ja,aluminum,アルミニウム,1,0.05
+qwen/qwen3.8-flash,ja,atomic number,原子番号,1,0.05
+qwen/qwen3.8-flash,ko,prime number,소수,20,1.0
+qwen/qwen3.8-flash,ko,unlucky,불길한 숫자,18,0.9
+qwen/qwen3.8-flash,ko,natural number,자연수,13,0.65
+qwen/qwen3.8-flash,ko,fibonacci sequence,피보나치 수열,10,0.5
+qwen/qwen3.8-flash,ko,odd number,홀수,10,0.5
+qwen/qwen3.8-flash,ko,lucky,행운의 숫자,5,0.25
+qwen/qwen3.8-flash,ko,sequence,다음,3,0.15
+qwen/qwen3.8-flash,ko,symbolism,의미,3,0.15
+qwen/qwen3.8-flash,ko,fear,공포증,2,0.1
+qwen/qwen3.8-flash,ko,integer,정수,2,0.1
+qwen/qwen3.8-flash,ko,divisor,약수,2,0.1
+qwen/qwen3.8-flash,ko,happy number,행복한 수,1,0.05
+qwen/qwen3.8-flash,ko,comparison,크다,1,0.05
+qwen/qwen3.8-flash,ko,supernatural,초자연적인,1,0.05
+qwen/qwen3.8-flash,ko,property,특징,1,0.05
+qwen/qwen3.8-flash,ko,radix,13진법,1,0.05
+qwen/qwen3.8-flash,ko,significance,중요한 기본 수,1,0.05
+qwen/qwen3.8-flash,ko,sacred,신성한 숫자,1,0.05
+qwen/qwen3.8-flash,ko,life,장수,1,0.05
+qwen/qwen3.8-flash,ko,aluminum,알루미늄,1,0.05
+qwen/qwen3.8-flash,ko,music,13번째 음,1,0.05
+qwen/qwen3.8-flash,ko,two-digit number,두 자리 수,1,0.05
+qwen/qwen3.8-flash,ko,perfection,완벽한 수,1,0.05
+qwen/qwen3.8-flash,ko,mystery,신비로운 숫자,1,0.05
+qwen/qwen3.8-flash,ko,figurate number,십삼각수,1,0.05
+qwen/qwen3.8-flash,zh,prime number,质数,20,1.0
+qwen/qwen3.8-flash,zh,unlucky,不吉利的数字,20,1.0
+qwen/qwen3.8-flash,zh,natural number,自然数,13,0.65
+qwen/qwen3.8-flash,zh,fibonacci sequence,斐波那契数列,10,0.5
+qwen/qwen3.8-flash,zh,odd number,奇数,8,0.4
+qwen/qwen3.8-flash,zh,lucky,幸运数字,7,0.35
+qwen/qwen3.8-flash,zh,fear,十三恐惧症,3,0.15
+qwen/qwen3.8-flash,zh,friday the 13th,黑色星期五,2,0.1
+qwen/qwen3.8-flash,zh,card,扑克牌,2,0.1
+qwen/qwen3.8-flash,zh,aluminum,铝,2,0.1
+qwen/qwen3.8-flash,zh,number,数字,1,0.05
+qwen/qwen3.8-flash,zh,significance,含义丰富,1,0.05
+qwen/qwen3.8-flash,zh,figurate number,中心六边形数,1,0.05
+qwen/qwen3.8-flash,zh,digit,阿拉伯数字,1,0.05
+qwen/qwen3.8-flash,zh,sequence,卢卡斯数列,1,0.05
+qwen/qwen3.8-flash,zh,growth,实生,1,0.05
+qwen/qwen3.8-flash,zh,life,一生,1,0.05
+qwen/qwen3.8-flash,zh,superstition,迷信,1,0.05
+qwen/qwen3.8-flash,zh,neutral,中性,1,0.05
+qwen/qwen3.8-flash,zh,positive,积极的含义,1,0.05
+qwen/qwen3.8-flash,zh,lunar cycle,闰月,1,0.05
+qwen/qwen3.8-flash,zh,atomic number,原子序数,1,0.05
+qwen/qwen3.8-flash,zh,music,第 13 个音,1,0.05
+qwen/qwen3.8-flash,zh,death,死神,1,0.05
+qwen/qwen3.8-flash,zh,astrology,星座,1,0.05
+qwen/qwen3.8-flash,zh,transformation,转变,1,0.05
+qwen/qwen3.8-flash,zh,two-digit number,两位数,1,0.05
+qwen/qwen3.8-flash,zh,integer,整数,1,0.05
+qwen/qwen3.8-flash,zh,symbolism,象征意义,1,0.05
+upstage/solar-mini4,en,prime number,prime,20,1.0
+upstage/solar-mini4,en,unlucky,unlucky,10,0.5
+upstage/solar-mini4,en,odd number,odd,8,0.4
+upstage/solar-mini4,en,numeral,xiii,7,0.35
+upstage/solar-mini4,en,natural number,natural,6,0.3
+upstage/solar-mini4,en,number,number,5,0.25
+upstage/solar-mini4,en,atomic number,atomic,5,0.25
+upstage/solar-mini4,en,fibonacci sequence,fibonacci,4,0.2
+upstage/solar-mini4,en,aluminum,aluminum,4,0.2
+upstage/solar-mini4,en,integer,integer,3,0.15
+upstage/solar-mini4,en,sequence,before,3,0.15
+upstage/solar-mini4,en,divisor,divisor,3,0.15
+upstage/solar-mini4,en,fear,triskaidekaphobia,3,0.15
+upstage/solar-mini4,en,regular number,regular,2,0.1
+upstage/solar-mini4,en,mathematics,sum,2,0.1
+upstage/solar-mini4,en,binary,1101,2,0.1
+upstage/solar-mini4,en,square,square,2,0.1
+upstage/solar-mini4,en,radix,system,2,0.1
+upstage/solar-mini4,en,ordinal number,13th,2,0.1
+upstage/solar-mini4,en,symbolism,significant,2,0.1
+upstage/solar-mini4,en,lucky,lucky,2,0.1
+upstage/solar-mini4,en,adolescence,teenager,1,0.05
+upstage/solar-mini4,en,digit,two-digit,1,0.05
+upstage/solar-mini4,en,language,word,1,0.05
+upstage/solar-mini4,en,figurate number,centered,1,0.05
+upstage/solar-mini4,en,two-digit number,two-digit,1,0.05
+upstage/solar-mini4,en,culture,culture,1,0.05
+upstage/solar-mini4,en,superstition,superstition,1,0.05
+upstage/solar-mini4,ja,prime number,素数,12,0.6
+upstage/solar-mini4,ja,unlucky,不吉な数,10,0.5
+upstage/solar-mini4,ja,natural number,自然数,9,0.45
+upstage/solar-mini4,ja,successor,12の次,8,0.4
+upstage/solar-mini4,ja,number,数字,8,0.4
+upstage/solar-mini4,ja,predecessor,14の前,6,0.3
+upstage/solar-mini4,ja,numeral,アラビア数字,5,0.25
+upstage/solar-mini4,ja,ordinal number,thirteenth,3,0.15
+upstage/solar-mini4,ja,integer,整数,3,0.15
+upstage/solar-mini4,ja,odd number,奇数,3,0.15
+upstage/solar-mini4,ja,symbolism,特別,2,0.1
+upstage/solar-mini4,ja,language,訓読み,2,0.1
+upstage/solar-mini4,ja,mathematics,計算,1,0.05
+upstage/solar-mini4,ja,superstition,迷信,1,0.05
+upstage/solar-mini4,ja,astrology,占星術,1,0.05
+upstage/solar-mini4,ja,culture,文化,1,0.05
+upstage/solar-mini4,ja,betrayal,多い,1,0.05
+upstage/solar-mini4,ja,trouble,厄介,1,0.05
+upstage/solar-mini4,ja,fibonacci sequence,フィボナッチ数,1,0.05
+upstage/solar-mini4,ja,friday the 13th,13日の金曜日,1,0.05
+upstage/solar-mini4,ja,quantity,13個,1,0.05
+upstage/solar-mini4,ja,identification,暗証番号,1,0.05
+upstage/solar-mini4,ja,divisor,約数,1,0.05
+upstage/solar-mini4,ja,calendar,13日,1,0.05
+upstage/solar-mini4,ja,transition,一つの道が終わって、次の段階へ進むため,1,0.05
+upstage/solar-mini4,ja,life,生命,1,0.05
+upstage/solar-mini4,ja,comparison,間,1,0.05
+upstage/solar-mini4,ja,sequence,順番,1,0.05
+upstage/solar-mini4,ja,age,年齢,1,0.05
+upstage/solar-mini4,ja,aluminum,アルミニウム,1,0.05
+upstage/solar-mini4,ja,sports,背番号,1,0.05
+upstage/solar-mini4,ja,binary,1101,1,0.05
+upstage/solar-mini4,ja,significance,特別 な 意味 を 持つ 数,1,0.05
+upstage/solar-mini4,ko,natural number,자연수,14,0.7
+upstage/solar-mini4,ko,prime number,소수,12,0.6
+upstage/solar-mini4,ko,unlucky,불길한 숫자,8,0.4
+upstage/solar-mini4,ko,odd number,홀수,8,0.4
+upstage/solar-mini4,ko,calendar,날짜,5,0.25
+upstage/solar-mini4,ko,number,숫자,5,0.25
+upstage/solar-mini4,ko,ordinal number,13번째,3,0.15
+upstage/solar-mini4,ko,comparison,크다,3,0.15
+upstage/solar-mini4,ko,fear,공포증,2,0.1
+upstage/solar-mini4,ko,decimal,십진법,2,0.1
+upstage/solar-mini4,ko,sequence,다음,2,0.1
+upstage/solar-mini4,ko,language,영어,2,0.1
+upstage/solar-mini4,ko,science,컴퓨팅/암호화,1,0.05
+upstage/solar-mini4,ko,numeral,xiii,1,0.05
+upstage/solar-mini4,ko,superstition,미신,1,0.05
+upstage/solar-mini4,ko,cardinal number,기수,1,0.05
+upstage/solar-mini4,ko,symbolism,의미,1,0.05
+upstage/solar-mini4,ko,binary,2진법에서는 `1101`,1,0.05
+upstage/solar-mini4,ko,friday the 13th,13일의 금요일,1,0.05
+upstage/solar-mini4,ko,integer,정수,1,0.05
+upstage/solar-mini4,ko,sports,점수,1,0.05
+upstage/solar-mini4,ko,mathematics,계산,1,0.05
+upstage/solar-mini4,ko,age,나이,1,0.05
+upstage/solar-mini4,ko,composite number,합성수,1,0.05
+upstage/solar-mini4,ko,divisor,약수,1,0.05
+upstage/solar-mini4,ko,lucky,행운의 숫자,1,0.05
+upstage/solar-mini4,ko,positive,거듭제곱,1,0.05
+upstage/solar-mini4,zh,prime number,质数,18,0.9
+upstage/solar-mini4,zh,natural number,自然数,9,0.45
+upstage/solar-mini4,zh,unlucky,不吉利的数字,9,0.45
+upstage/solar-mini4,zh,integer,整数,9,0.45
+upstage/solar-mini4,zh,calendar,日期,5,0.25
+upstage/solar-mini4,zh,odd number,奇数,5,0.25
+upstage/solar-mini4,zh,numeral,阿拉伯数字,4,0.2
+upstage/solar-mini4,zh,symbolism,象征意义,4,0.2
+upstage/solar-mini4,zh,divisor,整除,3,0.15
+upstage/solar-mini4,zh,comparison,介于,3,0.15
+upstage/solar-mini4,zh,mathematics,数学,2,0.1
+upstage/solar-mini4,zh,superstition,迷信,2,0.1
+upstage/solar-mini4,zh,two-digit number,两位数,2,0.1
+upstage/solar-mini4,zh,polygon,十三边形,2,0.1
+upstage/solar-mini4,zh,lucky,幸运数字,2,0.1
+upstage/solar-mini4,zh,quantity,数量,2,0.1
+upstage/solar-mini4,zh,age,一生,2,0.1
+upstage/solar-mini4,zh,number,数字,2,0.1
+upstage/solar-mini4,zh,numerology,数字含义,1,0.05
+upstage/solar-mini4,zh,culture,文化意义,1,0.05
+upstage/solar-mini4,zh,successor,十二后面的一个数,1,0.05
+upstage/solar-mini4,zh,sports,第13号运动员或球员,1,0.05
+upstage/solar-mini4,zh,neutral,中性,1,0.05
+upstage/solar-mini4,zh,fibonacci sequence,斐波那契数列,1,0.05
+upstage/solar-mini4,zh,fear,十三恐惧症,1,0.05
+upstage/solar-mini4,zh,time,13点,1,0.05
+upstage/solar-mini4,zh,science,科学领域,1,0.05
+upstage/solar-mini4,zh,omen,谶,1,0.05
+upstage/solar-mini4,zh,composite number,合数,1,0.05
+upstage/solar-mini4,zh,radix,十四进制,1,0.05
+upstage/solar-mini4,zh,game,游戏,1,0.05
+upstage/solar-mini4,zh,card,扑克牌,1,0.05
+upstage/solar-mini4,zh,square,平方,1,0.05

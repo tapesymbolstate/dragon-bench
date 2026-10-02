@@ -1,0 +1,27 @@
+{
+  "samples": 100,
+  "temperature": 1.0,
+  "max_tokens": 200,
+  "models": [
+    "openai/gpt-6-luna",
+    "anthropic/claude-haiku-4.5",
+    "google/gemini-3.5-flash-lite",
+    "meta-llama/llama-4-maverick",
+    "mistralai/mistral-small-2603",
+    "deepseek/deepseek-v4.1-flash",
+    "qwen/qwen3.8-flash",
+    "upstage/solar-mini4"
+  ],
+  "langs": [
+    "en",
+    "ko",
+    "zh",
+    "ja"
+  ],
+  "stems": {
+    "en": "Dragon is",
+    "ko": "용은",
+    "zh": "龙是",
+    "ja": "竜は"
+  }
+}

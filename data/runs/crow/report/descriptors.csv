@@ -1,0 +1,1294 @@
+model,lang,concept,top_native_lemma,responses,share_of_subject_sense
+anthropic/claude-haiku-4.5,en,intelligent,intelligence,20,1.0
+anthropic/claude-haiku-4.5,en,bird,bird,18,0.9
+anthropic/claude-haiku-4.5,en,social,social,18,0.9
+anthropic/claude-haiku-4.5,en,problem solving,problem-solving,17,0.85
+anthropic/claude-haiku-4.5,en,adaptable,adaptability,15,0.75
+anthropic/claude-haiku-4.5,en,tool use,use,15,0.75
+anthropic/claude-haiku-4.5,en,call,call,12,0.6
+anthropic/claude-haiku-4.5,en,omnivorous,omnivorous,9,0.45
+anthropic/claude-haiku-4.5,en,widespread,found,9,0.45
+anthropic/claude-haiku-4.5,en,symbolism,symbol,7,0.35
+anthropic/claude-haiku-4.5,en,face recognition,recognize,6,0.3
+anthropic/claude-haiku-4.5,en,mythology,mythology,5,0.25
+anthropic/claude-haiku-4.5,en,mysterious,mystery,4,0.2
+anthropic/claude-haiku-4.5,en,trickster,trickery,4,0.2
+anthropic/claude-haiku-4.5,en,memory,memory,4,0.2
+anthropic/claude-haiku-4.5,en,scavenger,scavengers,4,0.2
+anthropic/claude-haiku-4.5,en,diet,diet,4,0.2
+anthropic/claude-haiku-4.5,en,black plumage,plumage,4,0.2
+anthropic/claude-haiku-4.5,en,habitat,place,3,0.15
+anthropic/claude-haiku-4.5,en,black,black,3,0.15
+anthropic/claude-haiku-4.5,en,size,large,3,0.15
+anthropic/claude-haiku-4.5,en,beak,beak,3,0.15
+anthropic/claude-haiku-4.5,en,seeds,seed,3,0.15
+anthropic/claude-haiku-4.5,en,insects,insects,3,0.15
+anthropic/claude-haiku-4.5,en,art,art,2,0.1
+anthropic/claude-haiku-4.5,en,taxonomy,american,2,0.1
+anthropic/claude-haiku-4.5,en,communication,communicate,2,0.1
+anthropic/claude-haiku-4.5,en,wisdom,wisdom,2,0.1
+anthropic/claude-haiku-4.5,en,death,death,2,0.1
+anthropic/claude-haiku-4.5,en,prophecy,prophecy,2,0.1
+anthropic/claude-haiku-4.5,en,small animals,animal,2,0.1
+anthropic/claude-haiku-4.5,en,corvid,corvid,2,0.1
+anthropic/claude-haiku-4.5,en,magic,magic,1,0.05
+anthropic/claude-haiku-4.5,en,carrion,carrion,1,0.05
+anthropic/claude-haiku-4.5,en,appearance,long,1,0.05
+anthropic/claude-haiku-4.5,en,mimicry,mimic,1,0.05
+anthropic/claude-haiku-4.5,en,bad omen,omen,1,0.05
+anthropic/claude-haiku-4.5,en,good omen,positive,1,0.05
+anthropic/claude-haiku-4.5,en,behavior,behavior,1,0.05
+anthropic/claude-haiku-4.5,ja,intelligent,高い,20,1.0
+anthropic/claude-haiku-4.5,ja,tool use,使う,13,0.65
+anthropic/claude-haiku-4.5,ja,problem solving,問題解決能力,12,0.6
+anthropic/claude-haiku-4.5,ja,social,社会性,12,0.6
+anthropic/claude-haiku-4.5,ja,bird,鳥類,10,0.5
+anthropic/claude-haiku-4.5,ja,black plumage,黒い羽,9,0.45
+anthropic/claude-haiku-4.5,ja,widespread,分布,9,0.45
+anthropic/claude-haiku-4.5,ja,omnivorous,雑食性,9,0.45
+anthropic/claude-haiku-4.5,ja,beak,太い,8,0.4
+anthropic/claude-haiku-4.5,ja,black,黒い,8,0.4
+anthropic/claude-haiku-4.5,ja,communication,コミュニケーション,7,0.35
+anthropic/claude-haiku-4.5,ja,face recognition,覚える,7,0.35
+anthropic/claude-haiku-4.5,ja,adaptable,適応力,5,0.25
+anthropic/claude-haiku-4.5,ja,corvid,スズメ目カラス科,4,0.2
+anthropic/claude-haiku-4.5,ja,size,大型,4,0.2
+anthropic/claude-haiku-4.5,ja,interesting,興味深い,3,0.15
+anthropic/claude-haiku-4.5,ja,flock,群れで行動する,3,0.15
+anthropic/claude-haiku-4.5,ja,lifespan,寿命,3,0.15
+anthropic/claude-haiku-4.5,ja,jungle crow,ハシブトガラス,2,0.1
+anthropic/claude-haiku-4.5,ja,call,鳴き声,2,0.1
+anthropic/claude-haiku-4.5,ja,cognition,高い,2,0.1
+anthropic/claude-haiku-4.5,ja,memory,記憶力,2,0.1
+anthropic/claude-haiku-4.5,ja,diet,食べ物,2,0.1
+anthropic/claude-haiku-4.5,ja,large-billed crow,ハシブトガラス,1,0.05
+anthropic/claude-haiku-4.5,ja,urban,見かける,1,0.05
+anthropic/claude-haiku-4.5,ja,symbolism,象徴,1,0.05
+anthropic/claude-haiku-4.5,ja,carrion crow,ハシボソガラス,1,0.05
+anthropic/claude-haiku-4.5,ja,scavenger,荒らす,1,0.05
+anthropic/claude-haiku-4.5,ja,learning,学習能力,1,0.05
+anthropic/claude-haiku-4.5,ja,habitat,好む,1,0.05
+anthropic/claude-haiku-4.5,ja,animal,生き物,1,0.05
+anthropic/claude-haiku-4.5,ja,caching,覚えています,1,0.05
+anthropic/claude-haiku-4.5,ja,behavior,姿勢,1,0.05
+anthropic/claude-haiku-4.5,ja,playful,遊ぶ,1,0.05
+anthropic/claude-haiku-4.5,ko,bird,새,20,1.0
+anthropic/claude-haiku-4.5,ko,intelligent,지능,19,0.95
+anthropic/claude-haiku-4.5,ko,tool use,사용하다,12,0.6
+anthropic/claude-haiku-4.5,ko,problem solving,문제 해결 능력,11,0.55
+anthropic/claude-haiku-4.5,ko,call,울음소리,11,0.55
+anthropic/claude-haiku-4.5,ko,black plumage,검은 깃털,10,0.5
+anthropic/claude-haiku-4.5,ko,black,검은색,10,0.5
+anthropic/claude-haiku-4.5,ko,size,크다,8,0.4
+anthropic/claude-haiku-4.5,ko,adaptable,강하다,6,0.3
+anthropic/claude-haiku-4.5,ko,omnivorous,잡식성,6,0.3
+anthropic/claude-haiku-4.5,ko,seeds,씨앗,5,0.25
+anthropic/claude-haiku-4.5,ko,insects,곤충,4,0.2
+anthropic/claude-haiku-4.5,ko,habitat,농촌,4,0.2
+anthropic/claude-haiku-4.5,ko,corvid,까마귀과,4,0.2
+anthropic/claude-haiku-4.5,ko,widespread,분포하다,4,0.2
+anthropic/claude-haiku-4.5,ko,social,사회성,4,0.2
+anthropic/claude-haiku-4.5,ko,lifespan,수명,3,0.15
+anthropic/claude-haiku-4.5,ko,memory,기억하다,3,0.15
+anthropic/claude-haiku-4.5,ko,face recognition,기억하다,3,0.15
+anthropic/claude-haiku-4.5,ko,carrion,죽은 동물,3,0.15
+anthropic/claude-haiku-4.5,ko,beak,부리,3,0.15
+anthropic/claude-haiku-4.5,ko,fruit,과일,3,0.15
+anthropic/claude-haiku-4.5,ko,communication,소통하다,3,0.15
+anthropic/claude-haiku-4.5,ko,flock,생활하다,3,0.15
+anthropic/claude-haiku-4.5,ko,cognition,능력,2,0.1
+anthropic/claude-haiku-4.5,ko,caching,저장하다,1,0.05
+anthropic/claude-haiku-4.5,ko,urban,도시,1,0.05
+anthropic/claude-haiku-4.5,ko,iridescent,광택이 나다,1,0.05
+anthropic/claude-haiku-4.5,ko,vision,매우 발달된 시각,1,0.05
+anthropic/claude-haiku-4.5,ko,omen,흉조,1,0.05
+anthropic/claude-haiku-4.5,ko,learning,학습,1,0.05
+anthropic/claude-haiku-4.5,ko,strong,powerful하다,1,0.05
+anthropic/claude-haiku-4.5,ko,scavenger,먹다,1,0.05
+anthropic/claude-haiku-4.5,ko,good omen,길조,1,0.05
+anthropic/claude-haiku-4.5,ko,bad omen,흉조,1,0.05
+anthropic/claude-haiku-4.5,ko,feather,회색섞인 검은색,1,0.05
+anthropic/claude-haiku-4.5,zh,bird,鸟类,19,0.95
+anthropic/claude-haiku-4.5,zh,intelligent,聪明,18,0.9
+anthropic/claude-haiku-4.5,zh,widespread,分布广泛,13,0.65
+anthropic/claude-haiku-4.5,zh,tool use,使用工具,12,0.6
+anthropic/claude-haiku-4.5,zh,black,黑色,12,0.6
+anthropic/claude-haiku-4.5,zh,size,体型较大,12,0.6
+anthropic/claude-haiku-4.5,zh,corvid,鸦科,11,0.55
+anthropic/claude-haiku-4.5,zh,black plumage,羽毛,9,0.45
+anthropic/claude-haiku-4.5,zh,call,叫声,8,0.4
+anthropic/claude-haiku-4.5,zh,social,社会性,8,0.4
+anthropic/claude-haiku-4.5,zh,animal,脊椎动物门,6,0.3
+anthropic/claude-haiku-4.5,zh,beak,喙粗壮,6,0.3
+anthropic/claude-haiku-4.5,zh,omnivorous,杂食性,5,0.25
+anthropic/claude-haiku-4.5,zh,taxonomy,通称,5,0.25
+anthropic/claude-haiku-4.5,zh,learning,学习能力,4,0.2
+anthropic/claude-haiku-4.5,zh,memory,记忆力,4,0.2
+anthropic/claude-haiku-4.5,zh,adaptable,适应力强,4,0.2
+anthropic/claude-haiku-4.5,zh,problem solving,解决,4,0.2
+anthropic/claude-haiku-4.5,zh,carrion crow,小嘴乌鸦,3,0.15
+anthropic/claude-haiku-4.5,zh,rook,秃鼻乌鸦,2,0.1
+anthropic/claude-haiku-4.5,zh,strong,强壮,2,0.1
+anthropic/claude-haiku-4.5,zh,cognition,认知能力,2,0.1
+anthropic/claude-haiku-4.5,zh,lifespan,15–20年,2,0.1
+anthropic/claude-haiku-4.5,zh,flight,飞行,2,0.1
+anthropic/claude-haiku-4.5,zh,mimicry,模仿声音,1,0.05
+anthropic/claude-haiku-4.5,zh,iridescent,金属光泽,1,0.05
+anthropic/claude-haiku-4.5,zh,habitat,森林,1,0.05
+anthropic/claude-haiku-4.5,zh,urban,城市,1,0.05
+anthropic/claude-haiku-4.5,zh,bad sound,叫声难听,1,0.05
+anthropic/claude-haiku-4.5,zh,feather,灰黑色,1,0.05
+anthropic/claude-haiku-4.5,zh,behavior,会合作、试探、模仿,1,0.05
+anthropic/claude-haiku-4.5,zh,face recognition,识别,1,0.05
+anthropic/claude-haiku-4.5,zh,diet,吃,1,0.05
+anthropic/claude-haiku-4.5,zh,appearance,尾长,1,0.05
+anthropic/claude-haiku-4.5,zh,large-billed crow,大嘴乌鸦,1,0.05
+anthropic/claude-haiku-4.5,zh,flock,成群活动,1,0.05
+deepseek/deepseek-v4.1-flash,en,intelligent,intelligence,17,0.85
+deepseek/deepseek-v4.1-flash,en,bird,bird,17,0.85
+deepseek/deepseek-v4.1-flash,en,social,social,12,0.6
+deepseek/deepseek-v4.1-flash,en,problem solving,problem-solving,9,0.45
+deepseek/deepseek-v4.1-flash,en,tool use,use,9,0.45
+deepseek/deepseek-v4.1-flash,en,call,call,6,0.3
+deepseek/deepseek-v4.1-flash,en,face recognition,recognize,5,0.25
+deepseek/deepseek-v4.1-flash,en,trickster,trickery,4,0.2
+deepseek/deepseek-v4.1-flash,en,corvid,corvid,4,0.2
+deepseek/deepseek-v4.1-flash,en,size,large,4,0.2
+deepseek/deepseek-v4.1-flash,en,adaptable,adaptability,3,0.15
+deepseek/deepseek-v4.1-flash,en,widespread,found,3,0.15
+deepseek/deepseek-v4.1-flash,en,symbolism,symbol,3,0.15
+deepseek/deepseek-v4.1-flash,en,taxonomy,american,3,0.15
+deepseek/deepseek-v4.1-flash,en,wisdom,wisdom,2,0.1
+deepseek/deepseek-v4.1-flash,en,death,death,2,0.1
+deepseek/deepseek-v4.1-flash,en,omen,omen,2,0.1
+deepseek/deepseek-v4.1-flash,en,humble,wrong,2,0.1
+deepseek/deepseek-v4.1-flash,en,behavior,behavior,2,0.1
+deepseek/deepseek-v4.1-flash,en,black,black,1,0.05
+deepseek/deepseek-v4.1-flash,en,mysterious,mystery,1,0.05
+deepseek/deepseek-v4.1-flash,en,mythology,mythology,1,0.05
+deepseek/deepseek-v4.1-flash,en,communication,communicate,1,0.05
+deepseek/deepseek-v4.1-flash,en,urban,environment,1,0.05
+deepseek/deepseek-v4.1-flash,en,learning,learn,1,0.05
+deepseek/deepseek-v4.1-flash,en,cause,reason,1,0.05
+deepseek/deepseek-v4.1-flash,en,raven,raven,1,0.05
+deepseek/deepseek-v4.1-flash,en,scavenger,scavengers,1,0.05
+deepseek/deepseek-v4.1-flash,en,cautious,watch,1,0.05
+deepseek/deepseek-v4.1-flash,en,flight,go out,1,0.05
+deepseek/deepseek-v4.1-flash,en,omnivorous,omnivorous,1,0.05
+deepseek/deepseek-v4.1-flash,ja,intelligent,高い,18,0.9
+deepseek/deepseek-v4.1-flash,ja,black,黒い,11,0.55
+deepseek/deepseek-v4.1-flash,ja,tool use,使う,9,0.45
+deepseek/deepseek-v4.1-flash,ja,face recognition,覚える,8,0.4
+deepseek/deepseek-v4.1-flash,ja,omnivorous,雑食性,8,0.4
+deepseek/deepseek-v4.1-flash,ja,scavenger,荒らす,6,0.3
+deepseek/deepseek-v4.1-flash,ja,diet,食べ物,4,0.2
+deepseek/deepseek-v4.1-flash,ja,communication,コミュニケーション,4,0.2
+deepseek/deepseek-v4.1-flash,ja,messenger,神,4,0.2
+deepseek/deepseek-v4.1-flash,ja,fruit,果実,4,0.2
+deepseek/deepseek-v4.1-flash,ja,insects,昆虫,4,0.2
+deepseek/deepseek-v4.1-flash,ja,small animals,小動物,4,0.2
+deepseek/deepseek-v4.1-flash,ja,bird,鳥類,4,0.2
+deepseek/deepseek-v4.1-flash,ja,flock,群れで行動する,4,0.2
+deepseek/deepseek-v4.1-flash,ja,jungle crow,ハシブトガラス,4,0.2
+deepseek/deepseek-v4.1-flash,ja,urban,見かける,3,0.15
+deepseek/deepseek-v4.1-flash,ja,social,社会性,3,0.15
+deepseek/deepseek-v4.1-flash,ja,pest,害鳥,2,0.1
+deepseek/deepseek-v4.1-flash,ja,pet,飼える,2,0.1
+deepseek/deepseek-v4.1-flash,ja,culture,日本でどう扱われている,2,0.1
+deepseek/deepseek-v4.1-flash,ja,widespread,分布,2,0.1
+deepseek/deepseek-v4.1-flash,ja,carrion crow,ハシボソガラス,2,0.1
+deepseek/deepseek-v4.1-flash,ja,three-legged crow,八咫烏,2,0.1
+deepseek/deepseek-v4.1-flash,ja,large-billed crow,ハシブトガラス,2,0.1
+deepseek/deepseek-v4.1-flash,ja,black plumage,黒い羽,2,0.1
+deepseek/deepseek-v4.1-flash,ja,call,鳴き声,2,0.1
+deepseek/deepseek-v4.1-flash,ja,pest control,益鳥,1,0.05
+deepseek/deepseek-v4.1-flash,ja,curiosity,何,1,0.05
+deepseek/deepseek-v4.1-flash,ja,corvid,スズメ目カラス科,1,0.05
+deepseek/deepseek-v4.1-flash,ja,adaptable,適応力,1,0.05
+deepseek/deepseek-v4.1-flash,ja,sacred,神聖,1,0.05
+deepseek/deepseek-v4.1-flash,ja,bad omen,不吉,1,0.05
+deepseek/deepseek-v4.1-flash,ja,ecology,生態,1,0.05
+deepseek/deepseek-v4.1-flash,ja,taxonomy,総称,1,0.05
+deepseek/deepseek-v4.1-flash,ja,folklore,迷信,1,0.05
+deepseek/deepseek-v4.1-flash,ja,habitat,好む,1,0.05
+deepseek/deepseek-v4.1-flash,ja,mythology,神話,1,0.05
+deepseek/deepseek-v4.1-flash,ja,size,大型,1,0.05
+deepseek/deepseek-v4.1-flash,ja,good omen,吉兆とされることもある,1,0.05
+deepseek/deepseek-v4.1-flash,ja,beak,太い,1,0.05
+deepseek/deepseek-v4.1-flash,ja,prohibited,原則禁止,1,0.05
+deepseek/deepseek-v4.1-flash,ja,territorial,縄張り主張,1,0.05
+deepseek/deepseek-v4.1-flash,ja,law,日本の法律,1,0.05
+deepseek/deepseek-v4.1-flash,ja,memory,記憶力,1,0.05
+deepseek/deepseek-v4.1-flash,ko,intelligent,지능,16,1.0
+deepseek/deepseek-v4.1-flash,ko,social,사회성,16,1.0
+deepseek/deepseek-v4.1-flash,ko,problem solving,문제 해결 능력,15,0.938
+deepseek/deepseek-v4.1-flash,ko,tool use,사용하다,15,0.938
+deepseek/deepseek-v4.1-flash,ko,self awareness,거울에 비친 자신을 인식하다,13,0.812
+deepseek/deepseek-v4.1-flash,ko,communication,소통하다,12,0.75
+deepseek/deepseek-v4.1-flash,ko,corvid,까마귀과,12,0.75
+deepseek/deepseek-v4.1-flash,ko,black plumage,검은 깃털,9,0.562
+deepseek/deepseek-v4.1-flash,ko,omnivorous,잡식성,8,0.5
+deepseek/deepseek-v4.1-flash,ko,flock,생활하다,5,0.312
+deepseek/deepseek-v4.1-flash,ko,raven,큰까마귀,4,0.25
+deepseek/deepseek-v4.1-flash,ko,bird,새,4,0.25
+deepseek/deepseek-v4.1-flash,ko,bad omen,흉조,3,0.188
+deepseek/deepseek-v4.1-flash,ko,fruit,과일,3,0.188
+deepseek/deepseek-v4.1-flash,ko,seeds,씨앗,3,0.188
+deepseek/deepseek-v4.1-flash,ko,insects,곤충,3,0.188
+deepseek/deepseek-v4.1-flash,ko,small animals,동물,3,0.188
+deepseek/deepseek-v4.1-flash,ko,memory,기억하다,3,0.188
+deepseek/deepseek-v4.1-flash,ko,cognition,능력,3,0.188
+deepseek/deepseek-v4.1-flash,ko,mourning,행동,3,0.188
+deepseek/deepseek-v4.1-flash,ko,iridescent,광택이 나다,2,0.125
+deepseek/deepseek-v4.1-flash,ko,wisdom,지혜,2,0.125
+deepseek/deepseek-v4.1-flash,ko,size,크다,2,0.125
+deepseek/deepseek-v4.1-flash,ko,adaptable,강하다,1,0.062
+deepseek/deepseek-v4.1-flash,ko,call,울음소리,1,0.062
+deepseek/deepseek-v4.1-flash,ko,appearance,생김새,1,0.062
+deepseek/deepseek-v4.1-flash,ko,taxonomy,종류,1,0.062
+deepseek/deepseek-v4.1-flash,ko,breeding,알,1,0.062
+deepseek/deepseek-v4.1-flash,ko,aggressive,대응하다,1,0.062
+deepseek/deepseek-v4.1-flash,ko,carrion,죽은 동물,1,0.062
+deepseek/deepseek-v4.1-flash,ko,defense,대응,1,0.062
+deepseek/deepseek-v4.1-flash,ko,cooperation,협력하다,1,0.062
+deepseek/deepseek-v4.1-flash,ko,planning,수립,1,0.062
+deepseek/deepseek-v4.1-flash,ko,messenger,신의 사자,1,0.062
+deepseek/deepseek-v4.1-flash,ko,loyalty,새,1,0.062
+deepseek/deepseek-v4.1-flash,ko,grudge,보복성,1,0.062
+deepseek/deepseek-v4.1-flash,ko,foraging,먹이 찾기 능력,1,0.062
+deepseek/deepseek-v4.1-flash,ko,rook,떼까마귀,1,0.062
+deepseek/deepseek-v4.1-flash,ko,strong,powerful하다,1,0.062
+deepseek/deepseek-v4.1-flash,ko,black,검은색,1,0.062
+deepseek/deepseek-v4.1-flash,ko,scavenger,먹다,1,0.062
+deepseek/deepseek-v4.1-flash,ko,habitat,농촌,1,0.062
+deepseek/deepseek-v4.1-flash,ko,good omen,길조,1,0.062
+deepseek/deepseek-v4.1-flash,ko,widespread,분포하다,1,0.062
+deepseek/deepseek-v4.1-flash,zh,intelligent,聪明,20,1.0
+deepseek/deepseek-v4.1-flash,zh,corvid,鸦科,17,0.85
+deepseek/deepseek-v4.1-flash,zh,tool use,使用工具,16,0.8
+deepseek/deepseek-v4.1-flash,zh,memory,记忆力,13,0.65
+deepseek/deepseek-v4.1-flash,zh,cognition,认知能力,13,0.65
+deepseek/deepseek-v4.1-flash,zh,filial piety,乌鸦反哺,13,0.65
+deepseek/deepseek-v4.1-flash,zh,bad omen,不祥之兆,12,0.6
+deepseek/deepseek-v4.1-flash,zh,face recognition,识别,10,0.5
+deepseek/deepseek-v4.1-flash,zh,black,黑色,9,0.45
+deepseek/deepseek-v4.1-flash,zh,beak,喙粗壮,9,0.45
+deepseek/deepseek-v4.1-flash,zh,omnivorous,杂食性,8,0.4
+deepseek/deepseek-v4.1-flash,zh,adaptable,适应力强,8,0.4
+deepseek/deepseek-v4.1-flash,zh,death,死亡,8,0.4
+deepseek/deepseek-v4.1-flash,zh,omen,不祥之兆,7,0.35
+deepseek/deepseek-v4.1-flash,zh,messenger,神使,6,0.3
+deepseek/deepseek-v4.1-flash,zh,wisdom,智慧,6,0.3
+deepseek/deepseek-v4.1-flash,zh,bird,鸟类,5,0.25
+deepseek/deepseek-v4.1-flash,zh,social,社会性,5,0.25
+deepseek/deepseek-v4.1-flash,zh,scavenger,清道夫,5,0.25
+deepseek/deepseek-v4.1-flash,zh,sun symbol,太阳的象征,5,0.25
+deepseek/deepseek-v4.1-flash,zh,sacred,神鸟,5,0.25
+deepseek/deepseek-v4.1-flash,zh,mimicry,模仿声音,4,0.2
+deepseek/deepseek-v4.1-flash,zh,carrion,腐肉,4,0.2
+deepseek/deepseek-v4.1-flash,zh,black plumage,羽毛,4,0.2
+deepseek/deepseek-v4.1-flash,zh,guide,守护者,4,0.2
+deepseek/deepseek-v4.1-flash,zh,widespread,分布广泛,3,0.15
+deepseek/deepseek-v4.1-flash,zh,insects,吃昆虫,3,0.15
+deepseek/deepseek-v4.1-flash,zh,fruit,果实,3,0.15
+deepseek/deepseek-v4.1-flash,zh,communication,交流,3,0.15
+deepseek/deepseek-v4.1-flash,zh,problem solving,解决,3,0.15
+deepseek/deepseek-v4.1-flash,zh,cooperation,合作,3,0.15
+deepseek/deepseek-v4.1-flash,zh,iridescent,金属光泽,3,0.15
+deepseek/deepseek-v4.1-flash,zh,bad luck,厄运,3,0.15
+deepseek/deepseek-v4.1-flash,zh,grudge,记仇,3,0.15
+deepseek/deepseek-v4.1-flash,zh,prophecy,预言,3,0.15
+deepseek/deepseek-v4.1-flash,zh,carrion crow,小嘴乌鸦,2,0.1
+deepseek/deepseek-v4.1-flash,zh,rook,秃鼻乌鸦,2,0.1
+deepseek/deepseek-v4.1-flash,zh,taxonomy,通称,2,0.1
+deepseek/deepseek-v4.1-flash,zh,raven,渡鸦,2,0.1
+deepseek/deepseek-v4.1-flash,zh,symbolism,象征,2,0.1
+deepseek/deepseek-v4.1-flash,zh,self awareness,自我意识,2,0.1
+deepseek/deepseek-v4.1-flash,zh,hooded crow,小嘴乌鸦,1,0.05
+deepseek/deepseek-v4.1-flash,zh,seeds,种子,1,0.05
+deepseek/deepseek-v4.1-flash,zh,flock,成群活动,1,0.05
+deepseek/deepseek-v4.1-flash,zh,foraging,获取,1,0.05
+deepseek/deepseek-v4.1-flash,zh,cautious,警戒,1,0.05
+deepseek/deepseek-v4.1-flash,zh,size,体型较大,1,0.05
+deepseek/deepseek-v4.1-flash,zh,bad sound,叫声难听,1,0.05
+deepseek/deepseek-v4.1-flash,zh,gratitude,报恩,1,0.05
+deepseek/deepseek-v4.1-flash,zh,learning,学习能力,1,0.05
+deepseek/deepseek-v4.1-flash,zh,child,7岁左右的儿童,1,0.05
+deepseek/deepseek-v4.1-flash,zh,defense,协作防御,1,0.05
+deepseek/deepseek-v4.1-flash,zh,bad people,天下乌鸦一般黑,1,0.05
+deepseek/deepseek-v4.1-flash,zh,planning,计划能力,1,0.05
+deepseek/deepseek-v4.1-flash,zh,mourning,哀悼,1,0.05
+deepseek/deepseek-v4.1-flash,zh,ancestor symbol,祖先的象征,1,0.05
+deepseek/deepseek-v4.1-flash,zh,pest,害鸟,1,0.05
+deepseek/deepseek-v4.1-flash,zh,cleaner,清理,1,0.05
+deepseek/deepseek-v4.1-flash,zh,pest control,控制,1,0.05
+deepseek/deepseek-v4.1-flash,zh,predator,捕食小鸟,1,0.05
+deepseek/deepseek-v4.1-flash,zh,counting,数量概念,1,0.05
+deepseek/deepseek-v4.1-flash,zh,creator,创造者,1,0.05
+deepseek/deepseek-v4.1-flash,zh,trickster,骗子,1,0.05
+deepseek/deepseek-v4.1-flash,zh,good omen,吉祥,1,0.05
+deepseek/deepseek-v4.1-flash,zh,behavior,会合作、试探、模仿,1,0.05
+deepseek/deepseek-v4.1-flash,zh,three-legged crow,三足乌,1,0.05
+deepseek/deepseek-v4.1-flash,zh,mythology,神话,1,0.05
+google/gemini-3.5-flash-lite,en,intelligent,intelligence,19,0.95
+google/gemini-3.5-flash-lite,en,bird,bird,19,0.95
+google/gemini-3.5-flash-lite,en,social,social,14,0.7
+google/gemini-3.5-flash-lite,en,tool use,use,13,0.65
+google/gemini-3.5-flash-lite,en,trickster,trickery,8,0.4
+google/gemini-3.5-flash-lite,en,adaptable,adaptability,7,0.35
+google/gemini-3.5-flash-lite,en,transformation,transformation,7,0.35
+google/gemini-3.5-flash-lite,en,problem solving,problem-solving,5,0.25
+google/gemini-3.5-flash-lite,en,call,call,4,0.2
+google/gemini-3.5-flash-lite,en,messenger,messengers,4,0.2
+google/gemini-3.5-flash-lite,en,flock,murder,4,0.2
+google/gemini-3.5-flash-lite,en,mythology,mythology,3,0.15
+google/gemini-3.5-flash-lite,en,communication,communicate,3,0.15
+google/gemini-3.5-flash-lite,en,creator,creation,3,0.15
+google/gemini-3.5-flash-lite,en,death,death,2,0.1
+google/gemini-3.5-flash-lite,en,symbolism,symbol,2,0.1
+google/gemini-3.5-flash-lite,en,mysterious,mystery,1,0.05
+google/gemini-3.5-flash-lite,en,omnivorous,omnivorous,1,0.05
+google/gemini-3.5-flash-lite,en,animal,animal,1,0.05
+google/gemini-3.5-flash-lite,en,diet,diet,1,0.05
+google/gemini-3.5-flash-lite,en,face recognition,recognize,1,0.05
+google/gemini-3.5-flash-lite,en,grudge,grudge,1,0.05
+google/gemini-3.5-flash-lite,en,urban,environment,1,0.05
+google/gemini-3.5-flash-lite,en,widespread,found,1,0.05
+google/gemini-3.5-flash-lite,en,monogamous,form,1,0.05
+google/gemini-3.5-flash-lite,en,wisdom,wisdom,1,0.05
+google/gemini-3.5-flash-lite,en,spirit animal,significant spiritual figure,1,0.05
+google/gemini-3.5-flash-lite,en,black plumage,plumage,1,0.05
+google/gemini-3.5-flash-lite,en,corvid,corvid,1,0.05
+google/gemini-3.5-flash-lite,ja,intelligent,高い,20,1.0
+google/gemini-3.5-flash-lite,ja,tool use,使う,19,0.95
+google/gemini-3.5-flash-lite,ja,face recognition,覚える,18,0.9
+google/gemini-3.5-flash-lite,ja,counting,数える,14,0.7
+google/gemini-3.5-flash-lite,ja,scavenger,荒らす,14,0.7
+google/gemini-3.5-flash-lite,ja,omnivorous,雑食性,13,0.65
+google/gemini-3.5-flash-lite,ja,bird,鳥類,13,0.65
+google/gemini-3.5-flash-lite,ja,pest,害鳥,12,0.6
+google/gemini-3.5-flash-lite,ja,jungle crow,ハシブトガラス,10,0.5
+google/gemini-3.5-flash-lite,ja,widespread,分布,9,0.45
+google/gemini-3.5-flash-lite,ja,beak,太い,9,0.45
+google/gemini-3.5-flash-lite,ja,appearance,出っ張っている,8,0.4
+google/gemini-3.5-flash-lite,ja,social,社会性,8,0.4
+google/gemini-3.5-flash-lite,ja,habitat,好む,7,0.35
+google/gemini-3.5-flash-lite,ja,adaptable,適応力,7,0.35
+google/gemini-3.5-flash-lite,ja,urban,見かける,7,0.35
+google/gemini-3.5-flash-lite,ja,black plumage,黒い羽,6,0.3
+google/gemini-3.5-flash-lite,ja,memory,記憶力,6,0.3
+google/gemini-3.5-flash-lite,ja,aggressive,威嚇する,6,0.3
+google/gemini-3.5-flash-lite,ja,iridescent,光沢,6,0.3
+google/gemini-3.5-flash-lite,ja,three-legged crow,八咫烏,5,0.25
+google/gemini-3.5-flash-lite,ja,breeding,飼育,5,0.25
+google/gemini-3.5-flash-lite,ja,large-billed crow,ハシブトガラス,5,0.25
+google/gemini-3.5-flash-lite,ja,cautious,警戒心,5,0.25
+google/gemini-3.5-flash-lite,ja,call,鳴き声,5,0.25
+google/gemini-3.5-flash-lite,ja,self awareness,認識する,5,0.25
+google/gemini-3.5-flash-lite,ja,communication,コミュニケーション,5,0.25
+google/gemini-3.5-flash-lite,ja,carrion crow,ハシボソガラス,5,0.25
+google/gemini-3.5-flash-lite,ja,monogamous,過ごす,5,0.25
+google/gemini-3.5-flash-lite,ja,problem solving,問題解決能力,5,0.25
+google/gemini-3.5-flash-lite,ja,defense,威嚇・攻撃する,4,0.2
+google/gemini-3.5-flash-lite,ja,interesting,興味深い,4,0.2
+google/gemini-3.5-flash-lite,ja,learning,学習能力,3,0.15
+google/gemini-3.5-flash-lite,ja,cognition,高い,3,0.15
+google/gemini-3.5-flash-lite,ja,black,黒い,3,0.15
+google/gemini-3.5-flash-lite,ja,corvid,スズメ目カラス科,3,0.15
+google/gemini-3.5-flash-lite,ja,mythology,神話,3,0.15
+google/gemini-3.5-flash-lite,ja,messenger,神,2,0.1
+google/gemini-3.5-flash-lite,ja,flock,群れで行動する,2,0.1
+google/gemini-3.5-flash-lite,ja,playful,遊ぶ,2,0.1
+google/gemini-3.5-flash-lite,ja,guide,神聖な導きの鳥,2,0.1
+google/gemini-3.5-flash-lite,ja,strong,頑丈な体,2,0.1
+google/gemini-3.5-flash-lite,ja,mourning,とる,2,0.1
+google/gemini-3.5-flash-lite,ja,animal,生き物,2,0.1
+google/gemini-3.5-flash-lite,ja,mobbing,行動,2,0.1
+google/gemini-3.5-flash-lite,ja,sacred,神聖,2,0.1
+google/gemini-3.5-flash-lite,ja,symbolism,象徴,1,0.05
+google/gemini-3.5-flash-lite,ja,feather,羽を丈夫にする効果,1,0.05
+google/gemini-3.5-flash-lite,ja,awe,畏敬を集める存在,1,0.05
+google/gemini-3.5-flash-lite,ja,protected,強い紫外線や摩擦から体を守る,1,0.05
+google/gemini-3.5-flash-lite,ja,wisdom,賢い,1,0.05
+google/gemini-3.5-flash-lite,ja,bad sound,鳴きます,1,0.05
+google/gemini-3.5-flash-lite,ja,foraging,行動,1,0.05
+google/gemini-3.5-flash-lite,ja,cleaner,掃除屋,1,0.05
+google/gemini-3.5-flash-lite,ja,vision,優れる,1,0.05
+google/gemini-3.5-flash-lite,ja,behavior,姿勢,1,0.05
+google/gemini-3.5-flash-lite,ja,cooperation,協力,1,0.05
+google/gemini-3.5-flash-lite,ja,parental care,攻撃する,1,0.05
+google/gemini-3.5-flash-lite,ja,territorial,縄張り主張,1,0.05
+google/gemini-3.5-flash-lite,ja,trickster,トリックスター,1,0.05
+google/gemini-3.5-flash-lite,ko,omnivorous,잡식성,20,1.0
+google/gemini-3.5-flash-lite,ko,intelligent,지능,20,1.0
+google/gemini-3.5-flash-lite,ko,social,사회성,20,1.0
+google/gemini-3.5-flash-lite,ko,tool use,사용하다,20,1.0
+google/gemini-3.5-flash-lite,ko,bird,새,18,0.9
+google/gemini-3.5-flash-lite,ko,wisdom,지혜,17,0.85
+google/gemini-3.5-flash-lite,ko,death,죽음,17,0.85
+google/gemini-3.5-flash-lite,ko,sun symbol,삼족오,15,0.75
+google/gemini-3.5-flash-lite,ko,omen,흉조,14,0.7
+google/gemini-3.5-flash-lite,ko,communication,소통하다,13,0.65
+google/gemini-3.5-flash-lite,ko,mourning,행동,13,0.65
+google/gemini-3.5-flash-lite,ko,scavenger,먹다,13,0.65
+google/gemini-3.5-flash-lite,ko,memory,기억하다,12,0.6
+google/gemini-3.5-flash-lite,ko,adaptable,강하다,11,0.55
+google/gemini-3.5-flash-lite,ko,filial piety,상징,11,0.55
+google/gemini-3.5-flash-lite,ko,flock,생활하다,10,0.5
+google/gemini-3.5-flash-lite,ko,sacred,신성시되다,9,0.45
+google/gemini-3.5-flash-lite,ko,face recognition,기억하다,8,0.4
+google/gemini-3.5-flash-lite,ko,problem solving,문제 해결 능력,7,0.35
+google/gemini-3.5-flash-lite,ko,bad omen,흉조,7,0.35
+google/gemini-3.5-flash-lite,ko,magic,마법,6,0.3
+google/gemini-3.5-flash-lite,ko,cognition,능력,6,0.3
+google/gemini-3.5-flash-lite,ko,mysterious,신비로움,5,0.25
+google/gemini-3.5-flash-lite,ko,darkness,이미지,4,0.2
+google/gemini-3.5-flash-lite,ko,witch familiar,사역마,3,0.15
+google/gemini-3.5-flash-lite,ko,three-legged crow,삼족오,3,0.15
+google/gemini-3.5-flash-lite,ko,self awareness,거울에 비친 자신을 인식하다,3,0.15
+google/gemini-3.5-flash-lite,ko,widespread,분포하다,3,0.15
+google/gemini-3.5-flash-lite,ko,black plumage,검은 깃털,3,0.15
+google/gemini-3.5-flash-lite,ko,good omen,길조,2,0.1
+google/gemini-3.5-flash-lite,ko,corvid,까마귀과,2,0.1
+google/gemini-3.5-flash-lite,ko,cooperation,협력하다,2,0.1
+google/gemini-3.5-flash-lite,ko,symbolism,상징,2,0.1
+google/gemini-3.5-flash-lite,ko,animal,영장류,2,0.1
+google/gemini-3.5-flash-lite,ko,diet,먹이,2,0.1
+google/gemini-3.5-flash-lite,ko,beak,부리,2,0.1
+google/gemini-3.5-flash-lite,ko,trickster,짓궂은 훼방꾼,1,0.05
+google/gemini-3.5-flash-lite,ko,loyalty,새,1,0.05
+google/gemini-3.5-flash-lite,ko,counting,셀 수 있다,1,0.05
+google/gemini-3.5-flash-lite,ko,black,검은색,1,0.05
+google/gemini-3.5-flash-lite,ko,messenger,신의 사자,1,0.05
+google/gemini-3.5-flash-lite,ko,learning,학습,1,0.05
+google/gemini-3.5-flash-lite,ko,call,울음소리,1,0.05
+google/gemini-3.5-flash-lite,ko,planning,수립,1,0.05
+google/gemini-3.5-flash-lite,ko,grudge,보복성,1,0.05
+google/gemini-3.5-flash-lite,zh,intelligent,聪明,20,1.0
+google/gemini-3.5-flash-lite,zh,tool use,使用工具,20,1.0
+google/gemini-3.5-flash-lite,zh,black,黑色,19,0.95
+google/gemini-3.5-flash-lite,zh,death,死亡,19,0.95
+google/gemini-3.5-flash-lite,zh,omnivorous,杂食性,18,0.9
+google/gemini-3.5-flash-lite,zh,mysterious,神秘,18,0.9
+google/gemini-3.5-flash-lite,zh,adaptable,适应力强,18,0.9
+google/gemini-3.5-flash-lite,zh,face recognition,识别,17,0.85
+google/gemini-3.5-flash-lite,zh,social,社会性,17,0.85
+google/gemini-3.5-flash-lite,zh,creator,创造者,14,0.7
+google/gemini-3.5-flash-lite,zh,good omen,吉祥,13,0.65
+google/gemini-3.5-flash-lite,zh,bad omen,不祥之兆,13,0.65
+google/gemini-3.5-flash-lite,zh,filial piety,乌鸦反哺,13,0.65
+google/gemini-3.5-flash-lite,zh,cognition,认知能力,13,0.65
+google/gemini-3.5-flash-lite,zh,problem solving,解决,11,0.55
+google/gemini-3.5-flash-lite,zh,wisdom,智慧,10,0.5
+google/gemini-3.5-flash-lite,zh,scavenger,清道夫,10,0.5
+google/gemini-3.5-flash-lite,zh,communication,交流,10,0.5
+google/gemini-3.5-flash-lite,zh,omen,不祥之兆,9,0.45
+google/gemini-3.5-flash-lite,zh,bad luck,厄运,9,0.45
+google/gemini-3.5-flash-lite,zh,memory,记忆力,9,0.45
+google/gemini-3.5-flash-lite,zh,sun symbol,太阳的象征,8,0.4
+google/gemini-3.5-flash-lite,zh,flock,成群活动,8,0.4
+google/gemini-3.5-flash-lite,zh,darkness,黑暗,7,0.35
+google/gemini-3.5-flash-lite,zh,culture hero,文化英雄,7,0.35
+google/gemini-3.5-flash-lite,zh,trickster,骗子,7,0.35
+google/gemini-3.5-flash-lite,zh,taxonomy,通称,7,0.35
+google/gemini-3.5-flash-lite,zh,mourning,哀悼,7,0.35
+google/gemini-3.5-flash-lite,zh,monogamous,一夫一妻制,6,0.3
+google/gemini-3.5-flash-lite,zh,iridescent,金属光泽,5,0.25
+google/gemini-3.5-flash-lite,zh,magic,巫术,4,0.2
+google/gemini-3.5-flash-lite,zh,strong,强壮,4,0.2
+google/gemini-3.5-flash-lite,zh,size,体型较大,4,0.2
+google/gemini-3.5-flash-lite,zh,widespread,分布广泛,4,0.2
+google/gemini-3.5-flash-lite,zh,beak,喙粗壮,4,0.2
+google/gemini-3.5-flash-lite,zh,appearance,尾长,4,0.2
+google/gemini-3.5-flash-lite,zh,learning,学习能力,3,0.15
+google/gemini-3.5-flash-lite,zh,sacred,神鸟,3,0.15
+google/gemini-3.5-flash-lite,zh,warning,传递危险信号,3,0.15
+google/gemini-3.5-flash-lite,zh,pest control,控制,3,0.15
+google/gemini-3.5-flash-lite,zh,symbolism,象征,3,0.15
+google/gemini-3.5-flash-lite,zh,self awareness,自我意识,2,0.1
+google/gemini-3.5-flash-lite,zh,bird,鸟类,2,0.1
+google/gemini-3.5-flash-lite,zh,loyalty,忠诚,2,0.1
+google/gemini-3.5-flash-lite,zh,cautious,警戒,2,0.1
+google/gemini-3.5-flash-lite,zh,cooperation,合作,2,0.1
+google/gemini-3.5-flash-lite,zh,messenger,神使,2,0.1
+google/gemini-3.5-flash-lite,zh,diet,吃,2,0.1
+google/gemini-3.5-flash-lite,zh,corvid,鸦科,2,0.1
+google/gemini-3.5-flash-lite,zh,prophecy,预言,2,0.1
+google/gemini-3.5-flash-lite,zh,mimicry,模仿声音,1,0.05
+google/gemini-3.5-flash-lite,zh,call,叫声,1,0.05
+google/gemini-3.5-flash-lite,zh,light,光明,1,0.05
+google/gemini-3.5-flash-lite,zh,cleaner,清理,1,0.05
+google/gemini-3.5-flash-lite,zh,seed dispersal,传播,1,0.05
+google/gemini-3.5-flash-lite,zh,misunderstood,误解,1,0.05
+google/gemini-3.5-flash-lite,zh,folklore,口口相传,1,0.05
+google/gemini-3.5-flash-lite,zh,planning,计划能力,1,0.05
+google/gemini-3.5-flash-lite,zh,counting,数量概念,1,0.05
+google/gemini-3.5-flash-lite,zh,habitat,森林,1,0.05
+google/gemini-3.5-flash-lite,zh,three-legged crow,三足乌,1,0.05
+google/gemini-3.5-flash-lite,zh,rituals,聚集活动,1,0.05
+google/gemini-3.5-flash-lite,zh,behavior,会合作、试探、模仿,1,0.05
+google/gemini-3.5-flash-lite,zh,parental care,观念,1,0.05
+google/gemini-3.5-flash-lite,zh,flight,飞行,1,0.05
+google/gemini-3.5-flash-lite,zh,black plumage,羽毛,1,0.05
+meta-llama/llama-4-maverick,en,intelligent,intelligence,20,1.0
+meta-llama/llama-4-maverick,en,problem solving,problem-solving,15,0.75
+meta-llama/llama-4-maverick,en,bird,bird,14,0.7
+meta-llama/llama-4-maverick,en,call,call,14,0.7
+meta-llama/llama-4-maverick,en,tool use,use,14,0.7
+meta-llama/llama-4-maverick,en,death,death,13,0.65
+meta-llama/llama-4-maverick,en,social,social,13,0.65
+meta-llama/llama-4-maverick,en,mysterious,mystery,11,0.55
+meta-llama/llama-4-maverick,en,black plumage,plumage,7,0.35
+meta-llama/llama-4-maverick,en,omnivorous,omnivorous,7,0.35
+meta-llama/llama-4-maverick,en,symbolism,symbol,7,0.35
+meta-llama/llama-4-maverick,en,diet,diet,6,0.3
+meta-llama/llama-4-maverick,en,playful,playful,6,0.3
+meta-llama/llama-4-maverick,en,wisdom,wisdom,5,0.25
+meta-llama/llama-4-maverick,en,communication,communicate,5,0.25
+meta-llama/llama-4-maverick,en,adaptable,adaptability,5,0.25
+meta-llama/llama-4-maverick,en,messenger,messengers,4,0.2
+meta-llama/llama-4-maverick,en,bad luck,bad luck,4,0.2
+meta-llama/llama-4-maverick,en,mythology,mythology,4,0.2
+meta-llama/llama-4-maverick,en,omen,omen,4,0.2
+meta-llama/llama-4-maverick,en,black,black,3,0.15
+meta-llama/llama-4-maverick,en,transformation,transformation,3,0.15
+meta-llama/llama-4-maverick,en,magic,magic,3,0.15
+meta-llama/llama-4-maverick,en,memory,memory,3,0.15
+meta-llama/llama-4-maverick,en,monogamous,form,3,0.15
+meta-llama/llama-4-maverick,en,face recognition,recognize,3,0.15
+meta-llama/llama-4-maverick,en,widespread,found,2,0.1
+meta-llama/llama-4-maverick,en,insects,insects,2,0.1
+meta-llama/llama-4-maverick,en,flock,murder,2,0.1
+meta-llama/llama-4-maverick,en,small animals,animal,2,0.1
+meta-llama/llama-4-maverick,en,fruit,fruit,2,0.1
+meta-llama/llama-4-maverick,en,seeds,seed,2,0.1
+meta-llama/llama-4-maverick,en,beak,beak,2,0.1
+meta-llama/llama-4-maverick,en,behavior,behavior,2,0.1
+meta-llama/llama-4-maverick,en,foraging,seek,2,0.1
+meta-llama/llama-4-maverick,en,bad omen,omen,1,0.05
+meta-llama/llama-4-maverick,en,scavenger,scavengers,1,0.05
+meta-llama/llama-4-maverick,en,trickster,trickery,1,0.05
+meta-llama/llama-4-maverick,en,corvid,corvid,1,0.05
+meta-llama/llama-4-maverick,en,cooperation,cooperative,1,0.05
+meta-llama/llama-4-maverick,en,appearance,long,1,0.05
+meta-llama/llama-4-maverick,en,habitat,place,1,0.05
+meta-llama/llama-4-maverick,en,guide,guide,1,0.05
+meta-llama/llama-4-maverick,en,grudge,grudge,1,0.05
+meta-llama/llama-4-maverick,en,planning,plan,1,0.05
+meta-llama/llama-4-maverick,en,cognition,thought,1,0.05
+meta-llama/llama-4-maverick,en,migration,travels,1,0.05
+meta-llama/llama-4-maverick,en,interesting,fascinating,1,0.05
+meta-llama/llama-4-maverick,en,strong,strong,1,0.05
+meta-llama/llama-4-maverick,ja,intelligent,高い,17,0.85
+meta-llama/llama-4-maverick,ja,bird,鳥類,15,0.75
+meta-llama/llama-4-maverick,ja,social,社会性,7,0.35
+meta-llama/llama-4-maverick,ja,tool use,使う,6,0.3
+meta-llama/llama-4-maverick,ja,communication,コミュニケーション,4,0.2
+meta-llama/llama-4-maverick,ja,memory,記憶力,4,0.2
+meta-llama/llama-4-maverick,ja,planning,計画性,3,0.15
+meta-llama/llama-4-maverick,ja,face recognition,覚える,3,0.15
+meta-llama/llama-4-maverick,ja,problem solving,問題解決能力,3,0.15
+meta-llama/llama-4-maverick,ja,adaptable,適応力,2,0.1
+meta-llama/llama-4-maverick,ja,cooperation,協力,2,0.1
+meta-llama/llama-4-maverick,ja,raven,ワタリガラス,1,0.05
+meta-llama/llama-4-maverick,ja,carrion crow,ハシボソガラス,1,0.05
+meta-llama/llama-4-maverick,ja,jungle crow,ハシブトガラス,1,0.05
+meta-llama/llama-4-maverick,ja,habitat,好む,1,0.05
+meta-llama/llama-4-maverick,ja,feather,羽を丈夫にする効果,1,0.05
+meta-llama/llama-4-maverick,ja,flock,群れで行動する,1,0.05
+meta-llama/llama-4-maverick,ja,symbolism,象徴,1,0.05
+meta-llama/llama-4-maverick,ja,sacred,神聖,1,0.05
+meta-llama/llama-4-maverick,ja,widespread,分布,1,0.05
+meta-llama/llama-4-maverick,ja,omnivorous,雑食性,1,0.05
+meta-llama/llama-4-maverick,ja,size,大型,1,0.05
+meta-llama/llama-4-maverick,ja,interesting,興味深い,1,0.05
+meta-llama/llama-4-maverick,ko,intelligent,지능,18,0.9
+meta-llama/llama-4-maverick,ko,tool use,사용하다,15,0.75
+meta-llama/llama-4-maverick,ko,problem solving,문제 해결 능력,14,0.7
+meta-llama/llama-4-maverick,ko,social,사회성,12,0.6
+meta-llama/llama-4-maverick,ko,communication,소통하다,7,0.35
+meta-llama/llama-4-maverick,ko,memory,기억하다,7,0.35
+meta-llama/llama-4-maverick,ko,cognition,능력,6,0.3
+meta-llama/llama-4-maverick,ko,bird,새,5,0.25
+meta-llama/llama-4-maverick,ko,mimicry,모방하다,4,0.2
+meta-llama/llama-4-maverick,ko,face recognition,기억하다,4,0.2
+meta-llama/llama-4-maverick,ko,interesting,흥미롭다,3,0.15
+meta-llama/llama-4-maverick,ko,playful,놀다,3,0.15
+meta-llama/llama-4-maverick,ko,animal,영장류,3,0.15
+meta-llama/llama-4-maverick,ko,omnivorous,잡식성,2,0.1
+meta-llama/llama-4-maverick,ko,planning,수립,2,0.1
+meta-llama/llama-4-maverick,ko,gratitude,잘해주다,1,0.05
+meta-llama/llama-4-maverick,ko,pest,괴롭히다,1,0.05
+meta-llama/llama-4-maverick,ko,important,두드러지다,1,0.05
+meta-llama/llama-4-maverick,ko,science,대상,1,0.05
+meta-llama/llama-4-maverick,ko,cooperation,협력하다,1,0.05
+meta-llama/llama-4-maverick,ko,habitat,농촌,1,0.05
+meta-llama/llama-4-maverick,ko,rook,떼까마귀,1,0.05
+meta-llama/llama-4-maverick,ko,symbolism,상징,1,0.05
+meta-llama/llama-4-maverick,ko,mythology,북유럽 신화,1,0.05
+meta-llama/llama-4-maverick,ko,foraging,먹이 찾기 능력,1,0.05
+meta-llama/llama-4-maverick,ko,mourning,행동,1,0.05
+meta-llama/llama-4-maverick,ko,omen,흉조,1,0.05
+meta-llama/llama-4-maverick,ko,black,검은색,1,0.05
+meta-llama/llama-4-maverick,ko,iridescent,광택이 나다,1,0.05
+meta-llama/llama-4-maverick,ko,call,울음소리,1,0.05
+meta-llama/llama-4-maverick,zh,intelligent,聪明,20,1.0
+meta-llama/llama-4-maverick,zh,tool use,使用工具,8,0.4
+meta-llama/llama-4-maverick,zh,problem solving,解决,7,0.35
+meta-llama/llama-4-maverick,zh,memory,记忆力,7,0.35
+meta-llama/llama-4-maverick,zh,social,社会性,5,0.25
+meta-llama/llama-4-maverick,zh,omnivorous,杂食性,4,0.2
+meta-llama/llama-4-maverick,zh,corvid,鸦科,4,0.2
+meta-llama/llama-4-maverick,zh,beak,喙粗壮,4,0.2
+meta-llama/llama-4-maverick,zh,communication,交流,4,0.2
+meta-llama/llama-4-maverick,zh,bird,鸟类,4,0.2
+meta-llama/llama-4-maverick,zh,strong,强壮,3,0.15
+meta-llama/llama-4-maverick,zh,black plumage,羽毛,3,0.15
+meta-llama/llama-4-maverick,zh,face recognition,识别,3,0.15
+meta-llama/llama-4-maverick,zh,cognition,认知能力,3,0.15
+meta-llama/llama-4-maverick,zh,black,黑色,2,0.1
+meta-llama/llama-4-maverick,zh,bad omen,不祥之兆,2,0.1
+meta-llama/llama-4-maverick,zh,death,死亡,2,0.1
+meta-llama/llama-4-maverick,zh,call,叫声,2,0.1
+meta-llama/llama-4-maverick,zh,fruit,果实,2,0.1
+meta-llama/llama-4-maverick,zh,seeds,种子,2,0.1
+meta-llama/llama-4-maverick,zh,insects,吃昆虫,2,0.1
+meta-llama/llama-4-maverick,zh,scavenger,清道夫,2,0.1
+meta-llama/llama-4-maverick,zh,carrion,腐肉,2,0.1
+meta-llama/llama-4-maverick,zh,wisdom,智慧,2,0.1
+meta-llama/llama-4-maverick,zh,cooperation,合作,2,0.1
+meta-llama/llama-4-maverick,zh,widespread,分布广泛,1,0.05
+meta-llama/llama-4-maverick,zh,self awareness,自我意识,1,0.05
+meta-llama/llama-4-maverick,zh,learning,学习能力,1,0.05
+meta-llama/llama-4-maverick,zh,mysterious,神秘,1,0.05
+meta-llama/llama-4-maverick,zh,foraging,获取,1,0.05
+meta-llama/llama-4-maverick,zh,planning,计划能力,1,0.05
+meta-llama/llama-4-maverick,zh,helpful,帮助,1,0.05
+meta-llama/llama-4-maverick,zh,adaptable,适应力强,1,0.05
+mistralai/mistral-small-2603,en,intelligent,intelligence,11,0.733
+mistralai/mistral-small-2603,en,bird,bird,10,0.667
+mistralai/mistral-small-2603,en,beak,beak,4,0.267
+mistralai/mistral-small-2603,en,social,social,4,0.267
+mistralai/mistral-small-2603,en,black plumage,plumage,4,0.267
+mistralai/mistral-small-2603,en,death,death,4,0.267
+mistralai/mistral-small-2603,en,black,black,3,0.2
+mistralai/mistral-small-2603,en,problem solving,problem-solving,3,0.2
+mistralai/mistral-small-2603,en,tool use,use,3,0.2
+mistralai/mistral-small-2603,en,symbolism,symbol,3,0.2
+mistralai/mistral-small-2603,en,call,call,3,0.2
+mistralai/mistral-small-2603,en,taxonomy,american,3,0.2
+mistralai/mistral-small-2603,en,size,large,3,0.2
+mistralai/mistral-small-2603,en,mysterious,mystery,3,0.2
+mistralai/mistral-small-2603,en,adaptable,adaptability,2,0.133
+mistralai/mistral-small-2603,en,corvid,corvid,2,0.133
+mistralai/mistral-small-2603,en,mythology,mythology,2,0.133
+mistralai/mistral-small-2603,en,behavior,behavior,2,0.133
+mistralai/mistral-small-2603,en,prophecy,prophecy,2,0.133
+mistralai/mistral-small-2603,en,diet,diet,2,0.133
+mistralai/mistral-small-2603,en,foraging,seek,1,0.067
+mistralai/mistral-small-2603,en,flight,go out,1,0.067
+mistralai/mistral-small-2603,en,darkness,dead of night,1,0.067
+mistralai/mistral-small-2603,en,habitat,place,1,0.067
+mistralai/mistral-small-2603,en,light,give him light,1,0.067
+mistralai/mistral-small-2603,en,trickster,trickery,1,0.067
+mistralai/mistral-small-2603,en,triumph,noisy expression of triumph,1,0.067
+mistralai/mistral-small-2603,en,wisdom,wisdom,1,0.067
+mistralai/mistral-small-2603,en,insects,insects,1,0.067
+mistralai/mistral-small-2603,en,animal,animal,1,0.067
+mistralai/mistral-small-2603,en,carrion,carrion,1,0.067
+mistralai/mistral-small-2603,en,flock,murder,1,0.067
+mistralai/mistral-small-2603,en,flattery,story,1,0.067
+mistralai/mistral-small-2603,en,appearance,long,1,0.067
+mistralai/mistral-small-2603,en,omen,omen,1,0.067
+mistralai/mistral-small-2603,en,face recognition,recognize,1,0.067
+mistralai/mistral-small-2603,ja,intelligent,高い,20,1.0
+mistralai/mistral-small-2603,ja,tool use,使う,19,0.95
+mistralai/mistral-small-2603,ja,problem solving,問題解決能力,17,0.85
+mistralai/mistral-small-2603,ja,memory,記憶力,13,0.65
+mistralai/mistral-small-2603,ja,social,社会性,11,0.55
+mistralai/mistral-small-2603,ja,cooperation,協力,5,0.25
+mistralai/mistral-small-2603,ja,communication,コミュニケーション,5,0.25
+mistralai/mistral-small-2603,ja,call,鳴き声,5,0.25
+mistralai/mistral-small-2603,ja,face recognition,覚える,4,0.2
+mistralai/mistral-small-2603,ja,learning,学習能力,4,0.2
+mistralai/mistral-small-2603,ja,omnivorous,雑食性,4,0.2
+mistralai/mistral-small-2603,ja,corvid,スズメ目カラス科,4,0.2
+mistralai/mistral-small-2603,ja,lifespan,寿命,3,0.15
+mistralai/mistral-small-2603,ja,beak,太い,3,0.15
+mistralai/mistral-small-2603,ja,jungle crow,ハシブトガラス,3,0.15
+mistralai/mistral-small-2603,ja,bird,鳥類,2,0.1
+mistralai/mistral-small-2603,ja,size,大型,2,0.1
+mistralai/mistral-small-2603,ja,migration,冬鳥,2,0.1
+mistralai/mistral-small-2603,ja,cognition,高い,2,0.1
+mistralai/mistral-small-2603,ja,bad omen,不吉,2,0.1
+mistralai/mistral-small-2603,ja,urban,見かける,2,0.1
+mistralai/mistral-small-2603,ja,mimicry,模倣する,2,0.1
+mistralai/mistral-small-2603,ja,behavior,姿勢,2,0.1
+mistralai/mistral-small-2603,ja,habitat,好む,2,0.1
+mistralai/mistral-small-2603,ja,black,黒い,2,0.1
+mistralai/mistral-small-2603,ja,carrion crow,ハシボソガラス,2,0.1
+mistralai/mistral-small-2603,ja,iridescent,光沢,2,0.1
+mistralai/mistral-small-2603,ja,widespread,分布,2,0.1
+mistralai/mistral-small-2603,ja,self awareness,認識する,1,0.05
+mistralai/mistral-small-2603,ja,defense,威嚇・攻撃する,1,0.05
+mistralai/mistral-small-2603,ja,diet,食べ物,1,0.05
+mistralai/mistral-small-2603,ja,pest,害鳥,1,0.05
+mistralai/mistral-small-2603,ja,ecology,生態,1,0.05
+mistralai/mistral-small-2603,ja,large-billed crow,ハシブトガラス,1,0.05
+mistralai/mistral-small-2603,ja,language,英語,1,0.05
+mistralai/mistral-small-2603,ja,feather,羽を丈夫にする効果,1,0.05
+mistralai/mistral-small-2603,ja,appearance,出っ張っている,1,0.05
+mistralai/mistral-small-2603,ja,taxonomy,総称,1,0.05
+mistralai/mistral-small-2603,ja,folklore,迷信,1,0.05
+mistralai/mistral-small-2603,ja,black plumage,黒い羽,1,0.05
+mistralai/mistral-small-2603,ja,helpful,助ける,1,0.05
+mistralai/mistral-small-2603,ja,foraging,行動,1,0.05
+mistralai/mistral-small-2603,ja,seeds,種子,1,0.05
+mistralai/mistral-small-2603,ja,symbolism,象徴,1,0.05
+mistralai/mistral-small-2603,ja,scavenger,荒らす,1,0.05
+mistralai/mistral-small-2603,ja,carrion,死骸,1,0.05
+mistralai/mistral-small-2603,ja,small animals,小動物,1,0.05
+mistralai/mistral-small-2603,ko,intelligent,지능,10,0.5
+mistralai/mistral-small-2603,ko,bird,새,9,0.45
+mistralai/mistral-small-2603,ko,black plumage,검은 깃털,8,0.4
+mistralai/mistral-small-2603,ko,problem solving,문제 해결 능력,7,0.35
+mistralai/mistral-small-2603,ko,tool use,사용하다,7,0.35
+mistralai/mistral-small-2603,ko,size,크다,6,0.3
+mistralai/mistral-small-2603,ko,beak,부리,6,0.3
+mistralai/mistral-small-2603,ko,black,검은색,6,0.3
+mistralai/mistral-small-2603,ko,wisdom,지혜,6,0.3
+mistralai/mistral-small-2603,ko,social,사회성,5,0.25
+mistralai/mistral-small-2603,ko,death,죽음,5,0.25
+mistralai/mistral-small-2603,ko,appearance,생김새,5,0.25
+mistralai/mistral-small-2603,ko,mythology,북유럽 신화,4,0.2
+mistralai/mistral-small-2603,ko,bad omen,흉조,4,0.2
+mistralai/mistral-small-2603,ko,habitat,농촌,4,0.2
+mistralai/mistral-small-2603,ko,insects,곤충,3,0.15
+mistralai/mistral-small-2603,ko,call,울음소리,3,0.15
+mistralai/mistral-small-2603,ko,memory,기억하다,3,0.15
+mistralai/mistral-small-2603,ko,raven,큰까마귀,3,0.15
+mistralai/mistral-small-2603,ko,omnivorous,잡식성,3,0.15
+mistralai/mistral-small-2603,ko,corvid,까마귀과,3,0.15
+mistralai/mistral-small-2603,ko,omen,흉조,3,0.15
+mistralai/mistral-small-2603,ko,art,литературный,2,0.1
+mistralai/mistral-small-2603,ko,carrion,죽은 동물,2,0.1
+mistralai/mistral-small-2603,ko,flock,생활하다,2,0.1
+mistralai/mistral-small-2603,ko,symbolism,상징,2,0.1
+mistralai/mistral-small-2603,ko,strong,powerful하다,2,0.1
+mistralai/mistral-small-2603,ko,widespread,분포하다,2,0.1
+mistralai/mistral-small-2603,ko,urban,도시,2,0.1
+mistralai/mistral-small-2603,ko,large-billed crow,큰부리까마귀,2,0.1
+mistralai/mistral-small-2603,ko,communication,소통하다,2,0.1
+mistralai/mistral-small-2603,ko,learning,학습,2,0.1
+mistralai/mistral-small-2603,ko,lifespan,수명,2,0.1
+mistralai/mistral-small-2603,ko,messenger,신의 사자,2,0.1
+mistralai/mistral-small-2603,ko,culture hero,культурный,1,0.05
+mistralai/mistral-small-2603,ko,taxonomy,종류,1,0.05
+mistralai/mistral-small-2603,ko,carrion crow,큰까마귀,1,0.05
+mistralai/mistral-small-2603,ko,behavior,습성,1,0.05
+mistralai/mistral-small-2603,ko,cognition,능력,1,0.05
+mistralai/mistral-small-2603,ko,light,밝은,1,0.05
+mistralai/mistral-small-2603,ko,guide,보호자의 상징,1,0.05
+mistralai/mistral-small-2603,ko,prophecy,예언,1,0.05
+mistralai/mistral-small-2603,ko,seeds,씨앗,1,0.05
+mistralai/mistral-small-2603,ko,small animals,동물,1,0.05
+mistralai/mistral-small-2603,ko,mysterious,신비로움,1,0.05
+mistralai/mistral-small-2603,ko,immortality,장수와 불멸,1,0.05
+mistralai/mistral-small-2603,ko,creator,창조와 수명,1,0.05
+mistralai/mistral-small-2603,ko,sun symbol,삼족오,1,0.05
+mistralai/mistral-small-2603,ko,mimicry,모방하다,1,0.05
+mistralai/mistral-small-2603,ko,foraging,먹이 찾기 능력,1,0.05
+mistralai/mistral-small-2603,ko,counting,셀 수 있다,1,0.05
+mistralai/mistral-small-2603,ko,folklore,유발하다,1,0.05
+mistralai/mistral-small-2603,ko,destruction,멸망,1,0.05
+mistralai/mistral-small-2603,ko,fruit,과일,1,0.05
+mistralai/mistral-small-2603,ko,scavenger,먹다,1,0.05
+mistralai/mistral-small-2603,ko,breeding,알,1,0.05
+mistralai/mistral-small-2603,ko,adaptable,강하다,1,0.05
+mistralai/mistral-small-2603,zh,size,体型较大,13,0.684
+mistralai/mistral-small-2603,zh,intelligent,聪明,12,0.632
+mistralai/mistral-small-2603,zh,adaptable,适应力强,11,0.579
+mistralai/mistral-small-2603,zh,carrion crow,小嘴乌鸦,9,0.474
+mistralai/mistral-small-2603,zh,black,黑色,9,0.474
+mistralai/mistral-small-2603,zh,bird,鸟类,8,0.421
+mistralai/mistral-small-2603,zh,corvid,鸦科,8,0.421
+mistralai/mistral-small-2603,zh,raven,渡鸦,7,0.368
+mistralai/mistral-small-2603,zh,widespread,分布广泛,6,0.316
+mistralai/mistral-small-2603,zh,beak,喙粗壮,6,0.316
+mistralai/mistral-small-2603,zh,rook,秃鼻乌鸦,6,0.316
+mistralai/mistral-small-2603,zh,appearance,尾长,6,0.316
+mistralai/mistral-small-2603,zh,taxonomy,通称,5,0.263
+mistralai/mistral-small-2603,zh,large-billed crow,大嘴乌鸦,5,0.263
+mistralai/mistral-small-2603,zh,iridescent,金属光泽,5,0.263
+mistralai/mistral-small-2603,zh,social,社会性,4,0.211
+mistralai/mistral-small-2603,zh,lifespan,15–20年,4,0.211
+mistralai/mistral-small-2603,zh,black plumage,羽毛,3,0.158
+mistralai/mistral-small-2603,zh,urban,城市,2,0.105
+mistralai/mistral-small-2603,zh,habitat,森林,2,0.105
+mistralai/mistral-small-2603,zh,foraging,获取,2,0.105
+mistralai/mistral-small-2603,zh,call,叫声,2,0.105
+mistralai/mistral-small-2603,zh,behavior,会合作、试探、模仿,2,0.105
+mistralai/mistral-small-2603,zh,jungle crow,大嘴乌鸦,2,0.105
+mistralai/mistral-small-2603,zh,mysterious,神秘,1,0.053
+mistralai/mistral-small-2603,zh,quiet,非常安静,1,0.053
+mistralai/mistral-small-2603,zh,cognition,认知能力,1,0.053
+mistralai/mistral-small-2603,zh,warning,传递危险信号,1,0.053
+mistralai/mistral-small-2603,zh,strong,强壮,1,0.053
+mistralai/mistral-small-2603,zh,flight,飞行,1,0.053
+mistralai/mistral-small-2603,zh,memory,记忆力,1,0.053
+mistralai/mistral-small-2603,zh,problem solving,解决,1,0.053
+mistralai/mistral-small-2603,zh,tool use,使用工具,1,0.053
+mistralai/mistral-small-2603,zh,vision,视力敏锐,1,0.053
+mistralai/mistral-small-2603,zh,bad sound,叫声难听,1,0.053
+mistralai/mistral-small-2603,zh,animal,脊椎动物门,1,0.053
+mistralai/mistral-small-2603,zh,wisdom,智慧,1,0.053
+mistralai/mistral-small-2603,zh,symbolism,象征,1,0.053
+mistralai/mistral-small-2603,zh,ecology,生态习性,1,0.053
+mistralai/mistral-small-2603,zh,darkness,黑暗,1,0.053
+openai/gpt-6-luna,en,intelligent,intelligence,6,0.75
+openai/gpt-6-luna,en,bird,bird,4,0.5
+openai/gpt-6-luna,en,problem solving,problem-solving,4,0.5
+openai/gpt-6-luna,en,tool use,use,3,0.375
+openai/gpt-6-luna,en,communication,communicate,2,0.25
+openai/gpt-6-luna,en,social,social,2,0.25
+openai/gpt-6-luna,en,mythology,mythology,1,0.125
+openai/gpt-6-luna,en,corvid,corvid,1,0.125
+openai/gpt-6-luna,en,face recognition,recognize,1,0.125
+openai/gpt-6-luna,en,size,large,1,0.125
+openai/gpt-6-luna,en,call,call,1,0.125
+openai/gpt-6-luna,ja,call,鳴き声,20,1.0
+openai/gpt-6-luna,ja,ecology,生態,19,0.95
+openai/gpt-6-luna,ja,intelligent,高い,18,0.9
+openai/gpt-6-luna,ja,pest,害鳥,8,0.4
+openai/gpt-6-luna,ja,breeding,飼育,6,0.3
+openai/gpt-6-luna,ja,diet,食べ物,6,0.3
+openai/gpt-6-luna,ja,omen,縁起,3,0.15
+openai/gpt-6-luna,ja,lifespan,寿命,2,0.1
+openai/gpt-6-luna,ja,mythology,神話,1,0.05
+openai/gpt-6-luna,ja,parental care,攻撃する,1,0.05
+openai/gpt-6-luna,ko,intelligent,지능,20,1.0
+openai/gpt-6-luna,ko,symbolism,상징,10,0.5
+openai/gpt-6-luna,ko,taxonomy,종류,10,0.5
+openai/gpt-6-luna,ko,call,울음소리,10,0.5
+openai/gpt-6-luna,ko,ecology,생태,9,0.45
+openai/gpt-6-luna,ko,behavior,습성,9,0.45
+openai/gpt-6-luna,ko,diet,먹이,7,0.35
+openai/gpt-6-luna,ko,lifespan,수명,6,0.3
+openai/gpt-6-luna,ko,appearance,생김새,3,0.15
+openai/gpt-6-luna,ko,corvid,까마귀과,1,0.05
+openai/gpt-6-luna,ko,habitat,농촌,1,0.05
+openai/gpt-6-luna,ko,folklore,유발하다,1,0.05
+openai/gpt-6-luna,ko,difference,차이,1,0.05
+openai/gpt-6-luna,zh,intelligent,聪明,20,1.0
+openai/gpt-6-luna,zh,adaptable,适应力强,19,0.95
+openai/gpt-6-luna,zh,corvid,鸦科,17,0.85
+openai/gpt-6-luna,zh,tool use,使用工具,13,0.65
+openai/gpt-6-luna,zh,black,黑色,8,0.4
+openai/gpt-6-luna,zh,widespread,分布广泛,8,0.4
+openai/gpt-6-luna,zh,problem solving,解决,6,0.3
+openai/gpt-6-luna,zh,black plumage,羽毛,6,0.3
+openai/gpt-6-luna,zh,face recognition,识别,6,0.3
+openai/gpt-6-luna,zh,bird,鸟类,4,0.2
+openai/gpt-6-luna,zh,communication,交流,4,0.2
+openai/gpt-6-luna,zh,urban,城市,3,0.15
+openai/gpt-6-luna,zh,habitat,森林,3,0.15
+openai/gpt-6-luna,zh,call,叫声,3,0.15
+openai/gpt-6-luna,zh,memory,记忆力,3,0.15
+openai/gpt-6-luna,zh,learning,学习能力,2,0.1
+openai/gpt-6-luna,zh,taxonomy,通称,2,0.1
+openai/gpt-6-luna,zh,social,社会性,2,0.1
+openai/gpt-6-luna,zh,appearance,尾长,1,0.05
+openai/gpt-6-luna,zh,symbolism,象征,1,0.05
+openai/gpt-6-luna,zh,behavior,会合作、试探、模仿,1,0.05
+openai/gpt-6-luna,zh,raven,渡鸦,1,0.05
+openai/gpt-6-luna,zh,carrion crow,小嘴乌鸦,1,0.05
+openai/gpt-6-luna,zh,rook,秃鼻乌鸦,1,0.05
+qwen/qwen3.8-flash,en,intelligent,intelligence,16,0.889
+qwen/qwen3.8-flash,en,tool use,use,14,0.778
+qwen/qwen3.8-flash,en,bird,bird,13,0.722
+qwen/qwen3.8-flash,en,problem solving,problem-solving,12,0.667
+qwen/qwen3.8-flash,en,social,social,12,0.667
+qwen/qwen3.8-flash,en,adaptable,adaptability,11,0.611
+qwen/qwen3.8-flash,en,mysterious,mystery,10,0.556
+qwen/qwen3.8-flash,en,call,call,9,0.5
+qwen/qwen3.8-flash,en,face recognition,recognize,8,0.444
+qwen/qwen3.8-flash,en,death,death,8,0.444
+qwen/qwen3.8-flash,en,symbolism,symbol,4,0.222
+qwen/qwen3.8-flash,en,prophecy,prophecy,4,0.222
+qwen/qwen3.8-flash,en,black plumage,plumage,4,0.222
+qwen/qwen3.8-flash,en,memory,memory,4,0.222
+qwen/qwen3.8-flash,en,transformation,transformation,3,0.167
+qwen/qwen3.8-flash,en,magic,magic,3,0.167
+qwen/qwen3.8-flash,en,bad omen,omen,3,0.167
+qwen/qwen3.8-flash,en,communication,communicate,2,0.111
+qwen/qwen3.8-flash,en,taxonomy,american,2,0.111
+qwen/qwen3.8-flash,en,creator,creation,2,0.111
+qwen/qwen3.8-flash,en,scavenger,scavengers,2,0.111
+qwen/qwen3.8-flash,en,black,black,2,0.111
+qwen/qwen3.8-flash,en,widespread,found,2,0.111
+qwen/qwen3.8-flash,en,mythology,mythology,2,0.111
+qwen/qwen3.8-flash,en,cognition,thought,2,0.111
+qwen/qwen3.8-flash,en,corvid,corvid,2,0.111
+qwen/qwen3.8-flash,en,learning,learn,1,0.056
+qwen/qwen3.8-flash,en,planning,plan,1,0.056
+qwen/qwen3.8-flash,en,habitat,place,1,0.056
+qwen/qwen3.8-flash,en,mourning,hold,1,0.056
+qwen/qwen3.8-flash,en,mimicry,mimic,1,0.056
+qwen/qwen3.8-flash,en,appearance,long,1,0.056
+qwen/qwen3.8-flash,en,urban,environment,1,0.056
+qwen/qwen3.8-flash,en,beak,beak,1,0.056
+qwen/qwen3.8-flash,en,omen,omen,1,0.056
+qwen/qwen3.8-flash,en,wisdom,wisdom,1,0.056
+qwen/qwen3.8-flash,en,size,large,1,0.056
+qwen/qwen3.8-flash,en,omnivorous,omnivorous,1,0.056
+qwen/qwen3.8-flash,en,pest,pluck,1,0.056
+qwen/qwen3.8-flash,ja,intelligent,高い,16,0.8
+qwen/qwen3.8-flash,ja,tool use,使う,16,0.8
+qwen/qwen3.8-flash,ja,problem solving,問題解決能力,15,0.75
+qwen/qwen3.8-flash,ja,social,社会性,14,0.7
+qwen/qwen3.8-flash,ja,bird,鳥類,12,0.6
+qwen/qwen3.8-flash,ja,jungle crow,ハシブトガラス,11,0.55
+qwen/qwen3.8-flash,ja,carrion crow,ハシボソガラス,8,0.4
+qwen/qwen3.8-flash,ja,memory,記憶力,8,0.4
+qwen/qwen3.8-flash,ja,beak,太い,8,0.4
+qwen/qwen3.8-flash,ja,urban,見かける,8,0.4
+qwen/qwen3.8-flash,ja,communication,コミュニケーション,7,0.35
+qwen/qwen3.8-flash,ja,learning,学習能力,7,0.35
+qwen/qwen3.8-flash,ja,call,鳴き声,7,0.35
+qwen/qwen3.8-flash,ja,size,大型,6,0.3
+qwen/qwen3.8-flash,ja,scavenger,荒らす,6,0.3
+qwen/qwen3.8-flash,ja,flock,群れで行動する,5,0.25
+qwen/qwen3.8-flash,ja,adaptable,適応力,4,0.2
+qwen/qwen3.8-flash,ja,omnivorous,雑食性,4,0.2
+qwen/qwen3.8-flash,ja,appearance,出っ張っている,4,0.2
+qwen/qwen3.8-flash,ja,habitat,好む,3,0.15
+qwen/qwen3.8-flash,ja,face recognition,覚える,3,0.15
+qwen/qwen3.8-flash,ja,large-billed crow,ハシブトガラス,3,0.15
+qwen/qwen3.8-flash,ja,taxonomy,総称,3,0.15
+qwen/qwen3.8-flash,ja,behavior,姿勢,3,0.15
+qwen/qwen3.8-flash,ja,planning,計画性,2,0.1
+qwen/qwen3.8-flash,ja,bad sound,鳴きます,2,0.1
+qwen/qwen3.8-flash,ja,cognition,高い,2,0.1
+qwen/qwen3.8-flash,ja,mourning,とる,2,0.1
+qwen/qwen3.8-flash,ja,foraging,行動,2,0.1
+qwen/qwen3.8-flash,ja,cooperation,協力,1,0.05
+qwen/qwen3.8-flash,ja,mimicry,模倣する,1,0.05
+qwen/qwen3.8-flash,ja,caching,覚えています,1,0.05
+qwen/qwen3.8-flash,ja,warning,鳴き声で危険を知らせる,1,0.05
+qwen/qwen3.8-flash,ja,widespread,分布,1,0.05
+qwen/qwen3.8-flash,ja,insects,昆虫,1,0.05
+qwen/qwen3.8-flash,ja,mythology,神話,1,0.05
+qwen/qwen3.8-flash,ja,small animals,小動物,1,0.05
+qwen/qwen3.8-flash,ja,humble,なだらかな,1,0.05
+qwen/qwen3.8-flash,ja,fruit,果実,1,0.05
+qwen/qwen3.8-flash,ja,vision,優れる,1,0.05
+qwen/qwen3.8-flash,ja,aggressive,威嚇する,1,0.05
+qwen/qwen3.8-flash,ja,curiosity,何,1,0.05
+qwen/qwen3.8-flash,ja,cautious,警戒心,1,0.05
+qwen/qwen3.8-flash,ja,omen,縁起,1,0.05
+qwen/qwen3.8-flash,ja,parental care,攻撃する,1,0.05
+qwen/qwen3.8-flash,ja,pest,害鳥,1,0.05
+qwen/qwen3.8-flash,ja,ecology,生態,1,0.05
+qwen/qwen3.8-flash,ja,predator,食べる,1,0.05
+qwen/qwen3.8-flash,ko,intelligent,지능,20,1.0
+qwen/qwen3.8-flash,ko,problem solving,문제 해결 능력,17,0.85
+qwen/qwen3.8-flash,ko,tool use,사용하다,17,0.85
+qwen/qwen3.8-flash,ko,adaptable,강하다,13,0.65
+qwen/qwen3.8-flash,ko,memory,기억하다,12,0.6
+qwen/qwen3.8-flash,ko,bird,새,10,0.5
+qwen/qwen3.8-flash,ko,social,사회성,10,0.5
+qwen/qwen3.8-flash,ko,communication,소통하다,7,0.35
+qwen/qwen3.8-flash,ko,cognition,능력,7,0.35
+qwen/qwen3.8-flash,ko,cooperation,협력하다,7,0.35
+qwen/qwen3.8-flash,ko,widespread,분포하다,6,0.3
+qwen/qwen3.8-flash,ko,omnivorous,잡식성,6,0.3
+qwen/qwen3.8-flash,ko,planning,수립,6,0.3
+qwen/qwen3.8-flash,ko,black plumage,검은 깃털,6,0.3
+qwen/qwen3.8-flash,ko,face recognition,기억하다,5,0.25
+qwen/qwen3.8-flash,ko,learning,학습,4,0.2
+qwen/qwen3.8-flash,ko,scavenger,먹다,4,0.2
+qwen/qwen3.8-flash,ko,flock,생활하다,4,0.2
+qwen/qwen3.8-flash,ko,black,검은색,4,0.2
+qwen/qwen3.8-flash,ko,call,울음소리,3,0.15
+qwen/qwen3.8-flash,ko,fruit,과일,3,0.15
+qwen/qwen3.8-flash,ko,insects,곤충,3,0.15
+qwen/qwen3.8-flash,ko,large-billed crow,큰부리까마귀,3,0.15
+qwen/qwen3.8-flash,ko,corvid,까마귀과,3,0.15
+qwen/qwen3.8-flash,ko,habitat,농촌,3,0.15
+qwen/qwen3.8-flash,ko,seeds,씨앗,2,0.1
+qwen/qwen3.8-flash,ko,animal,영장류,2,0.1
+qwen/qwen3.8-flash,ko,diet,먹이,2,0.1
+qwen/qwen3.8-flash,ko,small animals,동물,2,0.1
+qwen/qwen3.8-flash,ko,urban,도시,2,0.1
+qwen/qwen3.8-flash,ko,carrion crow,큰까마귀,2,0.1
+qwen/qwen3.8-flash,ko,size,크다,2,0.1
+qwen/qwen3.8-flash,ko,appearance,생김새,2,0.1
+qwen/qwen3.8-flash,ko,rook,떼까마귀,2,0.1
+qwen/qwen3.8-flash,ko,carrion,죽은 동물,2,0.1
+qwen/qwen3.8-flash,ko,symbolism,상징,2,0.1
+qwen/qwen3.8-flash,ko,death,죽음,2,0.1
+qwen/qwen3.8-flash,ko,omen,흉조,2,0.1
+qwen/qwen3.8-flash,ko,iridescent,광택이 나다,2,0.1
+qwen/qwen3.8-flash,ko,beak,부리,2,0.1
+qwen/qwen3.8-flash,ko,mourning,행동,1,0.05
+qwen/qwen3.8-flash,ko,warning,말,1,0.05
+qwen/qwen3.8-flash,ko,territorial,지키다,1,0.05
+qwen/qwen3.8-flash,ko,protected,보호 대상,1,0.05
+qwen/qwen3.8-flash,ko,strong,powerful하다,1,0.05
+qwen/qwen3.8-flash,ko,sacred,신성시되다,1,0.05
+qwen/qwen3.8-flash,ko,good omen,길조,1,0.05
+qwen/qwen3.8-flash,ko,trickster,짓궂은 훼방꾼,1,0.05
+qwen/qwen3.8-flash,ko,raven,큰까마귀,1,0.05
+qwen/qwen3.8-flash,ko,hooded crow,갈까마귀,1,0.05
+qwen/qwen3.8-flash,zh,intelligent,聪明,20,1.0
+qwen/qwen3.8-flash,zh,tool use,使用工具,19,0.95
+qwen/qwen3.8-flash,zh,problem solving,解决,18,0.9
+qwen/qwen3.8-flash,zh,adaptable,适应力强,18,0.9
+qwen/qwen3.8-flash,zh,corvid,鸦科,16,0.8
+qwen/qwen3.8-flash,zh,face recognition,识别,14,0.7
+qwen/qwen3.8-flash,zh,widespread,分布广泛,14,0.7
+qwen/qwen3.8-flash,zh,memory,记忆力,12,0.6
+qwen/qwen3.8-flash,zh,size,体型较大,11,0.55
+qwen/qwen3.8-flash,zh,omnivorous,杂食性,10,0.5
+qwen/qwen3.8-flash,zh,black plumage,羽毛,9,0.45
+qwen/qwen3.8-flash,zh,learning,学习能力,8,0.4
+qwen/qwen3.8-flash,zh,bird,鸟类,8,0.4
+qwen/qwen3.8-flash,zh,social,社会性,8,0.4
+qwen/qwen3.8-flash,zh,cognition,认知能力,8,0.4
+qwen/qwen3.8-flash,zh,call,叫声,7,0.35
+qwen/qwen3.8-flash,zh,black,黑色,6,0.3
+qwen/qwen3.8-flash,zh,carrion crow,小嘴乌鸦,6,0.3
+qwen/qwen3.8-flash,zh,beak,喙粗壮,6,0.3
+qwen/qwen3.8-flash,zh,planning,计划能力,5,0.25
+qwen/qwen3.8-flash,zh,communication,交流,5,0.25
+qwen/qwen3.8-flash,zh,rook,秃鼻乌鸦,5,0.25
+qwen/qwen3.8-flash,zh,cooperation,合作,5,0.25
+qwen/qwen3.8-flash,zh,scavenger,清道夫,4,0.2
+qwen/qwen3.8-flash,zh,flock,成群活动,4,0.2
+qwen/qwen3.8-flash,zh,iridescent,金属光泽,4,0.2
+qwen/qwen3.8-flash,zh,taxonomy,通称,4,0.2
+qwen/qwen3.8-flash,zh,self awareness,自我意识,3,0.15
+qwen/qwen3.8-flash,zh,appearance,尾长,3,0.15
+qwen/qwen3.8-flash,zh,habitat,森林,3,0.15
+qwen/qwen3.8-flash,zh,warning,传递危险信号,3,0.15
+qwen/qwen3.8-flash,zh,diet,吃,3,0.15
+qwen/qwen3.8-flash,zh,mysterious,神秘,2,0.1
+qwen/qwen3.8-flash,zh,death,死亡,2,0.1
+qwen/qwen3.8-flash,zh,omen,不祥之兆,2,0.1
+qwen/qwen3.8-flash,zh,raven,渡鸦,2,0.1
+qwen/qwen3.8-flash,zh,mimicry,模仿声音,2,0.1
+qwen/qwen3.8-flash,zh,symbolism,象征,2,0.1
+qwen/qwen3.8-flash,zh,insects,吃昆虫,2,0.1
+qwen/qwen3.8-flash,zh,animal,脊椎动物门,2,0.1
+qwen/qwen3.8-flash,zh,sun symbol,太阳的象征,1,0.05
+qwen/qwen3.8-flash,zh,messenger,神使,1,0.05
+qwen/qwen3.8-flash,zh,wisdom,智慧,1,0.05
+qwen/qwen3.8-flash,zh,sacred,神鸟,1,0.05
+qwen/qwen3.8-flash,zh,good omen,吉祥,1,0.05
+qwen/qwen3.8-flash,zh,bad omen,不祥之兆,1,0.05
+qwen/qwen3.8-flash,zh,grudge,记仇,1,0.05
+qwen/qwen3.8-flash,zh,carrion,腐肉,1,0.05
+qwen/qwen3.8-flash,zh,small animals,小型脊椎动物,1,0.05
+qwen/qwen3.8-flash,zh,fruit,果实,1,0.05
+qwen/qwen3.8-flash,zh,culture,中国传统文化,1,0.05
+qwen/qwen3.8-flash,zh,mourning,哀悼,1,0.05
+qwen/qwen3.8-flash,zh,seeds,种子,1,0.05
+qwen/qwen3.8-flash,zh,parental care,观念,1,0.05
+qwen/qwen3.8-flash,zh,territorial,领地意识,1,0.05
+qwen/qwen3.8-flash,zh,breeding,营巢能力强,1,0.05
+qwen/qwen3.8-flash,zh,fish crow,鱼鸦,1,0.05
+qwen/qwen3.8-flash,zh,large-billed crow,大嘴乌鸦,1,0.05
+qwen/qwen3.8-flash,zh,foraging,获取,1,0.05
+qwen/qwen3.8-flash,zh,cautious,警戒,1,0.05
+upstage/solar-mini4,en,bird,bird,15,0.75
+upstage/solar-mini4,en,intelligent,intelligence,14,0.7
+upstage/solar-mini4,en,call,call,11,0.55
+upstage/solar-mini4,en,problem solving,problem-solving,7,0.35
+upstage/solar-mini4,en,corvid,corvid,4,0.2
+upstage/solar-mini4,en,black plumage,plumage,3,0.15
+upstage/solar-mini4,en,black,black,3,0.15
+upstage/solar-mini4,en,wisdom,wisdom,3,0.15
+upstage/solar-mini4,en,social,social,3,0.15
+upstage/solar-mini4,en,mythology,mythology,2,0.1
+upstage/solar-mini4,en,omen,omen,2,0.1
+upstage/solar-mini4,en,adaptable,adaptability,1,0.05
+upstage/solar-mini4,en,trickster,trickery,1,0.05
+upstage/solar-mini4,en,death,death,1,0.05
+upstage/solar-mini4,en,beak,beak,1,0.05
+upstage/solar-mini4,en,tool use,use,1,0.05
+upstage/solar-mini4,en,spirit animal,significant spiritual figure,1,0.05
+upstage/solar-mini4,en,mimicry,mimic,1,0.05
+upstage/solar-mini4,en,mysterious,mystery,1,0.05
+upstage/solar-mini4,en,transformation,transformation,1,0.05
+upstage/solar-mini4,en,strong,strong,1,0.05
+upstage/solar-mini4,ja,intelligent,高い,17,0.85
+upstage/solar-mini4,ja,tool use,使う,17,0.85
+upstage/solar-mini4,ja,omnivorous,雑食性,15,0.75
+upstage/solar-mini4,ja,face recognition,覚える,14,0.7
+upstage/solar-mini4,ja,call,鳴き声,13,0.65
+upstage/solar-mini4,ja,bird,鳥類,13,0.65
+upstage/solar-mini4,ja,scavenger,荒らす,11,0.55
+upstage/solar-mini4,ja,flock,群れで行動する,9,0.45
+upstage/solar-mini4,ja,urban,見かける,9,0.45
+upstage/solar-mini4,ja,pest,害鳥,7,0.35
+upstage/solar-mini4,ja,corvid,スズメ目カラス科,7,0.35
+upstage/solar-mini4,ja,jungle crow,ハシブトガラス,7,0.35
+upstage/solar-mini4,ja,communication,コミュニケーション,7,0.35
+upstage/solar-mini4,ja,adaptable,適応力,6,0.3
+upstage/solar-mini4,ja,black plumage,黒い羽,6,0.3
+upstage/solar-mini4,ja,bad omen,不吉,6,0.3
+upstage/solar-mini4,ja,black,黒い,5,0.25
+upstage/solar-mini4,ja,widespread,分布,5,0.25
+upstage/solar-mini4,ja,social,社会性,5,0.25
+upstage/solar-mini4,ja,large-billed crow,ハシブトガラス,5,0.25
+upstage/solar-mini4,ja,ecology,生態,5,0.25
+upstage/solar-mini4,ja,insects,昆虫,5,0.25
+upstage/solar-mini4,ja,fruit,果実,4,0.2
+upstage/solar-mini4,ja,carrion,死骸,4,0.2
+upstage/solar-mini4,ja,wisdom,賢い,3,0.15
+upstage/solar-mini4,ja,memory,記憶力,3,0.15
+upstage/solar-mini4,ja,foraging,行動,3,0.15
+upstage/solar-mini4,ja,beak,太い,3,0.15
+upstage/solar-mini4,ja,carrion crow,ハシボソガラス,3,0.15
+upstage/solar-mini4,ja,size,大型,2,0.1
+upstage/solar-mini4,ja,magic,身近,2,0.1
+upstage/solar-mini4,ja,taxonomy,総称,2,0.1
+upstage/solar-mini4,ja,diet,食べ物,2,0.1
+upstage/solar-mini4,ja,bad luck,unlucky,1,0.05
+upstage/solar-mini4,ja,spirit animal,ある,1,0.05
+upstage/solar-mini4,ja,important,存在,1,0.05
+upstage/solar-mini4,ja,solitary,単独,1,0.05
+upstage/solar-mini4,ja,appearance,出っ張っている,1,0.05
+upstage/solar-mini4,ja,breeding,飼育,1,0.05
+upstage/solar-mini4,ja,symbolism,象徴,1,0.05
+upstage/solar-mini4,ja,planning,計画性,1,0.05
+upstage/solar-mini4,ja,iridescent,光沢,1,0.05
+upstage/solar-mini4,ja,problem solving,問題解決能力,1,0.05
+upstage/solar-mini4,ja,sacred,神聖,1,0.05
+upstage/solar-mini4,ja,warning,鳴き声で危険を知らせる,1,0.05
+upstage/solar-mini4,ja,seeds,種子,1,0.05
+upstage/solar-mini4,ja,messenger,神,1,0.05
+upstage/solar-mini4,ja,diurnal,夜行性,1,0.05
+upstage/solar-mini4,ko,intelligent,지능,20,1.0
+upstage/solar-mini4,ko,tool use,사용하다,18,0.9
+upstage/solar-mini4,ko,omnivorous,잡식성,18,0.9
+upstage/solar-mini4,ko,bird,새,14,0.7
+upstage/solar-mini4,ko,social,사회성,14,0.7
+upstage/solar-mini4,ko,problem solving,문제 해결 능력,14,0.7
+upstage/solar-mini4,ko,wisdom,지혜,13,0.65
+upstage/solar-mini4,ko,bad omen,흉조,12,0.6
+upstage/solar-mini4,ko,good omen,길조,11,0.55
+upstage/solar-mini4,ko,flock,생활하다,10,0.5
+upstage/solar-mini4,ko,insects,곤충,10,0.5
+upstage/solar-mini4,ko,fruit,과일,10,0.5
+upstage/solar-mini4,ko,black plumage,검은 깃털,9,0.45
+upstage/solar-mini4,ko,scavenger,먹다,9,0.45
+upstage/solar-mini4,ko,face recognition,기억하다,9,0.45
+upstage/solar-mini4,ko,small animals,동물,8,0.4
+upstage/solar-mini4,ko,seeds,씨앗,8,0.4
+upstage/solar-mini4,ko,omen,흉조,7,0.35
+upstage/solar-mini4,ko,prophecy,예언,5,0.25
+upstage/solar-mini4,ko,call,울음소리,5,0.25
+upstage/solar-mini4,ko,diet,먹이,5,0.25
+upstage/solar-mini4,ko,corvid,까마귀과,5,0.25
+upstage/solar-mini4,ko,spirit animal,영물,4,0.2
+upstage/solar-mini4,ko,beak,부리,4,0.2
+upstage/solar-mini4,ko,adaptable,강하다,4,0.2
+upstage/solar-mini4,ko,memory,기억하다,4,0.2
+upstage/solar-mini4,ko,death,죽음,4,0.2
+upstage/solar-mini4,ko,black,검은색,4,0.2
+upstage/solar-mini4,ko,communication,소통하다,4,0.2
+upstage/solar-mini4,ko,habitat,농촌,3,0.15
+upstage/solar-mini4,ko,cognition,능력,3,0.15
+upstage/solar-mini4,ko,transformation,변화,3,0.15
+upstage/solar-mini4,ko,carrion,죽은 동물,3,0.15
+upstage/solar-mini4,ko,urban,도시,3,0.15
+upstage/solar-mini4,ko,cooperation,협력하다,3,0.15
+upstage/solar-mini4,ko,migration,이동,2,0.1
+upstage/solar-mini4,ko,territorial,지키다,2,0.1
+upstage/solar-mini4,ko,widespread,분포하다,2,0.1
+upstage/solar-mini4,ko,symbolism,상징,2,0.1
+upstage/solar-mini4,ko,mythology,북유럽 신화,2,0.1
+upstage/solar-mini4,ko,mimicry,모방하다,2,0.1
+upstage/solar-mini4,ko,appearance,생김새,2,0.1
+upstage/solar-mini4,ko,breeding,알,2,0.1
+upstage/solar-mini4,ko,caching,저장하다,1,0.05
+upstage/solar-mini4,ko,flight,날다,1,0.05
+upstage/solar-mini4,ko,predator,포식자,1,0.05
+upstage/solar-mini4,ko,raven,큰까마귀,1,0.05
+upstage/solar-mini4,ko,lifespan,수명,1,0.05
+upstage/solar-mini4,ko,diurnal,활동함,1,0.05
+upstage/solar-mini4,ko,sacred,신성시되다,1,0.05
+upstage/solar-mini4,ko,warning,말,1,0.05
+upstage/solar-mini4,ko,negative symbol,의미,1,0.05
+upstage/solar-mini4,ko,parental care,돌보다,1,0.05
+upstage/solar-mini4,ko,ecology,생태,1,0.05
+upstage/solar-mini4,ko,taxonomy,종류,1,0.05
+upstage/solar-mini4,ko,foraging,먹이 찾기 능력,1,0.05
+upstage/solar-mini4,ko,mysterious,신비로움,1,0.05
+upstage/solar-mini4,ko,messenger,신의 사자,1,0.05
+upstage/solar-mini4,ko,planning,수립,1,0.05
+upstage/solar-mini4,ko,brood parasite,탁란성,1,0.05
+upstage/solar-mini4,ko,guide,보호자의 상징,1,0.05
+upstage/solar-mini4,ko,animal,영장류,1,0.05
+upstage/solar-mini4,zh,intelligent,聪明,19,0.95
+upstage/solar-mini4,zh,bird,鸟类,14,0.7
+upstage/solar-mini4,zh,corvid,鸦科,14,0.7
+upstage/solar-mini4,zh,problem solving,解决,14,0.7
+upstage/solar-mini4,zh,tool use,使用工具,12,0.6
+upstage/solar-mini4,zh,black,黑色,11,0.55
+upstage/solar-mini4,zh,adaptable,适应力强,11,0.55
+upstage/solar-mini4,zh,omnivorous,杂食性,11,0.55
+upstage/solar-mini4,zh,social,社会性,10,0.5
+upstage/solar-mini4,zh,mysterious,神秘,9,0.45
+upstage/solar-mini4,zh,size,体型较大,9,0.45
+upstage/solar-mini4,zh,omen,不祥之兆,9,0.45
+upstage/solar-mini4,zh,wisdom,智慧,8,0.4
+upstage/solar-mini4,zh,call,叫声,7,0.35
+upstage/solar-mini4,zh,memory,记忆力,6,0.3
+upstage/solar-mini4,zh,face recognition,识别,6,0.3
+upstage/solar-mini4,zh,black plumage,羽毛,5,0.25
+upstage/solar-mini4,zh,widespread,分布广泛,5,0.25
+upstage/solar-mini4,zh,carrion crow,小嘴乌鸦,5,0.25
+upstage/solar-mini4,zh,habitat,森林,5,0.25
+upstage/solar-mini4,zh,insects,吃昆虫,5,0.25
+upstage/solar-mini4,zh,beak,喙粗壮,5,0.25
+upstage/solar-mini4,zh,learning,学习能力,4,0.2
+upstage/solar-mini4,zh,symbolism,象征,3,0.15
+upstage/solar-mini4,zh,diet,吃,3,0.15
+upstage/solar-mini4,zh,scavenger,清道夫,3,0.15
+upstage/solar-mini4,zh,carrion,腐肉,3,0.15
+upstage/solar-mini4,zh,fruit,果实,3,0.15
+upstage/solar-mini4,zh,appearance,尾长,3,0.15
+upstage/solar-mini4,zh,bad luck,厄运,2,0.1
+upstage/solar-mini4,zh,bad omen,不祥之兆,2,0.1
+upstage/solar-mini4,zh,raven,渡鸦,2,0.1
+upstage/solar-mini4,zh,death,死亡,2,0.1
+upstage/solar-mini4,zh,rook,秃鼻乌鸦,2,0.1
+upstage/solar-mini4,zh,breeding,营巢能力强,2,0.1
+upstage/solar-mini4,zh,flight,飞行,2,0.1
+upstage/solar-mini4,zh,seeds,种子,2,0.1
+upstage/solar-mini4,zh,animal,脊椎动物门,2,0.1
+upstage/solar-mini4,zh,urban,城市,2,0.1
+upstage/solar-mini4,zh,foraging,获取,1,0.05
+upstage/solar-mini4,zh,homesick,留恋故郷,1,0.05
+upstage/solar-mini4,zh,trickster,骗子,1,0.05
+upstage/solar-mini4,zh,mimicry,模仿声音,1,0.05
+upstage/solar-mini4,zh,messenger,神使,1,0.05
+upstage/solar-mini4,zh,darkness,黑暗,1,0.05
+upstage/solar-mini4,zh,diligent,勤劳,1,0.05
+upstage/solar-mini4,zh,good omen,吉祥,1,0.05
+upstage/solar-mini4,zh,strong,强壮,1,0.05
+upstage/solar-mini4,zh,sacred,神鸟,1,0.05
+upstage/solar-mini4,zh,culture hero,文化英雄,1,0.05
+upstage/solar-mini4,zh,taxonomy,通称,1,0.05
+upstage/solar-mini4,zh,cautious,警戒,1,0.05
+upstage/solar-mini4,zh,territorial,领地意识,1,0.05
+upstage/solar-mini4,zh,guide,守护者,1,0.05
+upstage/solar-mini4,zh,cooperation,合作,1,0.05
+upstage/solar-mini4,zh,jungle crow,大嘴乌鸦,1,0.05
+upstage/solar-mini4,zh,american crow,美洲乌鸦,1,0.05
+upstage/solar-mini4,zh,flock,成群活动,1,0.05
+upstage/solar-mini4,zh,iridescent,金属光泽,1,0.05
+upstage/solar-mini4,zh,mythology,神话,1,0.05
+upstage/solar-mini4,zh,rural,乡村,1,0.05

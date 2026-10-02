@@ -1,0 +1,1423 @@
+model,lang,concept,top_native_lemma,responses,share_of_subject_sense
+anthropic/claude-haiku-4.5,en,plant,plant,17,0.85
+anthropic/claude-haiku-4.5,en,color,color,17,0.85
+anthropic/claude-haiku-4.5,en,autumn,autumn,17,0.85
+anthropic/claude-haiku-4.5,en,flower,flower,14,0.7
+anthropic/claude-haiku-4.5,en,national symbol,national flower of japan,14,0.7
+anthropic/claude-haiku-4.5,en,ornamental,ornamental,13,0.65
+anthropic/claude-haiku-4.5,en,flower arrangement,arrangement,13,0.65
+anthropic/claude-haiku-4.5,en,yellow,yellow,12,0.6
+anthropic/claude-haiku-4.5,en,white,white,12,0.6
+anthropic/claude-haiku-4.5,en,purple,purple,12,0.6
+anthropic/claude-haiku-4.5,en,pink,pink,12,0.6
+anthropic/claude-haiku-4.5,en,red,red,12,0.6
+anthropic/claude-haiku-4.5,en,asteraceae,daisy family,12,0.6
+anthropic/claude-haiku-4.5,en,origin,native,11,0.55
+anthropic/claude-haiku-4.5,en,garden,garden,11,0.55
+anthropic/claude-haiku-4.5,en,joy,joy,11,0.55
+anthropic/claude-haiku-4.5,en,cut flower,flower,10,0.5
+anthropic/claude-haiku-4.5,en,flower shape,spider,10,0.5
+anthropic/claude-haiku-4.5,en,symbolism,symbol,8,0.4
+anthropic/claude-haiku-4.5,en,petal,petal,8,0.4
+anthropic/claude-haiku-4.5,en,use,ornamental,7,0.35
+anthropic/claude-haiku-4.5,en,longevity,longevity,6,0.3
+anthropic/claude-haiku-4.5,en,china,china,6,0.3
+anthropic/claude-haiku-4.5,en,japan,japan,6,0.3
+anthropic/claude-haiku-4.5,en,optimism,optimism,6,0.3
+anthropic/claude-haiku-4.5,en,medicinal,medicine,6,0.3
+anthropic/claude-haiku-4.5,en,variety,variety,5,0.25
+anthropic/claude-haiku-4.5,en,east asia,east asia,5,0.25
+anthropic/claude-haiku-4.5,en,mourning,mourning,5,0.25
+anthropic/claude-haiku-4.5,en,culture,significant,5,0.25
+anthropic/claude-haiku-4.5,en,size,large,4,0.2
+anthropic/claude-haiku-4.5,en,mum,mum,4,0.2
+anthropic/claude-haiku-4.5,en,tea,tea,4,0.2
+anthropic/claude-haiku-4.5,en,orange,orange,3,0.15
+anthropic/claude-haiku-4.5,en,perennial,perennial,3,0.15
+anthropic/claude-haiku-4.5,en,cultivation,cultivated,3,0.15
+anthropic/claude-haiku-4.5,en,flowering habit,annual,3,0.15
+anthropic/claude-haiku-4.5,en,flower head,head,3,0.15
+anthropic/claude-haiku-4.5,en,insecticide,insecticide,2,0.1
+anthropic/claude-haiku-4.5,en,tradition,cultivated,2,0.1
+anthropic/claude-haiku-4.5,en,leaf,lobed,2,0.1
+anthropic/claude-haiku-4.5,en,exhibition,display,2,0.1
+anthropic/claude-haiku-4.5,en,shape,shape,2,0.1
+anthropic/claude-haiku-4.5,en,sunlight,sun,1,0.05
+anthropic/claude-haiku-4.5,en,soil,soil,1,0.05
+anthropic/claude-haiku-4.5,en,edible,staple,1,0.05
+anthropic/claude-haiku-4.5,en,simplicity,simple,1,0.05
+anthropic/claude-haiku-4.5,en,summer bloom,late summer,1,0.05
+anthropic/claude-haiku-4.5,en,truth,honesty,1,0.05
+anthropic/claude-haiku-4.5,en,cultivar,cultivar,1,0.05
+anthropic/claude-haiku-4.5,en,ritual,associate,1,0.05
+anthropic/claude-haiku-4.5,en,art,art,1,0.05
+anthropic/claude-haiku-4.5,en,friendship,friendship,1,0.05
+anthropic/claude-haiku-4.5,en,clustered,clustered,1,0.05
+anthropic/claude-haiku-4.5,en,resilience,resilience,1,0.05
+anthropic/claude-haiku-4.5,ja,autumn,秋,19,0.95
+anthropic/claude-haiku-4.5,ja,imperial symbol,皇室の紋章,14,0.7
+anthropic/claude-haiku-4.5,ja,china,中国,13,0.65
+anthropic/claude-haiku-4.5,ja,nobility,高潔,12,0.6
+anthropic/claude-haiku-4.5,ja,asteraceae,キク科,10,0.5
+anthropic/claude-haiku-4.5,ja,mourning,仏花,10,0.5
+anthropic/claude-haiku-4.5,ja,national symbol,日本の国花,9,0.45
+anthropic/claude-haiku-4.5,ja,white,白,9,0.45
+anthropic/claude-haiku-4.5,ja,purple,紫,9,0.45
+anthropic/claude-haiku-4.5,ja,yellow,黄,9,0.45
+anthropic/claude-haiku-4.5,ja,sincerity,誠実,8,0.4
+anthropic/claude-haiku-4.5,ja,symbolism,象徴,6,0.3
+anthropic/claude-haiku-4.5,ja,pink,ピンク,6,0.3
+anthropic/claude-haiku-4.5,ja,flower arrangement,生け花,6,0.3
+anthropic/claude-haiku-4.5,ja,red,赤,6,0.3
+anthropic/claude-haiku-4.5,ja,truth,真実,6,0.3
+anthropic/claude-haiku-4.5,ja,longevity,長寿,5,0.25
+anthropic/claude-haiku-4.5,ja,popular,親しまれる,5,0.25
+anthropic/claude-haiku-4.5,ja,tradition,伝統,5,0.25
+anthropic/claude-haiku-4.5,ja,festival,重陽の節句,5,0.25
+anthropic/claude-haiku-4.5,ja,color,色,5,0.25
+anthropic/claude-haiku-4.5,ja,variety,種類,5,0.25
+anthropic/claude-haiku-4.5,ja,ornamental,菊人形,4,0.2
+anthropic/claude-haiku-4.5,ja,plant,植物,3,0.15
+anthropic/claude-haiku-4.5,ja,gratitude,感謝,3,0.15
+anthropic/claude-haiku-4.5,ja,flower,花,3,0.15
+anthropic/claude-haiku-4.5,ja,fragrance,菊の香,3,0.15
+anthropic/claude-haiku-4.5,ja,love,真実の愛,2,0.1
+anthropic/claude-haiku-4.5,ja,elegance,美しい,2,0.1
+anthropic/claude-haiku-4.5,ja,cut flower,切り花,2,0.1
+anthropic/claude-haiku-4.5,ja,garden,庭園,2,0.1
+anthropic/claude-haiku-4.5,ja,culture,文化,2,0.1
+anthropic/claude-haiku-4.5,ja,origin,中国,2,0.1
+anthropic/claude-haiku-4.5,ja,ritual,仏花,2,0.1
+anthropic/claude-haiku-4.5,ja,honor,栄光,2,0.1
+anthropic/claude-haiku-4.5,ja,perennial,多年草,2,0.1
+anthropic/claude-haiku-4.5,ja,gift,贈り物,1,0.05
+anthropic/claude-haiku-4.5,ja,tribute,供える,1,0.05
+anthropic/claude-haiku-4.5,ja,tea,お茶,1,0.05
+anthropic/claude-haiku-4.5,ja,edible,食用菊,1,0.05
+anthropic/claude-haiku-4.5,ja,indifference,破れかぶれ,1,0.05
+anthropic/claude-haiku-4.5,ja,grief,失望,1,0.05
+anthropic/claude-haiku-4.5,ja,pest,アザミウマ科,1,0.05
+anthropic/claude-haiku-4.5,ja,easy care,育てやすい,1,0.05
+anthropic/claude-haiku-4.5,ja,west,洋菊,1,0.05
+anthropic/claude-haiku-4.5,ja,japan,和菊,1,0.05
+anthropic/claude-haiku-4.5,ja,petal,花弁,1,0.05
+anthropic/claude-haiku-4.5,ja,wheel,輪菊,1,0.05
+anthropic/claude-haiku-4.5,ja,joy,快活,1,0.05
+anthropic/claude-haiku-4.5,ja,cultivation,育て方,1,0.05
+anthropic/claude-haiku-4.5,ja,precious,多数の花弁を持つ豪華な花,1,0.05
+anthropic/claude-haiku-4.5,ko,truth,진실,17,0.85
+anthropic/claude-haiku-4.5,ko,white,흰색,16,0.8
+anthropic/claude-haiku-4.5,ko,yellow,노란색,16,0.8
+anthropic/claude-haiku-4.5,ko,autumn,가을,16,0.8
+anthropic/claude-haiku-4.5,ko,purple,보라색,14,0.7
+anthropic/claude-haiku-4.5,ko,china,중국,12,0.6
+anthropic/claude-haiku-4.5,ko,nobility,고결함,12,0.6
+anthropic/claude-haiku-4.5,ko,color,다양하다,11,0.55
+anthropic/claude-haiku-4.5,ko,longevity,장수,11,0.55
+anthropic/claude-haiku-4.5,ko,red,빨간색,11,0.55
+anthropic/claude-haiku-4.5,ko,purity,정절,8,0.4
+anthropic/claude-haiku-4.5,ko,asteraceae,국화과,8,0.4
+anthropic/claude-haiku-4.5,ko,integrity,절개,8,0.4
+anthropic/claude-haiku-4.5,ko,ornamental,관상용,7,0.35
+anthropic/claude-haiku-4.5,ko,pink,분홍색,7,0.35
+anthropic/claude-haiku-4.5,ko,symbolism,대표하다,6,0.3
+anthropic/claude-haiku-4.5,ko,flower shape,거미형,5,0.25
+anthropic/claude-haiku-4.5,ko,friendship,우정,5,0.25
+anthropic/claude-haiku-4.5,ko,festival,추석,4,0.2
+anthropic/claude-haiku-4.5,ko,elegance,아름다움,4,0.2
+anthropic/claude-haiku-4.5,ko,flower,피다,3,0.15
+anthropic/claude-haiku-4.5,ko,fragrance,은은하다,3,0.15
+anthropic/claude-haiku-4.5,ko,perennial,여러해살이풀,3,0.15
+anthropic/claude-haiku-4.5,ko,size,대국,2,0.1
+anthropic/claude-haiku-4.5,ko,popular,사랑받다,2,0.1
+anthropic/claude-haiku-4.5,ko,wild chrysanthemum,chrysanthemum indicum,2,0.1
+anthropic/claude-haiku-4.5,ko,east asia,동아시아,2,0.1
+anthropic/claude-haiku-4.5,ko,cultivation,키우다,2,0.1
+anthropic/claude-haiku-4.5,ko,cut flower,절화,2,0.1
+anthropic/claude-haiku-4.5,ko,petal,품종,2,0.1
+anthropic/claude-haiku-4.5,ko,garden,화단,2,0.1
+anthropic/claude-haiku-4.5,ko,exhibition,국화전시,2,0.1
+anthropic/claude-haiku-4.5,ko,shape,깃 모양,2,0.1
+anthropic/claude-haiku-4.5,ko,culture,문화,2,0.1
+anthropic/claude-haiku-4.5,ko,plant,식물,2,0.1
+anthropic/claude-haiku-4.5,ko,ritual,제사,2,0.1
+anthropic/claude-haiku-4.5,ko,four gentlemen,사군자,2,0.1
+anthropic/claude-haiku-4.5,ko,appearance,등장하다,2,0.1
+anthropic/claude-haiku-4.5,ko,variety,다양하다,2,0.1
+anthropic/claude-haiku-4.5,ko,cultivar,봄 국화,1,0.05
+anthropic/claude-haiku-4.5,ko,use,쓰이다,1,0.05
+anthropic/claude-haiku-4.5,ko,peace,평화,1,0.05
+anthropic/claude-haiku-4.5,ko,origin,원산지,1,0.05
+anthropic/claude-haiku-4.5,ko,joy,행복,1,0.05
+anthropic/claude-haiku-4.5,ko,flower arrangement,꽃꽂이,1,0.05
+anthropic/claude-haiku-4.5,ko,imperial symbol,황실 문장,1,0.05
+anthropic/claude-haiku-4.5,ko,clustered,다층,1,0.05
+anthropic/claude-haiku-4.5,ko,durability,좋은 보존성,1,0.05
+anthropic/claude-haiku-4.5,ko,official,공식,1,0.05
+anthropic/claude-haiku-4.5,ko,auspiciousness,행운,1,0.05
+anthropic/claude-haiku-4.5,ko,resilience,강하다,1,0.05
+anthropic/claude-haiku-4.5,ko,mourning,추모,1,0.05
+anthropic/claude-haiku-4.5,zh,color,花色丰富,19,0.95
+anthropic/claude-haiku-4.5,zh,perennial,多年生草本植物,19,0.95
+anthropic/claude-haiku-4.5,zh,autumn,秋季,16,0.8
+anthropic/claude-haiku-4.5,zh,china,中国,13,0.65
+anthropic/claude-haiku-4.5,zh,shape,花型多样,12,0.6
+anthropic/claude-haiku-4.5,zh,asteraceae,菊科菊属,12,0.6
+anthropic/claude-haiku-4.5,zh,four gentlemen,四君子,11,0.55
+anthropic/claude-haiku-4.5,zh,petal,单瓣,10,0.5
+anthropic/claude-haiku-4.5,zh,longevity,长寿,9,0.45
+anthropic/claude-haiku-4.5,zh,fragrance,清香,9,0.45
+anthropic/claude-haiku-4.5,zh,flower shape,球形,9,0.45
+anthropic/claude-haiku-4.5,zh,white,白,8,0.4
+anthropic/claude-haiku-4.5,zh,purple,紫,8,0.4
+anthropic/claude-haiku-4.5,zh,yellow,黄,8,0.4
+anthropic/claude-haiku-4.5,zh,red,红,8,0.4
+anthropic/claude-haiku-4.5,zh,ornamental,观赏,7,0.35
+anthropic/claude-haiku-4.5,zh,resilience,坚韧,7,0.35
+anthropic/claude-haiku-4.5,zh,leaf,羽状分裂,7,0.35
+anthropic/claude-haiku-4.5,zh,nobility,高洁,7,0.35
+anthropic/claude-haiku-4.5,zh,tea,泡茶,6,0.3
+anthropic/claude-haiku-4.5,zh,popular,中国十大名花之一,6,0.3
+anthropic/claude-haiku-4.5,zh,purity,高洁,4,0.2
+anthropic/claude-haiku-4.5,zh,auspiciousness,吉祥,4,0.2
+anthropic/claude-haiku-4.5,zh,cultivation,易于栽培,4,0.2
+anthropic/claude-haiku-4.5,zh,medicinal,清热解毒,4,0.2
+anthropic/claude-haiku-4.5,zh,stem,茎直立,4,0.2
+anthropic/claude-haiku-4.5,zh,tradition,中国传统名花,2,0.1
+anthropic/claude-haiku-4.5,zh,cut flower,切花,2,0.1
+anthropic/claude-haiku-4.5,zh,garden,园林绿化,2,0.1
+anthropic/claude-haiku-4.5,zh,edible,食用,2,0.1
+anthropic/claude-haiku-4.5,zh,culture,岁寒三友,2,0.1
+anthropic/claude-haiku-4.5,zh,green,绿,1,0.05
+anthropic/claude-haiku-4.5,zh,size,株高一般 60–150 厘米,1,0.05
+anthropic/claude-haiku-4.5,zh,reclusion,隐逸,1,0.05
+anthropic/claude-haiku-4.5,zh,durability,花期较长,1,0.05
+anthropic/claude-haiku-4.5,zh,wheel,花朵呈放射状,1,0.05
+anthropic/claude-haiku-4.5,zh,clustered,多头菊,1,0.05
+anthropic/claude-haiku-4.5,zh,elegance,清雅,1,0.05
+anthropic/claude-haiku-4.5,zh,easy care,适合,1,0.05
+anthropic/claude-haiku-4.5,zh,poetry,陶菊,1,0.05
+anthropic/claude-haiku-4.5,zh,drink,饮菊花酒,1,0.05
+deepseek/deepseek-v4.1-flash,en,longevity,longevity,19,0.95
+deepseek/deepseek-v4.1-flash,en,flower,flower,19,0.95
+deepseek/deepseek-v4.1-flash,en,autumn,autumn,17,0.85
+deepseek/deepseek-v4.1-flash,en,asteraceae,daisy family,15,0.75
+deepseek/deepseek-v4.1-flash,en,white,white,14,0.7
+deepseek/deepseek-v4.1-flash,en,pink,pink,14,0.7
+deepseek/deepseek-v4.1-flash,en,purple,purple,14,0.7
+deepseek/deepseek-v4.1-flash,en,yellow,yellow,14,0.7
+deepseek/deepseek-v4.1-flash,en,red,red,14,0.7
+deepseek/deepseek-v4.1-flash,en,nobility,nobility,14,0.7
+deepseek/deepseek-v4.1-flash,en,imperial symbol,emperor,12,0.6
+deepseek/deepseek-v4.1-flash,en,mourning,mourning,11,0.55
+deepseek/deepseek-v4.1-flash,en,origin,native,10,0.5
+deepseek/deepseek-v4.1-flash,en,petal,petal,9,0.45
+deepseek/deepseek-v4.1-flash,en,plant,plant,9,0.45
+deepseek/deepseek-v4.1-flash,en,orange,orange,9,0.45
+deepseek/deepseek-v4.1-flash,en,symbolism,symbol,8,0.4
+deepseek/deepseek-v4.1-flash,en,green,green,6,0.3
+deepseek/deepseek-v4.1-flash,en,east asia,east asia,6,0.3
+deepseek/deepseek-v4.1-flash,en,color,color,6,0.3
+deepseek/deepseek-v4.1-flash,en,cultivation,cultivated,5,0.25
+deepseek/deepseek-v4.1-flash,en,ornamental,ornamental,5,0.25
+deepseek/deepseek-v4.1-flash,en,europe,europe,4,0.2
+deepseek/deepseek-v4.1-flash,en,joy,joy,4,0.2
+deepseek/deepseek-v4.1-flash,en,flower shape,spider,4,0.2
+deepseek/deepseek-v4.1-flash,en,national symbol,national flower of japan,3,0.15
+deepseek/deepseek-v4.1-flash,en,tea,tea,3,0.15
+deepseek/deepseek-v4.1-flash,en,japan,japan,3,0.15
+deepseek/deepseek-v4.1-flash,en,mum,mum,3,0.15
+deepseek/deepseek-v4.1-flash,en,cut flower,flower,3,0.15
+deepseek/deepseek-v4.1-flash,en,shape,shape,3,0.15
+deepseek/deepseek-v4.1-flash,en,china,china,2,0.1
+deepseek/deepseek-v4.1-flash,en,variety,variety,2,0.1
+deepseek/deepseek-v4.1-flash,en,summer bloom,late summer,2,0.1
+deepseek/deepseek-v4.1-flash,en,garden,garden,2,0.1
+deepseek/deepseek-v4.1-flash,en,culture,significant,1,0.05
+deepseek/deepseek-v4.1-flash,en,auspiciousness,luck,1,0.05
+deepseek/deepseek-v4.1-flash,en,resilience,resilience,1,0.05
+deepseek/deepseek-v4.1-flash,en,west,us,1,0.05
+deepseek/deepseek-v4.1-flash,en,cultivar,cultivar,1,0.05
+deepseek/deepseek-v4.1-flash,en,edible,staple,1,0.05
+deepseek/deepseek-v4.1-flash,en,wild chrysanthemum,júhuā,1,0.05
+deepseek/deepseek-v4.1-flash,en,rebirth,rebirth,1,0.05
+deepseek/deepseek-v4.1-flash,en,four gentlemen,gentleman,1,0.05
+deepseek/deepseek-v4.1-flash,en,size,large,1,0.05
+deepseek/deepseek-v4.1-flash,en,perennial,perennial,1,0.05
+deepseek/deepseek-v4.1-flash,en,festival,festival,1,0.05
+deepseek/deepseek-v4.1-flash,en,gift,gift flower,1,0.05
+deepseek/deepseek-v4.1-flash,en,flowering habit,annual,1,0.05
+deepseek/deepseek-v4.1-flash,en,flower head,head,1,0.05
+deepseek/deepseek-v4.1-flash,en,popular,popular,1,0.05
+deepseek/deepseek-v4.1-flash,ja,autumn,秋,9,0.9
+deepseek/deepseek-v4.1-flash,ja,imperial symbol,皇室の紋章,6,0.6
+deepseek/deepseek-v4.1-flash,ja,flower,花,4,0.4
+deepseek/deepseek-v4.1-flash,ja,national symbol,日本の国花,3,0.3
+deepseek/deepseek-v4.1-flash,ja,symbolism,象徴,2,0.2
+deepseek/deepseek-v4.1-flash,ja,nobility,高潔,2,0.2
+deepseek/deepseek-v4.1-flash,ja,china,中国,2,0.2
+deepseek/deepseek-v4.1-flash,ja,edible,食用菊,1,0.1
+deepseek/deepseek-v4.1-flash,ja,existence,关于,1,0.1
+deepseek/deepseek-v4.1-flash,ja,longevity,長寿,1,0.1
+deepseek/deepseek-v4.1-flash,ja,auspiciousness,吉祥,1,0.1
+deepseek/deepseek-v4.1-flash,ja,mourning,仏花,1,0.1
+deepseek/deepseek-v4.1-flash,ja,honor,栄光,1,0.1
+deepseek/deepseek-v4.1-flash,ja,japan,和菊,1,0.1
+deepseek/deepseek-v4.1-flash,ja,medicinal,薬用,1,0.1
+deepseek/deepseek-v4.1-flash,ko,autumn,가을,11,0.55
+deepseek/deepseek-v4.1-flash,ko,nobility,고결함,9,0.45
+deepseek/deepseek-v4.1-flash,ko,symbolism,대표하다,9,0.45
+deepseek/deepseek-v4.1-flash,ko,flower,피다,8,0.4
+deepseek/deepseek-v4.1-flash,ko,ornamental,관상용,7,0.35
+deepseek/deepseek-v4.1-flash,ko,tea,차,7,0.35
+deepseek/deepseek-v4.1-flash,ko,white,흰색,7,0.35
+deepseek/deepseek-v4.1-flash,ko,yellow,노란색,7,0.35
+deepseek/deepseek-v4.1-flash,ko,pink,분홍색,6,0.3
+deepseek/deepseek-v4.1-flash,ko,purple,보라색,6,0.3
+deepseek/deepseek-v4.1-flash,ko,longevity,장수,6,0.3
+deepseek/deepseek-v4.1-flash,ko,integrity,절개,6,0.3
+deepseek/deepseek-v4.1-flash,ko,medicinal,약용,5,0.25
+deepseek/deepseek-v4.1-flash,ko,east asia,동아시아,5,0.25
+deepseek/deepseek-v4.1-flash,ko,four gentlemen,사군자,5,0.25
+deepseek/deepseek-v4.1-flash,ko,perennial,여러해살이풀,4,0.2
+deepseek/deepseek-v4.1-flash,ko,reclusion,은퇴,4,0.2
+deepseek/deepseek-v4.1-flash,ko,resilience,강하다,4,0.2
+deepseek/deepseek-v4.1-flash,ko,variety,다양하다,3,0.15
+deepseek/deepseek-v4.1-flash,ko,purity,정절,3,0.15
+deepseek/deepseek-v4.1-flash,ko,love,사랑,3,0.15
+deepseek/deepseek-v4.1-flash,ko,mourning,추모,3,0.15
+deepseek/deepseek-v4.1-flash,ko,grief,실망,3,0.15
+deepseek/deepseek-v4.1-flash,ko,flower shape,거미형,3,0.15
+deepseek/deepseek-v4.1-flash,ko,red,빨간색,3,0.15
+deepseek/deepseek-v4.1-flash,ko,truth,진실,3,0.15
+deepseek/deepseek-v4.1-flash,ko,plant,식물,3,0.15
+deepseek/deepseek-v4.1-flash,ko,imperial symbol,황실 문장,2,0.1
+deepseek/deepseek-v4.1-flash,ko,green,녹색,2,0.1
+deepseek/deepseek-v4.1-flash,ko,leaf,가장자리에 톱니,2,0.1
+deepseek/deepseek-v4.1-flash,ko,flower head,설상화,2,0.1
+deepseek/deepseek-v4.1-flash,ko,use,쓰이다,2,0.1
+deepseek/deepseek-v4.1-flash,ko,peace,평화,2,0.1
+deepseek/deepseek-v4.1-flash,ko,flower arrangement,꽃꽂이,2,0.1
+deepseek/deepseek-v4.1-flash,ko,popular,사랑받다,2,0.1
+deepseek/deepseek-v4.1-flash,ko,color,다양하다,2,0.1
+deepseek/deepseek-v4.1-flash,ko,origin,원산지,2,0.1
+deepseek/deepseek-v4.1-flash,ko,china,중국,1,0.05
+deepseek/deepseek-v4.1-flash,ko,winter bloom,감기,1,0.05
+deepseek/deepseek-v4.1-flash,ko,asteraceae,국화과,1,0.05
+deepseek/deepseek-v4.1-flash,ko,shape,깃 모양,1,0.05
+deepseek/deepseek-v4.1-flash,ko,fragrance,은은하다,1,0.05
+deepseek/deepseek-v4.1-flash,ko,national symbol,상징하다,1,0.05
+deepseek/deepseek-v4.1-flash,ko,leisure,은퇴와 여유,1,0.05
+deepseek/deepseek-v4.1-flash,ko,auspiciousness,행운,1,0.05
+deepseek/deepseek-v4.1-flash,ko,cut flower,절화,1,0.05
+deepseek/deepseek-v4.1-flash,ko,easy care,쉽다,1,0.05
+deepseek/deepseek-v4.1-flash,ko,tradition,풍습,1,0.05
+deepseek/deepseek-v4.1-flash,ko,jealousy,질투,1,0.05
+deepseek/deepseek-v4.1-flash,ko,sincerity,성실,1,0.05
+deepseek/deepseek-v4.1-flash,zh,longevity,长寿,20,1.0
+deepseek/deepseek-v4.1-flash,zh,reclusion,隐逸,20,1.0
+deepseek/deepseek-v4.1-flash,zh,popular,中国十大名花之一,16,0.8
+deepseek/deepseek-v4.1-flash,zh,autumn,秋季,15,0.75
+deepseek/deepseek-v4.1-flash,zh,purity,高洁,14,0.7
+deepseek/deepseek-v4.1-flash,zh,four gentlemen,四君子,13,0.65
+deepseek/deepseek-v4.1-flash,zh,perennial,多年生草本植物,13,0.65
+deepseek/deepseek-v4.1-flash,zh,color,花色丰富,10,0.5
+deepseek/deepseek-v4.1-flash,zh,auspiciousness,吉祥,10,0.5
+deepseek/deepseek-v4.1-flash,zh,resilience,坚韧,10,0.5
+deepseek/deepseek-v4.1-flash,zh,flower head,头状花序,9,0.45
+deepseek/deepseek-v4.1-flash,zh,medicinal,清热解毒,8,0.4
+deepseek/deepseek-v4.1-flash,zh,variety,品种繁多,8,0.4
+deepseek/deepseek-v4.1-flash,zh,plant,多年生草本植物,7,0.35
+deepseek/deepseek-v4.1-flash,zh,leaf,羽状分裂,7,0.35
+deepseek/deepseek-v4.1-flash,zh,tea,泡茶,7,0.35
+deepseek/deepseek-v4.1-flash,zh,summer bloom,夏菊,7,0.35
+deepseek/deepseek-v4.1-flash,zh,ornamental,观赏,7,0.35
+deepseek/deepseek-v4.1-flash,zh,nobility,高洁,6,0.3
+deepseek/deepseek-v4.1-flash,zh,mourning,哀悼,6,0.3
+deepseek/deepseek-v4.1-flash,zh,petal,单瓣,6,0.3
+deepseek/deepseek-v4.1-flash,zh,winter bloom,寒菊,6,0.3
+deepseek/deepseek-v4.1-flash,zh,flower shape,球形,5,0.25
+deepseek/deepseek-v4.1-flash,zh,integrity,品格,5,0.25
+deepseek/deepseek-v4.1-flash,zh,festival,赏菊,5,0.25
+deepseek/deepseek-v4.1-flash,zh,yellow,黄,4,0.2
+deepseek/deepseek-v4.1-flash,zh,size,株高一般 60–150 厘米,4,0.2
+deepseek/deepseek-v4.1-flash,zh,flowering habit,短日照植物,4,0.2
+deepseek/deepseek-v4.1-flash,zh,drink,饮菊花酒,3,0.15
+deepseek/deepseek-v4.1-flash,zh,green,绿,3,0.15
+deepseek/deepseek-v4.1-flash,zh,white,白,3,0.15
+deepseek/deepseek-v4.1-flash,zh,purple,紫,3,0.15
+deepseek/deepseek-v4.1-flash,zh,red,红,3,0.15
+deepseek/deepseek-v4.1-flash,zh,flower,花卉,3,0.15
+deepseek/deepseek-v4.1-flash,zh,stem,茎直立,2,0.1
+deepseek/deepseek-v4.1-flash,zh,shape,花型多样,2,0.1
+deepseek/deepseek-v4.1-flash,zh,elegance,清雅,2,0.1
+deepseek/deepseek-v4.1-flash,zh,growth,喜凉爽、阳光充足的环境,1,0.05
+deepseek/deepseek-v4.1-flash,zh,symbolism,精神符号,1,0.05
+deepseek/deepseek-v4.1-flash,zh,health,明目,1,0.05
+deepseek/deepseek-v4.1-flash,zh,honor,非常重要的地位,1,0.05
+deepseek/deepseek-v4.1-flash,zh,asteraceae,菊科菊属,1,0.05
+deepseek/deepseek-v4.1-flash,zh,indifference,淡泊,1,0.05
+deepseek/deepseek-v4.1-flash,zh,pink,粉,1,0.05
+deepseek/deepseek-v4.1-flash,zh,edible,食用,1,0.05
+deepseek/deepseek-v4.1-flash,zh,purify,净化,1,0.05
+deepseek/deepseek-v4.1-flash,zh,clustered,多头菊,1,0.05
+deepseek/deepseek-v4.1-flash,zh,potted plant,案头菊,1,0.05
+deepseek/deepseek-v4.1-flash,zh,cut flower,切花,1,0.05
+deepseek/deepseek-v4.1-flash,zh,china,中国,1,0.05
+deepseek/deepseek-v4.1-flash,zh,poetry,陶菊,1,0.05
+deepseek/deepseek-v4.1-flash,zh,art,诗词意象,1,0.05
+deepseek/deepseek-v4.1-flash,zh,tradition,中国传统名花,1,0.05
+deepseek/deepseek-v4.1-flash,zh,peace,平肝降压,1,0.05
+google/gemini-3.5-flash-lite,en,tea,tea,20,1.0
+google/gemini-3.5-flash-lite,en,insecticide,insecticide,18,0.9
+google/gemini-3.5-flash-lite,en,mourning,mourning,17,0.85
+google/gemini-3.5-flash-lite,en,ornamental,ornamental,16,0.8
+google/gemini-3.5-flash-lite,en,plant,plant,16,0.8
+google/gemini-3.5-flash-lite,en,medicinal,medicine,15,0.75
+google/gemini-3.5-flash-lite,en,longevity,longevity,15,0.75
+google/gemini-3.5-flash-lite,en,joy,joy,14,0.7
+google/gemini-3.5-flash-lite,en,autumn,autumn,14,0.7
+google/gemini-3.5-flash-lite,en,origin,native,13,0.65
+google/gemini-3.5-flash-lite,en,color,color,13,0.65
+google/gemini-3.5-flash-lite,en,imperial symbol,emperor,13,0.65
+google/gemini-3.5-flash-lite,en,flower,flower,13,0.65
+google/gemini-3.5-flash-lite,en,friendship,friendship,11,0.55
+google/gemini-3.5-flash-lite,en,perennial,perennial,10,0.5
+google/gemini-3.5-flash-lite,en,festival,festival,10,0.5
+google/gemini-3.5-flash-lite,en,popular,popular,9,0.45
+google/gemini-3.5-flash-lite,en,optimism,optimism,9,0.45
+google/gemini-3.5-flash-lite,en,flower shape,spider,9,0.45
+google/gemini-3.5-flash-lite,en,nobility,nobility,8,0.4
+google/gemini-3.5-flash-lite,en,shape,shape,7,0.35
+google/gemini-3.5-flash-lite,en,toxic,toxic,7,0.35
+google/gemini-3.5-flash-lite,en,cultivation,cultivated,7,0.35
+google/gemini-3.5-flash-lite,en,symbolism,symbol,7,0.35
+google/gemini-3.5-flash-lite,en,health,well-being,7,0.35
+google/gemini-3.5-flash-lite,en,variety,variety,6,0.3
+google/gemini-3.5-flash-lite,en,garden,garden,6,0.3
+google/gemini-3.5-flash-lite,en,natural compound,natural,6,0.3
+google/gemini-3.5-flash-lite,en,truth,honesty,5,0.25
+google/gemini-3.5-flash-lite,en,four gentlemen,gentleman,5,0.25
+google/gemini-3.5-flash-lite,en,resilience,resilience,4,0.2
+google/gemini-3.5-flash-lite,en,national symbol,national flower of japan,4,0.2
+google/gemini-3.5-flash-lite,en,flower arrangement,arrangement,4,0.2
+google/gemini-3.5-flash-lite,en,fragrance,aromatic,4,0.2
+google/gemini-3.5-flash-lite,en,yellow,yellow,4,0.2
+google/gemini-3.5-flash-lite,en,cut flower,flower,3,0.15
+google/gemini-3.5-flash-lite,en,cultivar,cultivar,3,0.15
+google/gemini-3.5-flash-lite,en,use,ornamental,3,0.15
+google/gemini-3.5-flash-lite,en,edible,staple,3,0.15
+google/gemini-3.5-flash-lite,en,loyalty,loyalty,3,0.15
+google/gemini-3.5-flash-lite,en,white,white,3,0.15
+google/gemini-3.5-flash-lite,en,purple,purple,3,0.15
+google/gemini-3.5-flash-lite,en,pink,pink,3,0.15
+google/gemini-3.5-flash-lite,en,red,red,3,0.15
+google/gemini-3.5-flash-lite,en,grief,symbol,2,0.1
+google/gemini-3.5-flash-lite,en,flavor,floral taste,2,0.1
+google/gemini-3.5-flash-lite,en,flowering habit,annual,2,0.1
+google/gemini-3.5-flash-lite,en,orange,orange,2,0.1
+google/gemini-3.5-flash-lite,en,rebirth,rebirth,1,0.05
+google/gemini-3.5-flash-lite,en,love,love,1,0.05
+google/gemini-3.5-flash-lite,en,asteraceae,daisy family,1,0.05
+google/gemini-3.5-flash-lite,en,temperance,life of ease,1,0.05
+google/gemini-3.5-flash-lite,en,sunlight,sun,1,0.05
+google/gemini-3.5-flash-lite,en,soil,soil,1,0.05
+google/gemini-3.5-flash-lite,en,growth,grow,1,0.05
+google/gemini-3.5-flash-lite,en,ritual,associate,1,0.05
+google/gemini-3.5-flash-lite,en,gift,gift flower,1,0.05
+google/gemini-3.5-flash-lite,en,eco-friendly,eco-friendly,1,0.05
+google/gemini-3.5-flash-lite,en,stylized,stylized,1,0.05
+google/gemini-3.5-flash-lite,en,birth flower,november birth flower,1,0.05
+google/gemini-3.5-flash-lite,ja,imperial symbol,皇室の紋章,20,1.0
+google/gemini-3.5-flash-lite,ja,edible,食用菊,19,0.95
+google/gemini-3.5-flash-lite,ja,autumn,秋,18,0.9
+google/gemini-3.5-flash-lite,ja,national symbol,日本の国花,15,0.75
+google/gemini-3.5-flash-lite,ja,ornamental,菊人形,14,0.7
+google/gemini-3.5-flash-lite,ja,perennial,多年草,12,0.6
+google/gemini-3.5-flash-lite,ja,variety,種類,11,0.55
+google/gemini-3.5-flash-lite,ja,mourning,仏花,10,0.5
+google/gemini-3.5-flash-lite,ja,symbolism,象徴,10,0.5
+google/gemini-3.5-flash-lite,ja,festival,重陽の節句,8,0.4
+google/gemini-3.5-flash-lite,ja,china,中国,7,0.35
+google/gemini-3.5-flash-lite,ja,japan,和菊,5,0.25
+google/gemini-3.5-flash-lite,ja,nobility,高潔,5,0.25
+google/gemini-3.5-flash-lite,ja,integrity,高潔,4,0.2
+google/gemini-3.5-flash-lite,ja,cut flower,切り花,4,0.2
+google/gemini-3.5-flash-lite,ja,tradition,伝統,3,0.15
+google/gemini-3.5-flash-lite,ja,cultivation,育て方,3,0.15
+google/gemini-3.5-flash-lite,ja,sunlight,日当たり,3,0.15
+google/gemini-3.5-flash-lite,ja,ritual,仏花,3,0.15
+google/gemini-3.5-flash-lite,ja,love,真実の愛,2,0.1
+google/gemini-3.5-flash-lite,ja,drink,菊酒,2,0.1
+google/gemini-3.5-flash-lite,ja,size,大菊,2,0.1
+google/gemini-3.5-flash-lite,ja,west,洋菊,2,0.1
+google/gemini-3.5-flash-lite,ja,purity,高潔,1,0.05
+google/gemini-3.5-flash-lite,ja,cultivar,もってのほか,1,0.05
+google/gemini-3.5-flash-lite,ja,indifference,破れかぶれ,1,0.05
+google/gemini-3.5-flash-lite,ja,tea,お茶,1,0.05
+google/gemini-3.5-flash-lite,ja,health,リラックス効果,1,0.05
+google/gemini-3.5-flash-lite,ja,medicinal,薬用,1,0.05
+google/gemini-3.5-flash-lite,ja,exhibition,菊人形展,1,0.05
+google/gemini-3.5-flash-lite,ja,asteraceae,キク科,1,0.05
+google/gemini-3.5-flash-lite,ja,fragrance,菊の香,1,0.05
+google/gemini-3.5-flash-lite,ja,mum,小菊,1,0.05
+google/gemini-3.5-flash-lite,ja,flavor,苦味,1,0.05
+google/gemini-3.5-flash-lite,ja,longevity,長寿,1,0.05
+google/gemini-3.5-flash-lite,ja,flower language,花言葉,1,0.05
+google/gemini-3.5-flash-lite,ja,patience,思慮深い,1,0.05
+google/gemini-3.5-flash-lite,ja,culture,文化,1,0.05
+google/gemini-3.5-flash-lite,ko,mourning,추모,20,1.0
+google/gemini-3.5-flash-lite,ko,autumn,가을,17,0.85
+google/gemini-3.5-flash-lite,ko,tea,차,14,0.7
+google/gemini-3.5-flash-lite,ko,four gentlemen,사군자,14,0.7
+google/gemini-3.5-flash-lite,ko,integrity,절개,11,0.55
+google/gemini-3.5-flash-lite,ko,nobility,고결함,7,0.35
+google/gemini-3.5-flash-lite,ko,drink,술,6,0.3
+google/gemini-3.5-flash-lite,ko,fragrance,은은하다,5,0.25
+google/gemini-3.5-flash-lite,ko,longevity,장수,5,0.25
+google/gemini-3.5-flash-lite,ko,symbolism,대표하다,4,0.2
+google/gemini-3.5-flash-lite,ko,sincerity,성실,4,0.2
+google/gemini-3.5-flash-lite,ko,gratitude,감사,4,0.2
+google/gemini-3.5-flash-lite,ko,loyalty,지조,2,0.1
+google/gemini-3.5-flash-lite,ko,honor,경건함,2,0.1
+google/gemini-3.5-flash-lite,ko,purity,정절,2,0.1
+google/gemini-3.5-flash-lite,ko,ritual,제사,2,0.1
+google/gemini-3.5-flash-lite,ko,peace,평화,2,0.1
+google/gemini-3.5-flash-lite,ko,perennial,여러해살이풀,2,0.1
+google/gemini-3.5-flash-lite,ko,ornamental,관상용,2,0.1
+google/gemini-3.5-flash-lite,ko,auspiciousness,행운,2,0.1
+google/gemini-3.5-flash-lite,ko,medicinal,약용,2,0.1
+google/gemini-3.5-flash-lite,ko,national symbol,상징하다,2,0.1
+google/gemini-3.5-flash-lite,ko,diligence,성실,1,0.05
+google/gemini-3.5-flash-lite,ko,color,다양하다,1,0.05
+google/gemini-3.5-flash-lite,ko,popular,사랑받다,1,0.05
+google/gemini-3.5-flash-lite,ko,edible,식용,1,0.05
+google/gemini-3.5-flash-lite,ko,truth,진실,1,0.05
+google/gemini-3.5-flash-lite,ko,clarify,맑게 하다,1,0.05
+google/gemini-3.5-flash-lite,ko,flower,피다,1,0.05
+google/gemini-3.5-flash-lite,zh,medicinal,清热解毒,20,1.0
+google/gemini-3.5-flash-lite,zh,ornamental,观赏,18,0.9
+google/gemini-3.5-flash-lite,zh,perennial,多年生草本植物,18,0.9
+google/gemini-3.5-flash-lite,zh,reclusion,隐逸,17,0.85
+google/gemini-3.5-flash-lite,zh,longevity,长寿,16,0.8
+google/gemini-3.5-flash-lite,zh,four gentlemen,四君子,15,0.75
+google/gemini-3.5-flash-lite,zh,edible,食用,15,0.75
+google/gemini-3.5-flash-lite,zh,popular,中国十大名花之一,14,0.7
+google/gemini-3.5-flash-lite,zh,resilience,坚韧,14,0.7
+google/gemini-3.5-flash-lite,zh,nobility,高洁,13,0.65
+google/gemini-3.5-flash-lite,zh,color,花色丰富,12,0.6
+google/gemini-3.5-flash-lite,zh,auspiciousness,吉祥,11,0.55
+google/gemini-3.5-flash-lite,zh,flower head,头状花序,11,0.55
+google/gemini-3.5-flash-lite,zh,autumn,秋季,11,0.55
+google/gemini-3.5-flash-lite,zh,variety,品种繁多,9,0.45
+google/gemini-3.5-flash-lite,zh,leaf,羽状分裂,6,0.3
+google/gemini-3.5-flash-lite,zh,tea,泡茶,6,0.3
+google/gemini-3.5-flash-lite,zh,flowering habit,短日照植物,6,0.3
+google/gemini-3.5-flash-lite,zh,petal,单瓣,6,0.3
+google/gemini-3.5-flash-lite,zh,purity,高洁,5,0.25
+google/gemini-3.5-flash-lite,zh,symbolism,精神符号,5,0.25
+google/gemini-3.5-flash-lite,zh,elegance,清雅,4,0.2
+google/gemini-3.5-flash-lite,zh,culture,岁寒三友,4,0.2
+google/gemini-3.5-flash-lite,zh,integrity,品格,4,0.2
+google/gemini-3.5-flash-lite,zh,green,绿,4,0.2
+google/gemini-3.5-flash-lite,zh,drink,饮菊花酒,4,0.2
+google/gemini-3.5-flash-lite,zh,sunlight,性喜阳光,3,0.15
+google/gemini-3.5-flash-lite,zh,cultivation,易于栽培,3,0.15
+google/gemini-3.5-flash-lite,zh,flower shape,球形,3,0.15
+google/gemini-3.5-flash-lite,zh,yellow,黄,3,0.15
+google/gemini-3.5-flash-lite,zh,white,白,3,0.15
+google/gemini-3.5-flash-lite,zh,purple,紫,3,0.15
+google/gemini-3.5-flash-lite,zh,pink,粉,3,0.15
+google/gemini-3.5-flash-lite,zh,red,红,3,0.15
+google/gemini-3.5-flash-lite,zh,festival,赏菊,3,0.15
+google/gemini-3.5-flash-lite,zh,shape,花型多样,3,0.15
+google/gemini-3.5-flash-lite,zh,summer bloom,夏菊,3,0.15
+google/gemini-3.5-flash-lite,zh,winter bloom,寒菊,3,0.15
+google/gemini-3.5-flash-lite,zh,honor,非常重要的地位,2,0.1
+google/gemini-3.5-flash-lite,zh,stem,茎直立,2,0.1
+google/gemini-3.5-flash-lite,zh,cultivar,杭白菊,2,0.1
+google/gemini-3.5-flash-lite,zh,tribute,贡菊,2,0.1
+google/gemini-3.5-flash-lite,zh,tradition,中国传统名花,1,0.05
+google/gemini-3.5-flash-lite,zh,growth,喜凉爽、阳光充足的环境,1,0.05
+google/gemini-3.5-flash-lite,zh,garden,园林绿化,1,0.05
+google/gemini-3.5-flash-lite,zh,exhibition,菊花盛开,1,0.05
+google/gemini-3.5-flash-lite,zh,health,明目,1,0.05
+google/gemini-3.5-flash-lite,zh,fragrance,清香,1,0.05
+google/gemini-3.5-flash-lite,zh,wild chrysanthemum,野菊,1,0.05
+google/gemini-3.5-flash-lite,zh,humility,不趋炎附势,1,0.05
+google/gemini-3.5-flash-lite,zh,plant,多年生草本植物,1,0.05
+google/gemini-3.5-flash-lite,zh,soil,疏松肥沃的土壤,1,0.05
+google/gemini-3.5-flash-lite,zh,asteraceae,菊科菊属,1,0.05
+google/gemini-3.5-flash-lite,zh,cut flower,切花,1,0.05
+meta-llama/llama-4-maverick,en,plant,plant,19,0.95
+meta-llama/llama-4-maverick,en,flower,flower,16,0.8
+meta-llama/llama-4-maverick,en,longevity,longevity,9,0.45
+meta-llama/llama-4-maverick,en,ornamental,ornamental,9,0.45
+meta-llama/llama-4-maverick,en,origin,native,8,0.4
+meta-llama/llama-4-maverick,en,color,color,7,0.35
+meta-llama/llama-4-maverick,en,symbolism,symbol,5,0.25
+meta-llama/llama-4-maverick,en,nobility,nobility,4,0.2
+meta-llama/llama-4-maverick,en,autumn,autumn,4,0.2
+meta-llama/llama-4-maverick,en,asteraceae,daisy family,4,0.2
+meta-llama/llama-4-maverick,en,garden,garden,4,0.2
+meta-llama/llama-4-maverick,en,honor,honor,4,0.2
+meta-llama/llama-4-maverick,en,yellow,yellow,3,0.15
+meta-llama/llama-4-maverick,en,medicinal,medicine,3,0.15
+meta-llama/llama-4-maverick,en,mourning,mourning,3,0.15
+meta-llama/llama-4-maverick,en,imperial symbol,emperor,3,0.15
+meta-llama/llama-4-maverick,en,variety,variety,3,0.15
+meta-llama/llama-4-maverick,en,shape,shape,2,0.1
+meta-llama/llama-4-maverick,en,tea,tea,2,0.1
+meta-llama/llama-4-maverick,en,culture,significant,2,0.1
+meta-llama/llama-4-maverick,en,loyalty,loyalty,2,0.1
+meta-llama/llama-4-maverick,en,flower shape,spider,2,0.1
+meta-llama/llama-4-maverick,en,flower arrangement,arrangement,2,0.1
+meta-llama/llama-4-maverick,en,white,white,2,0.1
+meta-llama/llama-4-maverick,en,purple,purple,2,0.1
+meta-llama/llama-4-maverick,en,red,red,2,0.1
+meta-llama/llama-4-maverick,en,mum,mum,1,0.05
+meta-llama/llama-4-maverick,en,perennial,perennial,1,0.05
+meta-llama/llama-4-maverick,en,size,large,1,0.05
+meta-llama/llama-4-maverick,en,insecticide,insecticide,1,0.05
+meta-llama/llama-4-maverick,en,cultivation,cultivated,1,0.05
+meta-llama/llama-4-maverick,en,elegance,elegance,1,0.05
+meta-llama/llama-4-maverick,en,china,china,1,0.05
+meta-llama/llama-4-maverick,en,japan,japan,1,0.05
+meta-llama/llama-4-maverick,en,europe,europe,1,0.05
+meta-llama/llama-4-maverick,en,petal,petal,1,0.05
+meta-llama/llama-4-maverick,ja,imperial symbol,皇室の紋章,16,0.8
+meta-llama/llama-4-maverick,ja,autumn,秋,5,0.25
+meta-llama/llama-4-maverick,ja,flower,花,4,0.2
+meta-llama/llama-4-maverick,ja,variety,種類,4,0.2
+meta-llama/llama-4-maverick,ja,nobility,高潔,3,0.15
+meta-llama/llama-4-maverick,ja,popular,親しまれる,3,0.15
+meta-llama/llama-4-maverick,ja,symbolism,象徴,3,0.15
+meta-llama/llama-4-maverick,ja,japan,和菊,2,0.1
+meta-llama/llama-4-maverick,ja,longevity,長寿,2,0.1
+meta-llama/llama-4-maverick,ja,cultivation,育て方,2,0.1
+meta-llama/llama-4-maverick,ja,ornamental,菊人形,2,0.1
+meta-llama/llama-4-maverick,ja,fragrance,菊の香,2,0.1
+meta-llama/llama-4-maverick,ja,mourning,仏花,2,0.1
+meta-llama/llama-4-maverick,ja,perennial,多年草,2,0.1
+meta-llama/llama-4-maverick,ja,cultivar,もってのほか,2,0.1
+meta-llama/llama-4-maverick,ja,tea,お茶,1,0.05
+meta-llama/llama-4-maverick,ja,asteraceae,キク科,1,0.05
+meta-llama/llama-4-maverick,ja,medicinal,薬用,1,0.05
+meta-llama/llama-4-maverick,ja,four gentlemen,四君子,1,0.05
+meta-llama/llama-4-maverick,ja,optimism,印象,1,0.05
+meta-llama/llama-4-maverick,ja,plant,植物,1,0.05
+meta-llama/llama-4-maverick,ja,size,大菊,1,0.05
+meta-llama/llama-4-maverick,ja,mum,小菊,1,0.05
+meta-llama/llama-4-maverick,ja,white,白,1,0.05
+meta-llama/llama-4-maverick,ja,yellow,黄,1,0.05
+meta-llama/llama-4-maverick,ja,flower arrangement,生け花,1,0.05
+meta-llama/llama-4-maverick,ja,red,赤,1,0.05
+meta-llama/llama-4-maverick,ja,color,色,1,0.05
+meta-llama/llama-4-maverick,ja,use,使われる,1,0.05
+meta-llama/llama-4-maverick,ja,love,真実の愛,1,0.05
+meta-llama/llama-4-maverick,ja,joy,快活,1,0.05
+meta-llama/llama-4-maverick,ja,art,花札の絵柄,1,0.05
+meta-llama/llama-4-maverick,ko,variety,다양하다,10,0.5
+meta-llama/llama-4-maverick,ko,symbolism,대표하다,8,0.4
+meta-llama/llama-4-maverick,ko,autumn,가을,7,0.35
+meta-llama/llama-4-maverick,ko,flower,피다,7,0.35
+meta-llama/llama-4-maverick,ko,ornamental,관상용,7,0.35
+meta-llama/llama-4-maverick,ko,longevity,장수,6,0.3
+meta-llama/llama-4-maverick,ko,nobility,고결함,6,0.3
+meta-llama/llama-4-maverick,ko,integrity,절개,5,0.25
+meta-llama/llama-4-maverick,ko,popular,사랑받다,5,0.25
+meta-llama/llama-4-maverick,ko,elegance,아름다움,5,0.25
+meta-llama/llama-4-maverick,ko,joy,행복,5,0.25
+meta-llama/llama-4-maverick,ko,four gentlemen,사군자,3,0.15
+meta-llama/llama-4-maverick,ko,mourning,추모,3,0.15
+meta-llama/llama-4-maverick,ko,plant,식물,3,0.15
+meta-llama/llama-4-maverick,ko,cultivar,봄 국화,2,0.1
+meta-llama/llama-4-maverick,ko,wild chrysanthemum,chrysanthemum indicum,2,0.1
+meta-llama/llama-4-maverick,ko,yellow,노란색,2,0.1
+meta-llama/llama-4-maverick,ko,fragrance,은은하다,2,0.1
+meta-llama/llama-4-maverick,ko,appearance,등장하다,2,0.1
+meta-llama/llama-4-maverick,ko,cultivation,키우다,2,0.1
+meta-llama/llama-4-maverick,ko,use,쓰이다,2,0.1
+meta-llama/llama-4-maverick,ko,color,다양하다,2,0.1
+meta-llama/llama-4-maverick,ko,tea,차,2,0.1
+meta-llama/llama-4-maverick,ko,tradition,풍습,2,0.1
+meta-llama/llama-4-maverick,ko,love,사랑,2,0.1
+meta-llama/llama-4-maverick,ko,purity,정절,2,0.1
+meta-llama/llama-4-maverick,ko,loyalty,지조,2,0.1
+meta-llama/llama-4-maverick,ko,existence,존재하다,2,0.1
+meta-llama/llama-4-maverick,ko,patience,인내,2,0.1
+meta-llama/llama-4-maverick,ko,mum,chrysanthemum morifolium,2,0.1
+meta-llama/llama-4-maverick,ko,health,건강,2,0.1
+meta-llama/llama-4-maverick,ko,white,흰색,1,0.05
+meta-llama/llama-4-maverick,ko,cut flower,절화,1,0.05
+meta-llama/llama-4-maverick,ko,purple,보라색,1,0.05
+meta-llama/llama-4-maverick,ko,red,빨간색,1,0.05
+meta-llama/llama-4-maverick,ko,imperial symbol,황실 문장,1,0.05
+meta-llama/llama-4-maverick,ko,wealth,상징하다,1,0.05
+meta-llama/llama-4-maverick,ko,sincerity,성실,1,0.05
+meta-llama/llama-4-maverick,ko,peace,평화,1,0.05
+meta-llama/llama-4-maverick,ko,grief,실망,1,0.05
+meta-llama/llama-4-maverick,ko,official,공식,1,0.05
+meta-llama/llama-4-maverick,ko,festival,추석,1,0.05
+meta-llama/llama-4-maverick,ko,gift,선물용,1,0.05
+meta-llama/llama-4-maverick,ko,durability,좋은 보존성,1,0.05
+meta-llama/llama-4-maverick,ko,optimism,희망,1,0.05
+meta-llama/llama-4-maverick,ko,honor,경건함,1,0.05
+meta-llama/llama-4-maverick,ko,nostalgia,향수,1,0.05
+meta-llama/llama-4-maverick,ko,size,대국,1,0.05
+meta-llama/llama-4-maverick,ko,auspiciousness,행운,1,0.05
+meta-llama/llama-4-maverick,ko,medicinal,약용,1,0.05
+meta-llama/llama-4-maverick,ko,perennial,여러해살이풀,1,0.05
+meta-llama/llama-4-maverick,ko,drink,술,1,0.05
+meta-llama/llama-4-maverick,ko,simplicity,농촌의 기운,1,0.05
+meta-llama/llama-4-maverick,ko,art,소재,1,0.05
+meta-llama/llama-4-maverick,zh,popular,中国十大名花之一,7,0.368
+meta-llama/llama-4-maverick,zh,flower,花卉,7,0.368
+meta-llama/llama-4-maverick,zh,medicinal,清热解毒,4,0.211
+meta-llama/llama-4-maverick,zh,ornamental,观赏,4,0.211
+meta-llama/llama-4-maverick,zh,autumn,秋季,4,0.211
+meta-llama/llama-4-maverick,zh,china,中国,3,0.158
+meta-llama/llama-4-maverick,zh,tradition,中国传统名花,3,0.158
+meta-llama/llama-4-maverick,zh,drink,饮菊花酒,3,0.158
+meta-llama/llama-4-maverick,zh,color,花色丰富,3,0.158
+meta-llama/llama-4-maverick,zh,tea,泡茶,3,0.158
+meta-llama/llama-4-maverick,zh,perennial,多年生草本植物,3,0.158
+meta-llama/llama-4-maverick,zh,reclusion,隐逸,3,0.158
+meta-llama/llama-4-maverick,zh,resilience,坚韧,3,0.158
+meta-llama/llama-4-maverick,zh,symbolism,精神符号,2,0.105
+meta-llama/llama-4-maverick,zh,fragrance,清香,2,0.105
+meta-llama/llama-4-maverick,zh,purity,高洁,2,0.105
+meta-llama/llama-4-maverick,zh,plant,多年生草本植物,2,0.105
+meta-llama/llama-4-maverick,zh,edible,食用,2,0.105
+meta-llama/llama-4-maverick,zh,peace,平肝降压,1,0.053
+meta-llama/llama-4-maverick,zh,shape,花型多样,1,0.053
+meta-llama/llama-4-maverick,zh,health,明目,1,0.053
+meta-llama/llama-4-maverick,zh,longevity,长寿,1,0.053
+meta-llama/llama-4-maverick,zh,culture,岁寒三友,1,0.053
+meta-llama/llama-4-maverick,zh,asteraceae,菊科菊属,1,0.053
+meta-llama/llama-4-maverick,zh,four gentlemen,四君子,1,0.053
+meta-llama/llama-4-maverick,zh,garden,园林绿化,1,0.053
+mistralai/mistral-small-2603,en,plant,plant,11,0.579
+mistralai/mistral-small-2603,en,color,color,10,0.526
+mistralai/mistral-small-2603,en,white,white,10,0.526
+mistralai/mistral-small-2603,en,purple,purple,10,0.526
+mistralai/mistral-small-2603,en,yellow,yellow,10,0.526
+mistralai/mistral-small-2603,en,red,red,10,0.526
+mistralai/mistral-small-2603,en,flower,flower,10,0.526
+mistralai/mistral-small-2603,en,variety,variety,9,0.474
+mistralai/mistral-small-2603,en,flower shape,spider,9,0.474
+mistralai/mistral-small-2603,en,origin,native,8,0.421
+mistralai/mistral-small-2603,en,pink,pink,7,0.368
+mistralai/mistral-small-2603,en,ornamental,ornamental,7,0.368
+mistralai/mistral-small-2603,en,cultivation,cultivated,6,0.316
+mistralai/mistral-small-2603,en,orange,orange,6,0.316
+mistralai/mistral-small-2603,en,flower head,head,6,0.316
+mistralai/mistral-small-2603,en,asteraceae,daisy family,5,0.263
+mistralai/mistral-small-2603,en,perennial,perennial,5,0.263
+mistralai/mistral-small-2603,en,symbolism,symbol,4,0.211
+mistralai/mistral-small-2603,en,longevity,longevity,4,0.211
+mistralai/mistral-small-2603,en,petal,petal,4,0.211
+mistralai/mistral-small-2603,en,popular,popular,4,0.211
+mistralai/mistral-small-2603,en,leaf,lobed,4,0.211
+mistralai/mistral-small-2603,en,size,large,4,0.211
+mistralai/mistral-small-2603,en,joy,joy,3,0.158
+mistralai/mistral-small-2603,en,culture,significant,3,0.158
+mistralai/mistral-small-2603,en,cultivar,cultivar,2,0.105
+mistralai/mistral-small-2603,en,growth,grow,2,0.105
+mistralai/mistral-small-2603,en,shape,shape,2,0.105
+mistralai/mistral-small-2603,en,sunlight,sun,1,0.053
+mistralai/mistral-small-2603,en,rebirth,rebirth,1,0.053
+mistralai/mistral-small-2603,en,soil,soil,1,0.053
+mistralai/mistral-small-2603,en,resilience,resilience,1,0.053
+mistralai/mistral-small-2603,en,china,china,1,0.053
+mistralai/mistral-small-2603,en,japan,japan,1,0.053
+mistralai/mistral-small-2603,en,fragrance,aromatic,1,0.053
+mistralai/mistral-small-2603,en,density,dense,1,0.053
+mistralai/mistral-small-2603,en,biennial,biennials,1,0.053
+mistralai/mistral-small-2603,en,flowering habit,annual,1,0.053
+mistralai/mistral-small-2603,en,cushion,cushion,1,0.053
+mistralai/mistral-small-2603,en,medicinal,medicine,1,0.053
+mistralai/mistral-small-2603,en,elegance,elegance,1,0.053
+mistralai/mistral-small-2603,en,mourning,mourning,1,0.053
+mistralai/mistral-small-2603,en,garden,garden,1,0.053
+mistralai/mistral-small-2603,en,flower arrangement,arrangement,1,0.053
+mistralai/mistral-small-2603,ja,symbolism,象徴,9,0.474
+mistralai/mistral-small-2603,ja,national symbol,日本の国花,8,0.421
+mistralai/mistral-small-2603,ja,imperial symbol,皇室の紋章,7,0.368
+mistralai/mistral-small-2603,ja,elegance,美しい,7,0.368
+mistralai/mistral-small-2603,ja,nobility,高潔,7,0.368
+mistralai/mistral-small-2603,ja,autumn,秋,7,0.368
+mistralai/mistral-small-2603,ja,size,大菊,6,0.316
+mistralai/mistral-small-2603,ja,variety,種類,6,0.316
+mistralai/mistral-small-2603,ja,plant,植物,5,0.263
+mistralai/mistral-small-2603,ja,petal,花弁,4,0.211
+mistralai/mistral-small-2603,ja,ornamental,菊人形,4,0.211
+mistralai/mistral-small-2603,ja,popular,親しまれる,4,0.211
+mistralai/mistral-small-2603,ja,longevity,長寿,4,0.211
+mistralai/mistral-small-2603,ja,perennial,多年草,4,0.211
+mistralai/mistral-small-2603,ja,east asia,東アジア,4,0.211
+mistralai/mistral-small-2603,ja,flower,花,3,0.158
+mistralai/mistral-small-2603,ja,cultivation,育て方,3,0.158
+mistralai/mistral-small-2603,ja,white,白,3,0.158
+mistralai/mistral-small-2603,ja,purple,紫,3,0.158
+mistralai/mistral-small-2603,ja,yellow,黄,3,0.158
+mistralai/mistral-small-2603,ja,red,赤,3,0.158
+mistralai/mistral-small-2603,ja,flower head,頭状花,3,0.158
+mistralai/mistral-small-2603,ja,culture,文化,2,0.105
+mistralai/mistral-small-2603,ja,pink,ピンク,2,0.105
+mistralai/mistral-small-2603,ja,love,真実の愛,2,0.105
+mistralai/mistral-small-2603,ja,honor,栄光,2,0.105
+mistralai/mistral-small-2603,ja,loyalty,忠誠,2,0.105
+mistralai/mistral-small-2603,ja,appearance,印象,1,0.053
+mistralai/mistral-small-2603,ja,tradition,伝統,1,0.053
+mistralai/mistral-small-2603,ja,cultivar,もってのほか,1,0.053
+mistralai/mistral-small-2603,ja,purity,高潔,1,0.053
+mistralai/mistral-small-2603,ja,art,花札の絵柄,1,0.053
+mistralai/mistral-small-2603,ja,flower shape,八重咲き,1,0.053
+mistralai/mistral-small-2603,ja,green,緑,1,0.053
+mistralai/mistral-small-2603,ja,sunlight,日当たり,1,0.053
+mistralai/mistral-small-2603,ja,resilience,寒さに強い,1,0.053
+mistralai/mistral-small-2603,ja,shape,多様な形,1,0.053
+mistralai/mistral-small-2603,ja,use,使われる,1,0.053
+mistralai/mistral-small-2603,ja,tea,お茶,1,0.053
+mistralai/mistral-small-2603,ja,medicinal,薬用,1,0.053
+mistralai/mistral-small-2603,ja,edible,食用菊,1,0.053
+mistralai/mistral-small-2603,ja,groundcover,地植え品種,1,0.053
+mistralai/mistral-small-2603,ja,leaf,葉,1,0.053
+mistralai/mistral-small-2603,ja,official,パスポート,1,0.053
+mistralai/mistral-small-2603,ja,color,色,1,0.053
+mistralai/mistral-small-2603,ja,japan,和菊,1,0.053
+mistralai/mistral-small-2603,ja,west,洋菊,1,0.053
+mistralai/mistral-small-2603,ja,truth,真実,1,0.053
+mistralai/mistral-small-2603,ja,peace,おだやかさ,1,0.053
+mistralai/mistral-small-2603,ja,friendship,永遠の友情,1,0.053
+mistralai/mistral-small-2603,ja,festival,重陽の節句,1,0.053
+mistralai/mistral-small-2603,ko,autumn,가을,11,0.55
+mistralai/mistral-small-2603,ko,flower,피다,8,0.4
+mistralai/mistral-small-2603,ko,plant,식물,7,0.35
+mistralai/mistral-small-2603,ko,yellow,노란색,7,0.35
+mistralai/mistral-small-2603,ko,color,다양하다,7,0.35
+mistralai/mistral-small-2603,ko,white,흰색,6,0.3
+mistralai/mistral-small-2603,ko,elegance,아름다움,6,0.3
+mistralai/mistral-small-2603,ko,purple,보라색,5,0.25
+mistralai/mistral-small-2603,ko,popular,사랑받다,5,0.25
+mistralai/mistral-small-2603,ko,nobility,고결함,5,0.25
+mistralai/mistral-small-2603,ko,longevity,장수,5,0.25
+mistralai/mistral-small-2603,ko,tradition,풍습,5,0.25
+mistralai/mistral-small-2603,ko,asteraceae,국화과,4,0.2
+mistralai/mistral-small-2603,ko,national symbol,상징하다,4,0.2
+mistralai/mistral-small-2603,ko,petal,품종,4,0.2
+mistralai/mistral-small-2603,ko,loyalty,지조,4,0.2
+mistralai/mistral-small-2603,ko,cultivation,키우다,4,0.2
+mistralai/mistral-small-2603,ko,purity,정절,3,0.15
+mistralai/mistral-small-2603,ko,pink,분홍색,3,0.15
+mistralai/mistral-small-2603,ko,symbolism,대표하다,3,0.15
+mistralai/mistral-small-2603,ko,honor,경건함,3,0.15
+mistralai/mistral-small-2603,ko,resilience,강하다,3,0.15
+mistralai/mistral-small-2603,ko,peace,평화,3,0.15
+mistralai/mistral-small-2603,ko,festival,추석,3,0.15
+mistralai/mistral-small-2603,ko,garden,화단,3,0.15
+mistralai/mistral-small-2603,ko,ornamental,관상용,3,0.15
+mistralai/mistral-small-2603,ko,integrity,절개,3,0.15
+mistralai/mistral-small-2603,ko,flower shape,거미형,2,0.1
+mistralai/mistral-small-2603,ko,variety,다양하다,2,0.1
+mistralai/mistral-small-2603,ko,optimism,희망,2,0.1
+mistralai/mistral-small-2603,ko,wealth,상징하다,2,0.1
+mistralai/mistral-small-2603,ko,mourning,추모,2,0.1
+mistralai/mistral-small-2603,ko,health,건강,2,0.1
+mistralai/mistral-small-2603,ko,size,대국,2,0.1
+mistralai/mistral-small-2603,ko,humility,겸손,2,0.1
+mistralai/mistral-small-2603,ko,perennial,여러해살이풀,2,0.1
+mistralai/mistral-small-2603,ko,tea,차,2,0.1
+mistralai/mistral-small-2603,ko,medicinal,약용,2,0.1
+mistralai/mistral-small-2603,ko,mum,chrysanthemum morifolium,1,0.05
+mistralai/mistral-small-2603,ko,groundcover,잔디식물,1,0.05
+mistralai/mistral-small-2603,ko,edible,식용,1,0.05
+mistralai/mistral-small-2603,ko,origin,원산지,1,0.05
+mistralai/mistral-small-2603,ko,eternal beauty,영원하다,1,0.05
+mistralai/mistral-small-2603,ko,victory,승리,1,0.05
+mistralai/mistral-small-2603,ko,drink,술,1,0.05
+mistralai/mistral-small-2603,ko,sunlight,좋아하다,1,0.05
+mistralai/mistral-small-2603,ko,youth,청춘,1,0.05
+mistralai/mistral-small-2603,ko,east asia,동아시아,1,0.05
+mistralai/mistral-small-2603,ko,cultivar,봄 국화,1,0.05
+mistralai/mistral-small-2603,ko,wild chrysanthemum,chrysanthemum indicum,1,0.05
+mistralai/mistral-small-2603,ko,simplicity,농촌의 기운,1,0.05
+mistralai/mistral-small-2603,ko,summer bloom,여름,1,0.05
+mistralai/mistral-small-2603,ko,clustered,다층,1,0.05
+mistralai/mistral-small-2603,ko,spring,봄,1,0.05
+mistralai/mistral-small-2603,ko,fragrance,은은하다,1,0.05
+mistralai/mistral-small-2603,ko,reclusion,은퇴,1,0.05
+mistralai/mistral-small-2603,ko,china,중국,1,0.05
+mistralai/mistral-small-2603,ko,love,사랑,1,0.05
+mistralai/mistral-small-2603,ko,auspiciousness,행운,1,0.05
+mistralai/mistral-small-2603,ko,winter bloom,감기,1,0.05
+mistralai/mistral-small-2603,ko,imperial symbol,황실 문장,1,0.05
+mistralai/mistral-small-2603,ko,art,소재,1,0.05
+mistralai/mistral-small-2603,ko,rebirth,부활,1,0.05
+mistralai/mistral-small-2603,ko,culture,문화,1,0.05
+mistralai/mistral-small-2603,ko,cushion,비단방석에 앉은 봄꽃,1,0.05
+mistralai/mistral-small-2603,zh,perennial,多年生草本植物,13,0.65
+mistralai/mistral-small-2603,zh,variety,品种繁多,12,0.6
+mistralai/mistral-small-2603,zh,asteraceae,菊科菊属,10,0.5
+mistralai/mistral-small-2603,zh,color,花色丰富,8,0.4
+mistralai/mistral-small-2603,zh,leaf,羽状分裂,7,0.35
+mistralai/mistral-small-2603,zh,origin,原产,6,0.3
+mistralai/mistral-small-2603,zh,stem,茎直立,6,0.3
+mistralai/mistral-small-2603,zh,flower head,头状花序,6,0.3
+mistralai/mistral-small-2603,zh,longevity,长寿,5,0.25
+mistralai/mistral-small-2603,zh,ornamental,观赏,5,0.25
+mistralai/mistral-small-2603,zh,medicinal,清热解毒,5,0.25
+mistralai/mistral-small-2603,zh,symbolism,精神符号,5,0.25
+mistralai/mistral-small-2603,zh,size,株高一般 60–150 厘米,5,0.25
+mistralai/mistral-small-2603,zh,tradition,中国传统名花,5,0.25
+mistralai/mistral-small-2603,zh,cultivation,易于栽培,4,0.2
+mistralai/mistral-small-2603,zh,culture,岁寒三友,4,0.2
+mistralai/mistral-small-2603,zh,purity,高洁,4,0.2
+mistralai/mistral-small-2603,zh,yellow,黄,4,0.2
+mistralai/mistral-small-2603,zh,autumn,秋季,4,0.2
+mistralai/mistral-small-2603,zh,nobility,高洁,4,0.2
+mistralai/mistral-small-2603,zh,flower shape,球形,4,0.2
+mistralai/mistral-small-2603,zh,flowering habit,短日照植物,4,0.2
+mistralai/mistral-small-2603,zh,plant,多年生草本植物,3,0.15
+mistralai/mistral-small-2603,zh,petal,单瓣,3,0.15
+mistralai/mistral-small-2603,zh,flower,花卉,3,0.15
+mistralai/mistral-small-2603,zh,china,中国,3,0.15
+mistralai/mistral-small-2603,zh,white,白,3,0.15
+mistralai/mistral-small-2603,zh,green,绿,3,0.15
+mistralai/mistral-small-2603,zh,resilience,坚韧,3,0.15
+mistralai/mistral-small-2603,zh,four gentlemen,四君子,2,0.1
+mistralai/mistral-small-2603,zh,leaf shape,卵形,2,0.1
+mistralai/mistral-small-2603,zh,east asia,东亚(中国、朝鲜、日本等地),2,0.1
+mistralai/mistral-small-2603,zh,popular,中国十大名花之一,2,0.1
+mistralai/mistral-small-2603,zh,festival,赏菊,2,0.1
+mistralai/mistral-small-2603,zh,use,多用途植物,2,0.1
+mistralai/mistral-small-2603,zh,purple,紫,2,0.1
+mistralai/mistral-small-2603,zh,cultivar,杭白菊,1,0.05
+mistralai/mistral-small-2603,zh,tea,泡茶,1,0.05
+mistralai/mistral-small-2603,zh,shape,花型多样,1,0.05
+mistralai/mistral-small-2603,zh,elegance,清雅,1,0.05
+mistralai/mistral-small-2603,zh,tribute,贡菊,1,0.05
+mistralai/mistral-small-2603,zh,mum,小菊,1,0.05
+mistralai/mistral-small-2603,zh,precious,贵重,1,0.05
+mistralai/mistral-small-2603,zh,cool climate,喜凉爽气候,1,0.05
+mistralai/mistral-small-2603,zh,sunlight,性喜阳光,1,0.05
+mistralai/mistral-small-2603,zh,auspiciousness,吉祥,1,0.05
+mistralai/mistral-small-2603,zh,ritual,祭祖,1,0.05
+mistralai/mistral-small-2603,zh,integrity,品格,1,0.05
+mistralai/mistral-small-2603,zh,health,明目,1,0.05
+mistralai/mistral-small-2603,zh,density,紧凑,1,0.05
+mistralai/mistral-small-2603,zh,pink,粉,1,0.05
+mistralai/mistral-small-2603,zh,cut flower,切花,1,0.05
+mistralai/mistral-small-2603,zh,easy care,适合,1,0.05
+mistralai/mistral-small-2603,zh,potted plant,案头菊,1,0.05
+mistralai/mistral-small-2603,zh,red,红,1,0.05
+mistralai/mistral-small-2603,zh,japan,日本,1,0.05
+mistralai/mistral-small-2603,zh,rebirth,生活,1,0.05
+mistralai/mistral-small-2603,zh,groundcover,平卧,1,0.05
+mistralai/mistral-small-2603,zh,poetry,陶菊,1,0.05
+mistralai/mistral-small-2603,zh,art,诗词意象,1,0.05
+openai/gpt-6-luna,en,color,color,14,0.7
+openai/gpt-6-luna,en,plant,plant,13,0.65
+openai/gpt-6-luna,en,asteraceae,daisy family,11,0.55
+openai/gpt-6-luna,en,flower,flower,9,0.45
+openai/gpt-6-luna,en,cultivation,cultivated,7,0.35
+openai/gpt-6-luna,en,shape,shape,6,0.3
+openai/gpt-6-luna,en,ornamental,ornamental,6,0.3
+openai/gpt-6-luna,en,symbolism,symbol,2,0.1
+openai/gpt-6-luna,en,variety,variety,2,0.1
+openai/gpt-6-luna,en,garden,garden,2,0.1
+openai/gpt-6-luna,en,mum,mum,1,0.05
+openai/gpt-6-luna,en,use,ornamental,1,0.05
+openai/gpt-6-luna,en,gift,gift flower,1,0.05
+openai/gpt-6-luna,en,flower arrangement,arrangement,1,0.05
+openai/gpt-6-luna,ja,imperial symbol,皇室の紋章,18,0.9
+openai/gpt-6-luna,ja,autumn,秋,14,0.7
+openai/gpt-6-luna,ja,longevity,長寿,13,0.65
+openai/gpt-6-luna,ja,popular,親しまれる,11,0.55
+openai/gpt-6-luna,ja,nobility,高潔,10,0.5
+openai/gpt-6-luna,ja,symbolism,象徴,8,0.4
+openai/gpt-6-luna,ja,plant,植物,7,0.35
+openai/gpt-6-luna,ja,flower,花,6,0.3
+openai/gpt-6-luna,ja,culture,文化,2,0.1
+openai/gpt-6-luna,ja,asteraceae,キク科,2,0.1
+openai/gpt-6-luna,ja,integrity,高潔,1,0.05
+openai/gpt-6-luna,ja,appearance,印象,1,0.05
+openai/gpt-6-luna,ja,festival,重陽の節句,1,0.05
+openai/gpt-6-luna,ja,perennial,多年草,1,0.05
+openai/gpt-6-luna,ja,elegance,美しい,1,0.05
+openai/gpt-6-luna,ko,variety,다양하다,19,0.95
+openai/gpt-6-luna,ko,cultivation,키우다,16,0.8
+openai/gpt-6-luna,ko,flower language,꽃말,16,0.8
+openai/gpt-6-luna,ko,symbolism,대표하다,7,0.35
+openai/gpt-6-luna,ko,medicinal,약용,5,0.25
+openai/gpt-6-luna,ko,flower,피다,4,0.2
+openai/gpt-6-luna,ko,longevity,장수,3,0.15
+openai/gpt-6-luna,ko,integrity,절개,3,0.15
+openai/gpt-6-luna,ko,tea,차,3,0.15
+openai/gpt-6-luna,ko,origin,원산지,2,0.1
+openai/gpt-6-luna,ko,use,쓰이다,1,0.05
+openai/gpt-6-luna,ko,autumn,가을,1,0.05
+openai/gpt-6-luna,ko,tradition,풍습,1,0.05
+openai/gpt-6-luna,ko,ornamental,관상용,1,0.05
+openai/gpt-6-luna,ko,edible,식용,1,0.05
+openai/gpt-6-luna,ko,color,다양하다,1,0.05
+openai/gpt-6-luna,ko,white,흰색,1,0.05
+openai/gpt-6-luna,ko,plant,식물,1,0.05
+openai/gpt-6-luna,zh,tea,泡茶,18,0.9
+openai/gpt-6-luna,zh,autumn,秋季,12,0.6
+openai/gpt-6-luna,zh,variety,品种繁多,12,0.6
+openai/gpt-6-luna,zh,ornamental,观赏,10,0.5
+openai/gpt-6-luna,zh,perennial,多年生草本植物,10,0.5
+openai/gpt-6-luna,zh,medicinal,清热解毒,10,0.5
+openai/gpt-6-luna,zh,popular,中国十大名花之一,7,0.35
+openai/gpt-6-luna,zh,color,花色丰富,4,0.2
+openai/gpt-6-luna,zh,flower,花卉,3,0.15
+openai/gpt-6-luna,zh,white,白,3,0.15
+openai/gpt-6-luna,zh,purple,紫,3,0.15
+openai/gpt-6-luna,zh,yellow,黄,3,0.15
+openai/gpt-6-luna,zh,tradition,中国传统名花,3,0.15
+openai/gpt-6-luna,zh,purity,高洁,2,0.1
+openai/gpt-6-luna,zh,resilience,坚韧,2,0.1
+openai/gpt-6-luna,zh,cultivation,易于栽培,2,0.1
+openai/gpt-6-luna,zh,wealth,丰富,1,0.05
+openai/gpt-6-luna,zh,symbolism,精神符号,1,0.05
+openai/gpt-6-luna,zh,longevity,长寿,1,0.05
+openai/gpt-6-luna,zh,china,中国,1,0.05
+openai/gpt-6-luna,zh,flower language,花语,1,0.05
+openai/gpt-6-luna,zh,drink,饮菊花酒,1,0.05
+qwen/qwen3.8-flash,en,flower,flower,16,0.8
+qwen/qwen3.8-flash,en,origin,native,15,0.75
+qwen/qwen3.8-flash,en,autumn,autumn,15,0.75
+qwen/qwen3.8-flash,en,longevity,longevity,13,0.65
+qwen/qwen3.8-flash,en,color,color,12,0.6
+qwen/qwen3.8-flash,en,yellow,yellow,10,0.5
+qwen/qwen3.8-flash,en,nobility,nobility,10,0.5
+qwen/qwen3.8-flash,en,white,white,9,0.45
+qwen/qwen3.8-flash,en,purple,purple,9,0.45
+qwen/qwen3.8-flash,en,pink,pink,9,0.45
+qwen/qwen3.8-flash,en,red,red,9,0.45
+qwen/qwen3.8-flash,en,plant,plant,8,0.4
+qwen/qwen3.8-flash,en,symbolism,symbol,8,0.4
+qwen/qwen3.8-flash,en,festival,festival,7,0.35
+qwen/qwen3.8-flash,en,variety,variety,7,0.35
+qwen/qwen3.8-flash,en,flower shape,spider,7,0.35
+qwen/qwen3.8-flash,en,shape,shape,6,0.3
+qwen/qwen3.8-flash,en,four gentlemen,gentleman,5,0.25
+qwen/qwen3.8-flash,en,green,green,5,0.25
+qwen/qwen3.8-flash,en,popular,popular,5,0.25
+qwen/qwen3.8-flash,en,asteraceae,daisy family,4,0.2
+qwen/qwen3.8-flash,en,leaf,lobed,4,0.2
+qwen/qwen3.8-flash,en,orange,orange,4,0.2
+qwen/qwen3.8-flash,en,imperial symbol,emperor,3,0.15
+qwen/qwen3.8-flash,en,cultivation,cultivated,3,0.15
+qwen/qwen3.8-flash,en,elegance,elegance,3,0.15
+qwen/qwen3.8-flash,en,ornamental,ornamental,3,0.15
+qwen/qwen3.8-flash,en,petal,petal,3,0.15
+qwen/qwen3.8-flash,en,cultivar,cultivar,3,0.15
+qwen/qwen3.8-flash,en,tradition,cultivated,3,0.15
+qwen/qwen3.8-flash,en,rebirth,rebirth,2,0.1
+qwen/qwen3.8-flash,en,east asia,east asia,2,0.1
+qwen/qwen3.8-flash,en,china,china,2,0.1
+qwen/qwen3.8-flash,en,japan,japan,2,0.1
+qwen/qwen3.8-flash,en,europe,europe,2,0.1
+qwen/qwen3.8-flash,en,perennial,perennial,2,0.1
+qwen/qwen3.8-flash,en,flower head,head,2,0.1
+qwen/qwen3.8-flash,en,mourning,mourning,2,0.1
+qwen/qwen3.8-flash,en,fragrance,aromatic,2,0.1
+qwen/qwen3.8-flash,en,joy,joy,2,0.1
+qwen/qwen3.8-flash,en,garden,garden,2,0.1
+qwen/qwen3.8-flash,en,culture,significant,2,0.1
+qwen/qwen3.8-flash,en,resilience,resilience,2,0.1
+qwen/qwen3.8-flash,en,honor,honor,1,0.05
+qwen/qwen3.8-flash,en,national symbol,national flower of japan,1,0.05
+qwen/qwen3.8-flash,en,tea,tea,1,0.05
+qwen/qwen3.8-flash,en,medicinal,medicine,1,0.05
+qwen/qwen3.8-flash,en,gift,gift flower,1,0.05
+qwen/qwen3.8-flash,en,integrity,character,1,0.05
+qwen/qwen3.8-flash,en,friendship,friendship,1,0.05
+qwen/qwen3.8-flash,en,exhibition,display,1,0.05
+qwen/qwen3.8-flash,en,clustered,clustered,1,0.05
+qwen/qwen3.8-flash,en,size,large,1,0.05
+qwen/qwen3.8-flash,en,flowering habit,annual,1,0.05
+qwen/qwen3.8-flash,en,wild chrysanthemum,júhuā,1,0.05
+qwen/qwen3.8-flash,en,growth,grow,1,0.05
+qwen/qwen3.8-flash,ja,longevity,長寿,13,0.65
+qwen/qwen3.8-flash,ja,imperial symbol,皇室の紋章,13,0.65
+qwen/qwen3.8-flash,ja,autumn,秋,12,0.6
+qwen/qwen3.8-flash,ja,symbolism,象徴,12,0.6
+qwen/qwen3.8-flash,ja,edible,食用菊,10,0.5
+qwen/qwen3.8-flash,ja,nobility,高潔,10,0.5
+qwen/qwen3.8-flash,ja,ornamental,菊人形,10,0.5
+qwen/qwen3.8-flash,ja,perennial,多年草,8,0.4
+qwen/qwen3.8-flash,ja,popular,親しまれる,7,0.35
+qwen/qwen3.8-flash,ja,medicinal,薬用,6,0.3
+qwen/qwen3.8-flash,ja,national symbol,日本の国花,6,0.3
+qwen/qwen3.8-flash,ja,resilience,寒さに強い,6,0.3
+qwen/qwen3.8-flash,ja,drink,菊酒,5,0.25
+qwen/qwen3.8-flash,ja,variety,種類,5,0.25
+qwen/qwen3.8-flash,ja,festival,重陽の節句,5,0.25
+qwen/qwen3.8-flash,ja,elegance,美しい,4,0.2
+qwen/qwen3.8-flash,ja,purity,高潔,4,0.2
+qwen/qwen3.8-flash,ja,cultivation,育て方,4,0.2
+qwen/qwen3.8-flash,ja,tea,お茶,4,0.2
+qwen/qwen3.8-flash,ja,honor,栄光,2,0.1
+qwen/qwen3.8-flash,ja,size,大菊,2,0.1
+qwen/qwen3.8-flash,ja,east asia,東アジア,2,0.1
+qwen/qwen3.8-flash,ja,reclusion,隠遁,2,0.1
+qwen/qwen3.8-flash,ja,japan,和菊,2,0.1
+qwen/qwen3.8-flash,ja,mourning,仏花,2,0.1
+qwen/qwen3.8-flash,ja,flowering habit,季節感,2,0.1
+qwen/qwen3.8-flash,ja,tradition,伝統,2,0.1
+qwen/qwen3.8-flash,ja,flower,花,2,0.1
+qwen/qwen3.8-flash,ja,poetry,菊の露,2,0.1
+qwen/qwen3.8-flash,ja,wealth,繁栄,2,0.1
+qwen/qwen3.8-flash,ja,wish,願う,1,0.05
+qwen/qwen3.8-flash,ja,gift,贈り物,1,0.05
+qwen/qwen3.8-flash,ja,flower shape,八重咲き,1,0.05
+qwen/qwen3.8-flash,ja,garden,庭園,1,0.05
+qwen/qwen3.8-flash,ja,four gentlemen,四君子,1,0.05
+qwen/qwen3.8-flash,ja,china,中国,1,0.05
+qwen/qwen3.8-flash,ja,density,密集,1,0.05
+qwen/qwen3.8-flash,ja,flower head,頭状花,1,0.05
+qwen/qwen3.8-flash,ja,summer bloom,夏咲き,1,0.05
+qwen/qwen3.8-flash,ja,spring,春咲き,1,0.05
+qwen/qwen3.8-flash,ja,official,パスポート,1,0.05
+qwen/qwen3.8-flash,ja,auspiciousness,吉祥,1,0.05
+qwen/qwen3.8-flash,ja,evil spirit,邪気,1,0.05
+qwen/qwen3.8-flash,ja,health,リラックス効果,1,0.05
+qwen/qwen3.8-flash,ja,color,色,1,0.05
+qwen/qwen3.8-flash,ja,contrast,対比,1,0.05
+qwen/qwen3.8-flash,ja,cultivar,もってのほか,1,0.05
+qwen/qwen3.8-flash,ja,shape,多様な形,1,0.05
+qwen/qwen3.8-flash,ja,wheel,輪菊,1,0.05
+qwen/qwen3.8-flash,ja,art,花札の絵柄,1,0.05
+qwen/qwen3.8-flash,ja,gratitude,感謝,1,0.05
+qwen/qwen3.8-flash,ja,horse racing,競馬,1,0.05
+qwen/qwen3.8-flash,ja,cut flower,切り花,1,0.05
+qwen/qwen3.8-flash,ja,truth,真実,1,0.05
+qwen/qwen3.8-flash,ja,exhibition,菊人形展,1,0.05
+qwen/qwen3.8-flash,ja,grief,失望,1,0.05
+qwen/qwen3.8-flash,ko,longevity,장수,16,0.8
+qwen/qwen3.8-flash,ko,integrity,절개,16,0.8
+qwen/qwen3.8-flash,ko,symbolism,대표하다,14,0.7
+qwen/qwen3.8-flash,ko,resilience,강하다,10,0.5
+qwen/qwen3.8-flash,ko,flower,피다,9,0.45
+qwen/qwen3.8-flash,ko,mourning,추모,9,0.45
+qwen/qwen3.8-flash,ko,nobility,고결함,8,0.4
+qwen/qwen3.8-flash,ko,health,건강,8,0.4
+qwen/qwen3.8-flash,ko,four gentlemen,사군자,7,0.35
+qwen/qwen3.8-flash,ko,purity,정절,7,0.35
+qwen/qwen3.8-flash,ko,honor,경건함,5,0.25
+qwen/qwen3.8-flash,ko,loyalty,지조,5,0.25
+qwen/qwen3.8-flash,ko,love,사랑,5,0.25
+qwen/qwen3.8-flash,ko,white,흰색,4,0.2
+qwen/qwen3.8-flash,ko,pink,분홍색,4,0.2
+qwen/qwen3.8-flash,ko,purple,보라색,4,0.2
+qwen/qwen3.8-flash,ko,yellow,노란색,4,0.2
+qwen/qwen3.8-flash,ko,ritual,제사,3,0.15
+qwen/qwen3.8-flash,ko,plant,식물,3,0.15
+qwen/qwen3.8-flash,ko,red,빨간색,3,0.15
+qwen/qwen3.8-flash,ko,friendship,우정,3,0.15
+qwen/qwen3.8-flash,ko,autumn,가을,3,0.15
+qwen/qwen3.8-flash,ko,tea,차,2,0.1
+qwen/qwen3.8-flash,ko,medicinal,약용,2,0.1
+qwen/qwen3.8-flash,ko,patience,인내,2,0.1
+qwen/qwen3.8-flash,ko,soul,영혼,2,0.1
+qwen/qwen3.8-flash,ko,elegance,아름다움,2,0.1
+qwen/qwen3.8-flash,ko,flowering habit,개화기,2,0.1
+qwen/qwen3.8-flash,ko,sincerity,성실,2,0.1
+qwen/qwen3.8-flash,ko,wealth,상징하다,2,0.1
+qwen/qwen3.8-flash,ko,popular,사랑받다,2,0.1
+qwen/qwen3.8-flash,ko,culture,문화,1,0.05
+qwen/qwen3.8-flash,ko,gratitude,감사,1,0.05
+qwen/qwen3.8-flash,ko,garden,화단,1,0.05
+qwen/qwen3.8-flash,ko,variety,다양하다,1,0.05
+qwen/qwen3.8-flash,ko,origin,원산지,1,0.05
+qwen/qwen3.8-flash,ko,reclusion,은퇴,1,0.05
+qwen/qwen3.8-flash,ko,peace,평화,1,0.05
+qwen/qwen3.8-flash,ko,grief,실망,1,0.05
+qwen/qwen3.8-flash,ko,festival,추석,1,0.05
+qwen/qwen3.8-flash,ko,petal,품종,1,0.05
+qwen/qwen3.8-flash,ko,tradition,풍습,1,0.05
+qwen/qwen3.8-flash,ko,ornamental,관상용,1,0.05
+qwen/qwen3.8-flash,ko,edible,식용,1,0.05
+qwen/qwen3.8-flash,ko,truth,진실,1,0.05
+qwen/qwen3.8-flash,zh,four gentlemen,四君子,18,0.9
+qwen/qwen3.8-flash,zh,reclusion,隐逸,17,0.85
+qwen/qwen3.8-flash,zh,resilience,坚韧,16,0.8
+qwen/qwen3.8-flash,zh,longevity,长寿,15,0.75
+qwen/qwen3.8-flash,zh,nobility,高洁,12,0.6
+qwen/qwen3.8-flash,zh,plant,多年生草本植物,11,0.55
+qwen/qwen3.8-flash,zh,color,花色丰富,11,0.55
+qwen/qwen3.8-flash,zh,popular,中国十大名花之一,10,0.5
+qwen/qwen3.8-flash,zh,asteraceae,菊科菊属,8,0.4
+qwen/qwen3.8-flash,zh,purity,高洁,8,0.4
+qwen/qwen3.8-flash,zh,ornamental,观赏,7,0.35
+qwen/qwen3.8-flash,zh,edible,食用,7,0.35
+qwen/qwen3.8-flash,zh,autumn,秋季,7,0.35
+qwen/qwen3.8-flash,zh,perennial,多年生草本植物,6,0.3
+qwen/qwen3.8-flash,zh,medicinal,清热解毒,6,0.3
+qwen/qwen3.8-flash,zh,festival,赏菊,6,0.3
+qwen/qwen3.8-flash,zh,integrity,品格,6,0.3
+qwen/qwen3.8-flash,zh,flower,花卉,5,0.25
+qwen/qwen3.8-flash,zh,mourning,哀悼,4,0.2
+qwen/qwen3.8-flash,zh,variety,品种繁多,4,0.2
+qwen/qwen3.8-flash,zh,drink,饮菊花酒,4,0.2
+qwen/qwen3.8-flash,zh,cut flower,切花,4,0.2
+qwen/qwen3.8-flash,zh,yellow,黄,4,0.2
+qwen/qwen3.8-flash,zh,petal,单瓣,4,0.2
+qwen/qwen3.8-flash,zh,white,白,4,0.2
+qwen/qwen3.8-flash,zh,purple,紫,4,0.2
+qwen/qwen3.8-flash,zh,red,红,4,0.2
+qwen/qwen3.8-flash,zh,auspiciousness,吉祥,4,0.2
+qwen/qwen3.8-flash,zh,flower shape,球形,3,0.15
+qwen/qwen3.8-flash,zh,tea,泡茶,3,0.15
+qwen/qwen3.8-flash,zh,pink,粉,3,0.15
+qwen/qwen3.8-flash,zh,flower head,头状花序,3,0.15
+qwen/qwen3.8-flash,zh,honor,非常重要的地位,2,0.1
+qwen/qwen3.8-flash,zh,culture,岁寒三友,2,0.1
+qwen/qwen3.8-flash,zh,shape,花型多样,2,0.1
+qwen/qwen3.8-flash,zh,cultivation,易于栽培,2,0.1
+qwen/qwen3.8-flash,zh,garden,园林绿化,2,0.1
+qwen/qwen3.8-flash,zh,health,明目,2,0.1
+qwen/qwen3.8-flash,zh,leaf,羽状分裂,2,0.1
+qwen/qwen3.8-flash,zh,imperial symbol,日本皇室的家徽图案,1,0.05
+qwen/qwen3.8-flash,zh,flower arrangement,插花,1,0.05
+qwen/qwen3.8-flash,zh,soul,文人雅士的精神寄托,1,0.05
+qwen/qwen3.8-flash,zh,gratitude,赏菊,1,0.05
+qwen/qwen3.8-flash,zh,elegance,清雅,1,0.05
+qwen/qwen3.8-flash,zh,unconventional,不随波逐流,1,0.05
+qwen/qwen3.8-flash,zh,cool climate,喜凉爽气候,1,0.05
+qwen/qwen3.8-flash,zh,bonsai,盆景艺术,1,0.05
+qwen/qwen3.8-flash,zh,indifference,淡泊,1,0.05
+qwen/qwen3.8-flash,zh,symbolism,精神符号,1,0.05
+qwen/qwen3.8-flash,zh,wealth,丰富,1,0.05
+qwen/qwen3.8-flash,zh,stem,茎直立,1,0.05
+qwen/qwen3.8-flash,zh,orange,橙,1,0.05
+qwen/qwen3.8-flash,zh,rebirth,生活,1,0.05
+qwen/qwen3.8-flash,zh,potted plant,案头菊,1,0.05
+qwen/qwen3.8-flash,zh,tradition,中国传统名花,1,0.05
+upstage/solar-mini4,en,plant,plant,17,0.85
+upstage/solar-mini4,en,autumn,autumn,16,0.8
+upstage/solar-mini4,en,longevity,longevity,14,0.7
+upstage/solar-mini4,en,flower,flower,13,0.65
+upstage/solar-mini4,en,white,white,12,0.6
+upstage/solar-mini4,en,purple,purple,12,0.6
+upstage/solar-mini4,en,yellow,yellow,12,0.6
+upstage/solar-mini4,en,flower arrangement,arrangement,12,0.6
+upstage/solar-mini4,en,color,color,12,0.6
+upstage/solar-mini4,en,red,red,11,0.55
+upstage/solar-mini4,en,garden,garden,11,0.55
+upstage/solar-mini4,en,orange,orange,10,0.5
+upstage/solar-mini4,en,flower head,head,10,0.5
+upstage/solar-mini4,en,joy,joy,10,0.5
+upstage/solar-mini4,en,medicinal,medicine,9,0.45
+upstage/solar-mini4,en,ornamental,ornamental,8,0.4
+upstage/solar-mini4,en,pink,pink,6,0.3
+upstage/solar-mini4,en,imperial symbol,emperor,6,0.3
+upstage/solar-mini4,en,cut flower,flower,6,0.3
+upstage/solar-mini4,en,variety,variety,6,0.3
+upstage/solar-mini4,en,tea,tea,6,0.3
+upstage/solar-mini4,en,origin,native,6,0.3
+upstage/solar-mini4,en,loyalty,loyalty,5,0.25
+upstage/solar-mini4,en,cultivation,cultivated,5,0.25
+upstage/solar-mini4,en,asteraceae,daisy family,5,0.25
+upstage/solar-mini4,en,symbolism,symbol,4,0.2
+upstage/solar-mini4,en,growth,grow,3,0.15
+upstage/solar-mini4,en,flower shape,spider,3,0.15
+upstage/solar-mini4,en,tradition,cultivated,3,0.15
+upstage/solar-mini4,en,auspiciousness,luck,3,0.15
+upstage/solar-mini4,en,festival,festival,3,0.15
+upstage/solar-mini4,en,sunlight,sun,3,0.15
+upstage/solar-mini4,en,soil,soil,3,0.15
+upstage/solar-mini4,en,insecticide,insecticide,3,0.15
+upstage/solar-mini4,en,mourning,mourning,2,0.1
+upstage/solar-mini4,en,perennial,perennial,2,0.1
+upstage/solar-mini4,en,petal,petal,2,0.1
+upstage/solar-mini4,en,popular,popular,2,0.1
+upstage/solar-mini4,en,love,love,2,0.1
+upstage/solar-mini4,en,integrity,character,2,0.1
+upstage/solar-mini4,en,resilience,resilience,2,0.1
+upstage/solar-mini4,en,elegance,elegance,2,0.1
+upstage/solar-mini4,en,size,large,2,0.1
+upstage/solar-mini4,en,honor,honor,2,0.1
+upstage/solar-mini4,en,nobility,nobility,2,0.1
+upstage/solar-mini4,en,optimism,optimism,1,0.05
+upstage/solar-mini4,en,culture,significant,1,0.05
+upstage/solar-mini4,en,art,art,1,0.05
+upstage/solar-mini4,en,china,china,1,0.05
+upstage/solar-mini4,en,japan,japan,1,0.05
+upstage/solar-mini4,en,purity,purity,1,0.05
+upstage/solar-mini4,en,truth,honesty,1,0.05
+upstage/solar-mini4,en,national symbol,national flower of japan,1,0.05
+upstage/solar-mini4,en,four gentlemen,gentleman,1,0.05
+upstage/solar-mini4,en,edible,staple,1,0.05
+upstage/solar-mini4,en,cultivar,cultivar,1,0.05
+upstage/solar-mini4,en,toxic,toxic,1,0.05
+upstage/solar-mini4,en,drink,wine,1,0.05
+upstage/solar-mini4,en,shape,shape,1,0.05
+upstage/solar-mini4,en,mum,mum,1,0.05
+upstage/solar-mini4,ja,autumn,秋,16,0.842
+upstage/solar-mini4,ja,symbolism,象徴,13,0.684
+upstage/solar-mini4,ja,imperial symbol,皇室の紋章,10,0.526
+upstage/solar-mini4,ja,national symbol,日本の国花,8,0.421
+upstage/solar-mini4,ja,longevity,長寿,7,0.368
+upstage/solar-mini4,ja,nobility,高潔,7,0.368
+upstage/solar-mini4,ja,elegance,美しい,7,0.368
+upstage/solar-mini4,ja,flower,花,6,0.316
+upstage/solar-mini4,ja,color,色,5,0.263
+upstage/solar-mini4,ja,festival,重陽の節句,5,0.263
+upstage/solar-mini4,ja,perennial,多年草,5,0.263
+upstage/solar-mini4,ja,ornamental,菊人形,5,0.263
+upstage/solar-mini4,ja,yellow,黄,4,0.211
+upstage/solar-mini4,ja,culture,文化,4,0.211
+upstage/solar-mini4,ja,variety,種類,4,0.211
+upstage/solar-mini4,ja,tradition,伝統,4,0.211
+upstage/solar-mini4,ja,white,白,3,0.158
+upstage/solar-mini4,ja,purple,紫,3,0.158
+upstage/solar-mini4,ja,honor,栄光,2,0.105
+upstage/solar-mini4,ja,cultivation,育て方,2,0.105
+upstage/solar-mini4,ja,medicinal,薬用,2,0.105
+upstage/solar-mini4,ja,flower shape,八重咲き,2,0.105
+upstage/solar-mini4,ja,garden,庭園,2,0.105
+upstage/solar-mini4,ja,popular,親しまれる,2,0.105
+upstage/solar-mini4,ja,loyalty,忠誠,1,0.053
+upstage/solar-mini4,ja,edible,食用菊,1,0.053
+upstage/solar-mini4,ja,flower language,花言葉,1,0.053
+upstage/solar-mini4,ja,tea,お茶,1,0.053
+upstage/solar-mini4,ja,craft material,切手,1,0.053
+upstage/solar-mini4,ja,size,大菊,1,0.053
+upstage/solar-mini4,ja,auspiciousness,吉祥,1,0.053
+upstage/solar-mini4,ja,peace,おだやかさ,1,0.053
+upstage/solar-mini4,ja,cut flower,切り花,1,0.053
+upstage/solar-mini4,ja,humility,礼儀,1,0.053
+upstage/solar-mini4,ja,japan,和菊,1,0.053
+upstage/solar-mini4,ja,flowering habit,季節感,1,0.053
+upstage/solar-mini4,ja,plant,植物,1,0.053
+upstage/solar-mini4,ja,art,花札の絵柄,1,0.053
+upstage/solar-mini4,ja,europe,ヨーロッパ,1,0.053
+upstage/solar-mini4,ja,east asia,東アジア,1,0.053
+upstage/solar-mini4,ja,red,赤,1,0.053
+upstage/solar-mini4,ja,wild chrysanthemum,野菊,1,0.053
+upstage/solar-mini4,ja,winter bloom,寒菊,1,0.053
+upstage/solar-mini4,ja,gift,贈り物,1,0.053
+upstage/solar-mini4,ja,sincerity,誠実,1,0.053
+upstage/solar-mini4,ja,pink,ピンク,1,0.053
+upstage/solar-mini4,ja,drink,菊酒,1,0.053
+upstage/solar-mini4,ja,poetry,菊の露,1,0.053
+upstage/solar-mini4,ja,fragrance,菊の香,1,0.053
+upstage/solar-mini4,ko,autumn,가을,16,0.8
+upstage/solar-mini4,ko,longevity,장수,15,0.75
+upstage/solar-mini4,ko,tea,차,15,0.75
+upstage/solar-mini4,ko,ornamental,관상용,13,0.65
+upstage/solar-mini4,ko,nobility,고결함,12,0.6
+upstage/solar-mini4,ko,perennial,여러해살이풀,10,0.5
+upstage/solar-mini4,ko,medicinal,약용,9,0.45
+upstage/solar-mini4,ko,flower,피다,7,0.35
+upstage/solar-mini4,ko,fragrance,은은하다,7,0.35
+upstage/solar-mini4,ko,sincerity,성실,6,0.3
+upstage/solar-mini4,ko,color,다양하다,6,0.3
+upstage/solar-mini4,ko,plant,식물,6,0.3
+upstage/solar-mini4,ko,white,흰색,5,0.25
+upstage/solar-mini4,ko,festival,추석,5,0.25
+upstage/solar-mini4,ko,purple,보라색,5,0.25
+upstage/solar-mini4,ko,yellow,노란색,5,0.25
+upstage/solar-mini4,ko,red,빨간색,5,0.25
+upstage/solar-mini4,ko,truth,진실,5,0.25
+upstage/solar-mini4,ko,purity,정절,5,0.25
+upstage/solar-mini4,ko,asteraceae,국화과,5,0.25
+upstage/solar-mini4,ko,cut flower,절화,4,0.2
+upstage/solar-mini4,ko,peace,평화,4,0.2
+upstage/solar-mini4,ko,edible,식용,4,0.2
+upstage/solar-mini4,ko,flower shape,거미형,4,0.2
+upstage/solar-mini4,ko,art,소재,4,0.2
+upstage/solar-mini4,ko,flower arrangement,꽃꽂이,4,0.2
+upstage/solar-mini4,ko,wild chrysanthemum,chrysanthemum indicum,4,0.2
+upstage/solar-mini4,ko,variety,다양하다,4,0.2
+upstage/solar-mini4,ko,use,쓰이다,4,0.2
+upstage/solar-mini4,ko,symbolism,대표하다,4,0.2
+upstage/solar-mini4,ko,cultivation,키우다,4,0.2
+upstage/solar-mini4,ko,temperance,절제,3,0.15
+upstage/solar-mini4,ko,elegance,아름다움,3,0.15
+upstage/solar-mini4,ko,drink,술,3,0.15
+upstage/solar-mini4,ko,integrity,절개,3,0.15
+upstage/solar-mini4,ko,petal,품종,2,0.1
+upstage/solar-mini4,ko,youth,청춘,2,0.1
+upstage/solar-mini4,ko,poetry,시나 노래에도 자주 등장,2,0.1
+upstage/solar-mini4,ko,flowering habit,개화기,2,0.1
+upstage/solar-mini4,ko,orange,주황색,2,0.1
+upstage/solar-mini4,ko,mum,chrysanthemum morifolium,2,0.1
+upstage/solar-mini4,ko,craft material,말리다,2,0.1
+upstage/solar-mini4,ko,love,사랑,2,0.1
+upstage/solar-mini4,ko,culture,문화,1,0.05
+upstage/solar-mini4,ko,humility,겸손,1,0.05
+upstage/solar-mini4,ko,east asia,동아시아,1,0.05
+upstage/solar-mini4,ko,potted plant,관상용 화분,1,0.05
+upstage/solar-mini4,ko,pink,분홍색,1,0.05
+upstage/solar-mini4,ko,reclusion,은퇴,1,0.05
+upstage/solar-mini4,ko,tradition,풍습,1,0.05
+upstage/solar-mini4,ko,cultivar,봄 국화,1,0.05
+upstage/solar-mini4,ko,winter bloom,감기,1,0.05
+upstage/solar-mini4,ko,toxic,독성,1,0.05
+upstage/solar-mini4,ko,honor,경건함,1,0.05
+upstage/solar-mini4,ko,national symbol,상징하다,1,0.05
+upstage/solar-mini4,ko,gift,선물용,1,0.05
+upstage/solar-mini4,ko,leaf,가장자리에 톱니,1,0.05
+upstage/solar-mini4,ko,imperial symbol,황실 문장,1,0.05
+upstage/solar-mini4,ko,health,건강,1,0.05
+upstage/solar-mini4,ko,resilience,강하다,1,0.05
+upstage/solar-mini4,ko,loyalty,지조,1,0.05
+upstage/solar-mini4,zh,autumn,秋季,17,0.85
+upstage/solar-mini4,zh,asteraceae,菊科菊属,15,0.75
+upstage/solar-mini4,zh,ornamental,观赏,14,0.7
+upstage/solar-mini4,zh,color,花色丰富,13,0.65
+upstage/solar-mini4,zh,elegance,清雅,13,0.65
+upstage/solar-mini4,zh,white,白,12,0.6
+upstage/solar-mini4,zh,yellow,黄,12,0.6
+upstage/solar-mini4,zh,purity,高洁,11,0.55
+upstage/solar-mini4,zh,resilience,坚韧,11,0.55
+upstage/solar-mini4,zh,purple,紫,11,0.55
+upstage/solar-mini4,zh,perennial,多年生草本植物,10,0.5
+upstage/solar-mini4,zh,medicinal,清热解毒,10,0.5
+upstage/solar-mini4,zh,tea,泡茶,9,0.45
+upstage/solar-mini4,zh,red,红,9,0.45
+upstage/solar-mini4,zh,longevity,长寿,9,0.45
+upstage/solar-mini4,zh,reclusion,隐逸,9,0.45
+upstage/solar-mini4,zh,pink,粉,8,0.4
+upstage/solar-mini4,zh,edible,食用,6,0.3
+upstage/solar-mini4,zh,nobility,高洁,6,0.3
+upstage/solar-mini4,zh,four gentlemen,四君子,5,0.25
+upstage/solar-mini4,zh,petal,单瓣,5,0.25
+upstage/solar-mini4,zh,festival,赏菊,5,0.25
+upstage/solar-mini4,zh,flower,花卉,4,0.2
+upstage/solar-mini4,zh,popular,中国十大名花之一,4,0.2
+upstage/solar-mini4,zh,integrity,品格,3,0.15
+upstage/solar-mini4,zh,drink,饮菊花酒,3,0.15
+upstage/solar-mini4,zh,cultivar,杭白菊,3,0.15
+upstage/solar-mini4,zh,cut flower,切花,3,0.15
+upstage/solar-mini4,zh,wealth,丰富,3,0.15
+upstage/solar-mini4,zh,flower head,头状花序,3,0.15
+upstage/solar-mini4,zh,auspiciousness,吉祥,2,0.1
+upstage/solar-mini4,zh,flowering habit,短日照植物,2,0.1
+upstage/solar-mini4,zh,symbolism,精神符号,2,0.1
+upstage/solar-mini4,zh,exhibition,菊花盛开,2,0.1
+upstage/solar-mini4,zh,garden,园林绿化,2,0.1
+upstage/solar-mini4,zh,wild chrysanthemum,野菊,2,0.1
+upstage/solar-mini4,zh,flower shape,球形,2,0.1
+upstage/solar-mini4,zh,origin,原产,2,0.1
+upstage/solar-mini4,zh,tradition,中国传统名花,2,0.1
+upstage/solar-mini4,zh,east asia,东亚(中国、朝鲜、日本等地),2,0.1
+upstage/solar-mini4,zh,art,诗词意象,2,0.1
+upstage/solar-mini4,zh,cultivation,易于栽培,2,0.1
+upstage/solar-mini4,zh,culture,岁寒三友,1,0.05
+upstage/solar-mini4,zh,fragrance,清香,1,0.05
+upstage/solar-mini4,zh,joy,幸福,1,0.05
+upstage/solar-mini4,zh,mythology,九宵之花,1,0.05
+upstage/solar-mini4,zh,flower arrangement,插花,1,0.05
+upstage/solar-mini4,zh,health,明目,1,0.05
+upstage/solar-mini4,zh,plant,多年生草本植物,1,0.05
+upstage/solar-mini4,zh,china,中国,1,0.05
+upstage/solar-mini4,zh,clarify,清,1,0.05
+upstage/solar-mini4,zh,japan,日本,1,0.05
+upstage/solar-mini4,zh,variety,品种繁多,1,0.05

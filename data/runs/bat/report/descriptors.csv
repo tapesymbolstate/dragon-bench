@@ -1,0 +1,1028 @@
+model,lang,concept,top_native_lemma,responses,share_of_subject_sense
+anthropic/claude-haiku-4.5,en,nocturnal,nocturnal,18,0.9
+anthropic/claude-haiku-4.5,en,echolocation,echolocation,17,0.85
+anthropic/claude-haiku-4.5,en,flying mammal,flying mammal,10,0.5
+anthropic/claude-haiku-4.5,en,mammal,mammal,9,0.45
+anthropic/claude-haiku-4.5,en,flight,capable,8,0.4
+anthropic/claude-haiku-4.5,en,wings,wings,7,0.35
+anthropic/claude-haiku-4.5,en,navigation,navigate,5,0.25
+anthropic/claude-haiku-4.5,en,hunting,hunt,4,0.2
+anthropic/claude-haiku-4.5,en,wing membrane,elongated finger bones,4,0.2
+anthropic/claude-haiku-4.5,en,insectivore,insects,2,0.1
+anthropic/claude-haiku-4.5,en,blindness,blind,2,0.1
+anthropic/claude-haiku-4.5,en,fruit bat,fruit bat,1,0.05
+anthropic/claude-haiku-4.5,en,animal,animal,1,0.05
+anthropic/claude-haiku-4.5,en,ecology,play,1,0.05
+anthropic/claude-haiku-4.5,en,cave,associated with caves,1,0.05
+anthropic/claude-haiku-4.5,en,sanguivore,blood,1,0.05
+anthropic/claude-haiku-4.5,en,nectar,nectar,1,0.05
+anthropic/claude-haiku-4.5,en,fruit,fruit,1,0.05
+anthropic/claude-haiku-4.5,en,foraging,find,1,0.05
+anthropic/claude-haiku-4.5,en,taxonomy,colony,1,0.05
+anthropic/claude-haiku-4.5,ja,mammal,哺乳類,20,1.0
+anthropic/claude-haiku-4.5,ja,nocturnal,夜行性,20,1.0
+anthropic/claude-haiku-4.5,ja,echolocation,エコーロケーション,19,0.95
+anthropic/claude-haiku-4.5,ja,flying mammal,飛ぶ,15,0.75
+anthropic/claude-haiku-4.5,ja,ultrasound,超音波,15,0.75
+anthropic/claude-haiku-4.5,ja,insectivore,食べる,14,0.7
+anthropic/claude-haiku-4.5,ja,frugivore,果実食,11,0.55
+anthropic/claude-haiku-4.5,ja,flight,飛ぶ,11,0.55
+anthropic/claude-haiku-4.5,ja,wings,翼,9,0.45
+anthropic/claude-haiku-4.5,ja,sanguivore,吸う,8,0.4
+anthropic/claude-haiku-4.5,ja,carnivore,肉食,6,0.3
+anthropic/claude-haiku-4.5,ja,wing membrane,皮膜,5,0.25
+anthropic/claude-haiku-4.5,ja,unique,興味深い,5,0.25
+anthropic/claude-haiku-4.5,ja,hunting,探す,3,0.15
+anthropic/claude-haiku-4.5,ja,senses,把握する,3,0.15
+anthropic/claude-haiku-4.5,ja,habitat,生息,3,0.15
+anthropic/claude-haiku-4.5,ja,size,小動物,2,0.1
+anthropic/claude-haiku-4.5,ja,foraging,夜間に食べる,2,0.1
+anthropic/claude-haiku-4.5,ja,roosting,休む,2,0.1
+anthropic/claude-haiku-4.5,ja,chiroptera,翼手目,2,0.1
+anthropic/claude-haiku-4.5,ja,navigation,把握,2,0.1
+anthropic/claude-haiku-4.5,ja,activity,活動する,2,0.1
+anthropic/claude-haiku-4.5,ja,biodiversity,種類,2,0.1
+anthropic/claude-haiku-4.5,ja,social,暮らす,2,0.1
+anthropic/claude-haiku-4.5,ja,anatomy,手,1,0.05
+anthropic/claude-haiku-4.5,ja,vision,目,1,0.05
+anthropic/claude-haiku-4.5,ja,taxonomy,仲間,1,0.05
+anthropic/claude-haiku-4.5,ja,vampire bat,ヴァンパイアコウモリ,1,0.05
+anthropic/claude-haiku-4.5,ja,geography,世界中,1,0.05
+anthropic/claude-haiku-4.5,ja,diet,食べ物,1,0.05
+anthropic/claude-haiku-4.5,ja,pest control,害虫駆除,1,0.05
+anthropic/claude-haiku-4.5,ja,evolution,進化,1,0.05
+anthropic/claude-haiku-4.5,ja,fruit,果実,1,0.05
+anthropic/claude-haiku-4.5,ja,darkness,暗闇,1,0.05
+anthropic/claude-haiku-4.5,ja,hibernation,冬眠,1,0.05
+anthropic/claude-haiku-4.5,ja,nectar,蜜,1,0.05
+anthropic/claude-haiku-4.5,ko,nocturnal,야행성,19,0.95
+anthropic/claude-haiku-4.5,ko,echolocation,반향정위,18,0.9
+anthropic/claude-haiku-4.5,ko,flying mammal,날다,18,0.9
+anthropic/claude-haiku-4.5,ko,mammal,포유류,17,0.85
+anthropic/claude-haiku-4.5,ko,insectivore,곤충,11,0.55
+anthropic/claude-haiku-4.5,ko,wings,날개,11,0.55
+anthropic/claude-haiku-4.5,ko,wing membrane,날개 구조,9,0.45
+anthropic/claude-haiku-4.5,ko,vertebrate,척추동물,5,0.25
+anthropic/claude-haiku-4.5,ko,sanguivore,피,4,0.2
+anthropic/claude-haiku-4.5,ko,fruit,과일,4,0.2
+anthropic/claude-haiku-4.5,ko,flight,비행,3,0.15
+anthropic/claude-haiku-4.5,ko,ultrasound,초음파,3,0.15
+anthropic/claude-haiku-4.5,ko,nectar,꽃꿀,3,0.15
+anthropic/claude-haiku-4.5,ko,navigation,찾다,3,0.15
+anthropic/claude-haiku-4.5,ko,diet,먹이,2,0.1
+anthropic/claude-haiku-4.5,ko,hunting,사냥하다,2,0.1
+anthropic/claude-haiku-4.5,ko,foraging,찾다,1,0.05
+anthropic/claude-haiku-4.5,ko,biodiversity,종류,1,0.05
+anthropic/claude-haiku-4.5,ko,frugivore,먹다,1,0.05
+anthropic/claude-haiku-4.5,ko,nectarivore,꿀,1,0.05
+anthropic/claude-haiku-4.5,ko,activity,활동하다,1,0.05
+anthropic/claude-haiku-4.5,ko,fur,털이 있고,1,0.05
+anthropic/claude-haiku-4.5,ko,senses,인식,1,0.05
+anthropic/claude-haiku-4.5,ko,pollination,돕다,1,0.05
+anthropic/claude-haiku-4.5,ko,fruit bat,과일박쥐,1,0.05
+anthropic/claude-haiku-4.5,ko,vulnerable,약하다,1,0.05
+anthropic/claude-haiku-4.5,ko,vision,보다,1,0.05
+anthropic/claude-haiku-4.5,ko,roosting,매달리다,1,0.05
+anthropic/claude-haiku-4.5,ko,social,군집 생활,1,0.05
+anthropic/claude-haiku-4.5,ko,pest control,잡아먹다,1,0.05
+anthropic/claude-haiku-4.5,zh,mammal,哺乳动物,20,1.0
+anthropic/claude-haiku-4.5,zh,nocturnal,夜行性,18,0.9
+anthropic/claude-haiku-4.5,zh,echolocation,回声定位,17,0.85
+anthropic/claude-haiku-4.5,zh,flying mammal,唯一能够真正飞行的哺乳动物,17,0.85
+anthropic/claude-haiku-4.5,zh,wings,翅膀,14,0.7
+anthropic/claude-haiku-4.5,zh,viviparous,胎生,13,0.65
+anthropic/claude-haiku-4.5,zh,wing membrane,翼膜,12,0.6
+anthropic/claude-haiku-4.5,zh,insectivore,吃昆虫,11,0.55
+anthropic/claude-haiku-4.5,zh,vertebrate,脊椎动物,7,0.35
+anthropic/claude-haiku-4.5,zh,flight,会飞,6,0.3
+anthropic/claude-haiku-4.5,zh,chiroptera,翼手目,6,0.3
+anthropic/claude-haiku-4.5,zh,fur,毛发,5,0.25
+anthropic/claude-haiku-4.5,zh,navigation,导航,5,0.25
+anthropic/claude-haiku-4.5,zh,ultrasound,发出超声波,5,0.25
+anthropic/claude-haiku-4.5,zh,diet,食性多样,4,0.2
+anthropic/claude-haiku-4.5,zh,anatomy,有牙齿,4,0.2
+anthropic/claude-haiku-4.5,zh,hunting,捕食,4,0.2
+anthropic/claude-haiku-4.5,zh,pest control,控制害虫,3,0.15
+anthropic/claude-haiku-4.5,zh,hearing,听力,3,0.15
+anthropic/claude-haiku-4.5,zh,fruit,水果,2,0.1
+anthropic/claude-haiku-4.5,zh,pollination,传粉,2,0.1
+anthropic/claude-haiku-4.5,zh,hibernation,冬眠,2,0.1
+anthropic/claude-haiku-4.5,zh,parental care,胎生、哺乳,2,0.1
+anthropic/claude-haiku-4.5,zh,sanguivore,吸血,2,0.1
+anthropic/claude-haiku-4.5,zh,cave,洞穴,1,0.05
+anthropic/claude-haiku-4.5,zh,nectarivore,花蜜,1,0.05
+anthropic/claude-haiku-4.5,zh,frugivore,吃水果,1,0.05
+anthropic/claude-haiku-4.5,zh,activity,生活习性,1,0.05
+anthropic/claude-haiku-4.5,zh,seed dispersal,种子传播者,1,0.05
+anthropic/claude-haiku-4.5,zh,indicator species,生态指示物,1,0.05
+anthropic/claude-haiku-4.5,zh,size,体型较大,1,0.05
+anthropic/claude-haiku-4.5,zh,respiration,用肺呼吸,1,0.05
+anthropic/claude-haiku-4.5,zh,taxonomy,翼手目,1,0.05
+anthropic/claude-haiku-4.5,zh,biodiversity,种类繁多,1,0.05
+anthropic/claude-haiku-4.5,zh,nectar,花蜜,1,0.05
+anthropic/claude-haiku-4.5,zh,roosting,树洞,1,0.05
+anthropic/claude-haiku-4.5,zh,migration,迁徙,1,0.05
+anthropic/claude-haiku-4.5,zh,adaptation,高度特化的,1,0.05
+anthropic/claude-haiku-4.5,zh,foraging,寻找食物,1,0.05
+anthropic/claude-haiku-4.5,zh,vampire,吸血蝙蝠,1,0.05
+deepseek/deepseek-v4.1-flash,en,echolocation,echolocation,15,0.789
+deepseek/deepseek-v4.1-flash,en,flight,capable,13,0.684
+deepseek/deepseek-v4.1-flash,en,flying mammal,flying mammal,11,0.579
+deepseek/deepseek-v4.1-flash,en,nocturnal,nocturnal,10,0.526
+deepseek/deepseek-v4.1-flash,en,mammal,mammal,7,0.368
+deepseek/deepseek-v4.1-flash,en,hunting,hunt,4,0.211
+deepseek/deepseek-v4.1-flash,en,pollination,pollinating,3,0.158
+deepseek/deepseek-v4.1-flash,en,navigation,navigate,3,0.158
+deepseek/deepseek-v4.1-flash,en,vampire,vampires,2,0.105
+deepseek/deepseek-v4.1-flash,en,roosting,hanging upside down,2,0.105
+deepseek/deepseek-v4.1-flash,en,insectivore,insects,2,0.105
+deepseek/deepseek-v4.1-flash,en,halloween,halloween,1,0.053
+deepseek/deepseek-v4.1-flash,en,ecology,play,1,0.053
+deepseek/deepseek-v4.1-flash,en,pest control,controlling insect populations,1,0.053
+deepseek/deepseek-v4.1-flash,en,wings,wings,1,0.053
+deepseek/deepseek-v4.1-flash,en,fruit,fruit,1,0.053
+deepseek/deepseek-v4.1-flash,en,animal,animal,1,0.053
+deepseek/deepseek-v4.1-flash,en,cave,associated with caves,1,0.053
+deepseek/deepseek-v4.1-flash,en,biodiversity,"over 1,400 species",1,0.053
+deepseek/deepseek-v4.1-flash,ja,echolocation,エコーロケーション,19,0.95
+deepseek/deepseek-v4.1-flash,ja,nocturnal,夜行性,18,0.9
+deepseek/deepseek-v4.1-flash,ja,flying mammal,飛ぶ,15,0.75
+deepseek/deepseek-v4.1-flash,ja,mammal,哺乳類,10,0.5
+deepseek/deepseek-v4.1-flash,ja,flight,飛ぶ,8,0.4
+deepseek/deepseek-v4.1-flash,ja,wing membrane,皮膜,8,0.4
+deepseek/deepseek-v4.1-flash,ja,diet,食べ物,7,0.35
+deepseek/deepseek-v4.1-flash,ja,insectivore,食べる,7,0.35
+deepseek/deepseek-v4.1-flash,ja,biodiversity,種類,7,0.35
+deepseek/deepseek-v4.1-flash,ja,wings,翼,6,0.3
+deepseek/deepseek-v4.1-flash,ja,roosting,休む,6,0.3
+deepseek/deepseek-v4.1-flash,ja,hunting,探す,5,0.25
+deepseek/deepseek-v4.1-flash,ja,chiroptera,翼手目,5,0.25
+deepseek/deepseek-v4.1-flash,ja,senses,把握する,5,0.25
+deepseek/deepseek-v4.1-flash,ja,sanguivore,吸う,5,0.25
+deepseek/deepseek-v4.1-flash,ja,carnivore,肉食,4,0.2
+deepseek/deepseek-v4.1-flash,ja,fruit,果実,4,0.2
+deepseek/deepseek-v4.1-flash,ja,ultrasound,超音波,4,0.2
+deepseek/deepseek-v4.1-flash,ja,navigation,把握,4,0.2
+deepseek/deepseek-v4.1-flash,ja,good fortune,縁起が良い,3,0.15
+deepseek/deepseek-v4.1-flash,ja,vampire,吸血鬼,3,0.15
+deepseek/deepseek-v4.1-flash,ja,habitat,生息,3,0.15
+deepseek/deepseek-v4.1-flash,ja,nectar,蜜,3,0.15
+deepseek/deepseek-v4.1-flash,ja,size,小動物,3,0.15
+deepseek/deepseek-v4.1-flash,ja,frugivore,果実食,2,0.1
+deepseek/deepseek-v4.1-flash,ja,pollination,受粉,2,0.1
+deepseek/deepseek-v4.1-flash,ja,pest control,害虫駆除,2,0.1
+deepseek/deepseek-v4.1-flash,ja,unique,興味深い,2,0.1
+deepseek/deepseek-v4.1-flash,ja,activity,活動する,2,0.1
+deepseek/deepseek-v4.1-flash,ja,hibernation,冬眠,2,0.1
+deepseek/deepseek-v4.1-flash,ja,taxonomy,仲間,2,0.1
+deepseek/deepseek-v4.1-flash,ja,darkness,暗闇,1,0.05
+deepseek/deepseek-v4.1-flash,ja,disease vector,関係,1,0.05
+deepseek/deepseek-v4.1-flash,ja,nectarivore,吸う,1,0.05
+deepseek/deepseek-v4.1-flash,ja,viviparous,育てる,1,0.05
+deepseek/deepseek-v4.1-flash,ja,fur,覆われる,1,0.05
+deepseek/deepseek-v4.1-flash,ja,obstacle,障害物,1,0.05
+deepseek/deepseek-v4.1-flash,ja,evolution,進化,1,0.05
+deepseek/deepseek-v4.1-flash,ja,animal,動物,1,0.05
+deepseek/deepseek-v4.1-flash,ko,echolocation,반향정위,15,0.833
+deepseek/deepseek-v4.1-flash,ko,mammal,포유류,12,0.667
+deepseek/deepseek-v4.1-flash,ko,flying mammal,날다,12,0.667
+deepseek/deepseek-v4.1-flash,ko,nocturnal,야행성,11,0.611
+deepseek/deepseek-v4.1-flash,ko,flight,비행,8,0.444
+deepseek/deepseek-v4.1-flash,ko,wing membrane,날개 구조,6,0.333
+deepseek/deepseek-v4.1-flash,ko,roosting,매달리다,5,0.278
+deepseek/deepseek-v4.1-flash,ko,diet,먹이,4,0.222
+deepseek/deepseek-v4.1-flash,ko,insectivore,곤충,4,0.222
+deepseek/deepseek-v4.1-flash,ko,biodiversity,종류,4,0.222
+deepseek/deepseek-v4.1-flash,ko,sanguivore,피,3,0.167
+deepseek/deepseek-v4.1-flash,ko,evolution,진화하다,3,0.167
+deepseek/deepseek-v4.1-flash,ko,wings,날개,3,0.167
+deepseek/deepseek-v4.1-flash,ko,hunting,사냥하다,2,0.111
+deepseek/deepseek-v4.1-flash,ko,foraging,찾다,2,0.111
+deepseek/deepseek-v4.1-flash,ko,chiroptera,박쥐목,2,0.111
+deepseek/deepseek-v4.1-flash,ko,activity,활동하다,2,0.111
+deepseek/deepseek-v4.1-flash,ko,viviparous,젖,2,0.111
+deepseek/deepseek-v4.1-flash,ko,disease vector,숙주,2,0.111
+deepseek/deepseek-v4.1-flash,ko,navigation,찾다,2,0.111
+deepseek/deepseek-v4.1-flash,ko,pest control,잡아먹다,2,0.111
+deepseek/deepseek-v4.1-flash,ko,fruit,과일,2,0.111
+deepseek/deepseek-v4.1-flash,ko,frugivore,먹다,1,0.056
+deepseek/deepseek-v4.1-flash,ko,vertebrate,척추동물,1,0.056
+deepseek/deepseek-v4.1-flash,ko,senses,인식,1,0.056
+deepseek/deepseek-v4.1-flash,ko,cave,동굴,1,0.056
+deepseek/deepseek-v4.1-flash,ko,fur,털이 있고,1,0.056
+deepseek/deepseek-v4.1-flash,ko,carnivore,작은 동물,1,0.056
+deepseek/deepseek-v4.1-flash,ko,pollination,돕다,1,0.056
+deepseek/deepseek-v4.1-flash,ko,nectar,꽃꿀,1,0.056
+deepseek/deepseek-v4.1-flash,ko,ecology,생태,1,0.056
+deepseek/deepseek-v4.1-flash,ko,adaptation,적응하다,1,0.056
+deepseek/deepseek-v4.1-flash,ko,seed dispersal,퍼뜨리다,1,0.056
+deepseek/deepseek-v4.1-flash,ko,ultrasound,초음파,1,0.056
+deepseek/deepseek-v4.1-flash,ko,animal,동물,1,0.056
+deepseek/deepseek-v4.1-flash,ko,human interaction,영향,1,0.056
+deepseek/deepseek-v4.1-flash,ko,vampire bat,흡혈박쥐,1,0.056
+deepseek/deepseek-v4.1-flash,ko,horror,동물,1,0.056
+deepseek/deepseek-v4.1-flash,ko,vampire,흡혈박쥐,1,0.056
+deepseek/deepseek-v4.1-flash,ko,pop culture,영화나 게임 캐릭터,1,0.056
+deepseek/deepseek-v4.1-flash,zh,echolocation,回声定位,20,1.0
+deepseek/deepseek-v4.1-flash,zh,taxonomy,翼手目,19,0.95
+deepseek/deepseek-v4.1-flash,zh,flying mammal,唯一能够真正飞行的哺乳动物,17,0.85
+deepseek/deepseek-v4.1-flash,zh,pollination,传粉,16,0.8
+deepseek/deepseek-v4.1-flash,zh,biodiversity,种类繁多,16,0.8
+deepseek/deepseek-v4.1-flash,zh,insectivore,吃昆虫,16,0.8
+deepseek/deepseek-v4.1-flash,zh,pest control,控制害虫,14,0.7
+deepseek/deepseek-v4.1-flash,zh,flight,会飞,14,0.7
+deepseek/deepseek-v4.1-flash,zh,diet,食性多样,11,0.55
+deepseek/deepseek-v4.1-flash,zh,seed dispersal,种子传播者,11,0.55
+deepseek/deepseek-v4.1-flash,zh,frugivore,吃水果,11,0.55
+deepseek/deepseek-v4.1-flash,zh,nocturnal,夜行性,10,0.5
+deepseek/deepseek-v4.1-flash,zh,navigation,导航,10,0.5
+deepseek/deepseek-v4.1-flash,zh,sanguivore,吸血,9,0.45
+deepseek/deepseek-v4.1-flash,zh,ecology,生态作用大,9,0.45
+deepseek/deepseek-v4.1-flash,zh,ultrasound,发出超声波,9,0.45
+deepseek/deepseek-v4.1-flash,zh,wing membrane,翼膜,9,0.45
+deepseek/deepseek-v4.1-flash,zh,disease vector,携带多种病毒,8,0.4
+deepseek/deepseek-v4.1-flash,zh,nectarivore,花蜜,6,0.3
+deepseek/deepseek-v4.1-flash,zh,fruit bat,狐蝠,5,0.25
+deepseek/deepseek-v4.1-flash,zh,carnivore,吃鱼,5,0.25
+deepseek/deepseek-v4.1-flash,zh,microbat,小蝙蝠类,4,0.2
+deepseek/deepseek-v4.1-flash,zh,mammal,哺乳动物,4,0.2
+deepseek/deepseek-v4.1-flash,zh,vampire,吸血蝙蝠,4,0.2
+deepseek/deepseek-v4.1-flash,zh,hunting,捕食,4,0.2
+deepseek/deepseek-v4.1-flash,zh,fruit,水果,3,0.15
+deepseek/deepseek-v4.1-flash,zh,vision,视觉,3,0.15
+deepseek/deepseek-v4.1-flash,zh,immunity,独特的免疫系统,3,0.15
+deepseek/deepseek-v4.1-flash,zh,wings,翅膀,3,0.15
+deepseek/deepseek-v4.1-flash,zh,vampire bat,吸血蝙蝠,3,0.15
+deepseek/deepseek-v4.1-flash,zh,nectar,花蜜,3,0.15
+deepseek/deepseek-v4.1-flash,zh,habitat,分布,2,0.1
+deepseek/deepseek-v4.1-flash,zh,roosting,树洞,2,0.1
+deepseek/deepseek-v4.1-flash,zh,senses,嗅觉,2,0.1
+deepseek/deepseek-v4.1-flash,zh,guano,粪便可做肥料,2,0.1
+deepseek/deepseek-v4.1-flash,zh,megabat,大蝙蝠类,2,0.1
+deepseek/deepseek-v4.1-flash,zh,fur,毛发,2,0.1
+deepseek/deepseek-v4.1-flash,zh,beneficial,植物帮手,1,0.05
+deepseek/deepseek-v4.1-flash,zh,activity,生活习性,1,0.05
+deepseek/deepseek-v4.1-flash,zh,evolution,演化,1,0.05
+deepseek/deepseek-v4.1-flash,zh,good fortune,吉祥的象征,1,0.05
+deepseek/deepseek-v4.1-flash,zh,pop culture,西方文化,1,0.05
+deepseek/deepseek-v4.1-flash,zh,social,群居,1,0.05
+deepseek/deepseek-v4.1-flash,zh,cave,洞穴,1,0.05
+deepseek/deepseek-v4.1-flash,zh,size,体型较大,1,0.05
+deepseek/deepseek-v4.1-flash,zh,viviparous,胎生,1,0.05
+google/gemini-3.5-flash-lite,en,flying mammal,flying mammal,17,0.85
+google/gemini-3.5-flash-lite,en,flight,capable,15,0.75
+google/gemini-3.5-flash-lite,en,nocturnal,nocturnal,13,0.65
+google/gemini-3.5-flash-lite,en,echolocation,echolocation,9,0.45
+google/gemini-3.5-flash-lite,en,poor eyesight,very poor eyesight,4,0.2
+google/gemini-3.5-flash-lite,en,cave,associated with caves,4,0.2
+google/gemini-3.5-flash-lite,en,insectivore,insects,3,0.15
+google/gemini-3.5-flash-lite,en,mammal,mammal,2,0.1
+google/gemini-3.5-flash-lite,en,roosting,hanging upside down,2,0.1
+google/gemini-3.5-flash-lite,en,hunting,hunt,2,0.1
+google/gemini-3.5-flash-lite,en,navigation,navigate,2,0.1
+google/gemini-3.5-flash-lite,en,blindness,blind,1,0.05
+google/gemini-3.5-flash-lite,en,vision,vision,1,0.05
+google/gemini-3.5-flash-lite,en,activity,immediately,1,0.05
+google/gemini-3.5-flash-lite,ja,echolocation,エコーロケーション,20,1.0
+google/gemini-3.5-flash-lite,ja,flying mammal,飛ぶ,20,1.0
+google/gemini-3.5-flash-lite,ja,insectivore,食べる,18,0.9
+google/gemini-3.5-flash-lite,ja,sanguivore,吸う,15,0.75
+google/gemini-3.5-flash-lite,ja,pollination,受粉,11,0.55
+google/gemini-3.5-flash-lite,ja,biodiversity,種類,10,0.5
+google/gemini-3.5-flash-lite,ja,disease vector,関係,9,0.45
+google/gemini-3.5-flash-lite,ja,flight,飛ぶ,9,0.45
+google/gemini-3.5-flash-lite,ja,pest control,害虫駆除,9,0.45
+google/gemini-3.5-flash-lite,ja,ultrasound,超音波,8,0.4
+google/gemini-3.5-flash-lite,ja,navigation,把握,7,0.35
+google/gemini-3.5-flash-lite,ja,immunity,耐性,7,0.35
+google/gemini-3.5-flash-lite,ja,ecology,生態,7,0.35
+google/gemini-3.5-flash-lite,ja,seed dispersal,種子散布,7,0.35
+google/gemini-3.5-flash-lite,ja,frugivore,果実食,6,0.3
+google/gemini-3.5-flash-lite,ja,diet,食べ物,6,0.3
+google/gemini-3.5-flash-lite,ja,taxonomy,仲間,5,0.25
+google/gemini-3.5-flash-lite,ja,nocturnal,夜行性,5,0.25
+google/gemini-3.5-flash-lite,ja,vampire,吸血鬼,4,0.2
+google/gemini-3.5-flash-lite,ja,unique,興味深い,3,0.15
+google/gemini-3.5-flash-lite,ja,chiroptera,翼手目,3,0.15
+google/gemini-3.5-flash-lite,ja,senses,把握する,3,0.15
+google/gemini-3.5-flash-lite,ja,nectarivore,吸う,3,0.15
+google/gemini-3.5-flash-lite,ja,wings,翼,3,0.15
+google/gemini-3.5-flash-lite,ja,hunting,探す,3,0.15
+google/gemini-3.5-flash-lite,ja,vampire bat,ヴァンパイアコウモリ,2,0.1
+google/gemini-3.5-flash-lite,ja,good fortune,縁起が良い,2,0.1
+google/gemini-3.5-flash-lite,ja,beneficial,益獣,2,0.1
+google/gemini-3.5-flash-lite,ja,social,暮らす,2,0.1
+google/gemini-3.5-flash-lite,ja,wing membrane,皮膜,2,0.1
+google/gemini-3.5-flash-lite,ja,parental care,育てる,1,0.05
+google/gemini-3.5-flash-lite,ja,longevity,長寿,1,0.05
+google/gemini-3.5-flash-lite,ja,mythology,良い,1,0.05
+google/gemini-3.5-flash-lite,ja,habitat,生息,1,0.05
+google/gemini-3.5-flash-lite,ja,animal,動物,1,0.05
+google/gemini-3.5-flash-lite,ja,hibernation,冬眠,1,0.05
+google/gemini-3.5-flash-lite,ja,population,占める,1,0.05
+google/gemini-3.5-flash-lite,ja,pop culture,関わり,1,0.05
+google/gemini-3.5-flash-lite,ja,foraging,夜間に食べる,1,0.05
+google/gemini-3.5-flash-lite,ja,obstacle,障害物,1,0.05
+google/gemini-3.5-flash-lite,ja,nectar,蜜,1,0.05
+google/gemini-3.5-flash-lite,ja,fruit,果実,1,0.05
+google/gemini-3.5-flash-lite,ja,carnivore,肉食,1,0.05
+google/gemini-3.5-flash-lite,ko,disease vector,숙주,20,1.0
+google/gemini-3.5-flash-lite,ko,flying mammal,날다,20,1.0
+google/gemini-3.5-flash-lite,ko,echolocation,반향정위,18,0.9
+google/gemini-3.5-flash-lite,ko,pest control,잡아먹다,18,0.9
+google/gemini-3.5-flash-lite,ko,pollination,돕다,16,0.8
+google/gemini-3.5-flash-lite,ko,insectivore,곤충,15,0.75
+google/gemini-3.5-flash-lite,ko,immunity,뛰어나다,14,0.7
+google/gemini-3.5-flash-lite,ko,seed dispersal,퍼뜨리다,14,0.7
+google/gemini-3.5-flash-lite,ko,wing membrane,날개 구조,13,0.65
+google/gemini-3.5-flash-lite,ko,frugivore,먹다,9,0.45
+google/gemini-3.5-flash-lite,ko,flight,비행,9,0.45
+google/gemini-3.5-flash-lite,ko,ultrasound,초음파,8,0.4
+google/gemini-3.5-flash-lite,ko,ecology,생태,7,0.35
+google/gemini-3.5-flash-lite,ko,navigation,찾다,7,0.35
+google/gemini-3.5-flash-lite,ko,vampire bat,흡혈박쥐,6,0.3
+google/gemini-3.5-flash-lite,ko,scientific research,대상,4,0.2
+google/gemini-3.5-flash-lite,ko,sanguivore,피,4,0.2
+google/gemini-3.5-flash-lite,ko,vision,보다,3,0.15
+google/gemini-3.5-flash-lite,ko,good fortune,복,3,0.15
+google/gemini-3.5-flash-lite,ko,vampire,흡혈박쥐,3,0.15
+google/gemini-3.5-flash-lite,ko,hunting,사냥하다,3,0.15
+google/gemini-3.5-flash-lite,ko,horror,동물,2,0.1
+google/gemini-3.5-flash-lite,ko,wings,날개,2,0.1
+google/gemini-3.5-flash-lite,ko,diet,먹이,2,0.1
+google/gemini-3.5-flash-lite,ko,chiroptera,박쥐목,1,0.05
+google/gemini-3.5-flash-lite,ko,halloween,할로윈,1,0.05
+google/gemini-3.5-flash-lite,ko,hearing,청각,1,0.05
+google/gemini-3.5-flash-lite,ko,anatomy,구조,1,0.05
+google/gemini-3.5-flash-lite,ko,roosting,매달리다,1,0.05
+google/gemini-3.5-flash-lite,ko,beneficial,유익한 역할,1,0.05
+google/gemini-3.5-flash-lite,ko,evolution,진화하다,1,0.05
+google/gemini-3.5-flash-lite,zh,pollination,传粉,20,1.0
+google/gemini-3.5-flash-lite,zh,echolocation,回声定位,20,1.0
+google/gemini-3.5-flash-lite,zh,disease vector,携带多种病毒,18,0.9
+google/gemini-3.5-flash-lite,zh,nocturnal,夜行性,18,0.9
+google/gemini-3.5-flash-lite,zh,seed dispersal,种子传播者,17,0.85
+google/gemini-3.5-flash-lite,zh,insectivore,吃昆虫,16,0.8
+google/gemini-3.5-flash-lite,zh,flying mammal,唯一能够真正飞行的哺乳动物,16,0.8
+google/gemini-3.5-flash-lite,zh,pest control,控制害虫,15,0.75
+google/gemini-3.5-flash-lite,zh,chiroptera,翼手目,14,0.7
+google/gemini-3.5-flash-lite,zh,flight,会飞,14,0.7
+google/gemini-3.5-flash-lite,zh,frugivore,吃水果,14,0.7
+google/gemini-3.5-flash-lite,zh,biodiversity,种类繁多,11,0.55
+google/gemini-3.5-flash-lite,zh,wing membrane,翼膜,8,0.4
+google/gemini-3.5-flash-lite,zh,wings,翅膀,7,0.35
+google/gemini-3.5-flash-lite,zh,ecology,生态作用大,7,0.35
+google/gemini-3.5-flash-lite,zh,mammal,哺乳动物,7,0.35
+google/gemini-3.5-flash-lite,zh,navigation,导航,7,0.35
+google/gemini-3.5-flash-lite,zh,hunting,捕食,6,0.3
+google/gemini-3.5-flash-lite,zh,immunity,独特的免疫系统,6,0.3
+google/gemini-3.5-flash-lite,zh,sanguivore,吸血,6,0.3
+google/gemini-3.5-flash-lite,zh,vampire,吸血蝙蝠,5,0.25
+google/gemini-3.5-flash-lite,zh,ultrasound,发出超声波,5,0.25
+google/gemini-3.5-flash-lite,zh,beneficial,植物帮手,4,0.2
+google/gemini-3.5-flash-lite,zh,nectarivore,花蜜,4,0.2
+google/gemini-3.5-flash-lite,zh,good fortune,吉祥的象征,3,0.15
+google/gemini-3.5-flash-lite,zh,diet,食性多样,2,0.1
+google/gemini-3.5-flash-lite,zh,adaptation,高度特化的,2,0.1
+google/gemini-3.5-flash-lite,zh,carnivore,吃鱼,2,0.1
+google/gemini-3.5-flash-lite,zh,anatomy,有牙齿,1,0.05
+google/gemini-3.5-flash-lite,zh,nectar,花蜜,1,0.05
+google/gemini-3.5-flash-lite,zh,fruit,水果,1,0.05
+google/gemini-3.5-flash-lite,zh,pest,农业害虫,1,0.05
+google/gemini-3.5-flash-lite,zh,thermoregulation,体温调节机制,1,0.05
+google/gemini-3.5-flash-lite,zh,scientific research,生物学和医学研究的重要对象,1,0.05
+google/gemini-3.5-flash-lite,zh,microbat,小蝙蝠类,1,0.05
+google/gemini-3.5-flash-lite,zh,fruit bat,狐蝠,1,0.05
+google/gemini-3.5-flash-lite,zh,vision,视觉,1,0.05
+google/gemini-3.5-flash-lite,zh,vampire bat,吸血蝙蝠,1,0.05
+google/gemini-3.5-flash-lite,zh,senses,嗅觉,1,0.05
+google/gemini-3.5-flash-lite,zh,size,体型较大,1,0.05
+meta-llama/llama-4-maverick,en,flight,capable,12,0.632
+meta-llama/llama-4-maverick,en,mammal,mammal,11,0.579
+meta-llama/llama-4-maverick,en,echolocation,echolocation,10,0.526
+meta-llama/llama-4-maverick,en,flying mammal,flying mammal,9,0.474
+meta-llama/llama-4-maverick,en,navigation,navigate,8,0.421
+meta-llama/llama-4-maverick,en,insectivore,insects,7,0.368
+meta-llama/llama-4-maverick,en,nocturnal,nocturnal,7,0.368
+meta-llama/llama-4-maverick,en,darkness,dark,5,0.263
+meta-llama/llama-4-maverick,en,hunting,hunt,5,0.263
+meta-llama/llama-4-maverick,en,ultrasound,emit high-frequency sounds,5,0.263
+meta-llama/llama-4-maverick,en,fruit,fruit,4,0.211
+meta-llama/llama-4-maverick,en,pollination,pollinating,4,0.211
+meta-llama/llama-4-maverick,en,habitat,found,3,0.158
+meta-llama/llama-4-maverick,en,nectar,nectar,3,0.158
+meta-llama/llama-4-maverick,en,seed dispersal,seed dispersal,3,0.158
+meta-llama/llama-4-maverick,en,wings,wings,3,0.158
+meta-llama/llama-4-maverick,en,foraging,find,2,0.105
+meta-llama/llama-4-maverick,en,pest control,controlling insect populations,2,0.105
+meta-llama/llama-4-maverick,en,carnivore,carnivores,2,0.105
+meta-llama/llama-4-maverick,en,wing membrane,elongated finger bones,2,0.105
+meta-llama/llama-4-maverick,en,communication,communication system,1,0.053
+meta-llama/llama-4-maverick,en,social,social,1,0.053
+meta-llama/llama-4-maverick,en,vertebrate,small vertebrate,1,0.053
+meta-llama/llama-4-maverick,en,frugivore,frugivores,1,0.053
+meta-llama/llama-4-maverick,en,roosting,hanging upside down,1,0.053
+meta-llama/llama-4-maverick,en,hearing,hearing,1,0.053
+meta-llama/llama-4-maverick,en,biodiversity,"over 1,400 species",1,0.053
+meta-llama/llama-4-maverick,en,chiroptera,order chiroptera,1,0.053
+meta-llama/llama-4-maverick,ja,mammal,哺乳類,10,0.5
+meta-llama/llama-4-maverick,ja,nocturnal,夜行性,7,0.35
+meta-llama/llama-4-maverick,ja,echolocation,エコーロケーション,7,0.35
+meta-llama/llama-4-maverick,ja,insectivore,食べる,5,0.25
+meta-llama/llama-4-maverick,ja,navigation,把握,5,0.25
+meta-llama/llama-4-maverick,ja,ultrasound,超音波,5,0.25
+meta-llama/llama-4-maverick,ja,flying mammal,飛ぶ,4,0.2
+meta-llama/llama-4-maverick,ja,unique,興味深い,3,0.15
+meta-llama/llama-4-maverick,ja,wing membrane,皮膜,3,0.15
+meta-llama/llama-4-maverick,ja,flight,飛ぶ,2,0.1
+meta-llama/llama-4-maverick,ja,viviparous,育てる,2,0.1
+meta-llama/llama-4-maverick,ja,frugivore,果実食,2,0.1
+meta-llama/llama-4-maverick,ja,hunting,探す,2,0.1
+meta-llama/llama-4-maverick,ja,animal,動物,1,0.05
+meta-llama/llama-4-maverick,ja,wings,翼,1,0.05
+meta-llama/llama-4-maverick,ja,diet,食べ物,1,0.05
+meta-llama/llama-4-maverick,ja,senses,把握する,1,0.05
+meta-llama/llama-4-maverick,ja,beneficial,益獣,1,0.05
+meta-llama/llama-4-maverick,ja,hearing,仕組み,1,0.05
+meta-llama/llama-4-maverick,ja,poor eyesight,視力はそれほど良くない,1,0.05
+meta-llama/llama-4-maverick,ja,activity,活動する,1,0.05
+meta-llama/llama-4-maverick,ja,cave,洞窟,1,0.05
+meta-llama/llama-4-maverick,ja,darkness,暗闇,1,0.05
+meta-llama/llama-4-maverick,ja,habitat,生息,1,0.05
+meta-llama/llama-4-maverick,ja,roosting,休む,1,0.05
+meta-llama/llama-4-maverick,ko,echolocation,반향정위,8,0.4
+meta-llama/llama-4-maverick,ko,flight,비행,8,0.4
+meta-llama/llama-4-maverick,ko,mammal,포유류,8,0.4
+meta-llama/llama-4-maverick,ko,flying mammal,날다,7,0.35
+meta-llama/llama-4-maverick,ko,nocturnal,야행성,7,0.35
+meta-llama/llama-4-maverick,ko,hunting,사냥하다,4,0.2
+meta-llama/llama-4-maverick,ko,ultrasound,초음파,4,0.2
+meta-llama/llama-4-maverick,ko,animal,동물,4,0.2
+meta-llama/llama-4-maverick,ko,wing membrane,날개 구조,4,0.2
+meta-llama/llama-4-maverick,ko,wings,날개,3,0.15
+meta-llama/llama-4-maverick,ko,unique,독특하고 흥미로운 동물,3,0.15
+meta-llama/llama-4-maverick,ko,habitat,곳,3,0.15
+meta-llama/llama-4-maverick,ko,insectivore,곤충,3,0.15
+meta-llama/llama-4-maverick,ko,navigation,찾다,2,0.1
+meta-llama/llama-4-maverick,ko,size,작은박쥐류,2,0.1
+meta-llama/llama-4-maverick,ko,activity,활동하다,2,0.1
+meta-llama/llama-4-maverick,ko,poor eyesight,퇴화했거나,2,0.1
+meta-llama/llama-4-maverick,ko,senses,인식,2,0.1
+meta-llama/llama-4-maverick,ko,evolution,진화하다,2,0.1
+meta-llama/llama-4-maverick,ko,diet,먹이,2,0.1
+meta-llama/llama-4-maverick,ko,chiroptera,박쥐목,1,0.05
+meta-llama/llama-4-maverick,ko,anatomy,구조,1,0.05
+meta-llama/llama-4-maverick,ko,frugivore,먹다,1,0.05
+meta-llama/llama-4-maverick,ko,sanguivore,피,1,0.05
+meta-llama/llama-4-maverick,ko,taxonomy,특징,1,0.05
+meta-llama/llama-4-maverick,ko,pollination,돕다,1,0.05
+meta-llama/llama-4-maverick,ko,ecology,생태,1,0.05
+meta-llama/llama-4-maverick,ko,seed dispersal,퍼뜨리다,1,0.05
+meta-llama/llama-4-maverick,ko,beneficial,유익한 역할,1,0.05
+meta-llama/llama-4-maverick,ko,darkness,어둠,1,0.05
+meta-llama/llama-4-maverick,ko,vocalization,발산하다,1,0.05
+meta-llama/llama-4-maverick,ko,foraging,찾다,1,0.05
+meta-llama/llama-4-maverick,ko,adaptation,적응하다,1,0.05
+meta-llama/llama-4-maverick,ko,biodiversity,종류,1,0.05
+meta-llama/llama-4-maverick,zh,echolocation,回声定位,14,0.7
+meta-llama/llama-4-maverick,zh,navigation,导航,12,0.6
+meta-llama/llama-4-maverick,zh,ultrasound,发出超声波,12,0.6
+meta-llama/llama-4-maverick,zh,hunting,捕食,11,0.55
+meta-llama/llama-4-maverick,zh,mammal,哺乳动物,10,0.5
+meta-llama/llama-4-maverick,zh,vision,视觉,9,0.45
+meta-llama/llama-4-maverick,zh,blindness,盲,8,0.4
+meta-llama/llama-4-maverick,zh,senses,嗅觉,7,0.35
+meta-llama/llama-4-maverick,zh,wing membrane,翼膜,6,0.3
+meta-llama/llama-4-maverick,zh,flight,会飞,5,0.25
+meta-llama/llama-4-maverick,zh,wings,翅膀,4,0.2
+meta-llama/llama-4-maverick,zh,flying mammal,唯一能够真正飞行的哺乳动物,4,0.2
+meta-llama/llama-4-maverick,zh,hearing,听力,4,0.2
+meta-llama/llama-4-maverick,zh,fruit bat,狐蝠,3,0.15
+meta-llama/llama-4-maverick,zh,darkness,黑暗,3,0.15
+meta-llama/llama-4-maverick,zh,unique,独特,2,0.1
+meta-llama/llama-4-maverick,zh,diet,食性多样,2,0.1
+meta-llama/llama-4-maverick,zh,foraging,寻找食物,2,0.1
+meta-llama/llama-4-maverick,zh,insectivore,吃昆虫,2,0.1
+meta-llama/llama-4-maverick,zh,poor eyesight,有限,2,0.1
+meta-llama/llama-4-maverick,zh,nocturnal,夜行性,2,0.1
+meta-llama/llama-4-maverick,zh,adaptation,高度特化的,2,0.1
+meta-llama/llama-4-maverick,zh,chiroptera,翼手目,1,0.05
+meta-llama/llama-4-maverick,zh,evolution,演化,1,0.05
+meta-llama/llama-4-maverick,zh,obstacle,物体,1,0.05
+meta-llama/llama-4-maverick,zh,ecology,生态作用大,1,0.05
+meta-llama/llama-4-maverick,zh,habitat,分布,1,0.05
+meta-llama/llama-4-maverick,zh,human interaction,与人类的关系,1,0.05
+meta-llama/llama-4-maverick,zh,taxonomy,翼手目,1,0.05
+meta-llama/llama-4-maverick,zh,reproduction,繁殖率低,1,0.05
+meta-llama/llama-4-maverick,zh,mythology,误解,1,0.05
+mistralai/mistral-small-2603,en,mammal,mammal,7,0.538
+mistralai/mistral-small-2603,en,echolocation,echolocation,7,0.538
+mistralai/mistral-small-2603,en,nocturnal,nocturnal,6,0.462
+mistralai/mistral-small-2603,en,flying mammal,flying mammal,5,0.385
+mistralai/mistral-small-2603,en,flight,capable,5,0.385
+mistralai/mistral-small-2603,en,insectivore,insects,3,0.231
+mistralai/mistral-small-2603,en,pollination,pollinating,3,0.231
+mistralai/mistral-small-2603,en,pest control,controlling insect populations,3,0.231
+mistralai/mistral-small-2603,en,roosting,hanging upside down,2,0.154
+mistralai/mistral-small-2603,en,microbat,tiny bumblebee bats,1,0.077
+mistralai/mistral-small-2603,en,senses,smell,1,0.077
+mistralai/mistral-small-2603,en,fruit bat,fruit bat,1,0.077
+mistralai/mistral-small-2603,en,vision,vision,1,0.077
+mistralai/mistral-small-2603,en,seed dispersal,seed dispersal,1,0.077
+mistralai/mistral-small-2603,en,ecology,play,1,0.077
+mistralai/mistral-small-2603,en,animal,animal,1,0.077
+mistralai/mistral-small-2603,en,wings,wings,1,0.077
+mistralai/mistral-small-2603,ja,nocturnal,夜行性,14,0.7
+mistralai/mistral-small-2603,ja,mammal,哺乳類,14,0.7
+mistralai/mistral-small-2603,ja,insectivore,食べる,13,0.65
+mistralai/mistral-small-2603,ja,flying mammal,飛ぶ,13,0.65
+mistralai/mistral-small-2603,ja,echolocation,エコーロケーション,12,0.6
+mistralai/mistral-small-2603,ja,sanguivore,吸う,10,0.5
+mistralai/mistral-small-2603,ja,flight,飛ぶ,10,0.5
+mistralai/mistral-small-2603,ja,wings,翼,7,0.35
+mistralai/mistral-small-2603,ja,frugivore,果実食,6,0.3
+mistralai/mistral-small-2603,ja,pollination,受粉,4,0.2
+mistralai/mistral-small-2603,ja,wing membrane,皮膜,4,0.2
+mistralai/mistral-small-2603,ja,biodiversity,種類,4,0.2
+mistralai/mistral-small-2603,ja,diet,食べ物,4,0.2
+mistralai/mistral-small-2603,ja,vampire,吸血鬼,4,0.2
+mistralai/mistral-small-2603,ja,navigation,把握,4,0.2
+mistralai/mistral-small-2603,ja,ultrasound,超音波,4,0.2
+mistralai/mistral-small-2603,ja,fruit,果実,3,0.15
+mistralai/mistral-small-2603,ja,anatomy,手,3,0.15
+mistralai/mistral-small-2603,ja,size,小動物,3,0.15
+mistralai/mistral-small-2603,ja,senses,把握する,3,0.15
+mistralai/mistral-small-2603,ja,chiroptera,翼手目,2,0.1
+mistralai/mistral-small-2603,ja,hearing,仕組み,2,0.1
+mistralai/mistral-small-2603,ja,hunting,探す,2,0.1
+mistralai/mistral-small-2603,ja,pest control,害虫駆除,2,0.1
+mistralai/mistral-small-2603,ja,longevity,長寿,2,0.1
+mistralai/mistral-small-2603,ja,megabat,大型種,1,0.05
+mistralai/mistral-small-2603,ja,microbat,小型種,1,0.05
+mistralai/mistral-small-2603,ja,fruit bat,オオコウモリ,1,0.05
+mistralai/mistral-small-2603,ja,vampire bat,ヴァンパイアコウモリ,1,0.05
+mistralai/mistral-small-2603,ja,social,暮らす,1,0.05
+mistralai/mistral-small-2603,ja,communication,仲間とのコミュニケーション,1,0.05
+mistralai/mistral-small-2603,ja,nectarivore,吸う,1,0.05
+mistralai/mistral-small-2603,ja,taxonomy,仲間,1,0.05
+mistralai/mistral-small-2603,ja,vision,目,1,0.05
+mistralai/mistral-small-2603,ja,carnivore,肉食,1,0.05
+mistralai/mistral-small-2603,ja,obstacle,障害物,1,0.05
+mistralai/mistral-small-2603,ja,darkness,暗闇,1,0.05
+mistralai/mistral-small-2603,ja,nectar,蜜,1,0.05
+mistralai/mistral-small-2603,ja,animal,動物,1,0.05
+mistralai/mistral-small-2603,ja,seed dispersal,種子散布,1,0.05
+mistralai/mistral-small-2603,ja,good fortune,縁起が良い,1,0.05
+mistralai/mistral-small-2603,ja,mythology,良い,1,0.05
+mistralai/mistral-small-2603,ja,habitat,生息,1,0.05
+mistralai/mistral-small-2603,ko,nocturnal,야행성,15,0.75
+mistralai/mistral-small-2603,ko,echolocation,반향정위,13,0.65
+mistralai/mistral-small-2603,ko,flying mammal,날다,13,0.65
+mistralai/mistral-small-2603,ko,mammal,포유류,13,0.65
+mistralai/mistral-small-2603,ko,wing membrane,날개 구조,12,0.6
+mistralai/mistral-small-2603,ko,flight,비행,10,0.5
+mistralai/mistral-small-2603,ko,insectivore,곤충,8,0.4
+mistralai/mistral-small-2603,ko,biodiversity,종류,7,0.35
+mistralai/mistral-small-2603,ko,chiroptera,박쥐목,6,0.3
+mistralai/mistral-small-2603,ko,wings,날개,6,0.3
+mistralai/mistral-small-2603,ko,pollination,돕다,5,0.25
+mistralai/mistral-small-2603,ko,habitat,곳,5,0.25
+mistralai/mistral-small-2603,ko,roosting,매달리다,4,0.2
+mistralai/mistral-small-2603,ko,hunting,사냥하다,4,0.2
+mistralai/mistral-small-2603,ko,longevity,수명,3,0.15
+mistralai/mistral-small-2603,ko,sanguivore,피,3,0.15
+mistralai/mistral-small-2603,ko,fruit,과일,3,0.15
+mistralai/mistral-small-2603,ko,anatomy,구조,3,0.15
+mistralai/mistral-small-2603,ko,cave,동굴,3,0.15
+mistralai/mistral-small-2603,ko,ultrasound,초음파,3,0.15
+mistralai/mistral-small-2603,ko,carnivore,작은 동물,3,0.15
+mistralai/mistral-small-2603,ko,size,작은박쥐류,2,0.1
+mistralai/mistral-small-2603,ko,diet,먹이,2,0.1
+mistralai/mistral-small-2603,ko,nectar,꽃꿀,2,0.1
+mistralai/mistral-small-2603,ko,foraging,찾다,2,0.1
+mistralai/mistral-small-2603,ko,adaptation,적응하다,2,0.1
+mistralai/mistral-small-2603,ko,fruit bat,과일박쥐,2,0.1
+mistralai/mistral-small-2603,ko,migration,장거리 이주,1,0.05
+mistralai/mistral-small-2603,ko,taxonomy,특징,1,0.05
+mistralai/mistral-small-2603,ko,geography,아메리카 대륙,1,0.05
+mistralai/mistral-small-2603,ko,metabolism,신진대사,1,0.05
+mistralai/mistral-small-2603,ko,thermoregulation,체온을 일정하게 유지,1,0.05
+mistralai/mistral-small-2603,ko,hibernation,겨울잠,1,0.05
+mistralai/mistral-small-2603,ko,guano,촉진하다,1,0.05
+mistralai/mistral-small-2603,ko,frugivore,먹다,1,0.05
+mistralai/mistral-small-2603,ko,ecology,생태,1,0.05
+mistralai/mistral-small-2603,ko,social,군집 생활,1,0.05
+mistralai/mistral-small-2603,ko,obstacle,장애물,1,0.05
+mistralai/mistral-small-2603,ko,activity,활동하다,1,0.05
+mistralai/mistral-small-2603,ko,unique,독특하고 흥미로운 동물,1,0.05
+mistralai/mistral-small-2603,ko,megabat,큰박쥐아목,1,0.05
+mistralai/mistral-small-2603,zh,flying mammal,唯一能够真正飞行的哺乳动物,13,0.684
+mistralai/mistral-small-2603,zh,wing membrane,翼膜,9,0.474
+mistralai/mistral-small-2603,zh,taxonomy,翼手目,9,0.474
+mistralai/mistral-small-2603,zh,mammal,哺乳动物,8,0.421
+mistralai/mistral-small-2603,zh,flight,会飞,7,0.368
+mistralai/mistral-small-2603,zh,echolocation,回声定位,7,0.368
+mistralai/mistral-small-2603,zh,wings,翅膀,6,0.316
+mistralai/mistral-small-2603,zh,chiroptera,翼手目,6,0.316
+mistralai/mistral-small-2603,zh,nocturnal,夜行性,5,0.263
+mistralai/mistral-small-2603,zh,fruit bat,狐蝠,3,0.158
+mistralai/mistral-small-2603,zh,insectivore,吃昆虫,3,0.158
+mistralai/mistral-small-2603,zh,biodiversity,种类繁多,3,0.158
+mistralai/mistral-small-2603,zh,size,体型较大,2,0.105
+mistralai/mistral-small-2603,zh,habitat,分布,2,0.105
+mistralai/mistral-small-2603,zh,activity,生活习性,2,0.105
+mistralai/mistral-small-2603,zh,fruit,水果,2,0.105
+mistralai/mistral-small-2603,zh,diet,食性多样,2,0.105
+mistralai/mistral-small-2603,zh,sanguivore,吸血,2,0.105
+mistralai/mistral-small-2603,zh,vertebrate,脊椎动物,1,0.053
+mistralai/mistral-small-2603,zh,adaptation,高度特化的,1,0.053
+mistralai/mistral-small-2603,zh,pollination,传粉,1,0.053
+mistralai/mistral-small-2603,zh,ecology,生态作用大,1,0.053
+mistralai/mistral-small-2603,zh,pest control,控制害虫,1,0.053
+mistralai/mistral-small-2603,zh,seed dispersal,种子传播者,1,0.053
+mistralai/mistral-small-2603,zh,evolution,演化,1,0.053
+mistralai/mistral-small-2603,zh,vocalization,发出,1,0.053
+mistralai/mistral-small-2603,zh,senses,嗅觉,1,0.053
+mistralai/mistral-small-2603,zh,ultrasound,发出超声波,1,0.053
+mistralai/mistral-small-2603,zh,beneficial,植物帮手,1,0.053
+mistralai/mistral-small-2603,zh,animal,动物,1,0.053
+mistralai/mistral-small-2603,zh,anatomy,有牙齿,1,0.053
+mistralai/mistral-small-2603,zh,frugivore,吃水果,1,0.053
+mistralai/mistral-small-2603,zh,megabat,大蝙蝠类,1,0.053
+mistralai/mistral-small-2603,zh,vision,视觉,1,0.053
+mistralai/mistral-small-2603,zh,human interaction,与人类的关系,1,0.053
+mistralai/mistral-small-2603,zh,hunting,捕食,1,0.053
+mistralai/mistral-small-2603,zh,microbat,小蝙蝠类,1,0.053
+mistralai/mistral-small-2603,zh,vampire bat,吸血蝙蝠,1,0.053
+mistralai/mistral-small-2603,zh,carnivore,吃鱼,1,0.053
+mistralai/mistral-small-2603,zh,nectar,花蜜,1,0.053
+openai/gpt-6-luna,en,flying mammal,flying mammal,6,0.5
+openai/gpt-6-luna,en,animal,animal,4,0.333
+openai/gpt-6-luna,en,echolocation,echolocation,3,0.25
+openai/gpt-6-luna,en,flight,capable,2,0.167
+openai/gpt-6-luna,en,foraging,find,2,0.167
+openai/gpt-6-luna,en,wings,wings,1,0.083
+openai/gpt-6-luna,en,anatomy,adapted,1,0.083
+openai/gpt-6-luna,en,darkness,dark,1,0.083
+openai/gpt-6-luna,en,mammal,mammal,1,0.083
+openai/gpt-6-luna,en,insectivore,insects,1,0.083
+openai/gpt-6-luna,en,frugivore,frugivores,1,0.083
+openai/gpt-6-luna,en,navigation,navigate,1,0.083
+openai/gpt-6-luna,ja,ecology,生態,20,1.0
+openai/gpt-6-luna,ja,diet,食べ物,14,0.7
+openai/gpt-6-luna,ja,hibernation,冬眠,11,0.55
+openai/gpt-6-luna,ja,flight,飛ぶ,10,0.5
+openai/gpt-6-luna,ja,biodiversity,種類,10,0.5
+openai/gpt-6-luna,ja,taxonomy,仲間,6,0.3
+openai/gpt-6-luna,ja,human interaction,人との関わり,5,0.25
+openai/gpt-6-luna,ja,longevity,長寿,3,0.15
+openai/gpt-6-luna,ja,disease vector,関係,2,0.1
+openai/gpt-6-luna,ja,sanguivore,吸う,1,0.05
+openai/gpt-6-luna,ja,habitat,生息,1,0.05
+openai/gpt-6-luna,ja,roosting,休む,1,0.05
+openai/gpt-6-luna,ja,reproduction,飼育方法,1,0.05
+openai/gpt-6-luna,ja,anatomy,手,1,0.05
+openai/gpt-6-luna,ja,ultrasound,超音波,1,0.05
+openai/gpt-6-luna,ko,ecology,생태,20,1.0
+openai/gpt-6-luna,ko,diet,먹이,18,0.9
+openai/gpt-6-luna,ko,ultrasound,초음파,11,0.55
+openai/gpt-6-luna,ko,biodiversity,종류,8,0.4
+openai/gpt-6-luna,ko,echolocation,반향정위,5,0.25
+openai/gpt-6-luna,ko,longevity,수명,5,0.25
+openai/gpt-6-luna,ko,hibernation,겨울잠,5,0.25
+openai/gpt-6-luna,ko,dangerous,위험하다,5,0.25
+openai/gpt-6-luna,ko,taxonomy,특징,4,0.2
+openai/gpt-6-luna,ko,human interaction,영향,2,0.1
+openai/gpt-6-luna,ko,habitat,곳,1,0.05
+openai/gpt-6-luna,ko,navigation,찾다,1,0.05
+openai/gpt-6-luna,zh,echolocation,回声定位,18,0.9
+openai/gpt-6-luna,zh,nocturnal,夜行性,15,0.75
+openai/gpt-6-luna,zh,navigation,导航,13,0.65
+openai/gpt-6-luna,zh,flying mammal,唯一能够真正飞行的哺乳动物,13,0.65
+openai/gpt-6-luna,zh,insectivore,吃昆虫,12,0.6
+openai/gpt-6-luna,zh,mammal,哺乳动物,10,0.5
+openai/gpt-6-luna,zh,foraging,寻找食物,10,0.5
+openai/gpt-6-luna,zh,diet,食性多样,9,0.45
+openai/gpt-6-luna,zh,nectar,花蜜,8,0.4
+openai/gpt-6-luna,zh,fruit,水果,8,0.4
+openai/gpt-6-luna,zh,sanguivore,吸血,7,0.35
+openai/gpt-6-luna,zh,chiroptera,翼手目,6,0.3
+openai/gpt-6-luna,zh,taxonomy,翼手目,5,0.25
+openai/gpt-6-luna,zh,hunting,捕食,5,0.25
+openai/gpt-6-luna,zh,frugivore,吃水果,4,0.2
+openai/gpt-6-luna,zh,wing membrane,翼膜,3,0.15
+openai/gpt-6-luna,zh,nectarivore,花蜜,3,0.15
+openai/gpt-6-luna,zh,flight,会飞,3,0.15
+openai/gpt-6-luna,zh,wings,翅膀,2,0.1
+openai/gpt-6-luna,zh,carnivore,吃鱼,2,0.1
+openai/gpt-6-luna,zh,biodiversity,种类繁多,1,0.05
+openai/gpt-6-luna,zh,size,体型较大,1,0.05
+qwen/qwen3.8-flash,en,echolocation,echolocation,19,0.95
+qwen/qwen3.8-flash,en,flight,capable,17,0.85
+qwen/qwen3.8-flash,en,pollination,pollinating,16,0.8
+qwen/qwen3.8-flash,en,flying mammal,flying mammal,15,0.75
+qwen/qwen3.8-flash,en,insectivore,insects,14,0.7
+qwen/qwen3.8-flash,en,navigation,navigate,14,0.7
+qwen/qwen3.8-flash,en,hunting,hunt,13,0.65
+qwen/qwen3.8-flash,en,pest control,controlling insect populations,11,0.55
+qwen/qwen3.8-flash,en,seed dispersal,seed dispersal,10,0.5
+qwen/qwen3.8-flash,en,frugivore,frugivores,9,0.45
+qwen/qwen3.8-flash,en,ecology,play,7,0.35
+qwen/qwen3.8-flash,en,wings,wings,7,0.35
+qwen/qwen3.8-flash,en,sanguivore,blood,7,0.35
+qwen/qwen3.8-flash,en,carnivore,carnivores,6,0.3
+qwen/qwen3.8-flash,en,nectarivore,nectarivores,6,0.3
+qwen/qwen3.8-flash,en,mammal,mammal,6,0.3
+qwen/qwen3.8-flash,en,wing membrane,elongated finger bones,5,0.25
+qwen/qwen3.8-flash,en,nectar,nectar,5,0.25
+qwen/qwen3.8-flash,en,nocturnal,nocturnal,5,0.25
+qwen/qwen3.8-flash,en,fruit bat,fruit bat,4,0.2
+qwen/qwen3.8-flash,en,darkness,dark,4,0.2
+qwen/qwen3.8-flash,en,ultrasound,emit high-frequency sounds,3,0.15
+qwen/qwen3.8-flash,en,fruit,fruit,3,0.15
+qwen/qwen3.8-flash,en,vampire,vampires,3,0.15
+qwen/qwen3.8-flash,en,microbat,tiny bumblebee bats,2,0.1
+qwen/qwen3.8-flash,en,biodiversity,"over 1,400 species",2,0.1
+qwen/qwen3.8-flash,en,senses,smell,2,0.1
+qwen/qwen3.8-flash,en,vampire bat,vampire bat,1,0.05
+qwen/qwen3.8-flash,en,diet,diet,1,0.05
+qwen/qwen3.8-flash,en,size,small,1,0.05
+qwen/qwen3.8-flash,en,viviparous,give birth to live young,1,0.05
+qwen/qwen3.8-flash,en,fur,fur,1,0.05
+qwen/qwen3.8-flash,en,vocalization,emit high-frequency sounds,1,0.05
+qwen/qwen3.8-flash,en,vision,vision,1,0.05
+qwen/qwen3.8-flash,en,disease vector,disease,1,0.05
+qwen/qwen3.8-flash,en,longevity,live remarkably long lives,1,0.05
+qwen/qwen3.8-flash,en,animal,animal,1,0.05
+qwen/qwen3.8-flash,en,roosting,hanging upside down,1,0.05
+qwen/qwen3.8-flash,ja,insectivore,食べる,16,0.8
+qwen/qwen3.8-flash,ja,echolocation,エコーロケーション,12,0.6
+qwen/qwen3.8-flash,ja,nocturnal,夜行性,11,0.55
+qwen/qwen3.8-flash,ja,frugivore,果実食,10,0.5
+qwen/qwen3.8-flash,ja,wing membrane,皮膜,10,0.5
+qwen/qwen3.8-flash,ja,sanguivore,吸う,7,0.35
+qwen/qwen3.8-flash,ja,flight,飛ぶ,5,0.25
+qwen/qwen3.8-flash,ja,ultrasound,超音波,5,0.25
+qwen/qwen3.8-flash,ja,chiroptera,翼手目,5,0.25
+qwen/qwen3.8-flash,ja,hunting,探す,5,0.25
+qwen/qwen3.8-flash,ja,pollination,受粉,5,0.25
+qwen/qwen3.8-flash,ja,flying mammal,飛ぶ,4,0.2
+qwen/qwen3.8-flash,ja,diet,食べ物,4,0.2
+qwen/qwen3.8-flash,ja,mammal,哺乳類,4,0.2
+qwen/qwen3.8-flash,ja,seed dispersal,種子散布,4,0.2
+qwen/qwen3.8-flash,ja,navigation,把握,3,0.15
+qwen/qwen3.8-flash,ja,taxonomy,仲間,3,0.15
+qwen/qwen3.8-flash,ja,ecology,生態,2,0.1
+qwen/qwen3.8-flash,ja,wings,翼,2,0.1
+qwen/qwen3.8-flash,ja,biodiversity,種類,2,0.1
+qwen/qwen3.8-flash,ja,evolution,進化,2,0.1
+qwen/qwen3.8-flash,ja,beneficial,益獣,2,0.1
+qwen/qwen3.8-flash,ja,senses,把握する,2,0.1
+qwen/qwen3.8-flash,ja,anatomy,手,1,0.05
+qwen/qwen3.8-flash,ja,longevity,長寿,1,0.05
+qwen/qwen3.8-flash,ja,hearing,仕組み,1,0.05
+qwen/qwen3.8-flash,ja,pest control,害虫駆除,1,0.05
+qwen/qwen3.8-flash,ja,carnivore,肉食,1,0.05
+qwen/qwen3.8-flash,ja,population,占める,1,0.05
+qwen/qwen3.8-flash,ja,nectarivore,吸う,1,0.05
+qwen/qwen3.8-flash,ja,habitat,生息,1,0.05
+qwen/qwen3.8-flash,ja,viviparous,育てる,1,0.05
+qwen/qwen3.8-flash,ja,fur,覆われる,1,0.05
+qwen/qwen3.8-flash,ja,vision,目,1,0.05
+qwen/qwen3.8-flash,ja,unique,興味深い,1,0.05
+qwen/qwen3.8-flash,ja,social,暮らす,1,0.05
+qwen/qwen3.8-flash,ko,echolocation,반향정위,15,0.75
+qwen/qwen3.8-flash,ko,mammal,포유류,15,0.75
+qwen/qwen3.8-flash,ko,flight,비행,14,0.7
+qwen/qwen3.8-flash,ko,nocturnal,야행성,14,0.7
+qwen/qwen3.8-flash,ko,wing membrane,날개 구조,10,0.5
+qwen/qwen3.8-flash,ko,flying mammal,날다,9,0.45
+qwen/qwen3.8-flash,ko,insectivore,곤충,8,0.4
+qwen/qwen3.8-flash,ko,pollination,돕다,6,0.3
+qwen/qwen3.8-flash,ko,viviparous,젖,6,0.3
+qwen/qwen3.8-flash,ko,pest control,잡아먹다,6,0.3
+qwen/qwen3.8-flash,ko,navigation,찾다,4,0.2
+qwen/qwen3.8-flash,ko,ultrasound,초음파,4,0.2
+qwen/qwen3.8-flash,ko,seed dispersal,퍼뜨리다,3,0.15
+qwen/qwen3.8-flash,ko,cave,동굴,3,0.15
+qwen/qwen3.8-flash,ko,senses,인식,3,0.15
+qwen/qwen3.8-flash,ko,diet,먹이,3,0.15
+qwen/qwen3.8-flash,ko,frugivore,먹다,2,0.1
+qwen/qwen3.8-flash,ko,sanguivore,피,2,0.1
+qwen/qwen3.8-flash,ko,nectar,꽃꿀,2,0.1
+qwen/qwen3.8-flash,ko,fruit,과일,2,0.1
+qwen/qwen3.8-flash,ko,wings,날개,2,0.1
+qwen/qwen3.8-flash,ko,social,군집 생활,2,0.1
+qwen/qwen3.8-flash,ko,habitat,곳,2,0.1
+qwen/qwen3.8-flash,ko,hunting,사냥하다,2,0.1
+qwen/qwen3.8-flash,ko,fur,털이 있고,2,0.1
+qwen/qwen3.8-flash,ko,ecology,생태,1,0.05
+qwen/qwen3.8-flash,ko,pest,해충,1,0.05
+qwen/qwen3.8-flash,ko,conservation,보호 대상,1,0.05
+qwen/qwen3.8-flash,ko,chiroptera,박쥐목,1,0.05
+qwen/qwen3.8-flash,ko,biodiversity,종류,1,0.05
+qwen/qwen3.8-flash,ko,disease vector,숙주,1,0.05
+qwen/qwen3.8-flash,ko,anatomy,구조,1,0.05
+qwen/qwen3.8-flash,ko,evolution,진화하다,1,0.05
+qwen/qwen3.8-flash,ko,carnivore,작은 동물,1,0.05
+qwen/qwen3.8-flash,ko,roosting,매달리다,1,0.05
+qwen/qwen3.8-flash,ko,thermoregulation,체온을 일정하게 유지,1,0.05
+qwen/qwen3.8-flash,ko,fruit bat,과일박쥐,1,0.05
+qwen/qwen3.8-flash,ko,geography,아메리카 대륙,1,0.05
+qwen/qwen3.8-flash,ko,foraging,찾다,1,0.05
+qwen/qwen3.8-flash,ko,vampire,흡혈박쥐,1,0.05
+qwen/qwen3.8-flash,zh,mammal,哺乳动物,19,0.95
+qwen/qwen3.8-flash,zh,flying mammal,唯一能够真正飞行的哺乳动物,17,0.85
+qwen/qwen3.8-flash,zh,echolocation,回声定位,15,0.75
+qwen/qwen3.8-flash,zh,pest control,控制害虫,13,0.65
+qwen/qwen3.8-flash,zh,wing membrane,翼膜,13,0.65
+qwen/qwen3.8-flash,zh,flight,会飞,12,0.6
+qwen/qwen3.8-flash,zh,insectivore,吃昆虫,12,0.6
+qwen/qwen3.8-flash,zh,pollination,传粉,11,0.55
+qwen/qwen3.8-flash,zh,seed dispersal,种子传播者,9,0.45
+qwen/qwen3.8-flash,zh,viviparous,胎生,9,0.45
+qwen/qwen3.8-flash,zh,fur,毛发,8,0.4
+qwen/qwen3.8-flash,zh,navigation,导航,8,0.4
+qwen/qwen3.8-flash,zh,nocturnal,夜行性,6,0.3
+qwen/qwen3.8-flash,zh,wings,翅膀,4,0.2
+qwen/qwen3.8-flash,zh,hunting,捕食,4,0.2
+qwen/qwen3.8-flash,zh,chiroptera,翼手目,3,0.15
+qwen/qwen3.8-flash,zh,ecology,生态作用大,3,0.15
+qwen/qwen3.8-flash,zh,senses,嗅觉,3,0.15
+qwen/qwen3.8-flash,zh,anatomy,有牙齿,3,0.15
+qwen/qwen3.8-flash,zh,vertebrate,脊椎动物,3,0.15
+qwen/qwen3.8-flash,zh,ultrasound,发出超声波,3,0.15
+qwen/qwen3.8-flash,zh,longevity,寿命较长,2,0.1
+qwen/qwen3.8-flash,zh,frugivore,吃水果,2,0.1
+qwen/qwen3.8-flash,zh,parental care,胎生、哺乳,2,0.1
+qwen/qwen3.8-flash,zh,roosting,树洞,1,0.05
+qwen/qwen3.8-flash,zh,biodiversity,种类繁多,1,0.05
+qwen/qwen3.8-flash,zh,taxonomy,翼手目,1,0.05
+qwen/qwen3.8-flash,zh,reproduction,繁殖率低,1,0.05
+qwen/qwen3.8-flash,zh,nectarivore,花蜜,1,0.05
+qwen/qwen3.8-flash,zh,vision,视觉,1,0.05
+qwen/qwen3.8-flash,zh,microbat,小蝙蝠类,1,0.05
+qwen/qwen3.8-flash,zh,nectar,花蜜,1,0.05
+qwen/qwen3.8-flash,zh,fruit bat,狐蝠,1,0.05
+qwen/qwen3.8-flash,zh,fruit,水果,1,0.05
+qwen/qwen3.8-flash,zh,disease vector,携带多种病毒,1,0.05
+upstage/solar-mini4,en,mammal,mammal,11,0.611
+upstage/solar-mini4,en,echolocation,echolocation,9,0.5
+upstage/solar-mini4,en,flight,capable,9,0.5
+upstage/solar-mini4,en,flying mammal,flying mammal,6,0.333
+upstage/solar-mini4,en,nocturnal,nocturnal,6,0.333
+upstage/solar-mini4,en,navigation,navigate,5,0.278
+upstage/solar-mini4,en,insectivore,insects,5,0.278
+upstage/solar-mini4,en,hunting,hunt,4,0.222
+upstage/solar-mini4,en,pollination,pollinating,4,0.222
+upstage/solar-mini4,en,pest control,controlling insect populations,4,0.222
+upstage/solar-mini4,en,sanguivore,blood,4,0.222
+upstage/solar-mini4,en,fruit bat,fruit bat,3,0.167
+upstage/solar-mini4,en,vampire bat,vampire bat,3,0.167
+upstage/solar-mini4,en,wings,wings,3,0.167
+upstage/solar-mini4,en,seed dispersal,seed dispersal,3,0.167
+upstage/solar-mini4,en,cave,associated with caves,3,0.167
+upstage/solar-mini4,en,ecology,play,2,0.111
+upstage/solar-mini4,en,horror,vampires',2,0.111
+upstage/solar-mini4,en,mythology,appear,2,0.111
+upstage/solar-mini4,en,nectar,nectar,2,0.111
+upstage/solar-mini4,en,fruit,fruit,2,0.111
+upstage/solar-mini4,en,frugivore,frugivores,2,0.111
+upstage/solar-mini4,en,baseball bat,sports implement,1,0.056
+upstage/solar-mini4,en,pop culture,literature,1,0.056
+upstage/solar-mini4,en,disease vector,disease,1,0.056
+upstage/solar-mini4,en,size,small,1,0.056
+upstage/solar-mini4,en,diet,diet,1,0.056
+upstage/solar-mini4,en,nectarivore,nectarivores,1,0.056
+upstage/solar-mini4,en,good fortune,feng,1,0.056
+upstage/solar-mini4,en,anatomy,adapted,1,0.056
+upstage/solar-mini4,en,habitat,found,1,0.056
+upstage/solar-mini4,en,vampire,vampires,1,0.056
+upstage/solar-mini4,ja,echolocation,エコーロケーション,19,0.95
+upstage/solar-mini4,ja,insectivore,食べる,17,0.85
+upstage/solar-mini4,ja,nocturnal,夜行性,14,0.7
+upstage/solar-mini4,ja,flying mammal,飛ぶ,13,0.65
+upstage/solar-mini4,ja,mammal,哺乳類,13,0.65
+upstage/solar-mini4,ja,flight,飛ぶ,12,0.6
+upstage/solar-mini4,ja,wing membrane,皮膜,11,0.55
+upstage/solar-mini4,ja,frugivore,果実食,11,0.55
+upstage/solar-mini4,ja,wings,翼,9,0.45
+upstage/solar-mini4,ja,sanguivore,吸う,9,0.45
+upstage/solar-mini4,ja,ultrasound,超音波,7,0.35
+upstage/solar-mini4,ja,diet,食べ物,6,0.3
+upstage/solar-mini4,ja,nectarivore,吸う,6,0.3
+upstage/solar-mini4,ja,chiroptera,翼手目,6,0.3
+upstage/solar-mini4,ja,hunting,探す,5,0.25
+upstage/solar-mini4,ja,senses,把握する,5,0.25
+upstage/solar-mini4,ja,roosting,休む,4,0.2
+upstage/solar-mini4,ja,navigation,把握,4,0.2
+upstage/solar-mini4,ja,viviparous,育てる,4,0.2
+upstage/solar-mini4,ja,fur,覆われる,4,0.2
+upstage/solar-mini4,ja,carnivore,肉食,3,0.15
+upstage/solar-mini4,ja,pest control,害虫駆除,3,0.15
+upstage/solar-mini4,ja,animal,動物,3,0.15
+upstage/solar-mini4,ja,horror,怖い,3,0.15
+upstage/solar-mini4,ja,habitat,生息,2,0.1
+upstage/solar-mini4,ja,pollination,受粉,2,0.1
+upstage/solar-mini4,ja,vampire,吸血鬼,2,0.1
+upstage/solar-mini4,ja,seed dispersal,種子散布,2,0.1
+upstage/solar-mini4,ja,vision,目,2,0.1
+upstage/solar-mini4,ja,parental care,育てる,2,0.1
+upstage/solar-mini4,ja,activity,活動する,2,0.1
+upstage/solar-mini4,ja,cave,洞窟,1,0.05
+upstage/solar-mini4,ja,unique,興味深い,1,0.05
+upstage/solar-mini4,ja,longevity,長寿,1,0.05
+upstage/solar-mini4,ja,biodiversity,種類,1,0.05
+upstage/solar-mini4,ja,evolution,進化,1,0.05
+upstage/solar-mini4,ja,disease vector,関係,1,0.05
+upstage/solar-mini4,ja,anatomy,手,1,0.05
+upstage/solar-mini4,ja,foraging,夜間に食べる,1,0.05
+upstage/solar-mini4,ja,nectar,蜜,1,0.05
+upstage/solar-mini4,ja,fruit,果実,1,0.05
+upstage/solar-mini4,ja,ecology,生態,1,0.05
+upstage/solar-mini4,ja,fear,恐怖,1,0.05
+upstage/solar-mini4,ja,social,暮らす,1,0.05
+upstage/solar-mini4,ko,echolocation,반향정위,19,0.95
+upstage/solar-mini4,ko,insectivore,곤충,17,0.85
+upstage/solar-mini4,ko,pollination,돕다,17,0.85
+upstage/solar-mini4,ko,mammal,포유류,16,0.8
+upstage/solar-mini4,ko,flying mammal,날다,16,0.8
+upstage/solar-mini4,ko,nocturnal,야행성,14,0.7
+upstage/solar-mini4,ko,pest control,잡아먹다,13,0.65
+upstage/solar-mini4,ko,sanguivore,피,11,0.55
+upstage/solar-mini4,ko,wing membrane,날개 구조,10,0.5
+upstage/solar-mini4,ko,wings,날개,9,0.45
+upstage/solar-mini4,ko,seed dispersal,퍼뜨리다,9,0.45
+upstage/solar-mini4,ko,flight,비행,9,0.45
+upstage/solar-mini4,ko,ecology,생태,8,0.4
+upstage/solar-mini4,ko,frugivore,먹다,8,0.4
+upstage/solar-mini4,ko,diet,먹이,7,0.35
+upstage/solar-mini4,ko,nectar,꽃꿀,4,0.2
+upstage/solar-mini4,ko,fruit,과일,4,0.2
+upstage/solar-mini4,ko,hibernation,겨울잠,4,0.2
+upstage/solar-mini4,ko,ultrasound,초음파,4,0.2
+upstage/solar-mini4,ko,viviparous,젖,4,0.2
+upstage/solar-mini4,ko,senses,인식,3,0.15
+upstage/solar-mini4,ko,horror,동물,3,0.15
+upstage/solar-mini4,ko,vampire,흡혈박쥐,3,0.15
+upstage/solar-mini4,ko,roosting,매달리다,3,0.15
+upstage/solar-mini4,ko,carnivore,작은 동물,3,0.15
+upstage/solar-mini4,ko,chiroptera,박쥐목,3,0.15
+upstage/solar-mini4,ko,habitat,곳,3,0.15
+upstage/solar-mini4,ko,reproduction,새끼,2,0.1
+upstage/solar-mini4,ko,vampire bat,흡혈박쥐,2,0.1
+upstage/solar-mini4,ko,disease vector,숙주,2,0.1
+upstage/solar-mini4,ko,social,군집 생활,2,0.1
+upstage/solar-mini4,ko,foraging,찾다,1,0.05
+upstage/solar-mini4,ko,mythology,문화적 상징,1,0.05
+upstage/solar-mini4,ko,beneficial,유익한 역할,1,0.05
+upstage/solar-mini4,ko,navigation,찾다,1,0.05
+upstage/solar-mini4,ko,longevity,수명,1,0.05
+upstage/solar-mini4,ko,size,작은박쥐류,1,0.05
+upstage/solar-mini4,ko,activity,활동하다,1,0.05
+upstage/solar-mini4,ko,harmless,아니고,1,0.05
+upstage/solar-mini4,ko,grooming,위생 관리,1,0.05
+upstage/solar-mini4,ko,biodiversity,종류,1,0.05
+upstage/solar-mini4,ko,adaptation,적응하다,1,0.05
+upstage/solar-mini4,ko,pest,해충,1,0.05
+upstage/solar-mini4,ko,fur,털이 있고,1,0.05
+upstage/solar-mini4,ko,animal,동물,1,0.05
+upstage/solar-mini4,ko,conservation,보호 대상,1,0.05
+upstage/solar-mini4,ko,parental care,새끼를 젖 먹여 키움,1,0.05
+upstage/solar-mini4,zh,echolocation,回声定位,19,0.95
+upstage/solar-mini4,zh,mammal,哺乳动物,18,0.9
+upstage/solar-mini4,zh,flight,会飞,17,0.85
+upstage/solar-mini4,zh,insectivore,吃昆虫,17,0.85
+upstage/solar-mini4,zh,wing membrane,翼膜,14,0.7
+upstage/solar-mini4,zh,frugivore,吃水果,14,0.7
+upstage/solar-mini4,zh,ultrasound,发出超声波,13,0.65
+upstage/solar-mini4,zh,flying mammal,唯一能够真正飞行的哺乳动物,13,0.65
+upstage/solar-mini4,zh,diet,食性多样,12,0.6
+upstage/solar-mini4,zh,chiroptera,翼手目,11,0.55
+upstage/solar-mini4,zh,carnivore,吃鱼,11,0.55
+upstage/solar-mini4,zh,sanguivore,吸血,11,0.55
+upstage/solar-mini4,zh,wings,翅膀,9,0.45
+upstage/solar-mini4,zh,navigation,导航,8,0.4
+upstage/solar-mini4,zh,nocturnal,夜行性,8,0.4
+upstage/solar-mini4,zh,hunting,捕食,7,0.35
+upstage/solar-mini4,zh,viviparous,胎生,6,0.3
+upstage/solar-mini4,zh,roosting,树洞,6,0.3
+upstage/solar-mini4,zh,habitat,分布,4,0.2
+upstage/solar-mini4,zh,nectarivore,花蜜,4,0.2
+upstage/solar-mini4,zh,vampire,吸血蝙蝠,4,0.2
+upstage/solar-mini4,zh,nectar,花蜜,3,0.15
+upstage/solar-mini4,zh,fruit,水果,3,0.15
+upstage/solar-mini4,zh,cave,洞穴,3,0.15
+upstage/solar-mini4,zh,biodiversity,种类繁多,3,0.15
+upstage/solar-mini4,zh,taxonomy,翼手目,3,0.15
+upstage/solar-mini4,zh,pest control,控制害虫,3,0.15
+upstage/solar-mini4,zh,ecology,生态作用大,3,0.15
+upstage/solar-mini4,zh,respiration,用肺呼吸,2,0.1
+upstage/solar-mini4,zh,senses,嗅觉,2,0.1
+upstage/solar-mini4,zh,fur,毛发,2,0.1
+upstage/solar-mini4,zh,vampire bat,吸血蝙蝠,2,0.1
+upstage/solar-mini4,zh,pollination,传粉,2,0.1
+upstage/solar-mini4,zh,seed dispersal,种子传播者,2,0.1
+upstage/solar-mini4,zh,metabolism,储存胆固醇,1,0.05
+upstage/solar-mini4,zh,vision,视觉,1,0.05
+upstage/solar-mini4,zh,harmless,多数不危险,1,0.05

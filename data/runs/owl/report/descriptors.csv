@@ -1,0 +1,1148 @@
+model,lang,concept,top_native_lemma,responses,share_of_subject_sense
+anthropic/claude-haiku-4.5,en,hunting,hunting,19,0.95
+anthropic/claude-haiku-4.5,en,vision,large,19,0.95
+anthropic/claude-haiku-4.5,en,beak,beak,18,0.9
+anthropic/claude-haiku-4.5,en,wisdom,wisdom,18,0.9
+anthropic/claude-haiku-4.5,en,bird of prey,bird,17,0.85
+anthropic/claude-haiku-4.5,en,talons,sharp talons,17,0.85
+anthropic/claude-haiku-4.5,en,nocturnal,nocturnal,17,0.85
+anthropic/claude-haiku-4.5,en,feathers,specialized feathers,16,0.8
+anthropic/claude-haiku-4.5,en,head rotation,rotate,16,0.8
+anthropic/claude-haiku-4.5,en,silent flight,silent flight,14,0.7
+anthropic/claude-haiku-4.5,en,hearing,hearing,10,0.5
+anthropic/claude-haiku-4.5,en,distribution,found,10,0.5
+anthropic/claude-haiku-4.5,en,night vision,exceptional,10,0.5
+anthropic/claude-haiku-4.5,en,mystery,mystery,6,0.3
+anthropic/claude-haiku-4.5,en,carnivore,carnivorous,6,0.3
+anthropic/claude-haiku-4.5,en,prey,small,5,0.25
+anthropic/claude-haiku-4.5,en,flight,silent,5,0.25
+anthropic/claude-haiku-4.5,en,symbolism,symbol,5,0.25
+anthropic/claude-haiku-4.5,en,characteristics,transition,4,0.2
+anthropic/claude-haiku-4.5,en,stealth,stealth,3,0.15
+anthropic/claude-haiku-4.5,en,behavior,active,3,0.15
+anthropic/claude-haiku-4.5,en,facial disc,flat,3,0.15
+anthropic/claude-haiku-4.5,en,species,barn owl,3,0.15
+anthropic/claude-haiku-4.5,en,mythology,folklore,3,0.15
+anthropic/claude-haiku-4.5,en,predator,predator,2,0.1
+anthropic/claude-haiku-4.5,en,binocular vision,binocular vision,2,0.1
+anthropic/claude-haiku-4.5,en,call,distinctive,2,0.1
+anthropic/claude-haiku-4.5,en,keen senses,super,1,0.05
+anthropic/claude-haiku-4.5,en,neck rotation,flexible,1,0.05
+anthropic/claude-haiku-4.5,en,bird,bird,1,0.05
+anthropic/claude-haiku-4.5,en,camouflage,plumage,1,0.05
+anthropic/claude-haiku-4.5,en,large head,rounded,1,0.05
+anthropic/claude-haiku-4.5,en,observant,watching,1,0.05
+anthropic/claude-haiku-4.5,en,soft feathers,muffle,1,0.05
+anthropic/claude-haiku-4.5,en,crepuscular,active,1,0.05
+anthropic/claude-haiku-4.5,en,forward-facing eyes,forward-facing,1,0.05
+anthropic/claude-haiku-4.5,en,size,large,1,0.05
+anthropic/claude-haiku-4.5,ja,neck rotation,回る,18,0.9
+anthropic/claude-haiku-4.5,ja,nocturnal,夜行性,17,0.85
+anthropic/claude-haiku-4.5,ja,silent flight,飛ぶ,14,0.7
+anthropic/claude-haiku-4.5,ja,large eyes,大きな目,13,0.65
+anthropic/claude-haiku-4.5,ja,hearing,聴力,11,0.55
+anthropic/claude-haiku-4.5,ja,hunting,狩る,10,0.5
+anthropic/claude-haiku-4.5,ja,vision,視力,8,0.4
+anthropic/claude-haiku-4.5,ja,carnivore,肉食,8,0.4
+anthropic/claude-haiku-4.5,ja,bird,鳥,8,0.4
+anthropic/claude-haiku-4.5,ja,talons,鋭い,5,0.25
+anthropic/claude-haiku-4.5,ja,night vision,見える,5,0.25
+anthropic/claude-haiku-4.5,ja,forward-facing eyes,前方,5,0.25
+anthropic/claude-haiku-4.5,ja,prey,小鳥,5,0.25
+anthropic/claude-haiku-4.5,ja,facial disc,役割,4,0.2
+anthropic/claude-haiku-4.5,ja,rodents,ネズミ,4,0.2
+anthropic/claude-haiku-4.5,ja,insects,昆虫,4,0.2
+anthropic/claude-haiku-4.5,ja,keen senses,優れる,3,0.15
+anthropic/claude-haiku-4.5,ja,good fortune,不苦労,3,0.15
+anthropic/claude-haiku-4.5,ja,head rotation,回転,3,0.15
+anthropic/claude-haiku-4.5,ja,bird of prey,夜行性,3,0.15
+anthropic/claude-haiku-4.5,ja,distribution,生息,2,0.1
+anthropic/claude-haiku-4.5,ja,predator,捕食する,2,0.1
+anthropic/claude-haiku-4.5,ja,species,種類,2,0.1
+anthropic/claude-haiku-4.5,ja,call,鳴き声,1,0.05
+anthropic/claude-haiku-4.5,ja,size,大きい,1,0.05
+anthropic/claude-haiku-4.5,ja,wisdom,象徴,1,0.05
+anthropic/claude-haiku-4.5,ja,soft feathers,柔らかい,1,0.05
+anthropic/claude-haiku-4.5,ja,characteristics,特徴,1,0.05
+anthropic/claude-haiku-4.5,ja,binocular vision,立体視,1,0.05
+anthropic/claude-haiku-4.5,ja,feathers,構造,1,0.05
+anthropic/claude-haiku-4.5,ja,ear tufts,耳,1,0.05
+anthropic/claude-haiku-4.5,ja,pellet,吐き出す,1,0.05
+anthropic/claude-haiku-4.5,ko,bird of prey,맹금류,20,1.0
+anthropic/claude-haiku-4.5,ko,large eyes,큰 눈,19,0.95
+anthropic/claude-haiku-4.5,ko,silent flight,비행,14,0.7
+anthropic/claude-haiku-4.5,ko,neck rotation,회전 가능한 목,14,0.7
+anthropic/claude-haiku-4.5,ko,hunting,사냥하다,14,0.7
+anthropic/claude-haiku-4.5,ko,nocturnal,야행성,14,0.7
+anthropic/claude-haiku-4.5,ko,night vision,야간 시력,13,0.65
+anthropic/claude-haiku-4.5,ko,hearing,청각,10,0.5
+anthropic/claude-haiku-4.5,ko,facial disc,얼굴,7,0.35
+anthropic/claude-haiku-4.5,ko,head rotation,돌리다,6,0.3
+anthropic/claude-haiku-4.5,ko,vision,시력,6,0.3
+anthropic/claude-haiku-4.5,ko,bird,새,5,0.25
+anthropic/claude-haiku-4.5,ko,call,울음소리,4,0.2
+anthropic/claude-haiku-4.5,ko,predator,조종사,3,0.15
+anthropic/claude-haiku-4.5,ko,stealth,접근하다,3,0.15
+anthropic/claude-haiku-4.5,ko,talons,날카로운 발톱,2,0.1
+anthropic/claude-haiku-4.5,ko,ear tufts,깃털,2,0.1
+anthropic/claude-haiku-4.5,ko,auditory localization,파악하다,2,0.1
+anthropic/claude-haiku-4.5,ko,prey,먹이,2,0.1
+anthropic/claude-haiku-4.5,ko,binocular vision,깊이 감각,2,0.1
+anthropic/claude-haiku-4.5,ko,behavior,습성,2,0.1
+anthropic/claude-haiku-4.5,ko,keen senses,감각,1,0.05
+anthropic/claude-haiku-4.5,ko,wisdom,지혜,1,0.05
+anthropic/claude-haiku-4.5,ko,characteristics,특징,1,0.05
+anthropic/claude-haiku-4.5,ko,forward-facing eyes,정면을 향한 큰 눈,1,0.05
+anthropic/claude-haiku-4.5,ko,speed,매우 빠,1,0.05
+anthropic/claude-haiku-4.5,ko,rodents,쥐,1,0.05
+anthropic/claude-haiku-4.5,ko,feeding,"설치류(쥐 등), 작은 새, 곤충 등을 잡아먹",1,0.05
+anthropic/claude-haiku-4.5,ko,carnivore,육식성,1,0.05
+anthropic/claude-haiku-4.5,ko,habitat,서식지,1,0.05
+anthropic/claude-haiku-4.5,ko,species,종류,1,0.05
+anthropic/claude-haiku-4.5,ko,distribution,분포하다,1,0.05
+anthropic/claude-haiku-4.5,zh,bird of prey,猛禽,17,0.85
+anthropic/claude-haiku-4.5,zh,large eyes,大眼睛,15,0.75
+anthropic/claude-haiku-4.5,zh,nocturnal,夜行性,14,0.7
+anthropic/claude-haiku-4.5,zh,bird,鸟类,12,0.6
+anthropic/claude-haiku-4.5,zh,vision,眼睛,11,0.55
+anthropic/claude-haiku-4.5,zh,hearing,听觉,10,0.5
+anthropic/claude-haiku-4.5,zh,night vision,夜视能力,8,0.4
+anthropic/claude-haiku-4.5,zh,head rotation,头部灵活,8,0.4
+anthropic/claude-haiku-4.5,zh,ear tufts,耳羽,7,0.35
+anthropic/claude-haiku-4.5,zh,facial disc,面盘,6,0.3
+anthropic/claude-haiku-4.5,zh,hunting,捕猎,6,0.3
+anthropic/claude-haiku-4.5,zh,forward-facing eyes,眼睛朝前,6,0.3
+anthropic/claude-haiku-4.5,zh,large head,头大,5,0.25
+anthropic/claude-haiku-4.5,zh,carnivore,肉食性,4,0.2
+anthropic/claude-haiku-4.5,zh,predator,捕食,4,0.2
+anthropic/claude-haiku-4.5,zh,silent flight,无声飞行,4,0.2
+anthropic/claude-haiku-4.5,zh,distribution,分布,3,0.15
+anthropic/claude-haiku-4.5,zh,species,雕鸮,3,0.15
+anthropic/claude-haiku-4.5,zh,talons,锋利的爪子,3,0.15
+anthropic/claude-haiku-4.5,zh,strigiformes,鸮形目,3,0.15
+anthropic/claude-haiku-4.5,zh,neck rotation,灵活,3,0.15
+anthropic/claude-haiku-4.5,zh,keen senses,敏锐,2,0.1
+anthropic/claude-haiku-4.5,zh,prey,小型哺乳动物,2,0.1
+anthropic/claude-haiku-4.5,zh,insects,昆虫,2,0.1
+anthropic/claude-haiku-4.5,zh,roosting,白天休息,2,0.1
+anthropic/claude-haiku-4.5,zh,soft feathers,柔软,2,0.1
+anthropic/claude-haiku-4.5,zh,flight,宽大的翼,2,0.1
+anthropic/claude-haiku-4.5,zh,auditory localization,听觉定位,1,0.05
+anthropic/claude-haiku-4.5,zh,rodents,鼠类,1,0.05
+anthropic/claude-haiku-4.5,zh,size,大,1,0.05
+anthropic/claude-haiku-4.5,zh,beak,喙,1,0.05
+anthropic/claude-haiku-4.5,zh,superior,重要,1,0.05
+anthropic/claude-haiku-4.5,zh,stealth,悄悄地接近猎物,1,0.05
+anthropic/claude-haiku-4.5,zh,behavior,活动,1,0.05
+anthropic/claude-haiku-4.5,zh,feathers,羽毛,1,0.05
+anthropic/claude-haiku-4.5,zh,anatomy,哑铃状,1,0.05
+anthropic/claude-haiku-4.5,zh,adaptation,很多特殊的适应能力,1,0.05
+deepseek/deepseek-v4.1-flash,en,wisdom,wisdom,18,0.9
+deepseek/deepseek-v4.1-flash,en,bird of prey,bird,12,0.6
+deepseek/deepseek-v4.1-flash,en,nocturnal,nocturnal,9,0.45
+deepseek/deepseek-v4.1-flash,en,vision,large,8,0.4
+deepseek/deepseek-v4.1-flash,en,bird,bird,8,0.4
+deepseek/deepseek-v4.1-flash,en,symbolism,symbol,7,0.35
+deepseek/deepseek-v4.1-flash,en,head rotation,rotate,7,0.35
+deepseek/deepseek-v4.1-flash,en,large eyes,large,6,0.3
+deepseek/deepseek-v4.1-flash,en,characteristics,transition,5,0.25
+deepseek/deepseek-v4.1-flash,en,silent flight,silent flight,5,0.25
+deepseek/deepseek-v4.1-flash,en,omen,omen,4,0.2
+deepseek/deepseek-v4.1-flash,en,death,death,4,0.2
+deepseek/deepseek-v4.1-flash,en,facial disc,flat,4,0.2
+deepseek/deepseek-v4.1-flash,en,behavior,active,3,0.15
+deepseek/deepseek-v4.1-flash,en,talons,sharp talons,3,0.15
+deepseek/deepseek-v4.1-flash,en,species,barn owl,3,0.15
+deepseek/deepseek-v4.1-flash,en,hearing,hearing,3,0.15
+deepseek/deepseek-v4.1-flash,en,mystery,mystery,3,0.15
+deepseek/deepseek-v4.1-flash,en,night vision,exceptional,2,0.1
+deepseek/deepseek-v4.1-flash,en,mythology,folklore,2,0.1
+deepseek/deepseek-v4.1-flash,en,flight,silent,2,0.1
+deepseek/deepseek-v4.1-flash,en,carnivore,carnivorous,2,0.1
+deepseek/deepseek-v4.1-flash,en,call,distinctive,2,0.1
+deepseek/deepseek-v4.1-flash,en,friend,pompous friend,1,0.05
+deepseek/deepseek-v4.1-flash,en,pop culture,a funny meme format,1,0.05
+deepseek/deepseek-v4.1-flash,en,feathers,specialized feathers,1,0.05
+deepseek/deepseek-v4.1-flash,en,hunting,hunting,1,0.05
+deepseek/deepseek-v4.1-flash,en,predator,predator,1,0.05
+deepseek/deepseek-v4.1-flash,en,beak,beak,1,0.05
+deepseek/deepseek-v4.1-flash,en,observant,watching,1,0.05
+deepseek/deepseek-v4.1-flash,en,size,large,1,0.05
+deepseek/deepseek-v4.1-flash,en,posture,upright,1,0.05
+deepseek/deepseek-v4.1-flash,en,strigiformes,strigiformes,1,0.05
+deepseek/deepseek-v4.1-flash,en,large head,rounded,1,0.05
+deepseek/deepseek-v4.1-flash,en,forgetful,forgetful,1,0.05
+deepseek/deepseek-v4.1-flash,en,pompous,pompous,1,0.05
+deepseek/deepseek-v4.1-flash,en,soft feathers,muffle,1,0.05
+deepseek/deepseek-v4.1-flash,en,forward-facing eyes,forward-facing,1,0.05
+deepseek/deepseek-v4.1-flash,ja,nocturnal,夜行性,16,0.8
+deepseek/deepseek-v4.1-flash,ja,neck rotation,回る,15,0.75
+deepseek/deepseek-v4.1-flash,ja,wisdom,象徴,9,0.45
+deepseek/deepseek-v4.1-flash,ja,good fortune,不苦労,5,0.25
+deepseek/deepseek-v4.1-flash,ja,carnivore,肉食,3,0.15
+deepseek/deepseek-v4.1-flash,ja,bird of prey,夜行性,2,0.1
+deepseek/deepseek-v4.1-flash,ja,pet,飼われる,2,0.1
+deepseek/deepseek-v4.1-flash,ja,flight,飛行,1,0.05
+deepseek/deepseek-v4.1-flash,ja,attractive,かわいいです,1,0.05
+deepseek/deepseek-v4.1-flash,ja,symbolism,使い,1,0.05
+deepseek/deepseek-v4.1-flash,ja,distribution,生息,1,0.05
+deepseek/deepseek-v4.1-flash,ja,species,種類,1,0.05
+deepseek/deepseek-v4.1-flash,ja,ecology,生態,1,0.05
+deepseek/deepseek-v4.1-flash,ja,habitat,生息,1,0.05
+deepseek/deepseek-v4.1-flash,ja,hunting,狩る,1,0.05
+deepseek/deepseek-v4.1-flash,ja,bird,鳥,1,0.05
+deepseek/deepseek-v4.1-flash,ko,nocturnal,야행성,15,0.882
+deepseek/deepseek-v4.1-flash,ko,bird of prey,맹금류,9,0.529
+deepseek/deepseek-v4.1-flash,ko,ear tufts,깃털,8,0.471
+deepseek/deepseek-v4.1-flash,ko,bird,새,7,0.412
+deepseek/deepseek-v4.1-flash,ko,silent flight,비행,5,0.294
+deepseek/deepseek-v4.1-flash,ko,vision,시력,5,0.294
+deepseek/deepseek-v4.1-flash,ko,hearing,청각,5,0.294
+deepseek/deepseek-v4.1-flash,ko,hunting,사냥하다,4,0.235
+deepseek/deepseek-v4.1-flash,ko,strigiformes,올빼미과,4,0.235
+deepseek/deepseek-v4.1-flash,ko,neck rotation,회전 가능한 목,3,0.176
+deepseek/deepseek-v4.1-flash,ko,omen,징조,3,0.176
+deepseek/deepseek-v4.1-flash,ko,rodents,쥐,3,0.176
+deepseek/deepseek-v4.1-flash,ko,wisdom,지혜,3,0.176
+deepseek/deepseek-v4.1-flash,ko,head rotation,돌리다,3,0.176
+deepseek/deepseek-v4.1-flash,ko,large eyes,큰 눈,3,0.176
+deepseek/deepseek-v4.1-flash,ko,keen senses,감각,2,0.118
+deepseek/deepseek-v4.1-flash,ko,insects,곤충,2,0.118
+deepseek/deepseek-v4.1-flash,ko,species,종류,2,0.118
+deepseek/deepseek-v4.1-flash,ko,talons,날카로운 발톱,1,0.059
+deepseek/deepseek-v4.1-flash,ko,feathers,깃털,1,0.059
+deepseek/deepseek-v4.1-flash,ko,call,울음소리,1,0.059
+deepseek/deepseek-v4.1-flash,ko,facial disc,얼굴,1,0.059
+deepseek/deepseek-v4.1-flash,ko,symbolism,상징,1,0.059
+deepseek/deepseek-v4.1-flash,ko,night vision,야간 시력,1,0.059
+deepseek/deepseek-v4.1-flash,ko,ecology,생태,1,0.059
+deepseek/deepseek-v4.1-flash,ko,natural monument,천연기념물,1,0.059
+deepseek/deepseek-v4.1-flash,ko,forward-facing eyes,정면을 향한 큰 눈,1,0.059
+deepseek/deepseek-v4.1-flash,ko,mythology,전설,1,0.059
+deepseek/deepseek-v4.1-flash,ko,prey,먹이,1,0.059
+deepseek/deepseek-v4.1-flash,ko,stealth,접근하다,1,0.059
+deepseek/deepseek-v4.1-flash,ko,mystery,신비로운 존재,1,0.059
+deepseek/deepseek-v4.1-flash,zh,nocturnal,夜行性,16,0.8
+deepseek/deepseek-v4.1-flash,zh,wisdom,智慧,14,0.7
+deepseek/deepseek-v4.1-flash,zh,bird,鸟类,14,0.7
+deepseek/deepseek-v4.1-flash,zh,bird of prey,猛禽,11,0.55
+deepseek/deepseek-v4.1-flash,zh,facial disc,面盘,10,0.5
+deepseek/deepseek-v4.1-flash,zh,omen,不祥之鸟,10,0.5
+deepseek/deepseek-v4.1-flash,zh,silent flight,无声飞行,9,0.45
+deepseek/deepseek-v4.1-flash,zh,beneficial bird,益鸟,7,0.35
+deepseek/deepseek-v4.1-flash,zh,strigiformes,鸮形目,7,0.35
+deepseek/deepseek-v4.1-flash,zh,hunting,捕猎,7,0.35
+deepseek/deepseek-v4.1-flash,zh,beak,喙,7,0.35
+deepseek/deepseek-v4.1-flash,zh,carnivore,肉食性,6,0.3
+deepseek/deepseek-v4.1-flash,zh,large eyes,大眼睛,6,0.3
+deepseek/deepseek-v4.1-flash,zh,pest control,捕鼠能手,6,0.3
+deepseek/deepseek-v4.1-flash,zh,hearing,听觉,5,0.25
+deepseek/deepseek-v4.1-flash,zh,head rotation,头部灵活,5,0.25
+deepseek/deepseek-v4.1-flash,zh,keen senses,敏锐,4,0.2
+deepseek/deepseek-v4.1-flash,zh,talons,锋利的爪子,4,0.2
+deepseek/deepseek-v4.1-flash,zh,vision,眼睛,3,0.15
+deepseek/deepseek-v4.1-flash,zh,neck rotation,灵活,2,0.1
+deepseek/deepseek-v4.1-flash,zh,forward-facing eyes,眼睛朝前,2,0.1
+deepseek/deepseek-v4.1-flash,zh,soft feathers,柔软,2,0.1
+deepseek/deepseek-v4.1-flash,zh,mystery,神秘,2,0.1
+deepseek/deepseek-v4.1-flash,zh,predator,捕食,1,0.05
+deepseek/deepseek-v4.1-flash,zh,characteristics,独特,1,0.05
+deepseek/deepseek-v4.1-flash,zh,pop culture,著名,1,0.05
+deepseek/deepseek-v4.1-flash,zh,guardian,农林卫士,1,0.05
+deepseek/deepseek-v4.1-flash,zh,rodents,鼠类,1,0.05
+deepseek/deepseek-v4.1-flash,zh,feathers,羽毛,1,0.05
+deepseek/deepseek-v4.1-flash,zh,binocular vision,立体视觉,1,0.05
+deepseek/deepseek-v4.1-flash,zh,large head,头大,1,0.05
+deepseek/deepseek-v4.1-flash,zh,stealth,悄悄地接近猎物,1,0.05
+deepseek/deepseek-v4.1-flash,zh,feeding,撕裂猎物,1,0.05
+deepseek/deepseek-v4.1-flash,zh,fixed eyes,眼睛不能转动,1,0.05
+deepseek/deepseek-v4.1-flash,zh,symbolism,信使,1,0.05
+deepseek/deepseek-v4.1-flash,zh,mythology,智慧女神雅典娜的随从,1,0.05
+deepseek/deepseek-v4.1-flash,zh,auditory localization,听觉定位,1,0.05
+google/gemini-3.5-flash-lite,en,silent flight,silent flight,20,1.0
+google/gemini-3.5-flash-lite,en,bird of prey,bird,20,1.0
+google/gemini-3.5-flash-lite,en,wisdom,wisdom,20,1.0
+google/gemini-3.5-flash-lite,en,nocturnal,nocturnal,19,0.95
+google/gemini-3.5-flash-lite,en,omen,omen,18,0.9
+google/gemini-3.5-flash-lite,en,hearing,hearing,17,0.85
+google/gemini-3.5-flash-lite,en,keen senses,super,12,0.6
+google/gemini-3.5-flash-lite,en,carnivore,carnivorous,12,0.6
+google/gemini-3.5-flash-lite,en,hunting,hunting,12,0.6
+google/gemini-3.5-flash-lite,en,vision,large,11,0.55
+google/gemini-3.5-flash-lite,en,mystery,mystery,11,0.55
+google/gemini-3.5-flash-lite,en,head rotation,rotate,11,0.55
+google/gemini-3.5-flash-lite,en,death,death,10,0.5
+google/gemini-3.5-flash-lite,en,night vision,exceptional,10,0.5
+google/gemini-3.5-flash-lite,en,characteristics,transition,8,0.4
+google/gemini-3.5-flash-lite,en,neck rotation,flexible,6,0.3
+google/gemini-3.5-flash-lite,en,predator,predator,5,0.25
+google/gemini-3.5-flash-lite,en,mythology,folklore,5,0.25
+google/gemini-3.5-flash-lite,en,facial disc,flat,5,0.25
+google/gemini-3.5-flash-lite,en,magic,magic,3,0.15
+google/gemini-3.5-flash-lite,en,symbolism,symbol,3,0.15
+google/gemini-3.5-flash-lite,en,behavior,active,3,0.15
+google/gemini-3.5-flash-lite,en,beak,beak,3,0.15
+google/gemini-3.5-flash-lite,en,talons,sharp talons,3,0.15
+google/gemini-3.5-flash-lite,en,distribution,found,2,0.1
+google/gemini-3.5-flash-lite,en,flight,silent,2,0.1
+google/gemini-3.5-flash-lite,en,soft feathers,muffle,2,0.1
+google/gemini-3.5-flash-lite,en,binocular vision,binocular vision,1,0.05
+google/gemini-3.5-flash-lite,en,education,education,1,0.05
+google/gemini-3.5-flash-lite,en,habitat,forests,1,0.05
+google/gemini-3.5-flash-lite,en,insects,insects,1,0.05
+google/gemini-3.5-flash-lite,en,pellet,regurgitate,1,0.05
+google/gemini-3.5-flash-lite,en,prey,small,1,0.05
+google/gemini-3.5-flash-lite,en,bird,bird,1,0.05
+google/gemini-3.5-flash-lite,en,stealth,stealth,1,0.05
+google/gemini-3.5-flash-lite,en,group,parliament,1,0.05
+google/gemini-3.5-flash-lite,en,feathers,specialized feathers,1,0.05
+google/gemini-3.5-flash-lite,en,large eyes,large,1,0.05
+google/gemini-3.5-flash-lite,en,forward-facing eyes,forward-facing,1,0.05
+google/gemini-3.5-flash-lite,en,fixed eyes,fixed in their socket,1,0.05
+google/gemini-3.5-flash-lite,ja,good fortune,不苦労,20,1.0
+google/gemini-3.5-flash-lite,ja,silent flight,飛ぶ,19,0.95
+google/gemini-3.5-flash-lite,ja,wisdom,象徴,18,0.9
+google/gemini-3.5-flash-lite,ja,neck rotation,回る,16,0.8
+google/gemini-3.5-flash-lite,ja,keen senses,優れる,13,0.65
+google/gemini-3.5-flash-lite,ja,bird of prey,夜行性,13,0.65
+google/gemini-3.5-flash-lite,ja,hunting,狩る,11,0.55
+google/gemini-3.5-flash-lite,ja,habitat,生息,11,0.55
+google/gemini-3.5-flash-lite,ja,pet,飼われる,9,0.45
+google/gemini-3.5-flash-lite,ja,hearing,聴力,9,0.45
+google/gemini-3.5-flash-lite,ja,fixed eyes,動かない,9,0.45
+google/gemini-3.5-flash-lite,ja,facial disc,役割,8,0.4
+google/gemini-3.5-flash-lite,ja,soft feathers,柔らかい,8,0.4
+google/gemini-3.5-flash-lite,ja,behavior,人懐っこい,7,0.35
+google/gemini-3.5-flash-lite,ja,large eyes,大きな目,5,0.25
+google/gemini-3.5-flash-lite,ja,nocturnal,夜行性,5,0.25
+google/gemini-3.5-flash-lite,ja,carnivore,肉食,4,0.2
+google/gemini-3.5-flash-lite,ja,stealth,近づく,4,0.2
+google/gemini-3.5-flash-lite,ja,vision,視力,4,0.2
+google/gemini-3.5-flash-lite,ja,characteristics,特徴,4,0.2
+google/gemini-3.5-flash-lite,ja,guardian,守り,2,0.1
+google/gemini-3.5-flash-lite,ja,pest control,減らす,2,0.1
+google/gemini-3.5-flash-lite,ja,beneficial bird,益鳥,2,0.1
+google/gemini-3.5-flash-lite,ja,distribution,生息,2,0.1
+google/gemini-3.5-flash-lite,ja,auditory localization,捉えやすい,2,0.1
+google/gemini-3.5-flash-lite,ja,ear tufts,耳,1,0.05
+google/gemini-3.5-flash-lite,ja,insects,昆虫,1,0.05
+google/gemini-3.5-flash-lite,ja,rodents,ネズミ,1,0.05
+google/gemini-3.5-flash-lite,ja,head rotation,回転,1,0.05
+google/gemini-3.5-flash-lite,ja,feathers,構造,1,0.05
+google/gemini-3.5-flash-lite,ja,observant,知的,1,0.05
+google/gemini-3.5-flash-lite,ja,size,大きい,1,0.05
+google/gemini-3.5-flash-lite,ja,pellet,吐き出す,1,0.05
+google/gemini-3.5-flash-lite,ja,education,学問,1,0.05
+google/gemini-3.5-flash-lite,ja,night vision,見える,1,0.05
+google/gemini-3.5-flash-lite,ja,species,種類,1,0.05
+google/gemini-3.5-flash-lite,ja,mythology,使い,1,0.05
+google/gemini-3.5-flash-lite,ko,ear tufts,깃털,19,0.95
+google/gemini-3.5-flash-lite,ko,wisdom,지혜,19,0.95
+google/gemini-3.5-flash-lite,ko,silent flight,비행,18,0.9
+google/gemini-3.5-flash-lite,ko,good fortune,길조,17,0.85
+google/gemini-3.5-flash-lite,ko,hearing,청각,16,0.8
+google/gemini-3.5-flash-lite,ko,predator,조종사,15,0.75
+google/gemini-3.5-flash-lite,ko,neck rotation,회전 가능한 목,15,0.75
+google/gemini-3.5-flash-lite,ko,wealth,재물,14,0.7
+google/gemini-3.5-flash-lite,ko,hunting,사냥하다,8,0.4
+google/gemini-3.5-flash-lite,ko,keen senses,감각,7,0.35
+google/gemini-3.5-flash-lite,ko,large eyes,큰 눈,7,0.35
+google/gemini-3.5-flash-lite,ko,stealth,접근하다,6,0.3
+google/gemini-3.5-flash-lite,ko,night vision,야간 시력,6,0.3
+google/gemini-3.5-flash-lite,ko,vision,시력,6,0.3
+google/gemini-3.5-flash-lite,ko,head rotation,돌리다,5,0.25
+google/gemini-3.5-flash-lite,ko,bird,새,5,0.25
+google/gemini-3.5-flash-lite,ko,characteristics,특징,4,0.2
+google/gemini-3.5-flash-lite,ko,bird of prey,맹금류,4,0.2
+google/gemini-3.5-flash-lite,ko,magic,영물,2,0.1
+google/gemini-3.5-flash-lite,ko,omen,징조,2,0.1
+google/gemini-3.5-flash-lite,ko,mythology,전설,2,0.1
+google/gemini-3.5-flash-lite,ko,facial disc,얼굴,2,0.1
+google/gemini-3.5-flash-lite,ko,flight,비행,2,0.1
+google/gemini-3.5-flash-lite,ko,auditory localization,파악하다,1,0.05
+google/gemini-3.5-flash-lite,ko,soft feathers,부드럽다,1,0.05
+google/gemini-3.5-flash-lite,ko,mystery,신비로운 존재,1,0.05
+google/gemini-3.5-flash-lite,ko,ecology,생태,1,0.05
+google/gemini-3.5-flash-lite,ko,call,울음소리,1,0.05
+google/gemini-3.5-flash-lite,ko,talons,날카로운 발톱,1,0.05
+google/gemini-3.5-flash-lite,ko,symbolism,상징,1,0.05
+google/gemini-3.5-flash-lite,ko,feathers,깃털,1,0.05
+google/gemini-3.5-flash-lite,ko,fixed eyes,고정되다,1,0.05
+google/gemini-3.5-flash-lite,zh,wisdom,智慧,20,1.0
+google/gemini-3.5-flash-lite,zh,omen,不祥之鸟,20,1.0
+google/gemini-3.5-flash-lite,zh,nocturnal,夜行性,18,0.9
+google/gemini-3.5-flash-lite,zh,strigiformes,鸮形目,18,0.9
+google/gemini-3.5-flash-lite,zh,beneficial bird,益鸟,17,0.85
+google/gemini-3.5-flash-lite,zh,hearing,听觉,17,0.85
+google/gemini-3.5-flash-lite,zh,silent flight,无声飞行,15,0.75
+google/gemini-3.5-flash-lite,zh,bird of prey,猛禽,15,0.75
+google/gemini-3.5-flash-lite,zh,binocular vision,立体视觉,14,0.7
+google/gemini-3.5-flash-lite,zh,head rotation,头部灵活,12,0.6
+google/gemini-3.5-flash-lite,zh,facial disc,面盘,12,0.6
+google/gemini-3.5-flash-lite,zh,bird,鸟类,11,0.55
+google/gemini-3.5-flash-lite,zh,pest control,捕鼠能手,10,0.5
+google/gemini-3.5-flash-lite,zh,predator,捕食,9,0.45
+google/gemini-3.5-flash-lite,zh,carnivore,肉食性,8,0.4
+google/gemini-3.5-flash-lite,zh,soft feathers,柔软,8,0.4
+google/gemini-3.5-flash-lite,zh,mythology,智慧女神雅典娜的随从,8,0.4
+google/gemini-3.5-flash-lite,zh,neck rotation,灵活,7,0.35
+google/gemini-3.5-flash-lite,zh,hunting,捕猎,7,0.35
+google/gemini-3.5-flash-lite,zh,vision,眼睛,6,0.3
+google/gemini-3.5-flash-lite,zh,night vision,夜视能力,6,0.3
+google/gemini-3.5-flash-lite,zh,symbolism,信使,5,0.25
+google/gemini-3.5-flash-lite,zh,stealth,悄悄地接近猎物,5,0.25
+google/gemini-3.5-flash-lite,zh,forward-facing eyes,眼睛朝前,5,0.25
+google/gemini-3.5-flash-lite,zh,feathers,羽毛,4,0.2
+google/gemini-3.5-flash-lite,zh,prey,小型哺乳动物,3,0.15
+google/gemini-3.5-flash-lite,zh,talons,锋利的爪子,3,0.15
+google/gemini-3.5-flash-lite,zh,rodents,鼠类,3,0.15
+google/gemini-3.5-flash-lite,zh,keen senses,敏锐,2,0.1
+google/gemini-3.5-flash-lite,zh,ecology,生态系统,2,0.1
+google/gemini-3.5-flash-lite,zh,mystery,神秘,2,0.1
+google/gemini-3.5-flash-lite,zh,characteristics,独特,2,0.1
+google/gemini-3.5-flash-lite,zh,fixed eyes,眼睛不能转动,2,0.1
+google/gemini-3.5-flash-lite,zh,guardian,农林卫士,2,0.1
+google/gemini-3.5-flash-lite,zh,camouflage,保护色,2,0.1
+google/gemini-3.5-flash-lite,zh,beak,喙,2,0.1
+google/gemini-3.5-flash-lite,zh,insects,昆虫,2,0.1
+google/gemini-3.5-flash-lite,zh,afterlife,逐魂鸟,1,0.05
+google/gemini-3.5-flash-lite,zh,pop culture,著名,1,0.05
+google/gemini-3.5-flash-lite,zh,natural monument,国家二级及以上重点保护野生动物,1,0.05
+google/gemini-3.5-flash-lite,zh,behavior,活动,1,0.05
+google/gemini-3.5-flash-lite,zh,attractive,卖萌,1,0.05
+google/gemini-3.5-flash-lite,zh,death,死亡,1,0.05
+google/gemini-3.5-flash-lite,zh,friend,人类的好朋友,1,0.05
+google/gemini-3.5-flash-lite,zh,roosting,白天休息,1,0.05
+google/gemini-3.5-flash-lite,zh,pellet,食丸,1,0.05
+google/gemini-3.5-flash-lite,zh,large eyes,大眼睛,1,0.05
+meta-llama/llama-4-maverick,en,silent flight,silent flight,17,0.85
+meta-llama/llama-4-maverick,en,wisdom,wisdom,16,0.8
+meta-llama/llama-4-maverick,en,hunting,hunting,14,0.7
+meta-llama/llama-4-maverick,en,nocturnal,nocturnal,14,0.7
+meta-llama/llama-4-maverick,en,bird of prey,bird,13,0.65
+meta-llama/llama-4-maverick,en,hearing,hearing,13,0.65
+meta-llama/llama-4-maverick,en,vision,large,13,0.65
+meta-llama/llama-4-maverick,en,night vision,exceptional,8,0.4
+meta-llama/llama-4-maverick,en,mystery,mystery,7,0.35
+meta-llama/llama-4-maverick,en,talons,sharp talons,7,0.35
+meta-llama/llama-4-maverick,en,predator,predator,6,0.3
+meta-llama/llama-4-maverick,en,species,barn owl,6,0.3
+meta-llama/llama-4-maverick,en,large eyes,large,5,0.25
+meta-llama/llama-4-maverick,en,stealth,stealth,4,0.2
+meta-llama/llama-4-maverick,en,facial disc,flat,4,0.2
+meta-llama/llama-4-maverick,en,call,distinctive,4,0.2
+meta-llama/llama-4-maverick,en,feathers,specialized feathers,4,0.2
+meta-llama/llama-4-maverick,en,mythology,folklore,4,0.2
+meta-llama/llama-4-maverick,en,carnivore,carnivorous,3,0.15
+meta-llama/llama-4-maverick,en,soft feathers,muffle,3,0.15
+meta-llama/llama-4-maverick,en,bird,bird,3,0.15
+meta-llama/llama-4-maverick,en,neck rotation,flexible,2,0.1
+meta-llama/llama-4-maverick,en,habitat,forests,2,0.1
+meta-llama/llama-4-maverick,en,beak,beak,2,0.1
+meta-llama/llama-4-maverick,en,keen senses,super,1,0.05
+meta-llama/llama-4-maverick,en,observant,watching,1,0.05
+meta-llama/llama-4-maverick,en,fixed eyes,fixed in their socket,1,0.05
+meta-llama/llama-4-maverick,en,forward-facing eyes,forward-facing,1,0.05
+meta-llama/llama-4-maverick,en,size,large,1,0.05
+meta-llama/llama-4-maverick,en,pop culture,a funny meme format,1,0.05
+meta-llama/llama-4-maverick,en,symbolism,symbol,1,0.05
+meta-llama/llama-4-maverick,en,distribution,found,1,0.05
+meta-llama/llama-4-maverick,en,friend,pompous friend,1,0.05
+meta-llama/llama-4-maverick,en,anatomy,flexible neck vertebrae,1,0.05
+meta-llama/llama-4-maverick,en,darkness,dark,1,0.05
+meta-llama/llama-4-maverick,en,adaptation,unique blood vessel adaptations,1,0.05
+meta-llama/llama-4-maverick,en,flight,silent,1,0.05
+meta-llama/llama-4-maverick,en,prey,small,1,0.05
+meta-llama/llama-4-maverick,en,characteristics,transition,1,0.05
+meta-llama/llama-4-maverick,en,feeding,swallow,1,0.05
+meta-llama/llama-4-maverick,ja,nocturnal,夜行性,17,0.85
+meta-llama/llama-4-maverick,ja,predator,捕食する,15,0.75
+meta-llama/llama-4-maverick,ja,bird,鳥,14,0.7
+meta-llama/llama-4-maverick,ja,large eyes,大きな目,11,0.55
+meta-llama/llama-4-maverick,ja,silent flight,飛ぶ,11,0.55
+meta-llama/llama-4-maverick,ja,hearing,聴力,9,0.45
+meta-llama/llama-4-maverick,ja,hunting,狩る,9,0.45
+meta-llama/llama-4-maverick,ja,vision,視力,7,0.35
+meta-llama/llama-4-maverick,ja,beak,鋭いくちばし,6,0.3
+meta-llama/llama-4-maverick,ja,characteristics,特徴,6,0.3
+meta-llama/llama-4-maverick,ja,species,種類,4,0.2
+meta-llama/llama-4-maverick,ja,wisdom,象徴,4,0.2
+meta-llama/llama-4-maverick,ja,distribution,生息,4,0.2
+meta-llama/llama-4-maverick,ja,mystery,神秘,4,0.2
+meta-llama/llama-4-maverick,ja,neck rotation,回る,3,0.15
+meta-llama/llama-4-maverick,ja,stealth,近づく,3,0.15
+meta-llama/llama-4-maverick,ja,behavior,人懐っこい,3,0.15
+meta-llama/llama-4-maverick,ja,bird of prey,夜行性,2,0.1
+meta-llama/llama-4-maverick,ja,rodents,ネズミ,2,0.1
+meta-llama/llama-4-maverick,ja,carnivore,肉食,2,0.1
+meta-llama/llama-4-maverick,ja,habitat,生息,2,0.1
+meta-llama/llama-4-maverick,ja,symbolism,使い,2,0.1
+meta-llama/llama-4-maverick,ja,night vision,見える,1,0.05
+meta-llama/llama-4-maverick,ja,keen senses,優れる,1,0.05
+meta-llama/llama-4-maverick,ja,feathers,構造,1,0.05
+meta-llama/llama-4-maverick,ja,flight,飛行,1,0.05
+meta-llama/llama-4-maverick,ja,beneficial bird,益鳥,1,0.05
+meta-llama/llama-4-maverick,ja,soft feathers,柔らかい,1,0.05
+meta-llama/llama-4-maverick,ja,size,大きい,1,0.05
+meta-llama/llama-4-maverick,ja,mythology,使い,1,0.05
+meta-llama/llama-4-maverick,ja,binocular vision,立体視,1,0.05
+meta-llama/llama-4-maverick,ja,popular,人気,1,0.05
+meta-llama/llama-4-maverick,ja,facial disc,役割,1,0.05
+meta-llama/llama-4-maverick,ko,nocturnal,야행성,14,0.7
+meta-llama/llama-4-maverick,ko,bird,새,10,0.5
+meta-llama/llama-4-maverick,ko,size,크다,8,0.4
+meta-llama/llama-4-maverick,ko,ear tufts,깃털,7,0.35
+meta-llama/llama-4-maverick,ko,hunting,사냥하다,7,0.35
+meta-llama/llama-4-maverick,ko,vision,시력,6,0.3
+meta-llama/llama-4-maverick,ko,distribution,분포하다,6,0.3
+meta-llama/llama-4-maverick,ko,silent flight,비행,6,0.3
+meta-llama/llama-4-maverick,ko,hearing,청각,6,0.3
+meta-llama/llama-4-maverick,ko,neck rotation,회전 가능한 목,5,0.25
+meta-llama/llama-4-maverick,ko,habitat,서식지,5,0.25
+meta-llama/llama-4-maverick,ko,behavior,습성,5,0.25
+meta-llama/llama-4-maverick,ko,nesting,둥지,5,0.25
+meta-llama/llama-4-maverick,ko,night vision,야간 시력,4,0.2
+meta-llama/llama-4-maverick,ko,camouflage,회색,4,0.2
+meta-llama/llama-4-maverick,ko,soft feathers,부드럽다,4,0.2
+meta-llama/llama-4-maverick,ko,eggs,알,4,0.2
+meta-llama/llama-4-maverick,ko,attractive,매력적이다,4,0.2
+meta-llama/llama-4-maverick,ko,coloration,어둡다,4,0.2
+meta-llama/llama-4-maverick,ko,species,종류,3,0.15
+meta-llama/llama-4-maverick,ko,call,울음소리,3,0.15
+meta-llama/llama-4-maverick,ko,characteristics,특징,3,0.15
+meta-llama/llama-4-maverick,ko,predator,조종사,3,0.15
+meta-llama/llama-4-maverick,ko,carnivore,육식성,3,0.15
+meta-llama/llama-4-maverick,ko,talons,날카로운 발톱,3,0.15
+meta-llama/llama-4-maverick,ko,head rotation,돌리다,2,0.1
+meta-llama/llama-4-maverick,ko,stealth,접근하다,2,0.1
+meta-llama/llama-4-maverick,ko,bird of prey,맹금류,2,0.1
+meta-llama/llama-4-maverick,ko,facial disc,얼굴,2,0.1
+meta-llama/llama-4-maverick,ko,anatomy,둥글다,2,0.1
+meta-llama/llama-4-maverick,ko,prey,먹이,2,0.1
+meta-llama/llama-4-maverick,ko,tail,짧다,2,0.1
+meta-llama/llama-4-maverick,ko,identification,비슷하다,1,0.05
+meta-llama/llama-4-maverick,ko,feathers,깃털,1,0.05
+meta-llama/llama-4-maverick,ko,shy,다가오다,1,0.05
+meta-llama/llama-4-maverick,ko,gentle,온순하다,1,0.05
+meta-llama/llama-4-maverick,ko,adaptation,최소화하다,1,0.05
+meta-llama/llama-4-maverick,ko,wingspan,넓다,1,0.05
+meta-llama/llama-4-maverick,ko,symbolism,상징,1,0.05
+meta-llama/llama-4-maverick,ko,flight,비행,1,0.05
+meta-llama/llama-4-maverick,ko,large eyes,큰 눈,1,0.05
+meta-llama/llama-4-maverick,ko,large head,둥근 머리,1,0.05
+meta-llama/llama-4-maverick,ko,beak,부리,1,0.05
+meta-llama/llama-4-maverick,ko,forward-facing eyes,정면을 향한 큰 눈,1,0.05
+meta-llama/llama-4-maverick,ko,insects,곤충,1,0.05
+meta-llama/llama-4-maverick,ko,rodents,쥐,1,0.05
+meta-llama/llama-4-maverick,zh,nocturnal,夜行性,16,0.8
+meta-llama/llama-4-maverick,zh,hearing,听觉,6,0.3
+meta-llama/llama-4-maverick,zh,night vision,夜视能力,4,0.2
+meta-llama/llama-4-maverick,zh,head rotation,头部灵活,4,0.2
+meta-llama/llama-4-maverick,zh,bird of prey,猛禽,4,0.2
+meta-llama/llama-4-maverick,zh,facial disc,面盘,4,0.2
+meta-llama/llama-4-maverick,zh,hunting,捕猎,4,0.2
+meta-llama/llama-4-maverick,zh,large eyes,大眼睛,4,0.2
+meta-llama/llama-4-maverick,zh,characteristics,独特,3,0.15
+meta-llama/llama-4-maverick,zh,vision,眼睛,3,0.15
+meta-llama/llama-4-maverick,zh,silent flight,无声飞行,3,0.15
+meta-llama/llama-4-maverick,zh,strigiformes,鸮形目,2,0.1
+meta-llama/llama-4-maverick,zh,talons,锋利的爪子,2,0.1
+meta-llama/llama-4-maverick,zh,predator,捕食,2,0.1
+meta-llama/llama-4-maverick,zh,bird,鸟类,2,0.1
+meta-llama/llama-4-maverick,zh,neck rotation,灵活,2,0.1
+meta-llama/llama-4-maverick,zh,keen senses,敏锐,1,0.05
+meta-llama/llama-4-maverick,zh,size,大,1,0.05
+meta-llama/llama-4-maverick,zh,darkness,黑暗,1,0.05
+meta-llama/llama-4-maverick,zh,adaptation,很多特殊的适应能力,1,0.05
+meta-llama/llama-4-maverick,zh,beak,喙,1,0.05
+meta-llama/llama-4-maverick,zh,mystery,神秘,1,0.05
+meta-llama/llama-4-maverick,zh,superior,重要,1,0.05
+meta-llama/llama-4-maverick,zh,fixed eyes,眼睛不能转动,1,0.05
+meta-llama/llama-4-maverick,zh,stealth,悄悄地接近猎物,1,0.05
+meta-llama/llama-4-maverick,zh,feathers,羽毛,1,0.05
+meta-llama/llama-4-maverick,zh,flight,宽大的翼,1,0.05
+meta-llama/llama-4-maverick,zh,auditory localization,听觉定位,1,0.05
+mistralai/mistral-small-2603,en,bird of prey,bird,7,0.438
+mistralai/mistral-small-2603,en,nocturnal,nocturnal,5,0.312
+mistralai/mistral-small-2603,en,wisdom,wisdom,5,0.312
+mistralai/mistral-small-2603,en,mystery,mystery,4,0.25
+mistralai/mistral-small-2603,en,characteristics,transition,4,0.25
+mistralai/mistral-small-2603,en,silent flight,silent flight,4,0.25
+mistralai/mistral-small-2603,en,vision,large,4,0.25
+mistralai/mistral-small-2603,en,hunting,hunting,4,0.25
+mistralai/mistral-small-2603,en,talons,sharp talons,4,0.25
+mistralai/mistral-small-2603,en,bird,bird,3,0.188
+mistralai/mistral-small-2603,en,species,barn owl,3,0.188
+mistralai/mistral-small-2603,en,hearing,hearing,3,0.188
+mistralai/mistral-small-2603,en,symbolism,symbol,3,0.188
+mistralai/mistral-small-2603,en,flight,silent,3,0.188
+mistralai/mistral-small-2603,en,night vision,exceptional,3,0.188
+mistralai/mistral-small-2603,en,mythology,folklore,2,0.125
+mistralai/mistral-small-2603,en,death,death,2,0.125
+mistralai/mistral-small-2603,en,keen senses,super,2,0.125
+mistralai/mistral-small-2603,en,feathers,specialized feathers,2,0.125
+mistralai/mistral-small-2603,en,head rotation,rotate,2,0.125
+mistralai/mistral-small-2603,en,binocular vision,binocular vision,2,0.125
+mistralai/mistral-small-2603,en,ecology,biology,2,0.125
+mistralai/mistral-small-2603,en,omen,omen,2,0.125
+mistralai/mistral-small-2603,en,pop culture,a funny meme format,1,0.062
+mistralai/mistral-small-2603,en,afterlife,afterlife,1,0.062
+mistralai/mistral-small-2603,en,call,distinctive,1,0.062
+mistralai/mistral-small-2603,en,strigiformes,strigiformes,1,0.062
+mistralai/mistral-small-2603,en,fixed eyes,fixed in their socket,1,0.062
+mistralai/mistral-small-2603,en,behavior,active,1,0.062
+mistralai/mistral-small-2603,en,literature,creative writing,1,0.062
+mistralai/mistral-small-2603,en,identification,identify,1,0.062
+mistralai/mistral-small-2603,en,habitat,forests,1,0.062
+mistralai/mistral-small-2603,en,carnivore,carnivorous,1,0.062
+mistralai/mistral-small-2603,en,insects,insects,1,0.062
+mistralai/mistral-small-2603,en,large eyes,large,1,0.062
+mistralai/mistral-small-2603,en,prey,small,1,0.062
+mistralai/mistral-small-2603,en,nesting,nest,1,0.062
+mistralai/mistral-small-2603,en,crepuscular,active,1,0.062
+mistralai/mistral-small-2603,en,size,large,1,0.062
+mistralai/mistral-small-2603,en,stealth,stealth,1,0.062
+mistralai/mistral-small-2603,en,forward-facing eyes,forward-facing,1,0.062
+mistralai/mistral-small-2603,en,superior,perfect,1,0.062
+mistralai/mistral-small-2603,ja,silent flight,飛ぶ,15,0.789
+mistralai/mistral-small-2603,ja,nocturnal,夜行性,12,0.632
+mistralai/mistral-small-2603,ja,hearing,聴力,11,0.579
+mistralai/mistral-small-2603,ja,vision,視力,11,0.579
+mistralai/mistral-small-2603,ja,hunting,狩る,7,0.368
+mistralai/mistral-small-2603,ja,neck rotation,回る,6,0.316
+mistralai/mistral-small-2603,ja,bird of prey,夜行性,6,0.316
+mistralai/mistral-small-2603,ja,predator,捕食する,5,0.263
+mistralai/mistral-small-2603,ja,large eyes,大きな目,5,0.263
+mistralai/mistral-small-2603,ja,bird,鳥,5,0.263
+mistralai/mistral-small-2603,ja,wisdom,象徴,4,0.211
+mistralai/mistral-small-2603,ja,carnivore,肉食,4,0.211
+mistralai/mistral-small-2603,ja,keen senses,優れる,3,0.158
+mistralai/mistral-small-2603,ja,night vision,見える,3,0.158
+mistralai/mistral-small-2603,ja,stealth,近づく,3,0.158
+mistralai/mistral-small-2603,ja,facial disc,役割,3,0.158
+mistralai/mistral-small-2603,ja,soft feathers,柔らかい,3,0.158
+mistralai/mistral-small-2603,ja,talons,鋭い,2,0.105
+mistralai/mistral-small-2603,ja,head rotation,回転,2,0.105
+mistralai/mistral-small-2603,ja,prey,小鳥,2,0.105
+mistralai/mistral-small-2603,ja,anatomy,重い,2,0.105
+mistralai/mistral-small-2603,ja,insects,昆虫,2,0.105
+mistralai/mistral-small-2603,ja,mystery,神秘,1,0.053
+mistralai/mistral-small-2603,ja,fixed eyes,動かない,1,0.053
+mistralai/mistral-small-2603,ja,call,鳴き声,1,0.053
+mistralai/mistral-small-2603,ja,species,種類,1,0.053
+mistralai/mistral-small-2603,ja,camouflage,擬態,1,0.053
+mistralai/mistral-small-2603,ja,strigiformes,フクロウ目,1,0.053
+mistralai/mistral-small-2603,ja,size,大きい,1,0.053
+mistralai/mistral-small-2603,ja,ear tufts,耳,1,0.053
+mistralai/mistral-small-2603,ja,rodents,ネズミ,1,0.053
+mistralai/mistral-small-2603,ja,group,一群,1,0.053
+mistralai/mistral-small-2603,ja,characteristics,特徴,1,0.053
+mistralai/mistral-small-2603,ja,omen,不気味な存在,1,0.053
+mistralai/mistral-small-2603,ja,adaptation,適する,1,0.053
+mistralai/mistral-small-2603,ja,feathers,構造,1,0.053
+mistralai/mistral-small-2603,ko,nocturnal,야행성,13,0.65
+mistralai/mistral-small-2603,ko,hunting,사냥하다,9,0.45
+mistralai/mistral-small-2603,ko,bird,새,8,0.4
+mistralai/mistral-small-2603,ko,bird of prey,맹금류,8,0.4
+mistralai/mistral-small-2603,ko,prey,먹이,7,0.35
+mistralai/mistral-small-2603,ko,hearing,청각,6,0.3
+mistralai/mistral-small-2603,ko,vision,시력,6,0.3
+mistralai/mistral-small-2603,ko,species,종류,6,0.3
+mistralai/mistral-small-2603,ko,large eyes,큰 눈,5,0.25
+mistralai/mistral-small-2603,ko,size,크다,5,0.25
+mistralai/mistral-small-2603,ko,beak,부리,5,0.25
+mistralai/mistral-small-2603,ko,strigiformes,올빼미과,5,0.25
+mistralai/mistral-small-2603,ko,rodents,쥐,5,0.25
+mistralai/mistral-small-2603,ko,keen senses,감각,5,0.25
+mistralai/mistral-small-2603,ko,talons,날카로운 발톱,5,0.25
+mistralai/mistral-small-2603,ko,facial disc,얼굴,5,0.25
+mistralai/mistral-small-2603,ko,predator,조종사,4,0.2
+mistralai/mistral-small-2603,ko,habitat,서식지,4,0.2
+mistralai/mistral-small-2603,ko,distribution,분포하다,3,0.15
+mistralai/mistral-small-2603,ko,ear tufts,깃털,3,0.15
+mistralai/mistral-small-2603,ko,insects,곤충,3,0.15
+mistralai/mistral-small-2603,ko,call,울음소리,3,0.15
+mistralai/mistral-small-2603,ko,head rotation,돌리다,3,0.15
+mistralai/mistral-small-2603,ko,camouflage,회색,2,0.1
+mistralai/mistral-small-2603,ko,behavior,습성,2,0.1
+mistralai/mistral-small-2603,ko,feathers,깃털,2,0.1
+mistralai/mistral-small-2603,ko,wisdom,지혜,2,0.1
+mistralai/mistral-small-2603,ko,territorial behavior,표시하다,2,0.1
+mistralai/mistral-small-2603,ko,nesting,둥지,2,0.1
+mistralai/mistral-small-2603,ko,coloration,어둡다,2,0.1
+mistralai/mistral-small-2603,ko,soft feathers,부드럽다,2,0.1
+mistralai/mistral-small-2603,ko,silent flight,비행,2,0.1
+mistralai/mistral-small-2603,ko,roosting,자다,2,0.1
+mistralai/mistral-small-2603,ko,forward-facing eyes,정면을 향한 큰 눈,1,0.05
+mistralai/mistral-small-2603,ko,night vision,야간 시력,1,0.05
+mistralai/mistral-small-2603,ko,good fortune,길조,1,0.05
+mistralai/mistral-small-2603,ko,wingspan,넓다,1,0.05
+mistralai/mistral-small-2603,ko,carnivore,육식성,1,0.05
+mistralai/mistral-small-2603,ko,pellet,습성,1,0.05
+mistralai/mistral-small-2603,ko,neck rotation,회전 가능한 목,1,0.05
+mistralai/mistral-small-2603,ko,anatomy,둥글다,1,0.05
+mistralai/mistral-small-2603,ko,auditory localization,파악하다,1,0.05
+mistralai/mistral-small-2603,ko,posture,직립 자세,1,0.05
+mistralai/mistral-small-2603,ko,darkness,상징,1,0.05
+mistralai/mistral-small-2603,ko,symbolism,상징,1,0.05
+mistralai/mistral-small-2603,ko,wildlife,야생동물,1,0.05
+mistralai/mistral-small-2603,ko,pet,반려동물,1,0.05
+mistralai/mistral-small-2603,ko,mythology,전설,1,0.05
+mistralai/mistral-small-2603,ko,taxonomy,속하다,1,0.05
+mistralai/mistral-small-2603,ko,endangered,멸종위기종,1,0.05
+mistralai/mistral-small-2603,ko,ecology,생태,1,0.05
+mistralai/mistral-small-2603,ko,characteristics,특징,1,0.05
+mistralai/mistral-small-2603,zh,bird of prey,猛禽,17,0.85
+mistralai/mistral-small-2603,zh,large eyes,大眼睛,13,0.65
+mistralai/mistral-small-2603,zh,strigiformes,鸮形目,11,0.55
+mistralai/mistral-small-2603,zh,facial disc,面盘,10,0.5
+mistralai/mistral-small-2603,zh,talons,锋利的爪子,8,0.4
+mistralai/mistral-small-2603,zh,silent flight,无声飞行,8,0.4
+mistralai/mistral-small-2603,zh,nocturnal,夜行性,7,0.35
+mistralai/mistral-small-2603,zh,head rotation,头部灵活,7,0.35
+mistralai/mistral-small-2603,zh,hunting,捕猎,6,0.3
+mistralai/mistral-small-2603,zh,soft feathers,柔软,5,0.25
+mistralai/mistral-small-2603,zh,night vision,夜视能力,5,0.25
+mistralai/mistral-small-2603,zh,characteristics,独特,4,0.2
+mistralai/mistral-small-2603,zh,beak,喙,4,0.2
+mistralai/mistral-small-2603,zh,vision,眼睛,4,0.2
+mistralai/mistral-small-2603,zh,forward-facing eyes,眼睛朝前,4,0.2
+mistralai/mistral-small-2603,zh,bird,鸟类,3,0.15
+mistralai/mistral-small-2603,zh,prey,小型哺乳动物,3,0.15
+mistralai/mistral-small-2603,zh,feathers,羽毛,2,0.1
+mistralai/mistral-small-2603,zh,hearing,听觉,2,0.1
+mistralai/mistral-small-2603,zh,large head,头大,2,0.1
+mistralai/mistral-small-2603,zh,species,雕鸮,2,0.1
+mistralai/mistral-small-2603,zh,insects,昆虫,2,0.1
+mistralai/mistral-small-2603,zh,rodents,鼠类,2,0.1
+mistralai/mistral-small-2603,zh,friend,人类的好朋友,1,0.05
+mistralai/mistral-small-2603,zh,binocular vision,立体视觉,1,0.05
+mistralai/mistral-small-2603,zh,stealth,悄悄地接近猎物,1,0.05
+mistralai/mistral-small-2603,zh,keen senses,敏锐,1,0.05
+mistralai/mistral-small-2603,zh,carnivore,肉食性,1,0.05
+mistralai/mistral-small-2603,zh,call,叫声,1,0.05
+mistralai/mistral-small-2603,zh,anatomy,哑铃状,1,0.05
+mistralai/mistral-small-2603,zh,flight,宽大的翼,1,0.05
+mistralai/mistral-small-2603,zh,fixed eyes,眼睛不能转动,1,0.05
+mistralai/mistral-small-2603,zh,neck rotation,灵活,1,0.05
+mistralai/mistral-small-2603,zh,behavior,活动,1,0.05
+mistralai/mistral-small-2603,zh,distribution,分布,1,0.05
+mistralai/mistral-small-2603,zh,habitat,草原,1,0.05
+mistralai/mistral-small-2603,zh,omen,不祥之鸟,1,0.05
+mistralai/mistral-small-2603,zh,wisdom,智慧,1,0.05
+openai/gpt-6-luna,en,nocturnal,nocturnal,3,0.75
+openai/gpt-6-luna,en,large eyes,large,3,0.75
+openai/gpt-6-luna,en,hearing,hearing,2,0.5
+openai/gpt-6-luna,en,silent flight,silent flight,2,0.5
+openai/gpt-6-luna,en,bird of prey,bird,2,0.5
+openai/gpt-6-luna,en,beak,beak,1,0.25
+openai/gpt-6-luna,ja,ecology,生態,20,1.0
+openai/gpt-6-luna,ja,species,種類,18,0.9
+openai/gpt-6-luna,ja,call,鳴き声,15,0.75
+openai/gpt-6-luna,ja,nesting,飼育方法,11,0.55
+openai/gpt-6-luna,ja,characteristics,特徴,5,0.25
+openai/gpt-6-luna,ja,pet care,飼育方法,4,0.2
+openai/gpt-6-luna,ja,omen,不気味な存在,1,0.05
+openai/gpt-6-luna,ja,breeding,飼育方法,1,0.05
+openai/gpt-6-luna,ko,characteristics,특징,16,0.8
+openai/gpt-6-luna,ko,prey,먹이,12,0.6
+openai/gpt-6-luna,ko,habitat,서식지,9,0.45
+openai/gpt-6-luna,ko,species,종류,8,0.4
+openai/gpt-6-luna,ko,behavior,습성,7,0.35
+openai/gpt-6-luna,ko,ecology,생태,7,0.35
+openai/gpt-6-luna,ko,symbolism,상징,4,0.2
+openai/gpt-6-luna,ko,large eyes,큰 눈,2,0.1
+openai/gpt-6-luna,ko,hearing,청각,2,0.1
+openai/gpt-6-luna,ko,hunting,사냥하다,2,0.1
+openai/gpt-6-luna,ko,bird of prey,맹금류,2,0.1
+openai/gpt-6-luna,ko,soft feathers,부드럽다,1,0.05
+openai/gpt-6-luna,ko,silent flight,비행,1,0.05
+openai/gpt-6-luna,ko,nocturnal,야행성,1,0.05
+openai/gpt-6-luna,zh,bird of prey,猛禽,17,0.85
+openai/gpt-6-luna,zh,large eyes,大眼睛,15,0.75
+openai/gpt-6-luna,zh,hearing,听觉,12,0.6
+openai/gpt-6-luna,zh,hunting,捕猎,10,0.5
+openai/gpt-6-luna,zh,nocturnal,夜行性,9,0.45
+openai/gpt-6-luna,zh,predator,捕食,8,0.4
+openai/gpt-6-luna,zh,facial disc,面盘,7,0.35
+openai/gpt-6-luna,zh,insects,昆虫,6,0.3
+openai/gpt-6-luna,zh,strigiformes,鸮形目,6,0.3
+openai/gpt-6-luna,zh,talons,锋利的爪子,5,0.25
+openai/gpt-6-luna,zh,forward-facing eyes,眼睛朝前,4,0.2
+openai/gpt-6-luna,zh,beak,喙,4,0.2
+openai/gpt-6-luna,zh,prey,小型哺乳动物,3,0.15
+openai/gpt-6-luna,zh,rodents,鼠类,3,0.15
+openai/gpt-6-luna,zh,soft feathers,柔软,2,0.1
+openai/gpt-6-luna,zh,silent flight,无声飞行,2,0.1
+openai/gpt-6-luna,zh,keen senses,敏锐,2,0.1
+openai/gpt-6-luna,zh,feathers,羽毛,2,0.1
+openai/gpt-6-luna,zh,vision,眼睛,2,0.1
+openai/gpt-6-luna,zh,species,雕鸮,2,0.1
+openai/gpt-6-luna,zh,pest control,捕鼠能手,1,0.05
+openai/gpt-6-luna,zh,head rotation,头部灵活,1,0.05
+openai/gpt-6-luna,zh,call,叫声,1,0.05
+openai/gpt-6-luna,zh,wisdom,智慧,1,0.05
+openai/gpt-6-luna,zh,large head,头大,1,0.05
+openai/gpt-6-luna,zh,behavior,活动,1,0.05
+openai/gpt-6-luna,zh,bird,鸟类,1,0.05
+openai/gpt-6-luna,zh,carnivore,肉食性,1,0.05
+qwen/qwen3.8-flash,en,silent flight,silent flight,17,0.895
+qwen/qwen3.8-flash,en,head rotation,rotate,13,0.684
+qwen/qwen3.8-flash,en,hunting,hunting,13,0.684
+qwen/qwen3.8-flash,en,bird of prey,bird,12,0.632
+qwen/qwen3.8-flash,en,nocturnal,nocturnal,12,0.632
+qwen/qwen3.8-flash,en,vision,large,11,0.579
+qwen/qwen3.8-flash,en,hearing,hearing,8,0.421
+qwen/qwen3.8-flash,en,large eyes,large,7,0.368
+qwen/qwen3.8-flash,en,feathers,specialized feathers,7,0.368
+qwen/qwen3.8-flash,en,facial disc,flat,7,0.368
+qwen/qwen3.8-flash,en,wisdom,wisdom,6,0.316
+qwen/qwen3.8-flash,en,bird,bird,6,0.316
+qwen/qwen3.8-flash,en,binocular vision,binocular vision,5,0.263
+qwen/qwen3.8-flash,en,night vision,exceptional,4,0.211
+qwen/qwen3.8-flash,en,predator,predator,3,0.158
+qwen/qwen3.8-flash,en,characteristics,transition,3,0.158
+qwen/qwen3.8-flash,en,prey,small,3,0.158
+qwen/qwen3.8-flash,en,carnivore,carnivorous,3,0.158
+qwen/qwen3.8-flash,en,large head,rounded,3,0.158
+qwen/qwen3.8-flash,en,species,barn owl,2,0.105
+qwen/qwen3.8-flash,en,flight,silent,2,0.105
+qwen/qwen3.8-flash,en,keen senses,super,2,0.105
+qwen/qwen3.8-flash,en,mystery,mystery,2,0.105
+qwen/qwen3.8-flash,en,stealth,stealth,2,0.105
+qwen/qwen3.8-flash,en,distribution,found,2,0.105
+qwen/qwen3.8-flash,en,call,distinctive,1,0.053
+qwen/qwen3.8-flash,en,adaptation,unique blood vessel adaptations,1,0.053
+qwen/qwen3.8-flash,en,diurnal,active,1,0.053
+qwen/qwen3.8-flash,en,behavior,active,1,0.053
+qwen/qwen3.8-flash,en,neck rotation,flexible,1,0.053
+qwen/qwen3.8-flash,en,insects,insects,1,0.053
+qwen/qwen3.8-flash,en,habitat,forests,1,0.053
+qwen/qwen3.8-flash,en,soft feathers,muffle,1,0.053
+qwen/qwen3.8-flash,en,size,large,1,0.053
+qwen/qwen3.8-flash,en,auditory localization,pinpoint sounds,1,0.053
+qwen/qwen3.8-flash,en,beak,beak,1,0.053
+qwen/qwen3.8-flash,en,magic,magic,1,0.053
+qwen/qwen3.8-flash,en,talons,sharp talons,1,0.053
+qwen/qwen3.8-flash,ja,silent flight,飛ぶ,17,0.85
+qwen/qwen3.8-flash,ja,nocturnal,夜行性,16,0.8
+qwen/qwen3.8-flash,ja,neck rotation,回る,10,0.5
+qwen/qwen3.8-flash,ja,large eyes,大きな目,10,0.5
+qwen/qwen3.8-flash,ja,hearing,聴力,10,0.5
+qwen/qwen3.8-flash,ja,vision,視力,9,0.45
+qwen/qwen3.8-flash,ja,bird of prey,夜行性,8,0.4
+qwen/qwen3.8-flash,ja,head rotation,回転,8,0.4
+qwen/qwen3.8-flash,ja,good fortune,不苦労,7,0.35
+qwen/qwen3.8-flash,ja,wisdom,象徴,6,0.3
+qwen/qwen3.8-flash,ja,hunting,狩る,5,0.25
+qwen/qwen3.8-flash,ja,bird,鳥,5,0.25
+qwen/qwen3.8-flash,ja,predator,捕食する,5,0.25
+qwen/qwen3.8-flash,ja,behavior,人懐っこい,5,0.25
+qwen/qwen3.8-flash,ja,anatomy,重い,5,0.25
+qwen/qwen3.8-flash,ja,symbolism,使い,4,0.2
+qwen/qwen3.8-flash,ja,flight,飛行,3,0.15
+qwen/qwen3.8-flash,ja,stealth,近づく,3,0.15
+qwen/qwen3.8-flash,ja,call,鳴き声,3,0.15
+qwen/qwen3.8-flash,ja,night vision,見える,3,0.15
+qwen/qwen3.8-flash,ja,keen senses,優れる,3,0.15
+qwen/qwen3.8-flash,ja,education,学問,2,0.1
+qwen/qwen3.8-flash,ja,mythology,使い,2,0.1
+qwen/qwen3.8-flash,ja,carnivore,肉食,2,0.1
+qwen/qwen3.8-flash,ja,omen,不気味な存在,2,0.1
+qwen/qwen3.8-flash,ja,characteristics,特徴,2,0.1
+qwen/qwen3.8-flash,ja,talons,鋭い,2,0.1
+qwen/qwen3.8-flash,ja,protection,厄除け,1,0.05
+qwen/qwen3.8-flash,ja,habitat,生息,1,0.05
+qwen/qwen3.8-flash,ja,facial disc,役割,1,0.05
+qwen/qwen3.8-flash,ja,happiness,幸せ,1,0.05
+qwen/qwen3.8-flash,ja,death,死,1,0.05
+qwen/qwen3.8-flash,ja,binocular vision,立体視,1,0.05
+qwen/qwen3.8-flash,ja,insects,昆虫,1,0.05
+qwen/qwen3.8-flash,ja,prey,小鳥,1,0.05
+qwen/qwen3.8-flash,ja,beak,鋭いくちばし,1,0.05
+qwen/qwen3.8-flash,ja,reversed sexual dimorphism,大きい,1,0.05
+qwen/qwen3.8-flash,ja,rodents,ネズミ,1,0.05
+qwen/qwen3.8-flash,ja,strigiformes,フクロウ目,1,0.05
+qwen/qwen3.8-flash,ja,soft feathers,柔らかい,1,0.05
+qwen/qwen3.8-flash,ja,size,大きい,1,0.05
+qwen/qwen3.8-flash,ja,auditory localization,捉えやすい,1,0.05
+qwen/qwen3.8-flash,ja,migration,夏鳥,1,0.05
+qwen/qwen3.8-flash,ja,feathers,構造,1,0.05
+qwen/qwen3.8-flash,ja,adaptation,適する,1,0.05
+qwen/qwen3.8-flash,ja,lifespan,長寿,1,0.05
+qwen/qwen3.8-flash,ko,nocturnal,야행성,17,0.85
+qwen/qwen3.8-flash,ko,bird of prey,맹금류,14,0.7
+qwen/qwen3.8-flash,ko,hearing,청각,13,0.65
+qwen/qwen3.8-flash,ko,hunting,사냥하다,12,0.6
+qwen/qwen3.8-flash,ko,silent flight,비행,10,0.5
+qwen/qwen3.8-flash,ko,wisdom,지혜,10,0.5
+qwen/qwen3.8-flash,ko,vision,시력,10,0.5
+qwen/qwen3.8-flash,ko,head rotation,돌리다,9,0.45
+qwen/qwen3.8-flash,ko,large eyes,큰 눈,9,0.45
+qwen/qwen3.8-flash,ko,keen senses,감각,6,0.3
+qwen/qwen3.8-flash,ko,night vision,야간 시력,6,0.3
+qwen/qwen3.8-flash,ko,binocular vision,깊이 감각,5,0.25
+qwen/qwen3.8-flash,ko,ear tufts,깃털,5,0.25
+qwen/qwen3.8-flash,ko,strigiformes,올빼미과,5,0.25
+qwen/qwen3.8-flash,ko,stealth,접근하다,5,0.25
+qwen/qwen3.8-flash,ko,neck rotation,회전 가능한 목,4,0.2
+qwen/qwen3.8-flash,ko,bird,새,4,0.2
+qwen/qwen3.8-flash,ko,behavior,습성,3,0.15
+qwen/qwen3.8-flash,ko,anatomy,둥글다,3,0.15
+qwen/qwen3.8-flash,ko,guardian,밤의 수호,2,0.1
+qwen/qwen3.8-flash,ko,good fortune,길조,2,0.1
+qwen/qwen3.8-flash,ko,mythology,전설,2,0.1
+qwen/qwen3.8-flash,ko,soft feathers,부드럽다,2,0.1
+qwen/qwen3.8-flash,ko,facial disc,얼굴,2,0.1
+qwen/qwen3.8-flash,ko,symbolism,상징,2,0.1
+qwen/qwen3.8-flash,ko,mystery,신비로운 존재,2,0.1
+qwen/qwen3.8-flash,ko,wealth,재물,1,0.05
+qwen/qwen3.8-flash,ko,feathers,깃털,1,0.05
+qwen/qwen3.8-flash,ko,pest control,해충,1,0.05
+qwen/qwen3.8-flash,ko,ecology,생태,1,0.05
+qwen/qwen3.8-flash,ko,talons,날카로운 발톱,1,0.05
+qwen/qwen3.8-flash,ko,wingspan,넓다,1,0.05
+qwen/qwen3.8-flash,ko,predator,조종사,1,0.05
+qwen/qwen3.8-flash,ko,feeding,"설치류(쥐 등), 작은 새, 곤충 등을 잡아먹",1,0.05
+qwen/qwen3.8-flash,ko,call,울음소리,1,0.05
+qwen/qwen3.8-flash,ko,characteristics,특징,1,0.05
+qwen/qwen3.8-flash,ko,roosting,자다,1,0.05
+qwen/qwen3.8-flash,ko,large head,둥근 머리,1,0.05
+qwen/qwen3.8-flash,ko,flight,비행,1,0.05
+qwen/qwen3.8-flash,ko,education,학문,1,0.05
+qwen/qwen3.8-flash,zh,head rotation,头部灵活,18,0.9
+qwen/qwen3.8-flash,zh,silent flight,无声飞行,17,0.85
+qwen/qwen3.8-flash,zh,strigiformes,鸮形目,16,0.8
+qwen/qwen3.8-flash,zh,bird of prey,猛禽,16,0.8
+qwen/qwen3.8-flash,zh,nocturnal,夜行性,15,0.75
+qwen/qwen3.8-flash,zh,hearing,听觉,14,0.7
+qwen/qwen3.8-flash,zh,carnivore,肉食性,12,0.6
+qwen/qwen3.8-flash,zh,hunting,捕猎,12,0.6
+qwen/qwen3.8-flash,zh,soft feathers,柔软,11,0.55
+qwen/qwen3.8-flash,zh,neck rotation,灵活,11,0.55
+qwen/qwen3.8-flash,zh,night vision,夜视能力,10,0.5
+qwen/qwen3.8-flash,zh,vision,眼睛,9,0.45
+qwen/qwen3.8-flash,zh,pest control,捕鼠能手,8,0.4
+qwen/qwen3.8-flash,zh,bird,鸟类,8,0.4
+qwen/qwen3.8-flash,zh,facial disc,面盘,8,0.4
+qwen/qwen3.8-flash,zh,keen senses,敏锐,8,0.4
+qwen/qwen3.8-flash,zh,mystery,神秘,5,0.25
+qwen/qwen3.8-flash,zh,symbolism,信使,5,0.25
+qwen/qwen3.8-flash,zh,binocular vision,立体视觉,5,0.25
+qwen/qwen3.8-flash,zh,stealth,悄悄地接近猎物,4,0.2
+qwen/qwen3.8-flash,zh,fixed eyes,眼睛不能转动,4,0.2
+qwen/qwen3.8-flash,zh,species,雕鸮,4,0.2
+qwen/qwen3.8-flash,zh,large eyes,大眼睛,4,0.2
+qwen/qwen3.8-flash,zh,wisdom,智慧,4,0.2
+qwen/qwen3.8-flash,zh,predator,捕食,3,0.15
+qwen/qwen3.8-flash,zh,omen,不祥之鸟,3,0.15
+qwen/qwen3.8-flash,zh,forward-facing eyes,眼睛朝前,3,0.15
+qwen/qwen3.8-flash,zh,distribution,分布,2,0.1
+qwen/qwen3.8-flash,zh,darkness,黑暗,2,0.1
+qwen/qwen3.8-flash,zh,feeding,撕裂猎物,2,0.1
+qwen/qwen3.8-flash,zh,beak,喙,2,0.1
+qwen/qwen3.8-flash,zh,ecology,生态系统,2,0.1
+qwen/qwen3.8-flash,zh,mythology,智慧女神雅典娜的随从,2,0.1
+qwen/qwen3.8-flash,zh,insects,昆虫,2,0.1
+qwen/qwen3.8-flash,zh,prey,小型哺乳动物,2,0.1
+qwen/qwen3.8-flash,zh,guardian,农林卫士,2,0.1
+qwen/qwen3.8-flash,zh,beneficial bird,益鸟,2,0.1
+qwen/qwen3.8-flash,zh,adaptation,很多特殊的适应能力,2,0.1
+qwen/qwen3.8-flash,zh,anatomy,哑铃状,2,0.1
+qwen/qwen3.8-flash,zh,size,大,2,0.1
+qwen/qwen3.8-flash,zh,ear tufts,耳羽,1,0.05
+qwen/qwen3.8-flash,zh,auditory localization,听觉定位,1,0.05
+qwen/qwen3.8-flash,zh,death,死亡,1,0.05
+qwen/qwen3.8-flash,zh,feathers,羽毛,1,0.05
+qwen/qwen3.8-flash,zh,behavior,活动,1,0.05
+qwen/qwen3.8-flash,zh,talons,锋利的爪子,1,0.05
+qwen/qwen3.8-flash,zh,rodents,鼠类,1,0.05
+upstage/solar-mini4,en,bird of prey,bird,15,0.75
+upstage/solar-mini4,en,nocturnal,nocturnal,14,0.7
+upstage/solar-mini4,en,hunting,hunting,14,0.7
+upstage/solar-mini4,en,silent flight,silent flight,14,0.7
+upstage/solar-mini4,en,vision,large,11,0.55
+upstage/solar-mini4,en,facial disc,flat,11,0.55
+upstage/solar-mini4,en,head rotation,rotate,11,0.55
+upstage/solar-mini4,en,hearing,hearing,11,0.55
+upstage/solar-mini4,en,wisdom,wisdom,10,0.5
+upstage/solar-mini4,en,bird,bird,9,0.45
+upstage/solar-mini4,en,night vision,exceptional,7,0.35
+upstage/solar-mini4,en,large eyes,large,7,0.35
+upstage/solar-mini4,en,mystery,mystery,6,0.3
+upstage/solar-mini4,en,insects,insects,5,0.25
+upstage/solar-mini4,en,talons,sharp talons,5,0.25
+upstage/solar-mini4,en,flight,silent,4,0.2
+upstage/solar-mini4,en,prey,small,4,0.2
+upstage/solar-mini4,en,call,distinctive,4,0.2
+upstage/solar-mini4,en,large head,rounded,4,0.2
+upstage/solar-mini4,en,carnivore,carnivorous,4,0.2
+upstage/solar-mini4,en,omen,omen,3,0.15
+upstage/solar-mini4,en,characteristics,transition,3,0.15
+upstage/solar-mini4,en,symbolism,symbol,2,0.1
+upstage/solar-mini4,en,neck rotation,flexible,2,0.1
+upstage/solar-mini4,en,pellet,regurgitate,2,0.1
+upstage/solar-mini4,en,keen senses,super,2,0.1
+upstage/solar-mini4,en,habitat,forests,2,0.1
+upstage/solar-mini4,en,strigiformes,strigiformes,2,0.1
+upstage/solar-mini4,en,feathers,specialized feathers,1,0.05
+upstage/solar-mini4,en,feeding,swallow,1,0.05
+upstage/solar-mini4,en,death,death,1,0.05
+upstage/solar-mini4,en,pest control,controlling rodent and insect populations,1,0.05
+upstage/solar-mini4,en,ecology,biology,1,0.05
+upstage/solar-mini4,en,binocular vision,binocular vision,1,0.05
+upstage/solar-mini4,en,distribution,found,1,0.05
+upstage/solar-mini4,en,nesting,nest,1,0.05
+upstage/solar-mini4,en,species,barn owl,1,0.05
+upstage/solar-mini4,en,anatomy,flexible neck vertebrae,1,0.05
+upstage/solar-mini4,en,beak,beak,1,0.05
+upstage/solar-mini4,en,forward-facing eyes,forward-facing,1,0.05
+upstage/solar-mini4,en,darkness,dark,1,0.05
+upstage/solar-mini4,en,fixed eyes,fixed in their socket,1,0.05
+upstage/solar-mini4,en,soft feathers,muffle,1,0.05
+upstage/solar-mini4,en,rodents,rodents,1,0.05
+upstage/solar-mini4,ja,nocturnal,夜行性,19,0.95
+upstage/solar-mini4,ja,large eyes,大きな目,12,0.6
+upstage/solar-mini4,ja,bird of prey,夜行性,12,0.6
+upstage/solar-mini4,ja,facial disc,役割,12,0.6
+upstage/solar-mini4,ja,silent flight,飛ぶ,10,0.5
+upstage/solar-mini4,ja,habitat,生息,9,0.45
+upstage/solar-mini4,ja,wisdom,象徴,9,0.45
+upstage/solar-mini4,ja,predator,捕食する,8,0.4
+upstage/solar-mini4,ja,hunting,狩る,8,0.4
+upstage/solar-mini4,ja,large head,大きい,7,0.35
+upstage/solar-mini4,ja,forward-facing eyes,前方,7,0.35
+upstage/solar-mini4,ja,carnivore,肉食,6,0.3
+upstage/solar-mini4,ja,neck rotation,回る,5,0.25
+upstage/solar-mini4,ja,good fortune,不苦労,5,0.25
+upstage/solar-mini4,ja,hearing,聴力,5,0.25
+upstage/solar-mini4,ja,vision,視力,5,0.25
+upstage/solar-mini4,ja,guardian,守り,4,0.2
+upstage/solar-mini4,ja,mystery,神秘,4,0.2
+upstage/solar-mini4,ja,nesting,飼育方法,4,0.2
+upstage/solar-mini4,ja,talons,鋭い,4,0.2
+upstage/solar-mini4,ja,night vision,見える,4,0.2
+upstage/solar-mini4,ja,head rotation,回転,4,0.2
+upstage/solar-mini4,ja,bird,鳥,4,0.2
+upstage/solar-mini4,ja,insects,昆虫,3,0.15
+upstage/solar-mini4,ja,call,鳴き声,3,0.15
+upstage/solar-mini4,ja,distribution,生息,3,0.15
+upstage/solar-mini4,ja,prey,小鳥,3,0.15
+upstage/solar-mini4,ja,keen senses,優れる,3,0.15
+upstage/solar-mini4,ja,beak,鋭いくちばし,2,0.1
+upstage/solar-mini4,ja,rodents,ネズミ,2,0.1
+upstage/solar-mini4,ja,wingspan,広い,2,0.1
+upstage/solar-mini4,ja,behavior,人懐っこい,2,0.1
+upstage/solar-mini4,ja,soft feathers,柔らかい,2,0.1
+upstage/solar-mini4,ja,stealth,近づく,2,0.1
+upstage/solar-mini4,ja,magic,幽霊の使い,1,0.05
+upstage/solar-mini4,ja,pest control,減らす,1,0.05
+upstage/solar-mini4,ja,darkness,イメージ,1,0.05
+upstage/solar-mini4,ja,attractive,かわいいです,1,0.05
+upstage/solar-mini4,ja,auditory localization,捉えやすい,1,0.05
+upstage/solar-mini4,ja,adaptation,適する,1,0.05
+upstage/solar-mini4,ja,size,大きい,1,0.05
+upstage/solar-mini4,ja,fixed eyes,動かない,1,0.05
+upstage/solar-mini4,ja,ear tufts,耳,1,0.05
+upstage/solar-mini4,ja,omen,不気味な存在,1,0.05
+upstage/solar-mini4,ja,species,種類,1,0.05
+upstage/solar-mini4,ja,anatomy,重い,1,0.05
+upstage/solar-mini4,ko,wisdom,지혜,17,0.85
+upstage/solar-mini4,ko,nocturnal,야행성,16,0.8
+upstage/solar-mini4,ko,bird of prey,맹금류,13,0.65
+upstage/solar-mini4,ko,large eyes,큰 눈,12,0.6
+upstage/solar-mini4,ko,silent flight,비행,12,0.6
+upstage/solar-mini4,ko,hunting,사냥하다,9,0.45
+upstage/solar-mini4,ko,talons,날카로운 발톱,8,0.4
+upstage/solar-mini4,ko,guardian,밤의 수호,8,0.4
+upstage/solar-mini4,ko,strigiformes,올빼미과,7,0.35
+upstage/solar-mini4,ko,mystery,신비로운 존재,6,0.3
+upstage/solar-mini4,ko,prey,먹이,6,0.3
+upstage/solar-mini4,ko,good fortune,길조,5,0.25
+upstage/solar-mini4,ko,hearing,청각,5,0.25
+upstage/solar-mini4,ko,large head,둥근 머리,5,0.25
+upstage/solar-mini4,ko,night vision,야간 시력,4,0.2
+upstage/solar-mini4,ko,insects,곤충,4,0.2
+upstage/solar-mini4,ko,rodents,쥐,4,0.2
+upstage/solar-mini4,ko,carnivore,육식성,3,0.15
+upstage/solar-mini4,ko,head rotation,돌리다,3,0.15
+upstage/solar-mini4,ko,species,종류,3,0.15
+upstage/solar-mini4,ko,soft feathers,부드럽다,3,0.15
+upstage/solar-mini4,ko,neck rotation,회전 가능한 목,3,0.15
+upstage/solar-mini4,ko,habitat,서식지,3,0.15
+upstage/solar-mini4,ko,facial disc,얼굴,3,0.15
+upstage/solar-mini4,ko,nesting,둥지,3,0.15
+upstage/solar-mini4,ko,feathers,깃털,3,0.15
+upstage/solar-mini4,ko,omen,징조,3,0.15
+upstage/solar-mini4,ko,vision,시력,3,0.15
+upstage/solar-mini4,ko,keen senses,감각,3,0.15
+upstage/solar-mini4,ko,wealth,재물,2,0.1
+upstage/solar-mini4,ko,mythology,전설,2,0.1
+upstage/solar-mini4,ko,call,울음소리,2,0.1
+upstage/solar-mini4,ko,binocular vision,깊이 감각,2,0.1
+upstage/solar-mini4,ko,ear tufts,깃털,2,0.1
+upstage/solar-mini4,ko,predator,조종사,2,0.1
+upstage/solar-mini4,ko,symbolism,상징,2,0.1
+upstage/solar-mini4,ko,tool use,알려져 있다,1,0.05
+upstage/solar-mini4,ko,flight,비행,1,0.05
+upstage/solar-mini4,ko,beak,부리,1,0.05
+upstage/solar-mini4,ko,forward-facing eyes,정면을 향한 큰 눈,1,0.05
+upstage/solar-mini4,ko,peace,평온,1,0.05
+upstage/solar-mini4,ko,darkness,상징,1,0.05
+upstage/solar-mini4,ko,pest control,해충,1,0.05
+upstage/solar-mini4,ko,bird,새,1,0.05
+upstage/solar-mini4,ko,observant,watchfulness,1,0.05
+upstage/solar-mini4,ko,posture,직립 자세,1,0.05
+upstage/solar-mini4,ko,afterlife,무덤이나 저승과 관련된 새,1,0.05
+upstage/solar-mini4,ko,ecology,생태,1,0.05
+upstage/solar-mini4,zh,hunting,捕猎,16,0.8
+upstage/solar-mini4,zh,bird,鸟类,16,0.8
+upstage/solar-mini4,zh,nocturnal,夜行性,16,0.8
+upstage/solar-mini4,zh,silent flight,无声飞行,15,0.75
+upstage/solar-mini4,zh,keen senses,敏锐,11,0.55
+upstage/solar-mini4,zh,strigiformes,鸮形目,11,0.55
+upstage/solar-mini4,zh,bird of prey,猛禽,10,0.5
+upstage/solar-mini4,zh,large head,头大,10,0.5
+upstage/solar-mini4,zh,head rotation,头部灵活,10,0.5
+upstage/solar-mini4,zh,soft feathers,柔软,9,0.45
+upstage/solar-mini4,zh,vision,眼睛,6,0.3
+upstage/solar-mini4,zh,night vision,夜视能力,6,0.3
+upstage/solar-mini4,zh,talons,锋利的爪子,6,0.3
+upstage/solar-mini4,zh,distribution,分布,5,0.25
+upstage/solar-mini4,zh,prey,小型哺乳动物,5,0.25
+upstage/solar-mini4,zh,carnivore,肉食性,5,0.25
+upstage/solar-mini4,zh,insects,昆虫,5,0.25
+upstage/solar-mini4,zh,neck rotation,灵活,5,0.25
+upstage/solar-mini4,zh,predator,捕食,5,0.25
+upstage/solar-mini4,zh,facial disc,面盘,5,0.25
+upstage/solar-mini4,zh,call,叫声,4,0.2
+upstage/solar-mini4,zh,hearing,听觉,4,0.2
+upstage/solar-mini4,zh,large eyes,大眼睛,4,0.2
+upstage/solar-mini4,zh,mystery,神秘,4,0.2
+upstage/solar-mini4,zh,wisdom,智慧,4,0.2
+upstage/solar-mini4,zh,beak,喙,3,0.15
+upstage/solar-mini4,zh,flight,宽大的翼,3,0.15
+upstage/solar-mini4,zh,omen,不祥之鸟,3,0.15
+upstage/solar-mini4,zh,stealth,悄悄地接近猎物,3,0.15
+upstage/solar-mini4,zh,rodents,鼠类,3,0.15
+upstage/solar-mini4,zh,anatomy,哑铃状,3,0.15
+upstage/solar-mini4,zh,fixed eyes,眼睛不能转动,3,0.15
+upstage/solar-mini4,zh,guardian,农林卫士,2,0.1
+upstage/solar-mini4,zh,pest control,捕鼠能手,2,0.1
+upstage/solar-mini4,zh,habitat,草原,2,0.1
+upstage/solar-mini4,zh,beneficial bird,益鸟,2,0.1
+upstage/solar-mini4,zh,feathers,羽毛,2,0.1
+upstage/solar-mini4,zh,behavior,活动,2,0.1
+upstage/solar-mini4,zh,size,大,2,0.1
+upstage/solar-mini4,zh,forward-facing eyes,眼睛朝前,2,0.1
+upstage/solar-mini4,zh,nesting,树洞,1,0.05
+upstage/solar-mini4,zh,auditory localization,听觉定位,1,0.05
+upstage/solar-mini4,zh,magic,驱邪,1,0.05
+upstage/solar-mini4,zh,ecology,生态系统,1,0.05
+upstage/solar-mini4,zh,attractive,卖萌,1,0.05
+upstage/solar-mini4,zh,superior,重要,1,0.05
+upstage/solar-mini4,zh,characteristics,独特,1,0.05
+upstage/solar-mini4,zh,adaptation,很多特殊的适应能力,1,0.05
+upstage/solar-mini4,zh,ear tufts,耳羽,1,0.05
+upstage/solar-mini4,zh,coloration,北方雪原地区的白色鸟类,1,0.05
+upstage/solar-mini4,zh,feeding,撕裂猎物,1,0.05

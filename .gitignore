@@ -9,5 +9,6 @@ wheels/
 # Virtual environments
 .venv
 
-# benchmark outputs
-data/
+# benchmark outputs are tracked, except pipeline smoke tests and a key-rename backup
+data/runs/smoke*/
+data/runs/*/extractions.before-rename.jsonl

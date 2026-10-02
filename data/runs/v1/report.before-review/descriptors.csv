@@ -1,0 +1,2378 @@
+model,lang,concept,top_native_lemma,responses,share_of_dragon_sense
+anthropic/claude-haiku-4.5,en,fire,fire-breathing,87,0.87
+anthropic/claude-haiku-4.5,en,power,power,85,0.85
+anthropic/claude-haiku-4.5,en,wisdom,wisdom,79,0.79
+anthropic/claude-haiku-4.5,en,wings,wings,76,0.76
+anthropic/claude-haiku-4.5,en,mythical creature,legendary creature,71,0.71
+anthropic/claude-haiku-4.5,en,reptilian,reptilian,62,0.62
+anthropic/claude-haiku-4.5,en,intelligence,intelligent,58,0.58
+anthropic/claude-haiku-4.5,en,luck,good fortune,53,0.53
+anthropic/claude-haiku-4.5,en,dangerous,danger,44,0.44
+anthropic/claude-haiku-4.5,en,scales,scales,41,0.41
+anthropic/claude-haiku-4.5,en,large,large,38,0.38
+anthropic/claude-haiku-4.5,en,magic,magical,32,0.32
+anthropic/claude-haiku-4.5,en,evil,evil,28,0.28
+anthropic/claude-haiku-4.5,en,villain,villain,27,0.27
+anthropic/claude-haiku-4.5,en,benevolent,benevolent,26,0.26
+anthropic/claude-haiku-4.5,en,hoarding,hoard treasure,26,0.26
+anthropic/claude-haiku-4.5,en,prosperity,prosperity,19,0.19
+anthropic/claude-haiku-4.5,en,claws,claws,19,0.19
+anthropic/claude-haiku-4.5,en,monster,monster,17,0.17
+anthropic/claude-haiku-4.5,en,treasure,treasure,17,0.17
+anthropic/claude-haiku-4.5,en,chaos,chaos,16,0.16
+anthropic/claude-haiku-4.5,en,fierce,fierce,16,0.16
+anthropic/claude-haiku-4.5,en,western dragon,european,15,0.15
+anthropic/claude-haiku-4.5,en,creature,creature,14,0.14
+anthropic/claude-haiku-4.5,en,water,water,14,0.14
+anthropic/claude-haiku-4.5,en,eastern dragon,chinese,13,0.13
+anthropic/claude-haiku-4.5,en,tail,long tail,13,0.13
+anthropic/claude-haiku-4.5,en,horns,horns,12,0.12
+anthropic/claude-haiku-4.5,en,symbol,symbol,11,0.11
+anthropic/claude-haiku-4.5,en,flight,fly,11,0.11
+anthropic/claude-haiku-4.5,en,folklore,folklore,9,0.09
+anthropic/claude-haiku-4.5,en,serpentine,serpentine,9,0.09
+anthropic/claude-haiku-4.5,en,fire breath,fire-breathing,9,0.09
+anthropic/claude-haiku-4.5,en,guardian,protection,9,0.09
+anthropic/claude-haiku-4.5,en,zodiac,sign,8,0.08
+anthropic/claude-haiku-4.5,en,greed,greedy,7,0.07
+anthropic/claude-haiku-4.5,en,destructive,destruction,7,0.07
+anthropic/claude-haiku-4.5,en,mysterious,mystery,6,0.06
+anthropic/claude-haiku-4.5,en,royalty,power,6,0.06
+anthropic/claude-haiku-4.5,en,bat-like,bat-like,5,0.05
+anthropic/claude-haiku-4.5,en,armor,armor,5,0.05
+anthropic/claude-haiku-4.5,en,speech,speak,4,0.04
+anthropic/claude-haiku-4.5,en,chinese,chinese,3,0.03
+anthropic/claude-haiku-4.5,en,longevity,immortal,3,0.03
+anthropic/claude-haiku-4.5,en,challenge,challenges,3,0.03
+anthropic/claude-haiku-4.5,en,character,character,3,0.03
+anthropic/claude-haiku-4.5,en,majesty,majestic,3,0.03
+anthropic/claude-haiku-4.5,en,middle eastern,middle eastern,3,0.03
+anthropic/claude-haiku-4.5,en,japanese,japanese,2,0.02
+anthropic/claude-haiku-4.5,en,ancient,ancient,2,0.02
+anthropic/claude-haiku-4.5,en,body,long,2,0.02
+anthropic/claude-haiku-4.5,en,mythology,mythology,2,0.02
+anthropic/claude-haiku-4.5,en,teeth,tooth,2,0.02
+anthropic/claude-haiku-4.5,en,heraldry,red heraldic dragon,2,0.02
+anthropic/claude-haiku-4.5,en,avian,bird-like,2,0.02
+anthropic/claude-haiku-4.5,en,ice,ice,2,0.02
+anthropic/claude-haiku-4.5,en,legs,four legs,2,0.02
+anthropic/claude-haiku-4.5,en,general,middle eastern,1,0.01
+anthropic/claude-haiku-4.5,en,multiple heads,serpents,1,0.01
+anthropic/claude-haiku-4.5,en,movement,dynamism,1,0.01
+anthropic/claude-haiku-4.5,en,resilience,overcome obstacles,1,0.01
+anthropic/claude-haiku-4.5,en,disaster,significance,1,0.01
+anthropic/claude-haiku-4.5,en,rain,rain,1,0.01
+anthropic/claude-haiku-4.5,en,cosmos,cosmic forces,1,0.01
+anthropic/claude-haiku-4.5,en,authority,authority,1,0.01
+anthropic/claude-haiku-4.5,en,slain,slain,1,0.01
+anthropic/claude-haiku-4.5,en,weather control,control over weather,1,0.01
+anthropic/claude-haiku-4.5,en,important,key,1,0.01
+anthropic/claude-haiku-4.5,en,poison,poison,1,0.01
+anthropic/claude-haiku-4.5,en,spikes,tail spikes,1,0.01
+anthropic/claude-haiku-4.5,en,tradition,traditions,1,0.01
+anthropic/claude-haiku-4.5,en,ally,ally,1,0.01
+anthropic/claude-haiku-4.5,en,archetype,archetype,1,0.01
+anthropic/claude-haiku-4.5,ja,mythical creature,伝説の生き物,92,0.92
+anthropic/claude-haiku-4.5,ja,power,力,80,0.8
+anthropic/claude-haiku-4.5,ja,royalty,皇帝の象徴,60,0.6
+anthropic/claude-haiku-4.5,ja,luck,幸運,58,0.58
+anthropic/claude-haiku-4.5,ja,sacred,神聖な存在,56,0.56
+anthropic/claude-haiku-4.5,ja,water,水,48,0.48
+anthropic/claude-haiku-4.5,ja,wisdom,知恵,36,0.36
+anthropic/claude-haiku-4.5,ja,water deity,水神,28,0.28
+anthropic/claude-haiku-4.5,ja,flight,空を飛ぶ,25,0.25
+anthropic/claude-haiku-4.5,ja,symbol,象徴,23,0.23
+anthropic/claude-haiku-4.5,ja,claws,爪,21,0.21
+anthropic/claude-haiku-4.5,ja,rain,雨,20,0.2
+anthropic/claude-haiku-4.5,ja,horns,角,19,0.19
+anthropic/claude-haiku-4.5,ja,body,長い体,12,0.12
+anthropic/claude-haiku-4.5,ja,majesty,威厳,12,0.12
+anthropic/claude-haiku-4.5,ja,culture,ゲーム,12,0.12
+anthropic/claude-haiku-4.5,ja,eastern dragon,東洋の竜,11,0.11
+anthropic/claude-haiku-4.5,ja,zodiac,干支,11,0.11
+anthropic/claude-haiku-4.5,ja,mythology,神話,10,0.1
+anthropic/claude-haiku-4.5,ja,water control,水や雲を操る,10,0.1
+anthropic/claude-haiku-4.5,ja,monster,怪物,10,0.1
+anthropic/claude-haiku-4.5,ja,serpentine,蛇,10,0.1
+anthropic/claude-haiku-4.5,ja,weather,天候,10,0.1
+anthropic/claude-haiku-4.5,ja,divine,霊獣,9,0.09
+anthropic/claude-haiku-4.5,ja,prosperity,繁栄,9,0.09
+anthropic/claude-haiku-4.5,ja,control,司る,8,0.08
+anthropic/claude-haiku-4.5,ja,scales,鱗,8,0.08
+anthropic/claude-haiku-4.5,ja,weather control,天候の神,8,0.08
+anthropic/claude-haiku-4.5,ja,guardian,守る,6,0.06
+anthropic/claude-haiku-4.5,ja,authority,権威,6,0.06
+anthropic/claude-haiku-4.5,ja,important,重要,5,0.05
+anthropic/claude-haiku-4.5,ja,creature,生き物,5,0.05
+anthropic/claude-haiku-4.5,ja,sky,天,5,0.05
+anthropic/claude-haiku-4.5,ja,harvest,農耕神,5,0.05
+anthropic/claude-haiku-4.5,ja,mysterious,神秘性,4,0.04
+anthropic/claude-haiku-4.5,ja,wings,翼,4,0.04
+anthropic/claude-haiku-4.5,ja,villain,悪役,4,0.04
+anthropic/claude-haiku-4.5,ja,fire,火を吐く,4,0.04
+anthropic/claude-haiku-4.5,ja,transformation,変化,3,0.03
+anthropic/claude-haiku-4.5,ja,folklore,物語,3,0.03
+anthropic/claude-haiku-4.5,ja,nature,自然の偉大さ,3,0.03
+anthropic/claude-haiku-4.5,ja,fire breath,火を吐く,3,0.03
+anthropic/claude-haiku-4.5,ja,western dragon,西洋のドラゴン,2,0.02
+anthropic/claude-haiku-4.5,ja,attack,襲う,2,0.02
+anthropic/claude-haiku-4.5,ja,crest,家紋,2,0.02
+anthropic/claude-haiku-4.5,ja,bravery,勇気,2,0.02
+anthropic/claude-haiku-4.5,ja,art,美術作品の主題,2,0.02
+anthropic/claude-haiku-4.5,ja,hero,英雄,2,0.02
+anthropic/claude-haiku-4.5,ja,glory,偉大,2,0.02
+anthropic/claude-haiku-4.5,ja,legs,四本の足,2,0.02
+anthropic/claude-haiku-4.5,ja,intelligence,知性,2,0.02
+anthropic/claude-haiku-4.5,ja,shrine,神社の装飾,2,0.02
+anthropic/claude-haiku-4.5,ja,appearance,姿,2,0.02
+anthropic/claude-haiku-4.5,ja,pattern,黄、青、赤,2,0.02
+anthropic/claude-haiku-4.5,ja,general,説明,2,0.02
+anthropic/claude-haiku-4.5,ja,speech,人語を理解する,2,0.02
+anthropic/claude-haiku-4.5,ja,dangerous,人々を脅かす存在,2,0.02
+anthropic/claude-haiku-4.5,ja,clouds,雲,2,0.02
+anthropic/claude-haiku-4.5,ja,feng shui,風水,1,0.01
+anthropic/claude-haiku-4.5,ja,whiskers,髭,1,0.01
+anthropic/claude-haiku-4.5,ja,chinese,中国,1,0.01
+anthropic/claude-haiku-4.5,ja,boss,退治すべき怪物,1,0.01
+anthropic/claude-haiku-4.5,ja,magic,魔法,1,0.01
+anthropic/claude-haiku-4.5,ja,descendants,竜族,1,0.01
+anthropic/claude-haiku-4.5,ja,festival,龍舞,1,0.01
+anthropic/claude-haiku-4.5,ja,tradition,古典,1,0.01
+anthropic/claude-haiku-4.5,ja,religion,神道,1,0.01
+anthropic/claude-haiku-4.5,ja,virtue,善悪のイメージ,1,0.01
+anthropic/claude-haiku-4.5,ja,food,果物が好き,1,0.01
+anthropic/claude-haiku-4.5,ja,rare,超凡,1,0.01
+anthropic/claude-haiku-4.5,ja,longevity,長寿,1,0.01
+anthropic/claude-haiku-4.5,ja,people,たくさんの人,1,0.01
+anthropic/claude-haiku-4.5,ja,sharp,鋭い,1,0.01
+anthropic/claude-haiku-4.5,ja,agriculture,農業や雨の象徴,1,0.01
+anthropic/claude-haiku-4.5,ja,benevolent,善良,1,0.01
+anthropic/claude-haiku-4.5,ja,treasure,宝,1,0.01
+anthropic/claude-haiku-4.5,ja,palace,龍宮,1,0.01
+anthropic/claude-haiku-4.5,ja,large,巨大,1,0.01
+anthropic/claude-haiku-4.5,ja,character,役割,1,0.01
+anthropic/claude-haiku-4.5,ja,blue,青,1,0.01
+anthropic/claude-haiku-4.5,ja,tail,長い尾,1,0.01
+anthropic/claude-haiku-4.5,ja,gold,黄金の山脈,1,0.01
+anthropic/claude-haiku-4.5,ja,red,赤,1,0.01
+anthropic/claude-haiku-4.5,ko,power,권력,74,0.74
+anthropic/claude-haiku-4.5,ko,luck,행운,54,0.54
+anthropic/claude-haiku-4.5,ko,sacred,신성하다,49,0.49
+anthropic/claude-haiku-4.5,ko,royalty,왕권,45,0.45
+anthropic/claude-haiku-4.5,ko,mythical creature,상상 속의 동물,40,0.4
+anthropic/claude-haiku-4.5,ko,prosperity,번영,36,0.36
+anthropic/claude-haiku-4.5,ko,symbol,상징,36,0.36
+anthropic/claude-haiku-4.5,ko,wisdom,지혜,30,0.3
+anthropic/claude-haiku-4.5,ko,horns,뿔,28,0.28
+anthropic/claude-haiku-4.5,ko,water,물,28,0.28
+anthropic/claude-haiku-4.5,ko,creature,동물,26,0.26
+anthropic/claude-haiku-4.5,ko,mysterious,신비롭다,25,0.25
+anthropic/claude-haiku-4.5,ko,divine,신,23,0.23
+anthropic/claude-haiku-4.5,ko,control,다스리다,20,0.2
+anthropic/claude-haiku-4.5,ko,scales,비늘,19,0.19
+anthropic/claude-haiku-4.5,ko,flight,날다,19,0.19
+anthropic/claude-haiku-4.5,ko,rain,비,17,0.17
+anthropic/claude-haiku-4.5,ko,claws,발톱,15,0.15
+anthropic/claude-haiku-4.5,ko,whiskers,수염,15,0.15
+anthropic/claude-haiku-4.5,ko,body,몸,14,0.14
+anthropic/claude-haiku-4.5,ko,water control,다스리다,14,0.14
+anthropic/claude-haiku-4.5,ko,serpentine,뱀,13,0.13
+anthropic/claude-haiku-4.5,ko,zodiac,용띠,11,0.11
+anthropic/claude-haiku-4.5,ko,legs,발,10,0.1
+anthropic/claude-haiku-4.5,ko,authority,권위,9,0.09
+anthropic/claude-haiku-4.5,ko,wings,날개,9,0.09
+anthropic/claude-haiku-4.5,ko,culture,게임,8,0.08
+anthropic/claude-haiku-4.5,ko,eastern dragon,동양,8,0.08
+anthropic/claude-haiku-4.5,ko,bravery,용맹함,7,0.07
+anthropic/claude-haiku-4.5,ko,weather,날씨,7,0.07
+anthropic/claude-haiku-4.5,ko,evil,악,6,0.06
+anthropic/claude-haiku-4.5,ko,guardian,수호신,6,0.06
+anthropic/claude-haiku-4.5,ko,water deity,수신,6,0.06
+anthropic/claude-haiku-4.5,ko,appearance,생김새,6,0.06
+anthropic/claude-haiku-4.5,ko,folklore,이야기,6,0.06
+anthropic/claude-haiku-4.5,ko,reptilian,파충류,5,0.05
+anthropic/claude-haiku-4.5,ko,fertility,풍요,4,0.04
+anthropic/claude-haiku-4.5,ko,important,중요하다,4,0.04
+anthropic/claude-haiku-4.5,ko,transformation,변화,3,0.03
+anthropic/claude-haiku-4.5,ko,omen,길조,3,0.03
+anthropic/claude-haiku-4.5,ko,orb,여의주를 들고 있다,3,0.03
+anthropic/claude-haiku-4.5,ko,fire breath,불을 뿜다,3,0.03
+anthropic/claude-haiku-4.5,ko,tail,꼬리,3,0.03
+anthropic/claude-haiku-4.5,ko,sky,하늘,3,0.03
+anthropic/claude-haiku-4.5,ko,western dragon,서양,3,0.03
+anthropic/claude-haiku-4.5,ko,movement,오가다,3,0.03
+anthropic/claude-haiku-4.5,ko,character,캐릭터,2,0.02
+anthropic/claude-haiku-4.5,ko,pattern,문양,2,0.02
+anthropic/claude-haiku-4.5,ko,magic,마법,2,0.02
+anthropic/claude-haiku-4.5,ko,composite,합쳐지다,2,0.02
+anthropic/claude-haiku-4.5,ko,general,관점,2,0.02
+anthropic/claude-haiku-4.5,ko,clouds,구름,2,0.02
+anthropic/claude-haiku-4.5,ko,weather control,다스리다,2,0.02
+anthropic/claude-haiku-4.5,ko,treasure,보물,2,0.02
+anthropic/claude-haiku-4.5,ko,monster,괴물,2,0.02
+anthropic/claude-haiku-4.5,ko,gold,금색,2,0.02
+anthropic/claude-haiku-4.5,ko,blue,청색,2,0.02
+anthropic/claude-haiku-4.5,ko,yellow dragon,황룡,2,0.02
+anthropic/claude-haiku-4.5,ko,festival,축제,2,0.02
+anthropic/claude-haiku-4.5,ko,harvest,농경의 신,2,0.02
+anthropic/claude-haiku-4.5,ko,benevolent,선하다,2,0.02
+anthropic/claude-haiku-4.5,ko,ascension,승천하다,1,0.01
+anthropic/claude-haiku-4.5,ko,quiet,과묵하다,1,0.01
+anthropic/claude-haiku-4.5,ko,chinese,중국,1,0.01
+anthropic/claude-haiku-4.5,ko,korean,한국,1,0.01
+anthropic/claude-haiku-4.5,ko,japanese,일본,1,0.01
+anthropic/claude-haiku-4.5,ko,chaos,혼돈,1,0.01
+anthropic/claude-haiku-4.5,ko,fierce,무섭다,1,0.01
+anthropic/claude-haiku-4.5,ko,people,민족,1,0.01
+anthropic/claude-haiku-4.5,ko,destructive,파괴,1,0.01
+anthropic/claude-haiku-4.5,ko,tradition,전통 문화,1,0.01
+anthropic/claude-haiku-4.5,ko,buddhism,종교,1,0.01
+anthropic/claude-haiku-4.5,ko,hero,영웅,1,0.01
+anthropic/claude-haiku-4.5,ko,dangerous,위협,1,0.01
+anthropic/claude-haiku-4.5,ko,paws,호랑이,1,0.01
+anthropic/claude-haiku-4.5,ko,mane,갈기,1,0.01
+anthropic/claude-haiku-4.5,ko,head,머리,1,0.01
+anthropic/claude-haiku-4.5,ko,religion,"도교, 불교에서의 의미",1,0.01
+anthropic/claude-haiku-4.5,ko,media,영화,1,0.01
+anthropic/claude-haiku-4.5,ko,palace,바다 속 용왕이 사는 궁전,1,0.01
+anthropic/claude-haiku-4.5,ko,mythology,신화,1,0.01
+anthropic/claude-haiku-4.5,ko,red,빨강,1,0.01
+anthropic/claude-haiku-4.5,ko,azure dragon,청룡,1,0.01
+anthropic/claude-haiku-4.5,ko,nature,자연,1,0.01
+anthropic/claude-haiku-4.5,ko,popular,인기 있는,1,0.01
+anthropic/claude-haiku-4.5,ko,topic,소재,1,0.01
+anthropic/claude-haiku-4.5,ko,eyes,눈,1,0.01
+anthropic/claude-haiku-4.5,ko,majesty,위엄,1,0.01
+anthropic/claude-haiku-4.5,ko,nose,돼지 코,1,0.01
+anthropic/claude-haiku-4.5,ko,summon,부르다,1,0.01
+anthropic/claude-haiku-4.5,zh,luck,吉祥,98,0.98
+anthropic/claude-haiku-4.5,zh,power,力量,97,0.97
+anthropic/claude-haiku-4.5,zh,royalty,尊贵,83,0.83
+anthropic/claude-haiku-4.5,zh,symbol,象征,49,0.49
+anthropic/claude-haiku-4.5,zh,sacred,神圣,45,0.45
+anthropic/claude-haiku-4.5,zh,mythical creature,神异动物,39,0.39
+anthropic/claude-haiku-4.5,zh,wisdom,智慧,38,0.38
+anthropic/claude-haiku-4.5,zh,rain,雨水,32,0.32
+anthropic/claude-haiku-4.5,zh,horns,鹿角,30,0.3
+anthropic/claude-haiku-4.5,zh,water,水,29,0.29
+anthropic/claude-haiku-4.5,zh,culture,龙的传人,28,0.28
+anthropic/claude-haiku-4.5,zh,divine,神兽,27,0.27
+anthropic/claude-haiku-4.5,zh,zodiac,十二生肖,26,0.26
+anthropic/claude-haiku-4.5,zh,flight,能飞,26,0.26
+anthropic/claude-haiku-4.5,zh,prosperity,繁荣,24,0.24
+anthropic/claude-haiku-4.5,zh,claws,鹰爪,23,0.23
+anthropic/claude-haiku-4.5,zh,serpentine,蛇身,20,0.2
+anthropic/claude-haiku-4.5,zh,scales,鱼鳞,18,0.18
+anthropic/claude-haiku-4.5,zh,chinese,中华文明,17,0.17
+anthropic/claude-haiku-4.5,zh,tail,牛尾,14,0.14
+anthropic/claude-haiku-4.5,zh,clouds,腾云驾雾,14,0.14
+anthropic/claude-haiku-4.5,zh,weather,呼风唤雨,12,0.12
+anthropic/claude-haiku-4.5,zh,weather control,呼风唤雨,12,0.12
+anthropic/claude-haiku-4.5,zh,water control,掌管,12,0.12
+anthropic/claude-haiku-4.5,zh,majesty,威严,11,0.11
+anthropic/claude-haiku-4.5,zh,authority,权威,9,0.09
+anthropic/claude-haiku-4.5,zh,descendants,龙的传人,7,0.07
+anthropic/claude-haiku-4.5,zh,creature,生物,7,0.07
+anthropic/claude-haiku-4.5,zh,swimming,能游,6,0.06
+anthropic/claude-haiku-4.5,zh,body,身躯长,6,0.06
+anthropic/claude-haiku-4.5,zh,head,头似驼,5,0.05
+anthropic/claude-haiku-4.5,zh,composite,九似,5,0.05
+anthropic/claude-haiku-4.5,zh,mysterious,神秘,5,0.05
+anthropic/claude-haiku-4.5,zh,magic,魔幻,5,0.05
+anthropic/claude-haiku-4.5,zh,control,掌管,5,0.05
+anthropic/claude-haiku-4.5,zh,transformation,变化,4,0.04
+anthropic/claude-haiku-4.5,zh,storm,龙卷风,3,0.03
+anthropic/claude-haiku-4.5,zh,eyes,眼似兔,3,0.03
+anthropic/claude-haiku-4.5,zh,eagle,鹰,3,0.03
+anthropic/claude-haiku-4.5,zh,intelligence,聪慧,3,0.03
+anthropic/claude-haiku-4.5,zh,deer,角似鹿,3,0.03
+anthropic/claude-haiku-4.5,zh,people,中华民族,3,0.03
+anthropic/claude-haiku-4.5,zh,hero,杰出人物,3,0.03
+anthropic/claude-haiku-4.5,zh,pattern,吉祥的纹样,3,0.03
+anthropic/claude-haiku-4.5,zh,monster,巨兽,3,0.03
+anthropic/claude-haiku-4.5,zh,evil,邪恶,3,0.03
+anthropic/claude-haiku-4.5,zh,harvest,丰收,3,0.03
+anthropic/claude-haiku-4.5,zh,nature,自然力量,2,0.02
+anthropic/claude-haiku-4.5,zh,flood,洪水,2,0.02
+anthropic/claude-haiku-4.5,zh,camel,头似驼,2,0.02
+anthropic/claude-haiku-4.5,zh,ox,耳似牛,2,0.02
+anthropic/claude-haiku-4.5,zh,bravery,勇气,2,0.02
+anthropic/claude-haiku-4.5,zh,whiskers,有须,2,0.02
+anthropic/claude-haiku-4.5,zh,guardian,守护,2,0.02
+anthropic/claude-haiku-4.5,zh,tradition,古代艺术,2,0.02
+anthropic/claude-haiku-4.5,zh,constellation,天龙座,2,0.02
+anthropic/claude-haiku-4.5,zh,fierce,凶猛,2,0.02
+anthropic/claude-haiku-4.5,zh,reptilian,爬行动物,2,0.02
+anthropic/claude-haiku-4.5,zh,benevolent,仁慈,2,0.02
+anthropic/claude-haiku-4.5,zh,thunder,雷电,2,0.02
+anthropic/claude-haiku-4.5,zh,versatile,灵活,2,0.02
+anthropic/claude-haiku-4.5,zh,sky,天象,2,0.02
+anthropic/claude-haiku-4.5,zh,connector,连接天地,1,0.01
+anthropic/claude-haiku-4.5,zh,dinosaur,恐龙化石,1,0.01
+anthropic/claude-haiku-4.5,zh,chaos,混乱,1,0.01
+anthropic/claude-haiku-4.5,zh,wind,风,1,0.01
+anthropic/claude-haiku-4.5,zh,omen,天命,1,0.01
+anthropic/claude-haiku-4.5,zh,ascension,鲤鱼跃龙门,1,0.01
+anthropic/claude-haiku-4.5,zh,longevity,长寿,1,0.01
+anthropic/claude-haiku-4.5,zh,azure dragon,青龙,1,0.01
+anthropic/claude-haiku-4.5,zh,wings,翅膀,1,0.01
+anthropic/claude-haiku-4.5,zh,civilization,华夏文明的重要象征,1,0.01
+anthropic/claude-haiku-4.5,zh,duality,通晓阴阳,1,0.01
+anthropic/claude-haiku-4.5,zh,water deity,水神,1,0.01
+anthropic/claude-haiku-4.5,zh,season,节气,1,0.01
+anthropic/claude-haiku-4.5,zh,rabbit,眼似兔,1,0.01
+anthropic/claude-haiku-4.5,zh,fish,鳞似鱼,1,0.01
+anthropic/claude-haiku-4.5,zh,gold,金色,1,0.01
+anthropic/claude-haiku-4.5,zh,red,红色,1,0.01
+anthropic/claude-haiku-4.5,zh,character,形象,1,0.01
+anthropic/claude-haiku-4.5,zh,ambition,奋发向上,1,0.01
+deepseek/deepseek-v4.1-flash,en,wings,wings,92,0.92
+deepseek/deepseek-v4.1-flash,en,mythical creature,legendary creature,88,0.88
+deepseek/deepseek-v4.1-flash,en,fire,fire-breathing,82,0.82
+deepseek/deepseek-v4.1-flash,en,reptilian,reptilian,78,0.78
+deepseek/deepseek-v4.1-flash,en,power,power,70,0.7
+deepseek/deepseek-v4.1-flash,en,wisdom,wisdom,53,0.53
+deepseek/deepseek-v4.1-flash,en,serpentine,serpentine,47,0.47
+deepseek/deepseek-v4.1-flash,en,luck,good fortune,46,0.46
+deepseek/deepseek-v4.1-flash,en,scales,scales,38,0.38
+deepseek/deepseek-v4.1-flash,en,benevolent,benevolent,36,0.36
+deepseek/deepseek-v4.1-flash,en,large,large,32,0.32
+deepseek/deepseek-v4.1-flash,en,chaos,chaos,30,0.3
+deepseek/deepseek-v4.1-flash,en,claws,claws,28,0.28
+deepseek/deepseek-v4.1-flash,en,water,water,27,0.27
+deepseek/deepseek-v4.1-flash,en,hoarding,hoard treasure,18,0.18
+deepseek/deepseek-v4.1-flash,en,fire breath,fire-breathing,15,0.15
+deepseek/deepseek-v4.1-flash,en,royalty,power,14,0.14
+deepseek/deepseek-v4.1-flash,en,monster,monster,13,0.13
+deepseek/deepseek-v4.1-flash,en,creature,creature,12,0.12
+deepseek/deepseek-v4.1-flash,en,zodiac,sign,11,0.11
+deepseek/deepseek-v4.1-flash,en,villain,villain,10,0.1
+deepseek/deepseek-v4.1-flash,en,rain,rain,10,0.1
+deepseek/deepseek-v4.1-flash,en,weather,weather,9,0.09
+deepseek/deepseek-v4.1-flash,en,destructive,destruction,9,0.09
+deepseek/deepseek-v4.1-flash,en,guardian,protection,9,0.09
+deepseek/deepseek-v4.1-flash,en,dangerous,danger,7,0.07
+deepseek/deepseek-v4.1-flash,en,fierce,fierce,7,0.07
+deepseek/deepseek-v4.1-flash,en,magic,magical,7,0.07
+deepseek/deepseek-v4.1-flash,en,evil,evil,7,0.07
+deepseek/deepseek-v4.1-flash,en,eastern dragon,chinese,6,0.06
+deepseek/deepseek-v4.1-flash,en,wingless,wingless,6,0.06
+deepseek/deepseek-v4.1-flash,en,greed,greedy,6,0.06
+deepseek/deepseek-v4.1-flash,en,authority,authority,5,0.05
+deepseek/deepseek-v4.1-flash,en,archetype,archetype,4,0.04
+deepseek/deepseek-v4.1-flash,en,sacred,revered,3,0.03
+deepseek/deepseek-v4.1-flash,en,symbol,symbol,3,0.03
+deepseek/deepseek-v4.1-flash,en,boss,boss,3,0.03
+deepseek/deepseek-v4.1-flash,en,treasure,treasure,3,0.03
+deepseek/deepseek-v4.1-flash,en,divine,spiritual qualities,3,0.03
+deepseek/deepseek-v4.1-flash,en,horns,horns,2,0.02
+deepseek/deepseek-v4.1-flash,en,important,key,2,0.02
+deepseek/deepseek-v4.1-flash,en,intelligence,intelligent,2,0.02
+deepseek/deepseek-v4.1-flash,en,ally,ally,2,0.02
+deepseek/deepseek-v4.1-flash,en,mythology,mythology,2,0.02
+deepseek/deepseek-v4.1-flash,en,mount,serve,2,0.02
+deepseek/deepseek-v4.1-flash,en,chinese,chinese,2,0.02
+deepseek/deepseek-v4.1-flash,en,majesty,majestic,1,0.01
+deepseek/deepseek-v4.1-flash,en,culture,culture,1,0.01
+deepseek/deepseek-v4.1-flash,en,western dragon,european,1,0.01
+deepseek/deepseek-v4.1-flash,en,nature,nature,1,0.01
+deepseek/deepseek-v4.1-flash,en,slain,slain,1,0.01
+deepseek/deepseek-v4.1-flash,en,character,character,1,0.01
+deepseek/deepseek-v4.1-flash,en,omen,sign,1,0.01
+deepseek/deepseek-v4.1-flash,ja,mythical creature,伝説の生き物,56,0.918
+deepseek/deepseek-v4.1-flash,ja,flight,空を飛ぶ,53,0.869
+deepseek/deepseek-v4.1-flash,ja,power,力,19,0.311
+deepseek/deepseek-v4.1-flash,ja,water,水,11,0.18
+deepseek/deepseek-v4.1-flash,ja,western dragon,西洋のドラゴン,6,0.098
+deepseek/deepseek-v4.1-flash,ja,eastern dragon,東洋の竜,6,0.098
+deepseek/deepseek-v4.1-flash,ja,rain,雨,6,0.098
+deepseek/deepseek-v4.1-flash,ja,royalty,皇帝の象徴,6,0.098
+deepseek/deepseek-v4.1-flash,ja,luck,幸運,4,0.066
+deepseek/deepseek-v4.1-flash,ja,fire,火を吐く,3,0.049
+deepseek/deepseek-v4.1-flash,ja,reptilian,巨大なトカゲ,3,0.049
+deepseek/deepseek-v4.1-flash,ja,symbol,象徴,2,0.033
+deepseek/deepseek-v4.1-flash,ja,sky,天,2,0.033
+deepseek/deepseek-v4.1-flash,ja,creature,生き物,2,0.033
+deepseek/deepseek-v4.1-flash,ja,sacred,神聖な存在,2,0.033
+deepseek/deepseek-v4.1-flash,ja,wings,翼,2,0.033
+deepseek/deepseek-v4.1-flash,ja,divine,霊獣,2,0.033
+deepseek/deepseek-v4.1-flash,ja,food,果物が好き,1,0.016
+deepseek/deepseek-v4.1-flash,ja,popular,かっこいい,1,0.016
+deepseek/deepseek-v4.1-flash,ja,important,重要,1,0.016
+deepseek/deepseek-v4.1-flash,ja,rare,超凡,1,0.016
+deepseek/deepseek-v4.1-flash,ja,character,役割,1,0.016
+deepseek/deepseek-v4.1-flash,ja,japanese,日本の龍,1,0.016
+deepseek/deepseek-v4.1-flash,ja,monster,怪物,1,0.016
+deepseek/deepseek-v4.1-flash,ja,evil,邪悪な存在,1,0.016
+deepseek/deepseek-v4.1-flash,ja,mythology,神話,1,0.016
+deepseek/deepseek-v4.1-flash,ja,buddhism,仏教,1,0.016
+deepseek/deepseek-v4.1-flash,ja,tradition,古典,1,0.016
+deepseek/deepseek-v4.1-flash,ja,majesty,威厳,1,0.016
+deepseek/deepseek-v4.1-flash,ja,culture,ゲーム,1,0.016
+deepseek/deepseek-v4.1-flash,ja,palace,龍宮,1,0.016
+deepseek/deepseek-v4.1-flash,ja,mysterious,神秘性,1,0.016
+deepseek/deepseek-v4.1-flash,ja,storm,嵐,1,0.016
+deepseek/deepseek-v4.1-flash,ja,serpentine,蛇,1,0.016
+deepseek/deepseek-v4.1-flash,ja,fire breath,火を吐く,1,0.016
+deepseek/deepseek-v4.1-flash,ko,mythical creature,상상 속의 동물,6,1.0
+deepseek/deepseek-v4.1-flash,zh,symbol,象征,84,0.84
+deepseek/deepseek-v4.1-flash,zh,luck,吉祥,80,0.8
+deepseek/deepseek-v4.1-flash,zh,royalty,尊贵,75,0.75
+deepseek/deepseek-v4.1-flash,zh,power,力量,72,0.72
+deepseek/deepseek-v4.1-flash,zh,mythical creature,神异动物,54,0.54
+deepseek/deepseek-v4.1-flash,zh,divine,神兽,44,0.44
+deepseek/deepseek-v4.1-flash,zh,authority,权威,42,0.42
+deepseek/deepseek-v4.1-flash,zh,creature,生物,37,0.37
+deepseek/deepseek-v4.1-flash,zh,monster,巨兽,29,0.29
+deepseek/deepseek-v4.1-flash,zh,rain,雨水,26,0.26
+deepseek/deepseek-v4.1-flash,zh,weather control,呼风唤雨,25,0.25
+deepseek/deepseek-v4.1-flash,zh,horns,鹿角,24,0.24
+deepseek/deepseek-v4.1-flash,zh,claws,鹰爪,23,0.23
+deepseek/deepseek-v4.1-flash,zh,serpentine,蛇身,22,0.22
+deepseek/deepseek-v4.1-flash,zh,zodiac,十二生肖,22,0.22
+deepseek/deepseek-v4.1-flash,zh,scales,鱼鳞,21,0.21
+deepseek/deepseek-v4.1-flash,zh,culture,龙的传人,20,0.2
+deepseek/deepseek-v4.1-flash,zh,clouds,腾云驾雾,19,0.19
+deepseek/deepseek-v4.1-flash,zh,wings,翅膀,18,0.18
+deepseek/deepseek-v4.1-flash,zh,evil,邪恶,16,0.16
+deepseek/deepseek-v4.1-flash,zh,fire,喷火,13,0.13
+deepseek/deepseek-v4.1-flash,zh,flight,能飞,12,0.12
+deepseek/deepseek-v4.1-flash,zh,fire breath,喷火,11,0.11
+deepseek/deepseek-v4.1-flash,zh,guardian,守护,11,0.11
+deepseek/deepseek-v4.1-flash,zh,control,掌管,9,0.09
+deepseek/deepseek-v4.1-flash,zh,ears,耳似牛,8,0.08
+deepseek/deepseek-v4.1-flash,zh,composite,九似,8,0.08
+deepseek/deepseek-v4.1-flash,zh,weather,呼风唤雨,7,0.07
+deepseek/deepseek-v4.1-flash,zh,head,头似驼,6,0.06
+deepseek/deepseek-v4.1-flash,zh,eyes,眼似兔,5,0.05
+deepseek/deepseek-v4.1-flash,zh,abdomen,腹似蜃,5,0.05
+deepseek/deepseek-v4.1-flash,zh,wish-granting,实现,4,0.04
+deepseek/deepseek-v4.1-flash,zh,paws,掌似虎,4,0.04
+deepseek/deepseek-v4.1-flash,zh,transformation,变化,4,0.04
+deepseek/deepseek-v4.1-flash,zh,character,形象,4,0.04
+deepseek/deepseek-v4.1-flash,zh,greed,贪婪,4,0.04
+deepseek/deepseek-v4.1-flash,zh,water,水,3,0.03
+deepseek/deepseek-v4.1-flash,zh,treasure,宝藏,3,0.03
+deepseek/deepseek-v4.1-flash,zh,neck,项似蛇,3,0.03
+deepseek/deepseek-v4.1-flash,zh,mysterious,神秘,3,0.03
+deepseek/deepseek-v4.1-flash,zh,reptilian,爬行动物,3,0.03
+deepseek/deepseek-v4.1-flash,zh,mythology,神话,3,0.03
+deepseek/deepseek-v4.1-flash,zh,legs,四足,2,0.02
+deepseek/deepseek-v4.1-flash,zh,boss,boss,2,0.02
+deepseek/deepseek-v4.1-flash,zh,benevolent,仁慈,2,0.02
+deepseek/deepseek-v4.1-flash,zh,large,巨大,2,0.02
+deepseek/deepseek-v4.1-flash,zh,ascension,鲤鱼跃龙门,2,0.02
+deepseek/deepseek-v4.1-flash,zh,swimming,能游,2,0.02
+deepseek/deepseek-v4.1-flash,zh,creation,起源,2,0.02
+deepseek/deepseek-v4.1-flash,zh,harmony,自然和谐,2,0.02
+deepseek/deepseek-v4.1-flash,zh,prosperity,繁荣,2,0.02
+deepseek/deepseek-v4.1-flash,zh,magic,魔幻,2,0.02
+deepseek/deepseek-v4.1-flash,zh,sacred,神圣,2,0.02
+deepseek/deepseek-v4.1-flash,zh,destructive,破坏,2,0.02
+deepseek/deepseek-v4.1-flash,zh,majesty,威严,2,0.02
+deepseek/deepseek-v4.1-flash,zh,omen,天命,1,0.01
+deepseek/deepseek-v4.1-flash,zh,potential,潜力,1,0.01
+deepseek/deepseek-v4.1-flash,zh,weapon,武器,1,0.01
+deepseek/deepseek-v4.1-flash,zh,hero,杰出人物,1,0.01
+deepseek/deepseek-v4.1-flash,zh,western dragon,西方龙,1,0.01
+deepseek/deepseek-v4.1-flash,zh,resilience,意志坚定,1,0.01
+deepseek/deepseek-v4.1-flash,zh,ambition,奋发向上,1,0.01
+deepseek/deepseek-v4.1-flash,zh,constellation,天龙座,1,0.01
+deepseek/deepseek-v4.1-flash,zh,longevity,长寿,1,0.01
+deepseek/deepseek-v4.1-flash,zh,chaos,混乱,1,0.01
+deepseek/deepseek-v4.1-flash,zh,nature,自然力量,1,0.01
+deepseek/deepseek-v4.1-flash,zh,appearance,形象,1,0.01
+deepseek/deepseek-v4.1-flash,zh,people,中华民族,1,0.01
+deepseek/deepseek-v4.1-flash,zh,wind,风,1,0.01
+deepseek/deepseek-v4.1-flash,zh,speech,拟声,1,0.01
+deepseek/deepseek-v4.1-flash,zh,omnipresent,上天入海,1,0.01
+deepseek/deepseek-v4.1-flash,zh,disaster,灾难,1,0.01
+deepseek/deepseek-v4.1-flash,zh,energy,宇宙能量,1,0.01
+deepseek/deepseek-v4.1-flash,zh,descendants,龙的传人,1,0.01
+deepseek/deepseek-v4.1-flash,zh,name,代称,1,0.01
+deepseek/deepseek-v4.1-flash,zh,dangerous,危险,1,0.01
+deepseek/deepseek-v4.1-flash,zh,villain,反派,1,0.01
+deepseek/deepseek-v4.1-flash,zh,harvest,丰收,1,0.01
+deepseek/deepseek-v4.1-flash,zh,whiskers,有须,1,0.01
+deepseek/deepseek-v4.1-flash,zh,ancient,经典,1,0.01
+deepseek/deepseek-v4.1-flash,zh,hoarding,守护财宝,1,0.01
+deepseek/deepseek-v4.1-flash,zh,storm,龙卷风,1,0.01
+deepseek/deepseek-v4.1-flash,zh,movement,能走、能飞、能游泳,1,0.01
+deepseek/deepseek-v4.1-flash,zh,versatile,灵活,1,0.01
+deepseek/deepseek-v4.1-flash,zh,mount,骑乘,1,0.01
+deepseek/deepseek-v4.1-flash,zh,family,家族,1,0.01
+deepseek/deepseek-v4.1-flash,zh,wisdom,智慧,1,0.01
+deepseek/deepseek-v4.1-flash,zh,walk,能走,1,0.01
+deepseek/deepseek-v4.1-flash,zh,folklore,民间传说,1,0.01
+deepseek/deepseek-v4.1-flash,zh,bravery,勇气,1,0.01
+google/gemini-3.5-flash-lite,en,fire,fire-breathing,79,0.79
+google/gemini-3.5-flash-lite,en,mythical creature,legendary creature,78,0.78
+google/gemini-3.5-flash-lite,en,serpentine,serpentine,63,0.63
+google/gemini-3.5-flash-lite,en,wings,wings,59,0.59
+google/gemini-3.5-flash-lite,en,reptilian,reptilian,50,0.5
+google/gemini-3.5-flash-lite,en,large,large,47,0.47
+google/gemini-3.5-flash-lite,en,monster,monster,46,0.46
+google/gemini-3.5-flash-lite,en,luck,good fortune,44,0.44
+google/gemini-3.5-flash-lite,en,wisdom,wisdom,43,0.43
+google/gemini-3.5-flash-lite,en,water,water,36,0.36
+google/gemini-3.5-flash-lite,en,hoarding,hoard treasure,32,0.32
+google/gemini-3.5-flash-lite,en,power,power,28,0.28
+google/gemini-3.5-flash-lite,en,benevolent,benevolent,27,0.27
+google/gemini-3.5-flash-lite,en,magic,magical,26,0.26
+google/gemini-3.5-flash-lite,en,creature,creature,21,0.21
+google/gemini-3.5-flash-lite,en,treasure,treasure,21,0.21
+google/gemini-3.5-flash-lite,en,divine,spiritual qualities,20,0.2
+google/gemini-3.5-flash-lite,en,wingless,wingless,18,0.18
+google/gemini-3.5-flash-lite,en,scales,scales,17,0.17
+google/gemini-3.5-flash-lite,en,legs,four legs,15,0.15
+google/gemini-3.5-flash-lite,en,villain,villain,15,0.15
+google/gemini-3.5-flash-lite,en,flight,fly,13,0.13
+google/gemini-3.5-flash-lite,en,fire breath,fire-breathing,13,0.13
+google/gemini-3.5-flash-lite,en,prosperity,prosperity,12,0.12
+google/gemini-3.5-flash-lite,en,rain,rain,12,0.12
+google/gemini-3.5-flash-lite,en,symbol,symbol,11,0.11
+google/gemini-3.5-flash-lite,en,evil,evil,9,0.09
+google/gemini-3.5-flash-lite,en,western dragon,european,8,0.08
+google/gemini-3.5-flash-lite,en,body,long,8,0.08
+google/gemini-3.5-flash-lite,en,dangerous,danger,7,0.07
+google/gemini-3.5-flash-lite,en,greed,greedy,6,0.06
+google/gemini-3.5-flash-lite,en,fierce,fierce,6,0.06
+google/gemini-3.5-flash-lite,en,royalty,power,6,0.06
+google/gemini-3.5-flash-lite,en,claws,claws,6,0.06
+google/gemini-3.5-flash-lite,en,weather,weather,5,0.05
+google/gemini-3.5-flash-lite,en,chaos,chaos,5,0.05
+google/gemini-3.5-flash-lite,en,storm,typhoons,5,0.05
+google/gemini-3.5-flash-lite,en,flood,floods,5,0.05
+google/gemini-3.5-flash-lite,en,intelligence,intelligent,5,0.05
+google/gemini-3.5-flash-lite,en,eastern dragon,chinese,5,0.05
+google/gemini-3.5-flash-lite,en,horns,horns,5,0.05
+google/gemini-3.5-flash-lite,en,slain,slain,4,0.04
+google/gemini-3.5-flash-lite,en,tail,long tail,4,0.04
+google/gemini-3.5-flash-lite,en,guardian,protection,3,0.03
+google/gemini-3.5-flash-lite,en,water deity,water spirit,3,0.03
+google/gemini-3.5-flash-lite,en,mythology,mythology,3,0.03
+google/gemini-3.5-flash-lite,en,bravery,courage,3,0.03
+google/gemini-3.5-flash-lite,en,composite,combining features of various animals,3,0.03
+google/gemini-3.5-flash-lite,en,popular,popular,2,0.02
+google/gemini-3.5-flash-lite,en,culture,culture,2,0.02
+google/gemini-3.5-flash-lite,en,weather control,control over weather,2,0.02
+google/gemini-3.5-flash-lite,en,challenge,challenges,2,0.02
+google/gemini-3.5-flash-lite,en,spikes,tail spikes,2,0.02
+google/gemini-3.5-flash-lite,en,sacrifice,demanding sacrifices,2,0.02
+google/gemini-3.5-flash-lite,en,whiskers,whisker,2,0.02
+google/gemini-3.5-flash-lite,en,destructive,destruction,2,0.02
+google/gemini-3.5-flash-lite,en,zodiac,sign,1,0.01
+google/gemini-3.5-flash-lite,en,attack,capture princess,1,0.01
+google/gemini-3.5-flash-lite,en,heraldry,red heraldic dragon,1,0.01
+google/gemini-3.5-flash-lite,en,speech,speak,1,0.01
+google/gemini-3.5-flash-lite,en,chinese,chinese,1,0.01
+google/gemini-3.5-flash-lite,en,folklore,folklore,1,0.01
+google/gemini-3.5-flash-lite,en,weapon,weapon of mass destruction,1,0.01
+google/gemini-3.5-flash-lite,en,important,key,1,0.01
+google/gemini-3.5-flash-lite,en,majesty,majestic,1,0.01
+google/gemini-3.5-flash-lite,en,sharp,sharp,1,0.01
+google/gemini-3.5-flash-lite,en,kidnapping,capture princess,1,0.01
+google/gemini-3.5-flash-lite,ja,mythical creature,伝説の生き物,94,0.94
+google/gemini-3.5-flash-lite,ja,royalty,皇帝の象徴,72,0.72
+google/gemini-3.5-flash-lite,ja,serpentine,蛇,70,0.7
+google/gemini-3.5-flash-lite,ja,horns,角,66,0.66
+google/gemini-3.5-flash-lite,ja,reptilian,巨大なトカゲ,66,0.66
+google/gemini-3.5-flash-lite,ja,wings,翼,64,0.64
+google/gemini-3.5-flash-lite,ja,water deity,水神,56,0.56
+google/gemini-3.5-flash-lite,ja,luck,幸運,50,0.5
+google/gemini-3.5-flash-lite,ja,sacred,神聖な存在,45,0.45
+google/gemini-3.5-flash-lite,ja,fire breath,火を吐く,43,0.43
+google/gemini-3.5-flash-lite,ja,scales,鱗,43,0.43
+google/gemini-3.5-flash-lite,ja,claws,爪,38,0.38
+google/gemini-3.5-flash-lite,ja,evil,邪悪な存在,32,0.32
+google/gemini-3.5-flash-lite,ja,water control,水や雲を操る,26,0.26
+google/gemini-3.5-flash-lite,ja,monster,怪物,26,0.26
+google/gemini-3.5-flash-lite,ja,control,司る,26,0.26
+google/gemini-3.5-flash-lite,ja,western dragon,西洋のドラゴン,25,0.25
+google/gemini-3.5-flash-lite,ja,eastern dragon,東洋の竜,25,0.25
+google/gemini-3.5-flash-lite,ja,fire,火を吐く,22,0.22
+google/gemini-3.5-flash-lite,ja,legs,四本の足,22,0.22
+google/gemini-3.5-flash-lite,ja,whiskers,髭,22,0.22
+google/gemini-3.5-flash-lite,ja,rain,雨,22,0.22
+google/gemini-3.5-flash-lite,ja,divine,霊獣,21,0.21
+google/gemini-3.5-flash-lite,ja,guardian,守る,21,0.21
+google/gemini-3.5-flash-lite,ja,water,水,17,0.17
+google/gemini-3.5-flash-lite,ja,weather control,天候の神,16,0.16
+google/gemini-3.5-flash-lite,ja,power,力,12,0.12
+google/gemini-3.5-flash-lite,ja,wingless,翼がない,11,0.11
+google/gemini-3.5-flash-lite,ja,villain,悪役,11,0.11
+google/gemini-3.5-flash-lite,ja,symbol,象徴,8,0.08
+google/gemini-3.5-flash-lite,ja,harvest,農耕神,8,0.08
+google/gemini-3.5-flash-lite,ja,zodiac,干支,8,0.08
+google/gemini-3.5-flash-lite,ja,boss,退治すべき怪物,7,0.07
+google/gemini-3.5-flash-lite,ja,mythology,神話,7,0.07
+google/gemini-3.5-flash-lite,ja,hoarding,宝を守る,7,0.07
+google/gemini-3.5-flash-lite,ja,creature,生き物,7,0.07
+google/gemini-3.5-flash-lite,ja,weather,天候,6,0.06
+google/gemini-3.5-flash-lite,ja,character,役割,6,0.06
+google/gemini-3.5-flash-lite,ja,eyes,鬼の目,6,0.06
+google/gemini-3.5-flash-lite,ja,flight,空を飛ぶ,6,0.06
+google/gemini-3.5-flash-lite,ja,prosperity,繁栄,5,0.05
+google/gemini-3.5-flash-lite,ja,composite,蛇・魚・ワニなどを連想させる姿,5,0.05
+google/gemini-3.5-flash-lite,ja,omen,吉兆,5,0.05
+google/gemini-3.5-flash-lite,ja,bat-like,コウモリ,4,0.04
+google/gemini-3.5-flash-lite,ja,appearance,姿,4,0.04
+google/gemini-3.5-flash-lite,ja,head,駱駝の頭,4,0.04
+google/gemini-3.5-flash-lite,ja,chaos,混沌,3,0.03
+google/gemini-3.5-flash-lite,ja,deer,鹿,3,0.03
+google/gemini-3.5-flash-lite,ja,folklore,物語,3,0.03
+google/gemini-3.5-flash-lite,ja,intelligence,知性,2,0.02
+google/gemini-3.5-flash-lite,ja,fish,鯉,2,0.02
+google/gemini-3.5-flash-lite,ja,eagle,鷲,2,0.02
+google/gemini-3.5-flash-lite,ja,slain,英雄によって退治される存在,2,0.02
+google/gemini-3.5-flash-lite,ja,large,巨大,2,0.02
+google/gemini-3.5-flash-lite,ja,japanese,日本の龍,2,0.02
+google/gemini-3.5-flash-lite,ja,mysterious,神秘性,2,0.02
+google/gemini-3.5-flash-lite,ja,destructive,破壊,2,0.02
+google/gemini-3.5-flash-lite,ja,dinosaur,恐竜のような姿,2,0.02
+google/gemini-3.5-flash-lite,ja,fertility,豊穣,1,0.01
+google/gemini-3.5-flash-lite,ja,treasure,宝,1,0.01
+google/gemini-3.5-flash-lite,ja,challenge,試練,1,0.01
+google/gemini-3.5-flash-lite,ja,summon,呼ぶ,1,0.01
+google/gemini-3.5-flash-lite,ja,duality,善悪の両面,1,0.01
+google/gemini-3.5-flash-lite,ja,wisdom,知恵,1,0.01
+google/gemini-3.5-flash-lite,ja,paws,虎の足,1,0.01
+google/gemini-3.5-flash-lite,ja,spirit animal,霊獣,1,0.01
+google/gemini-3.5-flash-lite,ja,clouds,雲,1,0.01
+google/gemini-3.5-flash-lite,ja,magic,魔法,1,0.01
+google/gemini-3.5-flash-lite,ja,wyvern,翼竜のような姿,1,0.01
+google/gemini-3.5-flash-lite,ja,body,長い体,1,0.01
+google/gemini-3.5-flash-lite,ja,media,アニメ,1,0.01
+google/gemini-3.5-flash-lite,ko,mythical creature,상상 속의 동물,84,0.84
+google/gemini-3.5-flash-lite,ko,royalty,왕권,84,0.84
+google/gemini-3.5-flash-lite,ko,guardian,수호신,64,0.64
+google/gemini-3.5-flash-lite,ko,monster,괴물,56,0.56
+google/gemini-3.5-flash-lite,ko,luck,행운,54,0.54
+google/gemini-3.5-flash-lite,ko,destructive,파괴,49,0.49
+google/gemini-3.5-flash-lite,ko,power,권력,40,0.4
+google/gemini-3.5-flash-lite,ko,sacred,신성하다,37,0.37
+google/gemini-3.5-flash-lite,ko,evil,악,33,0.33
+google/gemini-3.5-flash-lite,ko,fire,뿜다,33,0.33
+google/gemini-3.5-flash-lite,ko,water deity,수신,32,0.32
+google/gemini-3.5-flash-lite,ko,symbol,상징,27,0.27
+google/gemini-3.5-flash-lite,ko,wings,날개,25,0.25
+google/gemini-3.5-flash-lite,ko,divine,신,24,0.24
+google/gemini-3.5-flash-lite,ko,zodiac,용띠,23,0.23
+google/gemini-3.5-flash-lite,ko,fire breath,불을 뿜다,22,0.22
+google/gemini-3.5-flash-lite,ko,reptilian,파충류,21,0.21
+google/gemini-3.5-flash-lite,ko,wisdom,지혜,15,0.15
+google/gemini-3.5-flash-lite,ko,control,다스리다,15,0.15
+google/gemini-3.5-flash-lite,ko,mysterious,신비롭다,13,0.13
+google/gemini-3.5-flash-lite,ko,serpentine,뱀,12,0.12
+google/gemini-3.5-flash-lite,ko,omen,길조,10,0.1
+google/gemini-3.5-flash-lite,ko,horns,뿔,10,0.1
+google/gemini-3.5-flash-lite,ko,claws,발톱,10,0.1
+google/gemini-3.5-flash-lite,ko,hoarding,보물을 지키다,9,0.09
+google/gemini-3.5-flash-lite,ko,creature,동물,9,0.09
+google/gemini-3.5-flash-lite,ko,water,물,9,0.09
+google/gemini-3.5-flash-lite,ko,rain,비,9,0.09
+google/gemini-3.5-flash-lite,ko,chaos,혼돈,8,0.08
+google/gemini-3.5-flash-lite,ko,villain,악역,8,0.08
+google/gemini-3.5-flash-lite,ko,prosperity,번영,8,0.08
+google/gemini-3.5-flash-lite,ko,fierce,무섭다,8,0.08
+google/gemini-3.5-flash-lite,ko,scales,비늘,8,0.08
+google/gemini-3.5-flash-lite,ko,harvest,농경의 신,8,0.08
+google/gemini-3.5-flash-lite,ko,challenge,시련,6,0.06
+google/gemini-3.5-flash-lite,ko,composite,합쳐지다,6,0.06
+google/gemini-3.5-flash-lite,ko,bravery,용맹함,6,0.06
+google/gemini-3.5-flash-lite,ko,greed,탐욕,5,0.05
+google/gemini-3.5-flash-lite,ko,hero,영웅,5,0.05
+google/gemini-3.5-flash-lite,ko,transformation,변화,5,0.05
+google/gemini-3.5-flash-lite,ko,culture,게임,4,0.04
+google/gemini-3.5-flash-lite,ko,ally,비를 내려 가뭄을 해결해 주는 이롭고 신비로운 존재,4,0.04
+google/gemini-3.5-flash-lite,ko,head,머리,4,0.04
+google/gemini-3.5-flash-lite,ko,eyes,눈,4,0.04
+google/gemini-3.5-flash-lite,ko,flight,날다,4,0.04
+google/gemini-3.5-flash-lite,ko,treasure,보물,3,0.03
+google/gemini-3.5-flash-lite,ko,fertility,풍요,3,0.03
+google/gemini-3.5-flash-lite,ko,body,몸,3,0.03
+google/gemini-3.5-flash-lite,ko,mythology,신화,3,0.03
+google/gemini-3.5-flash-lite,ko,tiger,호랑이,3,0.03
+google/gemini-3.5-flash-lite,ko,fish,물고기,3,0.03
+google/gemini-3.5-flash-lite,ko,eagle,매,3,0.03
+google/gemini-3.5-flash-lite,ko,deer,사슴,3,0.03
+google/gemini-3.5-flash-lite,ko,benevolent,선하다,3,0.03
+google/gemini-3.5-flash-lite,ko,dangerous,위협,2,0.02
+google/gemini-3.5-flash-lite,ko,character,캐릭터,2,0.02
+google/gemini-3.5-flash-lite,ko,energy,긍정적인 기운,2,0.02
+google/gemini-3.5-flash-lite,ko,boss,최종 보스,2,0.02
+google/gemini-3.5-flash-lite,ko,water control,다스리다,2,0.02
+google/gemini-3.5-flash-lite,ko,ox,소,2,0.02
+google/gemini-3.5-flash-lite,ko,camel,낙타,2,0.02
+google/gemini-3.5-flash-lite,ko,azure dragon,청룡,2,0.02
+google/gemini-3.5-flash-lite,ko,western dragon,서양,2,0.02
+google/gemini-3.5-flash-lite,ko,eastern dragon,동양,2,0.02
+google/gemini-3.5-flash-lite,ko,media,영화,2,0.02
+google/gemini-3.5-flash-lite,ko,ears,소,2,0.02
+google/gemini-3.5-flash-lite,ko,paws,호랑이,2,0.02
+google/gemini-3.5-flash-lite,ko,weather control,다스리다,2,0.02
+google/gemini-3.5-flash-lite,ko,large,거대한,2,0.02
+google/gemini-3.5-flash-lite,ko,authority,권위,1,0.01
+google/gemini-3.5-flash-lite,ko,weather,날씨,1,0.01
+google/gemini-3.5-flash-lite,ko,whiskers,수염,1,0.01
+google/gemini-3.5-flash-lite,ko,rabbit,토끼,1,0.01
+google/gemini-3.5-flash-lite,ko,abdomen,배,1,0.01
+google/gemini-3.5-flash-lite,ko,slain,무찌르다,1,0.01
+google/gemini-3.5-flash-lite,ko,clam,조개,1,0.01
+google/gemini-3.5-flash-lite,ko,cute,귀엽다,1,0.01
+google/gemini-3.5-flash-lite,ko,adventure,모험의 대상,1,0.01
+google/gemini-3.5-flash-lite,ko,central,중심,1,0.01
+google/gemini-3.5-flash-lite,ko,topic,소재,1,0.01
+google/gemini-3.5-flash-lite,zh,symbol,象征,99,0.99
+google/gemini-3.5-flash-lite,zh,mythical creature,神异动物,96,0.96
+google/gemini-3.5-flash-lite,zh,scales,鱼鳞,89,0.89
+google/gemini-3.5-flash-lite,zh,claws,鹰爪,84,0.84
+google/gemini-3.5-flash-lite,zh,horns,鹿角,84,0.84
+google/gemini-3.5-flash-lite,zh,head,头似驼,82,0.82
+google/gemini-3.5-flash-lite,zh,eyes,眼似兔,79,0.79
+google/gemini-3.5-flash-lite,zh,paws,掌似虎,79,0.79
+google/gemini-3.5-flash-lite,zh,ears,耳似牛,75,0.75
+google/gemini-3.5-flash-lite,zh,abdomen,腹似蜃,58,0.58
+google/gemini-3.5-flash-lite,zh,serpentine,蛇身,54,0.54
+google/gemini-3.5-flash-lite,zh,royalty,尊贵,52,0.52
+google/gemini-3.5-flash-lite,zh,weather control,呼风唤雨,47,0.47
+google/gemini-3.5-flash-lite,zh,neck,项似蛇,35,0.35
+google/gemini-3.5-flash-lite,zh,clouds,腾云驾雾,31,0.31
+google/gemini-3.5-flash-lite,zh,power,力量,25,0.25
+google/gemini-3.5-flash-lite,zh,flight,能飞,23,0.23
+google/gemini-3.5-flash-lite,zh,body,身躯长,22,0.22
+google/gemini-3.5-flash-lite,zh,rain,雨水,21,0.21
+google/gemini-3.5-flash-lite,zh,luck,吉祥,21,0.21
+google/gemini-3.5-flash-lite,zh,composite,九似,20,0.2
+google/gemini-3.5-flash-lite,zh,legs,四足,16,0.16
+google/gemini-3.5-flash-lite,zh,creature,生物,15,0.15
+google/gemini-3.5-flash-lite,zh,walk,能走,14,0.14
+google/gemini-3.5-flash-lite,zh,swimming,能游,13,0.13
+google/gemini-3.5-flash-lite,zh,whiskers,有须,10,0.1
+google/gemini-3.5-flash-lite,zh,bravery,勇气,10,0.1
+google/gemini-3.5-flash-lite,zh,longevity,长寿,6,0.06
+google/gemini-3.5-flash-lite,zh,fish,鳞似鱼,6,0.06
+google/gemini-3.5-flash-lite,zh,camel,头似驼,6,0.06
+google/gemini-3.5-flash-lite,zh,clam,腹似蜃,6,0.06
+google/gemini-3.5-flash-lite,zh,weather,呼风唤雨,5,0.05
+google/gemini-3.5-flash-lite,zh,mane,背部有鬣,5,0.05
+google/gemini-3.5-flash-lite,zh,fire,喷火,5,0.05
+google/gemini-3.5-flash-lite,zh,ox,耳似牛,5,0.05
+google/gemini-3.5-flash-lite,zh,rabbit,眼似兔,5,0.05
+google/gemini-3.5-flash-lite,zh,tiger,掌似虎,5,0.05
+google/gemini-3.5-flash-lite,zh,eagle,鹰,5,0.05
+google/gemini-3.5-flash-lite,zh,deer,角似鹿,5,0.05
+google/gemini-3.5-flash-lite,zh,majesty,威严,4,0.04
+google/gemini-3.5-flash-lite,zh,monster,巨兽,4,0.04
+google/gemini-3.5-flash-lite,zh,wisdom,智慧,4,0.04
+google/gemini-3.5-flash-lite,zh,water deity,水神,4,0.04
+google/gemini-3.5-flash-lite,zh,sacred,神圣,4,0.04
+google/gemini-3.5-flash-lite,zh,prosperity,繁荣,4,0.04
+google/gemini-3.5-flash-lite,zh,fire breath,喷火,4,0.04
+google/gemini-3.5-flash-lite,zh,water control,掌管,4,0.04
+google/gemini-3.5-flash-lite,zh,movement,能走、能飞、能游泳,3,0.03
+google/gemini-3.5-flash-lite,zh,culture,龙的传人,3,0.03
+google/gemini-3.5-flash-lite,zh,evil,邪恶,3,0.03
+google/gemini-3.5-flash-lite,zh,zodiac,十二生肖,3,0.03
+google/gemini-3.5-flash-lite,zh,villain,反派,2,0.02
+google/gemini-3.5-flash-lite,zh,horse,马头,2,0.02
+google/gemini-3.5-flash-lite,zh,divine,神兽,2,0.02
+google/gemini-3.5-flash-lite,zh,benevolent,仁慈,2,0.02
+google/gemini-3.5-flash-lite,zh,orb,额下有明珠,2,0.02
+google/gemini-3.5-flash-lite,zh,wings,翅膀,2,0.02
+google/gemini-3.5-flash-lite,zh,harmony,自然和谐,2,0.02
+google/gemini-3.5-flash-lite,zh,water,水,2,0.02
+google/gemini-3.5-flash-lite,zh,tail,牛尾,2,0.02
+google/gemini-3.5-flash-lite,zh,slain,被征服,1,0.01
+google/gemini-3.5-flash-lite,zh,spikes,背有刺,1,0.01
+google/gemini-3.5-flash-lite,zh,hoarding,守护财宝,1,0.01
+google/gemini-3.5-flash-lite,zh,ally,友善,1,0.01
+google/gemini-3.5-flash-lite,zh,azure dragon,青龙,1,0.01
+google/gemini-3.5-flash-lite,zh,authority,权威,1,0.01
+google/gemini-3.5-flash-lite,zh,mysterious,神秘,1,0.01
+google/gemini-3.5-flash-lite,zh,greed,贪婪,1,0.01
+google/gemini-3.5-flash-lite,zh,reptilian,爬行动物,1,0.01
+google/gemini-3.5-flash-lite,zh,control,掌管,1,0.01
+google/gemini-3.5-flash-lite,zh,fertility,农业,1,0.01
+google/gemini-3.5-flash-lite,zh,habitat,入海,1,0.01
+google/gemini-3.5-flash-lite,zh,spirit animal,精神图腾,1,0.01
+google/gemini-3.5-flash-lite,zh,thunder,雷电,1,0.01
+google/gemini-3.5-flash-lite,zh,magic,魔幻,1,0.01
+meta-llama/llama-4-maverick,en,mythical creature,legendary creature,92,0.92
+meta-llama/llama-4-maverick,en,power,power,88,0.88
+meta-llama/llama-4-maverick,en,fire,fire-breathing,86,0.86
+meta-llama/llama-4-maverick,en,reptilian,reptilian,77,0.77
+meta-llama/llama-4-maverick,en,luck,good fortune,74,0.74
+meta-llama/llama-4-maverick,en,wings,wings,63,0.63
+meta-llama/llama-4-maverick,en,benevolent,benevolent,56,0.56
+meta-llama/llama-4-maverick,en,evil,evil,52,0.52
+meta-llama/llama-4-maverick,en,large,large,44,0.44
+meta-llama/llama-4-maverick,en,wisdom,wisdom,33,0.33
+meta-llama/llama-4-maverick,en,prosperity,prosperity,28,0.28
+meta-llama/llama-4-maverick,en,scales,scales,21,0.21
+meta-llama/llama-4-maverick,en,destructive,destruction,21,0.21
+meta-llama/llama-4-maverick,en,hoarding,hoard treasure,19,0.19
+meta-llama/llama-4-maverick,en,magic,magical,19,0.19
+meta-llama/llama-4-maverick,en,fierce,fierce,16,0.16
+meta-llama/llama-4-maverick,en,folklore,folklore,13,0.13
+meta-llama/llama-4-maverick,en,mythology,mythology,13,0.13
+meta-llama/llama-4-maverick,en,serpentine,serpentine,12,0.12
+meta-llama/llama-4-maverick,en,fire breath,fire-breathing,12,0.12
+meta-llama/llama-4-maverick,en,chaos,chaos,11,0.11
+meta-llama/llama-4-maverick,en,western dragon,european,8,0.08
+meta-llama/llama-4-maverick,en,culture,culture,8,0.08
+meta-llama/llama-4-maverick,en,claws,claws,7,0.07
+meta-llama/llama-4-maverick,en,tail,long tail,7,0.07
+meta-llama/llama-4-maverick,en,flight,fly,6,0.06
+meta-llama/llama-4-maverick,en,intelligence,intelligent,6,0.06
+meta-llama/llama-4-maverick,en,creature,creature,6,0.06
+meta-llama/llama-4-maverick,en,water,water,6,0.06
+meta-llama/llama-4-maverick,en,popular,popular,5,0.05
+meta-llama/llama-4-maverick,en,eastern dragon,chinese,5,0.05
+meta-llama/llama-4-maverick,en,majesty,majestic,5,0.05
+meta-llama/llama-4-maverick,en,symbol,symbol,5,0.05
+meta-llama/llama-4-maverick,en,fertility,fertility,5,0.05
+meta-llama/llama-4-maverick,en,treasure,treasure,5,0.05
+meta-llama/llama-4-maverick,en,dangerous,danger,4,0.04
+meta-llama/llama-4-maverick,en,body,long,4,0.04
+meta-llama/llama-4-maverick,en,control,control,4,0.04
+meta-llama/llama-4-maverick,en,nature,nature,4,0.04
+meta-llama/llama-4-maverick,en,guardian,protection,4,0.04
+meta-llama/llama-4-maverick,en,chinese,chinese,3,0.03
+meta-llama/llama-4-maverick,en,media,movie,3,0.03
+meta-llama/llama-4-maverick,en,japanese,japanese,3,0.03
+meta-llama/llama-4-maverick,en,monster,monster,3,0.03
+meta-llama/llama-4-maverick,en,multiple heads,serpents,3,0.03
+meta-llama/llama-4-maverick,en,weather,weather,3,0.03
+meta-llama/llama-4-maverick,en,slavic,slavic,3,0.03
+meta-llama/llama-4-maverick,en,royalty,power,2,0.02
+meta-llama/llama-4-maverick,en,earth,earth,2,0.02
+meta-llama/llama-4-maverick,en,bravery,courage,2,0.02
+meta-llama/llama-4-maverick,en,villain,villain,2,0.02
+meta-llama/llama-4-maverick,en,armor,armor,2,0.02
+meta-llama/llama-4-maverick,en,appearance,describe,2,0.02
+meta-llama/llama-4-maverick,en,avian,bird-like,1,0.01
+meta-llama/llama-4-maverick,en,middle eastern,middle eastern,1,0.01
+meta-llama/llama-4-maverick,en,legs,four legs,1,0.01
+meta-llama/llama-4-maverick,en,authority,authority,1,0.01
+meta-llama/llama-4-maverick,en,weather control,control over weather,1,0.01
+meta-llama/llama-4-maverick,en,composite,combining features of various animals,1,0.01
+meta-llama/llama-4-maverick,en,attack,capture princess,1,0.01
+meta-llama/llama-4-maverick,en,hero,hero,1,0.01
+meta-llama/llama-4-maverick,en,ancient,ancient,1,0.01
+meta-llama/llama-4-maverick,en,divine,spiritual qualities,1,0.01
+meta-llama/llama-4-maverick,en,demon,satan,1,0.01
+meta-llama/llama-4-maverick,en,sacred,revered,1,0.01
+meta-llama/llama-4-maverick,en,purification,purification,1,0.01
+meta-llama/llama-4-maverick,en,transformation,transformation,1,0.01
+meta-llama/llama-4-maverick,en,healing,healing,1,0.01
+meta-llama/llama-4-maverick,en,greed,greedy,1,0.01
+meta-llama/llama-4-maverick,en,time,centuries,1,0.01
+meta-llama/llama-4-maverick,en,disaster,significance,1,0.01
+meta-llama/llama-4-maverick,ja,reptilian,巨大なトカゲ,66,0.66
+meta-llama/llama-4-maverick,ja,mythical creature,伝説の生き物,63,0.63
+meta-llama/llama-4-maverick,ja,power,力,58,0.58
+meta-llama/llama-4-maverick,ja,wings,翼,56,0.56
+meta-llama/llama-4-maverick,ja,luck,幸運,55,0.55
+meta-llama/llama-4-maverick,ja,fire breath,火を吐く,51,0.51
+meta-llama/llama-4-maverick,ja,creature,生き物,36,0.36
+meta-llama/llama-4-maverick,ja,villain,悪役,35,0.35
+meta-llama/llama-4-maverick,ja,mysterious,神秘性,28,0.28
+meta-llama/llama-4-maverick,ja,sacred,神聖な存在,24,0.24
+meta-llama/llama-4-maverick,ja,prosperity,繁栄,23,0.23
+meta-llama/llama-4-maverick,ja,fire,火を吐く,23,0.23
+meta-llama/llama-4-maverick,ja,flight,空を飛ぶ,18,0.18
+meta-llama/llama-4-maverick,ja,fierce,恐怖,17,0.17
+meta-llama/llama-4-maverick,ja,scales,鱗,16,0.16
+meta-llama/llama-4-maverick,ja,mythology,神話,14,0.14
+meta-llama/llama-4-maverick,ja,royalty,皇帝の象徴,12,0.12
+meta-llama/llama-4-maverick,ja,authority,権威,12,0.12
+meta-llama/llama-4-maverick,ja,evil,邪悪な存在,11,0.11
+meta-llama/llama-4-maverick,ja,serpentine,蛇,11,0.11
+meta-llama/llama-4-maverick,ja,tail,長い尾,10,0.1
+meta-llama/llama-4-maverick,ja,benevolent,善良,9,0.09
+meta-llama/llama-4-maverick,ja,majesty,威厳,9,0.09
+meta-llama/llama-4-maverick,ja,slain,英雄によって退治される存在,9,0.09
+meta-llama/llama-4-maverick,ja,disaster,災厄,8,0.08
+meta-llama/llama-4-maverick,ja,symbol,象徴,7,0.07
+meta-llama/llama-4-maverick,ja,guardian,守る,7,0.07
+meta-llama/llama-4-maverick,ja,magic,魔法,7,0.07
+meta-llama/llama-4-maverick,ja,important,重要,6,0.06
+meta-llama/llama-4-maverick,ja,large,巨大,6,0.06
+meta-llama/llama-4-maverick,ja,dangerous,人々を脅かす存在,6,0.06
+meta-llama/llama-4-maverick,ja,divine,霊獣,5,0.05
+meta-llama/llama-4-maverick,ja,monster,怪物,5,0.05
+meta-llama/llama-4-maverick,ja,claws,爪,5,0.05
+meta-llama/llama-4-maverick,ja,destructive,破壊,5,0.05
+meta-llama/llama-4-maverick,ja,versatile,さまざまな形,4,0.04
+meta-llama/llama-4-maverick,ja,teeth,牙,4,0.04
+meta-llama/llama-4-maverick,ja,weather control,天候の神,4,0.04
+meta-llama/llama-4-maverick,ja,popular,かっこいい,3,0.03
+meta-llama/llama-4-maverick,ja,hoarding,宝を守る,3,0.03
+meta-llama/llama-4-maverick,ja,multiple heads,複数の頭,3,0.03
+meta-llama/llama-4-maverick,ja,western dragon,西洋のドラゴン,3,0.03
+meta-llama/llama-4-maverick,ja,eastern dragon,東洋の竜,3,0.03
+meta-llama/llama-4-maverick,ja,water,水,3,0.03
+meta-llama/llama-4-maverick,ja,legs,四本の足,3,0.03
+meta-llama/llama-4-maverick,ja,culture,ゲーム,3,0.03
+meta-llama/llama-4-maverick,ja,body,長い体,3,0.03
+meta-llama/llama-4-maverick,ja,buddhism,仏教,2,0.02
+meta-llama/llama-4-maverick,ja,demon,悪魔的,2,0.02
+meta-llama/llama-4-maverick,ja,water deity,水神,2,0.02
+meta-llama/llama-4-maverick,ja,intelligence,知性,2,0.02
+meta-llama/llama-4-maverick,ja,rain,雨,2,0.02
+meta-llama/llama-4-maverick,ja,appearance,姿,2,0.02
+meta-llama/llama-4-maverick,ja,horns,角,2,0.02
+meta-llama/llama-4-maverick,ja,longevity,長寿,2,0.02
+meta-llama/llama-4-maverick,ja,omen,吉兆,2,0.02
+meta-llama/llama-4-maverick,ja,nature,自然の偉大さ,2,0.02
+meta-llama/llama-4-maverick,ja,whiskers,髭,2,0.02
+meta-llama/llama-4-maverick,ja,wisdom,知恵,2,0.02
+meta-llama/llama-4-maverick,ja,zodiac,干支,1,0.01
+meta-llama/llama-4-maverick,ja,speech,人語を理解する,1,0.01
+meta-llama/llama-4-maverick,ja,hero,英雄,1,0.01
+meta-llama/llama-4-maverick,ja,composite,蛇・魚・ワニなどを連想させる姿,1,0.01
+meta-llama/llama-4-maverick,ja,omnipresent,見られます,1,0.01
+meta-llama/llama-4-maverick,ja,religion,神道,1,0.01
+meta-llama/llama-4-maverick,ja,movement,飛躍,1,0.01
+meta-llama/llama-4-maverick,ja,energy,龍脈,1,0.01
+meta-llama/llama-4-maverick,ja,habitat,住む,1,0.01
+meta-llama/llama-4-maverick,ja,bravery,勇気,1,0.01
+meta-llama/llama-4-maverick,ja,folklore,物語,1,0.01
+meta-llama/llama-4-maverick,ja,weather,天候,1,0.01
+meta-llama/llama-4-maverick,ja,wingless,翼がない,1,0.01
+meta-llama/llama-4-maverick,ja,character,役割,1,0.01
+meta-llama/llama-4-maverick,ja,tradition,古典,1,0.01
+meta-llama/llama-4-maverick,ko,serpentine,뱀,52,0.675
+meta-llama/llama-4-maverick,ko,mythical creature,상상 속의 동물,50,0.649
+meta-llama/llama-4-maverick,ko,power,권력,39,0.506
+meta-llama/llama-4-maverick,ko,luck,행운,38,0.494
+meta-llama/llama-4-maverick,ko,wings,날개,37,0.481
+meta-llama/llama-4-maverick,ko,evil,악,30,0.39
+meta-llama/llama-4-maverick,ko,benevolent,선하다,28,0.364
+meta-llama/llama-4-maverick,ko,legs,발,24,0.312
+meta-llama/llama-4-maverick,ko,creature,동물,20,0.26
+meta-llama/llama-4-maverick,ko,royalty,왕권,20,0.26
+meta-llama/llama-4-maverick,ko,claws,발톱,18,0.234
+meta-llama/llama-4-maverick,ko,divine,신,16,0.208
+meta-llama/llama-4-maverick,ko,reptilian,파충류,16,0.208
+meta-llama/llama-4-maverick,ko,fire,뿜다,14,0.182
+meta-llama/llama-4-maverick,ko,sacred,신성하다,14,0.182
+meta-llama/llama-4-maverick,ko,authority,권위,12,0.156
+meta-llama/llama-4-maverick,ko,magic,마법,12,0.156
+meta-llama/llama-4-maverick,ko,prosperity,번영,11,0.143
+meta-llama/llama-4-maverick,ko,fire breath,불을 뿜다,11,0.143
+meta-llama/llama-4-maverick,ko,symbol,상징,10,0.13
+meta-llama/llama-4-maverick,ko,rain,비,10,0.13
+meta-llama/llama-4-maverick,ko,flight,날다,9,0.117
+meta-llama/llama-4-maverick,ko,water,물,9,0.117
+meta-llama/llama-4-maverick,ko,scales,비늘,8,0.104
+meta-llama/llama-4-maverick,ko,omen,길조,7,0.091
+meta-llama/llama-4-maverick,ko,demon,사탄,7,0.091
+meta-llama/llama-4-maverick,ko,large,거대한,7,0.091
+meta-llama/llama-4-maverick,ko,mysterious,신비롭다,6,0.078
+meta-llama/llama-4-maverick,ko,appearance,생김새,6,0.078
+meta-llama/llama-4-maverick,ko,disaster,재앙,4,0.052
+meta-llama/llama-4-maverick,ko,mythology,신화,4,0.052
+meta-llama/llama-4-maverick,ko,destructive,파괴,4,0.052
+meta-llama/llama-4-maverick,ko,horns,뿔,4,0.052
+meta-llama/llama-4-maverick,ko,clouds,구름,4,0.052
+meta-llama/llama-4-maverick,ko,water deity,수신,4,0.052
+meta-llama/llama-4-maverick,ko,control,다스리다,3,0.039
+meta-llama/llama-4-maverick,ko,duality,양면성,3,0.039
+meta-llama/llama-4-maverick,ko,omnipresent,존재,3,0.039
+meta-llama/llama-4-maverick,ko,wisdom,지혜,3,0.039
+meta-llama/llama-4-maverick,ko,monster,괴물,3,0.039
+meta-llama/llama-4-maverick,ko,weather control,다스리다,3,0.039
+meta-llama/llama-4-maverick,ko,whiskers,수염,3,0.039
+meta-llama/llama-4-maverick,ko,ally,비를 내려 가뭄을 해결해 주는 이롭고 신비로운 존재,2,0.026
+meta-llama/llama-4-maverick,ko,healing,약,2,0.026
+meta-llama/llama-4-maverick,ko,body,몸,2,0.026
+meta-llama/llama-4-maverick,ko,longevity,장수,2,0.026
+meta-llama/llama-4-maverick,ko,intelligence,뛰어난 지능,2,0.026
+meta-llama/llama-4-maverick,ko,horse,말,2,0.026
+meta-llama/llama-4-maverick,ko,habitat,살다,2,0.026
+meta-llama/llama-4-maverick,ko,eastern dragon,동양,2,0.026
+meta-llama/llama-4-maverick,ko,guardian,수호신,2,0.026
+meta-llama/llama-4-maverick,ko,villain,악역,2,0.026
+meta-llama/llama-4-maverick,ko,connector,연결하다,2,0.026
+meta-llama/llama-4-maverick,ko,culture,게임,2,0.026
+meta-llama/llama-4-maverick,ko,bravery,용맹함,2,0.026
+meta-llama/llama-4-maverick,ko,majesty,위엄,2,0.026
+meta-llama/llama-4-maverick,ko,water control,다스리다,2,0.026
+meta-llama/llama-4-maverick,ko,fierce,무섭다,2,0.026
+meta-llama/llama-4-maverick,ko,general,관점,2,0.026
+meta-llama/llama-4-maverick,ko,glory,왕의 덕과 천명을 찬양하는 노래,2,0.026
+meta-llama/llama-4-maverick,ko,freedom,자유롭다,2,0.026
+meta-llama/llama-4-maverick,ko,folklore,이야기,2,0.026
+meta-llama/llama-4-maverick,ko,composite,합쳐지다,1,0.013
+meta-llama/llama-4-maverick,ko,boss,최종 보스,1,0.013
+meta-llama/llama-4-maverick,ko,head,머리,1,0.013
+meta-llama/llama-4-maverick,ko,transformation,변화,1,0.013
+meta-llama/llama-4-maverick,ko,movement,오가다,1,0.013
+meta-llama/llama-4-maverick,ko,creation,천지·우주,1,0.013
+meta-llama/llama-4-maverick,ko,western dragon,서양,1,0.013
+meta-llama/llama-4-maverick,ko,reincarnation,환생하다,1,0.013
+meta-llama/llama-4-maverick,ko,azure dragon,청룡,1,0.013
+meta-llama/llama-4-maverick,ko,hero,영웅,1,0.013
+meta-llama/llama-4-maverick,ko,chinese,중국,1,0.013
+meta-llama/llama-4-maverick,ko,weather,날씨,1,0.013
+meta-llama/llama-4-maverick,ko,sacrifice,희생물,1,0.013
+meta-llama/llama-4-maverick,ko,quiet,과묵하다,1,0.013
+meta-llama/llama-4-maverick,ko,generosity,관대하다,1,0.013
+meta-llama/llama-4-maverick,ko,virtue,재주,1,0.013
+meta-llama/llama-4-maverick,ko,blue,청색,1,0.013
+meta-llama/llama-4-maverick,ko,zodiac,용띠,1,0.013
+meta-llama/llama-4-maverick,ko,family,엄마,1,0.013
+meta-llama/llama-4-maverick,ko,chaos,혼돈,1,0.013
+meta-llama/llama-4-maverick,ko,dormant,지치다,1,0.013
+meta-llama/llama-4-maverick,ko,cute,귀엽다,1,0.013
+meta-llama/llama-4-maverick,ko,cardinal direction,사신,1,0.013
+meta-llama/llama-4-maverick,ko,mane,갈기,1,0.013
+meta-llama/llama-4-maverick,ko,wingless,날개,1,0.013
+meta-llama/llama-4-maverick,ko,armor,갑옷,1,0.013
+meta-llama/llama-4-maverick,ko,dangerous,위협,1,0.013
+meta-llama/llama-4-maverick,ko,teeth,악어의 입,1,0.013
+meta-llama/llama-4-maverick,ko,popular,인기 있는,1,0.013
+meta-llama/llama-4-maverick,ko,slain,무찌르다,1,0.013
+meta-llama/llama-4-maverick,ko,sky,하늘,1,0.013
+meta-llama/llama-4-maverick,ko,eyes,눈,1,0.013
+meta-llama/llama-4-maverick,zh,power,力量,82,0.82
+meta-llama/llama-4-maverick,zh,large,巨大,80,0.8
+meta-llama/llama-4-maverick,zh,reptilian,爬行动物,76,0.76
+meta-llama/llama-4-maverick,zh,scales,鱼鳞,60,0.6
+meta-llama/llama-4-maverick,zh,mythical creature,神异动物,56,0.56
+meta-llama/llama-4-maverick,zh,luck,吉祥,55,0.55
+meta-llama/llama-4-maverick,zh,serpentine,蛇身,50,0.5
+meta-llama/llama-4-maverick,zh,fire,喷火,46,0.46
+meta-llama/llama-4-maverick,zh,benevolent,仁慈,39,0.39
+meta-llama/llama-4-maverick,zh,fire breath,喷火,37,0.37
+meta-llama/llama-4-maverick,zh,evil,邪恶,34,0.34
+meta-llama/llama-4-maverick,zh,royalty,尊贵,29,0.29
+meta-llama/llama-4-maverick,zh,magic,魔幻,27,0.27
+meta-llama/llama-4-maverick,zh,fierce,凶猛,22,0.22
+meta-llama/llama-4-maverick,zh,wings,翅膀,22,0.22
+meta-llama/llama-4-maverick,zh,creature,生物,19,0.19
+meta-llama/llama-4-maverick,zh,majesty,威严,15,0.15
+meta-llama/llama-4-maverick,zh,flight,能飞,15,0.15
+meta-llama/llama-4-maverick,zh,mysterious,神秘,13,0.13
+meta-llama/llama-4-maverick,zh,symbol,象征,12,0.12
+meta-llama/llama-4-maverick,zh,wisdom,智慧,10,0.1
+meta-llama/llama-4-maverick,zh,prosperity,繁荣,10,0.1
+meta-llama/llama-4-maverick,zh,tail,牛尾,9,0.09
+meta-llama/llama-4-maverick,zh,culture,龙的传人,8,0.08
+meta-llama/llama-4-maverick,zh,folklore,民间传说,8,0.08
+meta-llama/llama-4-maverick,zh,claws,鹰爪,7,0.07
+meta-llama/llama-4-maverick,zh,body,身躯长,7,0.07
+meta-llama/llama-4-maverick,zh,destructive,破坏,5,0.05
+meta-llama/llama-4-maverick,zh,mythology,神话,5,0.05
+meta-llama/llama-4-maverick,zh,chaos,混乱,5,0.05
+meta-llama/llama-4-maverick,zh,important,重要,5,0.05
+meta-llama/llama-4-maverick,zh,authority,权威,5,0.05
+meta-llama/llama-4-maverick,zh,water,水,5,0.05
+meta-llama/llama-4-maverick,zh,bravery,勇气,4,0.04
+meta-llama/llama-4-maverick,zh,weather control,呼风唤雨,4,0.04
+meta-llama/llama-4-maverick,zh,guardian,守护,4,0.04
+meta-llama/llama-4-maverick,zh,wind,风,4,0.04
+meta-llama/llama-4-maverick,zh,sacred,神圣,4,0.04
+meta-llama/llama-4-maverick,zh,armor,鳞片状的身甲,4,0.04
+meta-llama/llama-4-maverick,zh,control,掌管,3,0.03
+meta-llama/llama-4-maverick,zh,monster,巨兽,3,0.03
+meta-llama/llama-4-maverick,zh,pattern,吉祥的纹样,3,0.03
+meta-llama/llama-4-maverick,zh,appearance,形象,2,0.02
+meta-llama/llama-4-maverick,zh,dangerous,危险,2,0.02
+meta-llama/llama-4-maverick,zh,omen,天命,2,0.02
+meta-llama/llama-4-maverick,zh,rain,雨水,2,0.02
+meta-llama/llama-4-maverick,zh,multiple heads,具有多个头,2,0.02
+meta-llama/llama-4-maverick,zh,eastern dragon,东方龙,2,0.02
+meta-llama/llama-4-maverick,zh,hoarding,守护财宝,2,0.02
+meta-llama/llama-4-maverick,zh,weather,呼风唤雨,2,0.02
+meta-llama/llama-4-maverick,zh,teeth,拥有獠牙,2,0.02
+meta-llama/llama-4-maverick,zh,western dragon,西方龙,2,0.02
+meta-llama/llama-4-maverick,zh,head,头似驼,2,0.02
+meta-llama/llama-4-maverick,zh,shining,闪亮的,2,0.02
+meta-llama/llama-4-maverick,zh,villain,反派,2,0.02
+meta-llama/llama-4-maverick,zh,wyvern,像翼龙一样的怪物,1,0.01
+meta-llama/llama-4-maverick,zh,water deity,水神,1,0.01
+meta-llama/llama-4-maverick,zh,whiskers,有须,1,0.01
+meta-llama/llama-4-maverick,zh,legs,四足,1,0.01
+meta-llama/llama-4-maverick,zh,popular,着迷,1,0.01
+meta-llama/llama-4-maverick,zh,glory,荣耀,1,0.01
+meta-llama/llama-4-maverick,zh,transformation,变化,1,0.01
+meta-llama/llama-4-maverick,zh,concept,概念,1,0.01
+meta-llama/llama-4-maverick,zh,hero,杰出人物,1,0.01
+meta-llama/llama-4-maverick,zh,poison,吐毒液,1,0.01
+meta-llama/llama-4-maverick,zh,food,吞噬猎物,1,0.01
+meta-llama/llama-4-maverick,zh,challenge,挑战,1,0.01
+meta-llama/llama-4-maverick,zh,chinese,中华文明,1,0.01
+meta-llama/llama-4-maverick,zh,slavic,斯拉夫,1,0.01
+meta-llama/llama-4-maverick,zh,japanese,日本,1,0.01
+meta-llama/llama-4-maverick,zh,darkness,黑暗,1,0.01
+meta-llama/llama-4-maverick,zh,nature,自然力量,1,0.01
+meta-llama/llama-4-maverick,zh,boss,boss,1,0.01
+meta-llama/llama-4-maverick,zh,divine,神兽,1,0.01
+meta-llama/llama-4-maverick,zh,longevity,长寿,1,0.01
+mistralai/mistral-small-2603,en,mythical creature,legendary creature,49,0.563
+mistralai/mistral-small-2603,en,fire,fire-breathing,37,0.425
+mistralai/mistral-small-2603,en,power,power,35,0.402
+mistralai/mistral-small-2603,en,wings,wings,31,0.356
+mistralai/mistral-small-2603,en,reptilian,reptilian,28,0.322
+mistralai/mistral-small-2603,en,wisdom,wisdom,27,0.31
+mistralai/mistral-small-2603,en,serpentine,serpentine,26,0.299
+mistralai/mistral-small-2603,en,magic,magical,20,0.23
+mistralai/mistral-small-2603,en,mythology,mythology,18,0.207
+mistralai/mistral-small-2603,en,large,large,18,0.207
+mistralai/mistral-small-2603,en,evil,evil,18,0.207
+mistralai/mistral-small-2603,en,creature,creature,17,0.195
+mistralai/mistral-small-2603,en,water,water,16,0.184
+mistralai/mistral-small-2603,en,western dragon,european,16,0.184
+mistralai/mistral-small-2603,en,eastern dragon,chinese,15,0.172
+mistralai/mistral-small-2603,en,benevolent,benevolent,14,0.161
+mistralai/mistral-small-2603,en,scales,scales,13,0.149
+mistralai/mistral-small-2603,en,hoarding,hoard treasure,12,0.138
+mistralai/mistral-small-2603,en,folklore,folklore,10,0.115
+mistralai/mistral-small-2603,en,culture,culture,10,0.115
+mistralai/mistral-small-2603,en,claws,claws,9,0.103
+mistralai/mistral-small-2603,en,symbol,symbol,9,0.103
+mistralai/mistral-small-2603,en,flight,fly,9,0.103
+mistralai/mistral-small-2603,en,destructive,destruction,7,0.08
+mistralai/mistral-small-2603,en,monster,monster,7,0.08
+mistralai/mistral-small-2603,en,horns,horns,6,0.069
+mistralai/mistral-small-2603,en,treasure,treasure,6,0.069
+mistralai/mistral-small-2603,en,luck,good fortune,6,0.069
+mistralai/mistral-small-2603,en,dangerous,danger,5,0.057
+mistralai/mistral-small-2603,en,fire breath,fire-breathing,5,0.057
+mistralai/mistral-small-2603,en,intelligence,intelligent,5,0.057
+mistralai/mistral-small-2603,en,tail,long tail,4,0.046
+mistralai/mistral-small-2603,en,rain,rain,4,0.046
+mistralai/mistral-small-2603,en,prosperity,prosperity,4,0.046
+mistralai/mistral-small-2603,en,body,long,4,0.046
+mistralai/mistral-small-2603,en,chaos,chaos,3,0.034
+mistralai/mistral-small-2603,en,guardian,protection,3,0.034
+mistralai/mistral-small-2603,en,speech,speak,3,0.034
+mistralai/mistral-small-2603,en,wingless,wingless,3,0.034
+mistralai/mistral-small-2603,en,chinese,chinese,3,0.034
+mistralai/mistral-small-2603,en,zodiac,sign,2,0.023
+mistralai/mistral-small-2603,en,eyes,glowing eyes,2,0.023
+mistralai/mistral-small-2603,en,mysterious,mystery,2,0.023
+mistralai/mistral-small-2603,en,authority,authority,2,0.023
+mistralai/mistral-small-2603,en,attack,capture princess,2,0.023
+mistralai/mistral-small-2603,en,control,control,2,0.023
+mistralai/mistral-small-2603,en,ice,ice,2,0.023
+mistralai/mistral-small-2603,en,royalty,power,2,0.023
+mistralai/mistral-small-2603,en,fertility,fertility,2,0.023
+mistralai/mistral-small-2603,en,fierce,fierce,2,0.023
+mistralai/mistral-small-2603,en,teeth,tooth,2,0.023
+mistralai/mistral-small-2603,en,nature,nature,2,0.023
+mistralai/mistral-small-2603,en,pattern,iridescent,2,0.023
+mistralai/mistral-small-2603,en,norse,norse,2,0.023
+mistralai/mistral-small-2603,en,science,science,2,0.023
+mistralai/mistral-small-2603,en,duality,dualities,1,0.011
+mistralai/mistral-small-2603,en,creation,create,1,0.011
+mistralai/mistral-small-2603,en,order,order,1,0.011
+mistralai/mistral-small-2603,en,villain,villain,1,0.011
+mistralai/mistral-small-2603,en,multiple heads,serpents,1,0.011
+mistralai/mistral-small-2603,en,storm,typhoons,1,0.011
+mistralai/mistral-small-2603,en,divine,spiritual qualities,1,0.011
+mistralai/mistral-small-2603,en,character,character,1,0.011
+mistralai/mistral-small-2603,en,people,woman,1,0.011
+mistralai/mistral-small-2603,en,archetype,archetype,1,0.011
+mistralai/mistral-small-2603,en,fish,giant fish,1,0.011
+mistralai/mistral-small-2603,en,energy,yang,1,0.011
+mistralai/mistral-small-2603,en,sky,celestial,1,0.011
+mistralai/mistral-small-2603,en,ancient,ancient,1,0.011
+mistralai/mistral-small-2603,en,legs,four legs,1,0.011
+mistralai/mistral-small-2603,en,whiskers,whisker,1,0.011
+mistralai/mistral-small-2603,en,mane,mane,1,0.011
+mistralai/mistral-small-2603,en,poison,poison,1,0.011
+mistralai/mistral-small-2603,en,armor,armor,1,0.011
+mistralai/mistral-small-2603,en,sacred,revered,1,0.011
+mistralai/mistral-small-2603,en,wind,air,1,0.011
+mistralai/mistral-small-2603,en,slain,slain,1,0.011
+mistralai/mistral-small-2603,en,heraldry,red heraldic dragon,1,0.011
+mistralai/mistral-small-2603,en,japanese,japanese,1,0.011
+mistralai/mistral-small-2603,en,water deity,water spirit,1,0.011
+mistralai/mistral-small-2603,en,weather,weather,1,0.011
+mistralai/mistral-small-2603,en,sharp,sharp,1,0.011
+mistralai/mistral-small-2603,ja,mythical creature,伝説の生き物,71,0.798
+mistralai/mistral-small-2603,ja,scales,鱗,45,0.506
+mistralai/mistral-small-2603,ja,horns,角,43,0.483
+mistralai/mistral-small-2603,ja,power,力,37,0.416
+mistralai/mistral-small-2603,ja,royalty,皇帝の象徴,36,0.404
+mistralai/mistral-small-2603,ja,serpentine,蛇,32,0.36
+mistralai/mistral-small-2603,ja,sacred,神聖な存在,31,0.348
+mistralai/mistral-small-2603,ja,claws,爪,26,0.292
+mistralai/mistral-small-2603,ja,wings,翼,23,0.258
+mistralai/mistral-small-2603,ja,legs,四本の足,22,0.247
+mistralai/mistral-small-2603,ja,wisdom,知恵,21,0.236
+mistralai/mistral-small-2603,ja,rain,雨,20,0.225
+mistralai/mistral-small-2603,ja,flight,空を飛ぶ,20,0.225
+mistralai/mistral-small-2603,ja,fire,火を吐く,19,0.213
+mistralai/mistral-small-2603,ja,water,水,18,0.202
+mistralai/mistral-small-2603,ja,intelligence,知性,17,0.191
+mistralai/mistral-small-2603,ja,reptilian,巨大なトカゲ,17,0.191
+mistralai/mistral-small-2603,ja,symbol,象徴,16,0.18
+mistralai/mistral-small-2603,ja,weather control,天候の神,13,0.146
+mistralai/mistral-small-2603,ja,body,長い体,13,0.146
+mistralai/mistral-small-2603,ja,evil,邪悪な存在,11,0.124
+mistralai/mistral-small-2603,ja,eastern dragon,東洋の竜,10,0.112
+mistralai/mistral-small-2603,ja,mythology,神話,9,0.101
+mistralai/mistral-small-2603,ja,guardian,守る,9,0.101
+mistralai/mistral-small-2603,ja,sky,天,8,0.09
+mistralai/mistral-small-2603,ja,luck,幸運,8,0.09
+mistralai/mistral-small-2603,ja,fire breath,火を吐く,8,0.09
+mistralai/mistral-small-2603,ja,large,巨大,8,0.09
+mistralai/mistral-small-2603,ja,water control,水や雲を操る,8,0.09
+mistralai/mistral-small-2603,ja,whiskers,髭,8,0.09
+mistralai/mistral-small-2603,ja,western dragon,西洋のドラゴン,8,0.09
+mistralai/mistral-small-2603,ja,creature,生き物,8,0.09
+mistralai/mistral-small-2603,ja,thunder,雷,7,0.079
+mistralai/mistral-small-2603,ja,water deity,水神,6,0.067
+mistralai/mistral-small-2603,ja,magic,魔法,6,0.067
+mistralai/mistral-small-2603,ja,divine,霊獣,6,0.067
+mistralai/mistral-small-2603,ja,clouds,雲,6,0.067
+mistralai/mistral-small-2603,ja,nature,自然の偉大さ,6,0.067
+mistralai/mistral-small-2603,ja,prosperity,繁栄,5,0.056
+mistralai/mistral-small-2603,ja,weather,天候,5,0.056
+mistralai/mistral-small-2603,ja,multiple heads,複数の頭,5,0.056
+mistralai/mistral-small-2603,ja,storm,嵐,5,0.056
+mistralai/mistral-small-2603,ja,tail,長い尾,4,0.045
+mistralai/mistral-small-2603,ja,control,司る,4,0.045
+mistralai/mistral-small-2603,ja,authority,権威,4,0.045
+mistralai/mistral-small-2603,ja,chinese,中国,4,0.045
+mistralai/mistral-small-2603,ja,hoarding,宝を守る,4,0.045
+mistralai/mistral-small-2603,ja,fierce,恐怖,4,0.045
+mistralai/mistral-small-2603,ja,archetype,種類,4,0.045
+mistralai/mistral-small-2603,ja,fish,鯉,4,0.045
+mistralai/mistral-small-2603,ja,destructive,破壊,3,0.034
+mistralai/mistral-small-2603,ja,composite,蛇・魚・ワニなどを連想させる姿,3,0.034
+mistralai/mistral-small-2603,ja,messenger,使い,3,0.034
+mistralai/mistral-small-2603,ja,majesty,威厳,3,0.034
+mistralai/mistral-small-2603,ja,monster,怪物,2,0.022
+mistralai/mistral-small-2603,ja,benevolent,善良,2,0.022
+mistralai/mistral-small-2603,ja,japanese,日本の龍,2,0.022
+mistralai/mistral-small-2603,ja,head,駱駝の頭,2,0.022
+mistralai/mistral-small-2603,ja,teeth,牙,2,0.022
+mistralai/mistral-small-2603,ja,fertility,豊穣,2,0.022
+mistralai/mistral-small-2603,ja,important,重要,2,0.022
+mistralai/mistral-small-2603,ja,armor,物理防御,2,0.022
+mistralai/mistral-small-2603,ja,eagle,鷲,2,0.022
+mistralai/mistral-small-2603,ja,pattern,黄、青、赤,2,0.022
+mistralai/mistral-small-2603,ja,culture,ゲーム,2,0.022
+mistralai/mistral-small-2603,ja,sharp,鋭い,2,0.022
+mistralai/mistral-small-2603,ja,poison,毒液,2,0.022
+mistralai/mistral-small-2603,ja,dangerous,人々を脅かす存在,2,0.022
+mistralai/mistral-small-2603,ja,movement,飛躍,1,0.011
+mistralai/mistral-small-2603,ja,creation,創作の相談,1,0.011
+mistralai/mistral-small-2603,ja,fin,鰭,1,0.011
+mistralai/mistral-small-2603,ja,azure dragon,青玄,1,0.011
+mistralai/mistral-small-2603,ja,longevity,長寿,1,0.011
+mistralai/mistral-small-2603,ja,healing,麻薬の象徴,1,0.011
+mistralai/mistral-small-2603,ja,energy,龍脈,1,0.011
+mistralai/mistral-small-2603,ja,zodiac,干支,1,0.011
+mistralai/mistral-small-2603,ja,feng shui,風水,1,0.011
+mistralai/mistral-small-2603,ja,disaster,災厄,1,0.011
+mistralai/mistral-small-2603,ja,villain,悪役,1,0.011
+mistralai/mistral-small-2603,ja,quiet,沈黙,1,0.011
+mistralai/mistral-small-2603,ja,rabbit,兎,1,0.011
+mistralai/mistral-small-2603,ja,horse,馬,1,0.011
+mistralai/mistral-small-2603,ja,deer,鹿,1,0.011
+mistralai/mistral-small-2603,ja,ox,牛,1,0.011
+mistralai/mistral-small-2603,ja,vulnerability,逆鱗,1,0.011
+mistralai/mistral-small-2603,ja,mysterious,神秘性,1,0.011
+mistralai/mistral-small-2603,ja,family,竜の妻,1,0.011
+mistralai/mistral-small-2603,ja,media,アニメ,1,0.011
+mistralai/mistral-small-2603,ja,transformation,変化,1,0.011
+mistralai/mistral-small-2603,ja,agriculture,農業や雨の象徴,1,0.011
+mistralai/mistral-small-2603,ja,mouth,巨大な口,1,0.011
+mistralai/mistral-small-2603,ja,limbs,多数の腕,1,0.011
+mistralai/mistral-small-2603,ja,appearance,姿,1,0.011
+mistralai/mistral-small-2603,ja,minerals,鉱物,1,0.011
+mistralai/mistral-small-2603,ja,bat-like,コウモリ,1,0.011
+mistralai/mistral-small-2603,ja,shining,すごい,1,0.011
+mistralai/mistral-small-2603,ja,omen,吉兆,1,0.011
+mistralai/mistral-small-2603,ja,ornate,装飾的,1,0.011
+mistralai/mistral-small-2603,ja,simple,シンプルな字形,1,0.011
+mistralai/mistral-small-2603,ja,hero,英雄,1,0.011
+mistralai/mistral-small-2603,ja,summer,夏,1,0.011
+mistralai/mistral-small-2603,ko,royalty,왕권,52,0.559
+mistralai/mistral-small-2603,ko,power,권력,48,0.516
+mistralai/mistral-small-2603,ko,mythical creature,상상 속의 동물,39,0.419
+mistralai/mistral-small-2603,ko,sacred,신성하다,29,0.312
+mistralai/mistral-small-2603,ko,divine,신,26,0.28
+mistralai/mistral-small-2603,ko,symbol,상징,25,0.269
+mistralai/mistral-small-2603,ko,prosperity,번영,24,0.258
+mistralai/mistral-small-2603,ko,authority,권위,21,0.226
+mistralai/mistral-small-2603,ko,rain,비,20,0.215
+mistralai/mistral-small-2603,ko,mysterious,신비롭다,17,0.183
+mistralai/mistral-small-2603,ko,luck,행운,16,0.172
+mistralai/mistral-small-2603,ko,horns,뿔,16,0.172
+mistralai/mistral-small-2603,ko,flight,날다,15,0.161
+mistralai/mistral-small-2603,ko,scales,비늘,15,0.161
+mistralai/mistral-small-2603,ko,water,물,15,0.161
+mistralai/mistral-small-2603,ko,serpentine,뱀,14,0.151
+mistralai/mistral-small-2603,ko,wisdom,지혜,13,0.14
+mistralai/mistral-small-2603,ko,benevolent,선하다,13,0.14
+mistralai/mistral-small-2603,ko,claws,발톱,13,0.14
+mistralai/mistral-small-2603,ko,control,다스리다,13,0.14
+mistralai/mistral-small-2603,ko,creature,동물,12,0.129
+mistralai/mistral-small-2603,ko,eastern dragon,동양,10,0.108
+mistralai/mistral-small-2603,ko,weather control,다스리다,10,0.108
+mistralai/mistral-small-2603,ko,fire,뿜다,10,0.108
+mistralai/mistral-small-2603,ko,wings,날개,9,0.097
+mistralai/mistral-small-2603,ko,water deity,수신,8,0.086
+mistralai/mistral-small-2603,ko,nature,자연,8,0.086
+mistralai/mistral-small-2603,ko,guardian,수호신,8,0.086
+mistralai/mistral-small-2603,ko,mythology,신화,7,0.075
+mistralai/mistral-small-2603,ko,composite,합쳐지다,7,0.075
+mistralai/mistral-small-2603,ko,sky,하늘,7,0.075
+mistralai/mistral-small-2603,ko,pattern,문양,6,0.065
+mistralai/mistral-small-2603,ko,transformation,변화,6,0.065
+mistralai/mistral-small-2603,ko,lion,사자,6,0.065
+mistralai/mistral-small-2603,ko,reptilian,파충류,6,0.065
+mistralai/mistral-small-2603,ko,wind,바람,5,0.054
+mistralai/mistral-small-2603,ko,whiskers,수염,5,0.054
+mistralai/mistral-small-2603,ko,western dragon,서양,5,0.054
+mistralai/mistral-small-2603,ko,body,몸,5,0.054
+mistralai/mistral-small-2603,ko,large,거대한,5,0.054
+mistralai/mistral-small-2603,ko,appearance,생김새,4,0.043
+mistralai/mistral-small-2603,ko,monster,괴물,4,0.043
+mistralai/mistral-small-2603,ko,weather,날씨,4,0.043
+mistralai/mistral-small-2603,ko,fertility,풍요,4,0.043
+mistralai/mistral-small-2603,ko,head,머리,4,0.043
+mistralai/mistral-small-2603,ko,longevity,장수,4,0.043
+mistralai/mistral-small-2603,ko,fire breath,불을 뿜다,4,0.043
+mistralai/mistral-small-2603,ko,tail,꼬리,4,0.043
+mistralai/mistral-small-2603,ko,deer,사슴,4,0.043
+mistralai/mistral-small-2603,ko,culture,게임,4,0.043
+mistralai/mistral-small-2603,ko,harmony,조화,4,0.043
+mistralai/mistral-small-2603,ko,hero,영웅,3,0.032
+mistralai/mistral-small-2603,ko,legs,발,3,0.032
+mistralai/mistral-small-2603,ko,ancestor,선조신,3,0.032
+mistralai/mistral-small-2603,ko,yellow dragon,황룡,3,0.032
+mistralai/mistral-small-2603,ko,connector,연결하다,3,0.032
+mistralai/mistral-small-2603,ko,gold,금색,3,0.032
+mistralai/mistral-small-2603,ko,magic,마법,3,0.032
+mistralai/mistral-small-2603,ko,clouds,구름,3,0.032
+mistralai/mistral-small-2603,ko,folklore,이야기,3,0.032
+mistralai/mistral-small-2603,ko,important,중요하다,3,0.032
+mistralai/mistral-small-2603,ko,eagle,매,3,0.032
+mistralai/mistral-small-2603,ko,virtue,재주,2,0.022
+mistralai/mistral-small-2603,ko,evil,악,2,0.022
+mistralai/mistral-small-2603,ko,destructive,파괴,2,0.022
+mistralai/mistral-small-2603,ko,teeth,악어의 입,2,0.022
+mistralai/mistral-small-2603,ko,majesty,위엄,2,0.022
+mistralai/mistral-small-2603,ko,avian,새,2,0.022
+mistralai/mistral-small-2603,ko,chinese,중국,2,0.022
+mistralai/mistral-small-2603,ko,korean,한국,2,0.022
+mistralai/mistral-small-2603,ko,movement,오가다,2,0.022
+mistralai/mistral-small-2603,ko,blue,청색,2,0.022
+mistralai/mistral-small-2603,ko,messenger,하늘의 뜻을 전하는 존재,2,0.022
+mistralai/mistral-small-2603,ko,life,생명력,2,0.022
+mistralai/mistral-small-2603,ko,dangerous,위협,2,0.022
+mistralai/mistral-small-2603,ko,earth,지리,2,0.022
+mistralai/mistral-small-2603,ko,glory,왕의 덕과 천명을 찬양하는 노래,2,0.022
+mistralai/mistral-small-2603,ko,energy,긍정적인 기운,2,0.022
+mistralai/mistral-small-2603,ko,water control,다스리다,2,0.022
+mistralai/mistral-small-2603,ko,fierce,무섭다,2,0.022
+mistralai/mistral-small-2603,ko,media,영화,2,0.022
+mistralai/mistral-small-2603,ko,darkness,어둠,2,0.022
+mistralai/mistral-small-2603,ko,omen,길조,2,0.022
+mistralai/mistral-small-2603,ko,intelligence,뛰어난 지능,2,0.022
+mistralai/mistral-small-2603,ko,horse,말,2,0.022
+mistralai/mistral-small-2603,ko,azure dragon,청룡,1,0.011
+mistralai/mistral-small-2603,ko,central,중심,1,0.011
+mistralai/mistral-small-2603,ko,ox,소,1,0.011
+mistralai/mistral-small-2603,ko,green,emerald-green,1,0.011
+mistralai/mistral-small-2603,ko,purple,purple,1,0.011
+mistralai/mistral-small-2603,ko,mane,갈기,1,0.011
+mistralai/mistral-small-2603,ko,wood,목,1,0.011
+mistralai/mistral-small-2603,ko,cosmos,우주적이고,1,0.011
+mistralai/mistral-small-2603,ko,ally,비를 내려 가뭄을 해결해 주는 이롭고 신비로운 존재,1,0.011
+mistralai/mistral-small-2603,ko,rare,독특하다,1,0.011
+mistralai/mistral-small-2603,ko,wish-granting,부여하다,1,0.011
+mistralai/mistral-small-2603,ko,goat,염소,1,0.011
+mistralai/mistral-small-2603,ko,bravery,용맹함,1,0.011
+mistralai/mistral-small-2603,ko,orange,주황색,1,0.011
+mistralai/mistral-small-2603,ko,shining,번쩍임,1,0.011
+mistralai/mistral-small-2603,ko,versatile,뱀이나 두꺼비처럼 유연,1,0.011
+mistralai/mistral-small-2603,ko,purification,순결,1,0.011
+mistralai/mistral-small-2603,ko,feng shui,풍수지리,1,0.011
+mistralai/mistral-small-2603,ko,crest,볏,1,0.011
+mistralai/mistral-small-2603,ko,order,표상,1,0.011
+mistralai/mistral-small-2603,ko,demon,사탄,1,0.011
+mistralai/mistral-small-2603,ko,archetype,용의 종류,1,0.011
+mistralai/mistral-small-2603,ko,thunder,천둥,1,0.011
+mistralai/mistral-small-2603,ko,armor,갑옷,1,0.011
+mistralai/mistral-small-2603,ko,ascension,승천하다,1,0.011
+mistralai/mistral-small-2603,ko,treasure,보물,1,0.011
+mistralai/mistral-small-2603,ko,sable,담비,1,0.011
+mistralai/mistral-small-2603,ko,chicken,닭,1,0.011
+mistralai/mistral-small-2603,ko,fish,물고기,1,0.011
+mistralai/mistral-small-2603,ko,bat-like,박쥐,1,0.011
+mistralai/mistral-small-2603,ko,number,다섯,1,0.011
+mistralai/mistral-small-2603,ko,cruel,무자비하다,1,0.011
+mistralai/mistral-small-2603,ko,crown,망건을 쓰다,1,0.011
+mistralai/mistral-small-2603,ko,immortality,불사(不死)와 영험,1,0.011
+mistralai/mistral-small-2603,ko,eyes,눈,1,0.011
+mistralai/mistral-small-2603,ko,agriculture,비를 내려 농사를 돕는 존재,1,0.011
+mistralai/mistral-small-2603,ko,paws,호랑이,1,0.011
+mistralai/mistral-small-2603,ko,heraldry,문양,1,0.011
+mistralai/mistral-small-2603,ko,dog-like,개 같다,1,0.011
+mistralai/mistral-small-2603,ko,season,사계절,1,0.011
+mistralai/mistral-small-2603,ko,speech,한국어의 소리 소통의 특징,1,0.011
+mistralai/mistral-small-2603,ko,wingless,날개,1,0.011
+mistralai/mistral-small-2603,ko,minerals,수정,1,0.011
+mistralai/mistral-small-2603,ko,habitat,살다,1,0.011
+mistralai/mistral-small-2603,zh,power,力量,75,0.758
+mistralai/mistral-small-2603,zh,luck,吉祥,70,0.707
+mistralai/mistral-small-2603,zh,royalty,尊贵,59,0.596
+mistralai/mistral-small-2603,zh,scales,鱼鳞,49,0.495
+mistralai/mistral-small-2603,zh,mythical creature,神异动物,48,0.485
+mistralai/mistral-small-2603,zh,horns,鹿角,47,0.475
+mistralai/mistral-small-2603,zh,symbol,象征,46,0.465
+mistralai/mistral-small-2603,zh,claws,鹰爪,43,0.434
+mistralai/mistral-small-2603,zh,serpentine,蛇身,40,0.404
+mistralai/mistral-small-2603,zh,wisdom,智慧,30,0.303
+mistralai/mistral-small-2603,zh,authority,权威,26,0.263
+mistralai/mistral-small-2603,zh,divine,神兽,20,0.202
+mistralai/mistral-small-2603,zh,composite,九似,17,0.172
+mistralai/mistral-small-2603,zh,rain,雨水,16,0.162
+mistralai/mistral-small-2603,zh,head,头似驼,13,0.131
+mistralai/mistral-small-2603,zh,sacred,神圣,13,0.131
+mistralai/mistral-small-2603,zh,majesty,威严,12,0.121
+mistralai/mistral-small-2603,zh,whiskers,有须,12,0.121
+mistralai/mistral-small-2603,zh,flight,能飞,12,0.121
+mistralai/mistral-small-2603,zh,ears,耳似牛,11,0.111
+mistralai/mistral-small-2603,zh,mysterious,神秘,11,0.111
+mistralai/mistral-small-2603,zh,reptilian,爬行动物,11,0.111
+mistralai/mistral-small-2603,zh,creature,生物,10,0.101
+mistralai/mistral-small-2603,zh,paws,掌似虎,10,0.101
+mistralai/mistral-small-2603,zh,tail,牛尾,10,0.101
+mistralai/mistral-small-2603,zh,prosperity,繁荣,10,0.101
+mistralai/mistral-small-2603,zh,nature,自然力量,8,0.081
+mistralai/mistral-small-2603,zh,transformation,变化,8,0.081
+mistralai/mistral-small-2603,zh,eyes,眼似兔,8,0.081
+mistralai/mistral-small-2603,zh,weather,呼风唤雨,8,0.081
+mistralai/mistral-small-2603,zh,culture,龙的传人,7,0.071
+mistralai/mistral-small-2603,zh,body,身躯长,7,0.071
+mistralai/mistral-small-2603,zh,magic,魔幻,7,0.071
+mistralai/mistral-small-2603,zh,weather control,呼风唤雨,7,0.071
+mistralai/mistral-small-2603,zh,water,水,7,0.071
+mistralai/mistral-small-2603,zh,evil,邪恶,6,0.061
+mistralai/mistral-small-2603,zh,horse,马头,6,0.061
+mistralai/mistral-small-2603,zh,guardian,守护,6,0.061
+mistralai/mistral-small-2603,zh,legs,四足,6,0.061
+mistralai/mistral-small-2603,zh,mane,背部有鬣,5,0.051
+mistralai/mistral-small-2603,zh,ancient,经典,5,0.051
+mistralai/mistral-small-2603,zh,fish,鳞似鱼,5,0.051
+mistralai/mistral-small-2603,zh,wings,翅膀,5,0.051
+mistralai/mistral-small-2603,zh,important,重要,5,0.051
+mistralai/mistral-small-2603,zh,fierce,凶猛,5,0.051
+mistralai/mistral-small-2603,zh,clouds,腾云驾雾,5,0.051
+mistralai/mistral-small-2603,zh,harmony,自然和谐,4,0.04
+mistralai/mistral-small-2603,zh,monster,巨兽,4,0.04
+mistralai/mistral-small-2603,zh,abdomen,腹似蜃,3,0.03
+mistralai/mistral-small-2603,zh,large,巨大,3,0.03
+mistralai/mistral-small-2603,zh,longevity,长寿,3,0.03
+mistralai/mistral-small-2603,zh,eagle,鹰,3,0.03
+mistralai/mistral-small-2603,zh,neck,项似蛇,3,0.03
+mistralai/mistral-small-2603,zh,thunder,雷电,3,0.03
+mistralai/mistral-small-2603,zh,ancestor,德高望重,3,0.03
+mistralai/mistral-small-2603,zh,totem,图腾动物,2,0.02
+mistralai/mistral-small-2603,zh,messenger,使者,2,0.02
+mistralai/mistral-small-2603,zh,omen,天命,2,0.02
+mistralai/mistral-small-2603,zh,hero,杰出人物,2,0.02
+mistralai/mistral-small-2603,zh,bravery,勇气,2,0.02
+mistralai/mistral-small-2603,zh,gold,金色,2,0.02
+mistralai/mistral-small-2603,zh,pattern,吉祥的纹样,2,0.02
+mistralai/mistral-small-2603,zh,zodiac,十二生肖,2,0.02
+mistralai/mistral-small-2603,zh,water control,掌管,2,0.02
+mistralai/mistral-small-2603,zh,masculine,阳刚,2,0.02
+mistralai/mistral-small-2603,zh,creation,起源,2,0.02
+mistralai/mistral-small-2603,zh,tiger,掌似虎,2,0.02
+mistralai/mistral-small-2603,zh,treasure,宝藏,2,0.02
+mistralai/mistral-small-2603,zh,yellow dragon,黄龙,2,0.02
+mistralai/mistral-small-2603,zh,fertility,农业,2,0.02
+mistralai/mistral-small-2603,zh,versatile,灵活,2,0.02
+mistralai/mistral-small-2603,zh,spirit animal,精神图腾,1,0.01
+mistralai/mistral-small-2603,zh,character,形象,1,0.01
+mistralai/mistral-small-2603,zh,jade dragon,玉龙,1,0.01
+mistralai/mistral-small-2603,zh,water deity,水神,1,0.01
+mistralai/mistral-small-2603,zh,fire,喷火,1,0.01
+mistralai/mistral-small-2603,zh,greed,贪婪,1,0.01
+mistralai/mistral-small-2603,zh,virtue,正义,1,0.01
+mistralai/mistral-small-2603,zh,resilience,意志坚定,1,0.01
+mistralai/mistral-small-2603,zh,swimming,能游,1,0.01
+mistralai/mistral-small-2603,zh,roar,龙吟,1,0.01
+mistralai/mistral-small-2603,zh,popular,着迷,1,0.01
+mistralai/mistral-small-2603,zh,turtle-like,形似,1,0.01
+mistralai/mistral-small-2603,zh,eastern dragon,东方龙,1,0.01
+mistralai/mistral-small-2603,zh,wood,木,1,0.01
+mistralai/mistral-small-2603,zh,chinese,中华文明,1,0.01
+mistralai/mistral-small-2603,zh,mouth,鲤鱼嘴,1,0.01
+mistralai/mistral-small-2603,zh,nose,狮鼻,1,0.01
+mistralai/mistral-small-2603,zh,chaos,混乱,1,0.01
+mistralai/mistral-small-2603,zh,benevolent,仁慈,1,0.01
+mistralai/mistral-small-2603,zh,ambition,奋发向上,1,0.01
+mistralai/mistral-small-2603,zh,deer,角似鹿,1,0.01
+mistralai/mistral-small-2603,zh,civilization,华夏文明的重要象征,1,0.01
+mistralai/mistral-small-2603,zh,folklore,民间传说,1,0.01
+mistralai/mistral-small-2603,zh,mythology,神话,1,0.01
+mistralai/mistral-small-2603,zh,art,文学艺术,1,0.01
+mistralai/mistral-small-2603,zh,tradition,古代艺术,1,0.01
+mistralai/mistral-small-2603,zh,control,掌管,1,0.01
+mistralai/mistral-small-2603,zh,wingless,无翼,1,0.01
+mistralai/mistral-small-2603,zh,wind,风,1,0.01
+mistralai/mistral-small-2603,zh,teeth,拥有獠牙,1,0.01
+mistralai/mistral-small-2603,zh,ascension,鲤鱼跃龙门,1,0.01
+mistralai/mistral-small-2603,zh,hoarding,守护财宝,1,0.01
+mistralai/mistral-small-2603,zh,western dragon,西方龙,1,0.01
+mistralai/mistral-small-2603,zh,connector,连接天地,1,0.01
+mistralai/mistral-small-2603,zh,family,家族,1,0.01
+mistralai/mistral-small-2603,zh,nature spirit,大自然的化身,1,0.01
+mistralai/mistral-small-2603,zh,black,黑,1,0.01
+mistralai/mistral-small-2603,zh,green,青,1,0.01
+mistralai/mistral-small-2603,zh,omnipresent,上天入海,1,0.01
+mistralai/mistral-small-2603,zh,red,红色,1,0.01
+mistralai/mistral-small-2603,zh,sky,天象,1,0.01
+openai/gpt-6-luna,en,mythical creature,legendary creature,59,0.634
+openai/gpt-6-luna,en,fire,fire-breathing,17,0.183
+openai/gpt-6-luna,en,mythology,mythology,14,0.151
+openai/gpt-6-luna,en,folklore,folklore,13,0.14
+openai/gpt-6-luna,en,wings,wings,13,0.14
+openai/gpt-6-luna,en,reptilian,reptilian,12,0.129
+openai/gpt-6-luna,en,power,power,11,0.118
+openai/gpt-6-luna,en,large,large,11,0.118
+openai/gpt-6-luna,en,zodiac,sign,9,0.097
+openai/gpt-6-luna,en,claws,claws,8,0.086
+openai/gpt-6-luna,en,creature,creature,7,0.075
+openai/gpt-6-luna,en,scales,scales,6,0.065
+openai/gpt-6-luna,en,creation,create,5,0.054
+openai/gpt-6-luna,en,symbol,symbol,4,0.043
+openai/gpt-6-luna,en,appearance,describe,4,0.043
+openai/gpt-6-luna,en,character,character,3,0.032
+openai/gpt-6-luna,en,wisdom,wisdom,2,0.022
+openai/gpt-6-luna,en,body,long,2,0.022
+openai/gpt-6-luna,en,water,water,1,0.011
+openai/gpt-6-luna,en,luck,good fortune,1,0.011
+openai/gpt-6-luna,en,monster,monster,1,0.011
+openai/gpt-6-luna,en,fire breath,fire-breathing,1,0.011
+openai/gpt-6-luna,en,culture,culture,1,0.011
+openai/gpt-6-luna,en,speech,speak,1,0.011
+openai/gpt-6-luna,en,media,movie,1,0.011
+openai/gpt-6-luna,en,hoarding,hoard treasure,1,0.011
+openai/gpt-6-luna,en,benevolent,benevolent,1,0.011
+openai/gpt-6-luna,en,fierce,fierce,1,0.011
+openai/gpt-6-luna,en,topic,dragon-themed idea,1,0.011
+openai/gpt-6-luna,ja,mythical creature,伝説の生き物,43,0.581
+openai/gpt-6-luna,ja,fire,火を吐く,37,0.5
+openai/gpt-6-luna,ja,creature,生き物,26,0.351
+openai/gpt-6-luna,ja,flight,空を飛ぶ,26,0.351
+openai/gpt-6-luna,ja,wings,翼,15,0.203
+openai/gpt-6-luna,ja,water,水,13,0.176
+openai/gpt-6-luna,ja,sacred,神聖な存在,11,0.149
+openai/gpt-6-luna,ja,rain,雨,10,0.135
+openai/gpt-6-luna,ja,monster,怪物,10,0.135
+openai/gpt-6-luna,ja,guardian,守る,7,0.095
+openai/gpt-6-luna,ja,mysterious,神秘性,6,0.081
+openai/gpt-6-luna,ja,body,長い体,5,0.068
+openai/gpt-6-luna,ja,power,力,5,0.068
+openai/gpt-6-luna,ja,control,司る,5,0.068
+openai/gpt-6-luna,ja,large,巨大,4,0.054
+openai/gpt-6-luna,ja,clouds,雲,3,0.041
+openai/gpt-6-luna,ja,mythology,神話,3,0.041
+openai/gpt-6-luna,ja,folklore,物語,3,0.041
+openai/gpt-6-luna,ja,sky,天,3,0.041
+openai/gpt-6-luna,ja,fire breath,火を吐く,3,0.041
+openai/gpt-6-luna,ja,symbol,象徴,3,0.041
+openai/gpt-6-luna,ja,wisdom,知恵,3,0.041
+openai/gpt-6-luna,ja,claws,爪,2,0.027
+openai/gpt-6-luna,ja,luck,幸運,2,0.027
+openai/gpt-6-luna,ja,serpentine,蛇,2,0.027
+openai/gpt-6-luna,ja,archetype,種類,2,0.027
+openai/gpt-6-luna,ja,character,役割,2,0.027
+openai/gpt-6-luna,ja,water control,水や雲を操る,2,0.027
+openai/gpt-6-luna,ja,magic,魔法,2,0.027
+openai/gpt-6-luna,ja,authority,権威,2,0.027
+openai/gpt-6-luna,ja,horns,角,2,0.027
+openai/gpt-6-luna,ja,fierce,恐怖,1,0.014
+openai/gpt-6-luna,ja,weather,天候,1,0.014
+openai/gpt-6-luna,ja,eastern dragon,東洋の竜,1,0.014
+openai/gpt-6-luna,ja,divine,霊獣,1,0.014
+openai/gpt-6-luna,ja,wingless,翼がない,1,0.014
+openai/gpt-6-luna,ja,appearance,姿,1,0.014
+openai/gpt-6-luna,ja,longevity,長寿,1,0.014
+openai/gpt-6-luna,ja,treasure,宝,1,0.014
+openai/gpt-6-luna,ja,destructive,破壊,1,0.014
+openai/gpt-6-luna,ja,hoarding,宝を守る,1,0.014
+openai/gpt-6-luna,ko,mythical creature,상상 속의 동물,39,0.487
+openai/gpt-6-luna,ko,creature,동물,14,0.175
+openai/gpt-6-luna,ko,luck,행운,12,0.15
+openai/gpt-6-luna,ko,scales,비늘,9,0.113
+openai/gpt-6-luna,ko,flight,날다,9,0.113
+openai/gpt-6-luna,ko,power,권력,9,0.113
+openai/gpt-6-luna,ko,control,다스리다,9,0.113
+openai/gpt-6-luna,ko,horns,뿔,8,0.1
+openai/gpt-6-luna,ko,wisdom,지혜,8,0.1
+openai/gpt-6-luna,ko,royalty,왕권,8,0.1
+openai/gpt-6-luna,ko,monster,괴물,8,0.1
+openai/gpt-6-luna,ko,serpentine,뱀,7,0.087
+openai/gpt-6-luna,ko,water control,다스리다,6,0.075
+openai/gpt-6-luna,ko,fire breath,불을 뿜다,5,0.062
+openai/gpt-6-luna,ko,fire,뿜다,5,0.062
+openai/gpt-6-luna,ko,symbol,상징,4,0.05
+openai/gpt-6-luna,ko,topic,소재,4,0.05
+openai/gpt-6-luna,ko,claws,발톱,4,0.05
+openai/gpt-6-luna,ko,sacred,신성하다,4,0.05
+openai/gpt-6-luna,ko,body,몸,4,0.05
+openai/gpt-6-luna,ko,folklore,이야기,3,0.037
+openai/gpt-6-luna,ko,divine,신,3,0.037
+openai/gpt-6-luna,ko,wings,날개,3,0.037
+openai/gpt-6-luna,ko,mysterious,신비롭다,3,0.037
+openai/gpt-6-luna,ko,guardian,수호신,3,0.037
+openai/gpt-6-luna,ko,rain,비,3,0.037
+openai/gpt-6-luna,ko,character,캐릭터,2,0.025
+openai/gpt-6-luna,ko,weather control,다스리다,2,0.025
+openai/gpt-6-luna,ko,prosperity,번영,2,0.025
+openai/gpt-6-luna,ko,concept,설명하다,2,0.025
+openai/gpt-6-luna,ko,water,물,2,0.025
+openai/gpt-6-luna,ko,legs,발,1,0.013
+openai/gpt-6-luna,ko,archetype,용의 종류,1,0.013
+openai/gpt-6-luna,ko,appearance,생김새,1,0.013
+openai/gpt-6-luna,ko,general,관점,1,0.013
+openai/gpt-6-luna,ko,summon,부르다,1,0.013
+openai/gpt-6-luna,ko,sky,하늘,1,0.013
+openai/gpt-6-luna,ko,benevolent,선하다,1,0.013
+openai/gpt-6-luna,ko,hoarding,보물을 지키다,1,0.013
+openai/gpt-6-luna,ko,culture,게임,1,0.013
+openai/gpt-6-luna,ko,fertility,풍요,1,0.013
+openai/gpt-6-luna,ko,authority,권위,1,0.013
+openai/gpt-6-luna,ko,fierce,무섭다,1,0.013
+openai/gpt-6-luna,zh,power,力量,46,0.484
+openai/gpt-6-luna,zh,luck,吉祥,45,0.474
+openai/gpt-6-luna,zh,royalty,尊贵,43,0.453
+openai/gpt-6-luna,zh,divine,神兽,36,0.379
+openai/gpt-6-luna,zh,mythical creature,神异动物,34,0.358
+openai/gpt-6-luna,zh,symbol,象征,19,0.2
+openai/gpt-6-luna,zh,zodiac,十二生肖,10,0.105
+openai/gpt-6-luna,zh,mythology,神话,5,0.053
+openai/gpt-6-luna,zh,culture,龙的传人,4,0.042
+openai/gpt-6-luna,zh,clouds,腾云驾雾,4,0.042
+openai/gpt-6-luna,zh,horns,鹿角,3,0.032
+openai/gpt-6-luna,zh,scales,鱼鳞,3,0.032
+openai/gpt-6-luna,zh,composite,九似,3,0.032
+openai/gpt-6-luna,zh,creature,生物,3,0.032
+openai/gpt-6-luna,zh,chinese,中华文明,3,0.032
+openai/gpt-6-luna,zh,rain,雨水,2,0.021
+openai/gpt-6-luna,zh,folklore,民间传说,2,0.021
+openai/gpt-6-luna,zh,fire,喷火,2,0.021
+openai/gpt-6-luna,zh,western dragon,西方龙,2,0.021
+openai/gpt-6-luna,zh,flight,能飞,2,0.021
+openai/gpt-6-luna,zh,weather,呼风唤雨,2,0.021
+openai/gpt-6-luna,zh,wings,翅膀,2,0.021
+openai/gpt-6-luna,zh,weather control,呼风唤雨,2,0.021
+openai/gpt-6-luna,zh,fire breath,喷火,2,0.021
+openai/gpt-6-luna,zh,hero,杰出人物,1,0.011
+openai/gpt-6-luna,zh,authority,权威,1,0.011
+openai/gpt-6-luna,zh,speech,拟声,1,0.011
+openai/gpt-6-luna,zh,appearance,形象,1,0.011
+openai/gpt-6-luna,zh,glory,荣耀,1,0.011
+openai/gpt-6-luna,zh,archetype,龙族,1,0.011
+openai/gpt-6-luna,zh,serpentine,蛇身,1,0.011
+qwen/qwen3.8-flash,en,fire,fire-breathing,80,0.808
+qwen/qwen3.8-flash,en,wings,wings,68,0.687
+qwen/qwen3.8-flash,en,reptilian,reptilian,64,0.646
+qwen/qwen3.8-flash,en,mythical creature,legendary creature,62,0.626
+qwen/qwen3.8-flash,en,power,power,61,0.616
+qwen/qwen3.8-flash,en,serpentine,serpentine,56,0.566
+qwen/qwen3.8-flash,en,large,large,47,0.475
+qwen/qwen3.8-flash,en,evil,evil,43,0.434
+qwen/qwen3.8-flash,en,greed,greedy,41,0.414
+qwen/qwen3.8-flash,en,scales,scales,41,0.414
+qwen/qwen3.8-flash,en,villain,villain,41,0.414
+qwen/qwen3.8-flash,en,luck,good fortune,38,0.384
+qwen/qwen3.8-flash,en,chaos,chaos,37,0.374
+qwen/qwen3.8-flash,en,dangerous,danger,34,0.343
+qwen/qwen3.8-flash,en,wisdom,wisdom,34,0.343
+qwen/qwen3.8-flash,en,water,water,32,0.323
+qwen/qwen3.8-flash,en,legs,four legs,30,0.303
+qwen/qwen3.8-flash,en,benevolent,benevolent,29,0.293
+qwen/qwen3.8-flash,en,hoarding,hoard treasure,28,0.283
+qwen/qwen3.8-flash,en,horns,horns,26,0.263
+qwen/qwen3.8-flash,en,claws,claws,22,0.222
+qwen/qwen3.8-flash,en,creature,creature,21,0.212
+qwen/qwen3.8-flash,en,guardian,protection,18,0.182
+qwen/qwen3.8-flash,en,flight,fly,13,0.131
+qwen/qwen3.8-flash,en,intelligence,intelligent,12,0.121
+qwen/qwen3.8-flash,en,fire breath,fire-breathing,11,0.111
+qwen/qwen3.8-flash,en,destructive,destruction,11,0.111
+qwen/qwen3.8-flash,en,treasure,treasure,11,0.111
+qwen/qwen3.8-flash,en,fierce,fierce,11,0.111
+qwen/qwen3.8-flash,en,monster,monster,10,0.101
+qwen/qwen3.8-flash,en,rain,rain,10,0.101
+qwen/qwen3.8-flash,en,symbol,symbol,8,0.081
+qwen/qwen3.8-flash,en,magic,magical,8,0.081
+qwen/qwen3.8-flash,en,mythology,mythology,7,0.071
+qwen/qwen3.8-flash,en,royalty,power,6,0.061
+qwen/qwen3.8-flash,en,folklore,folklore,6,0.061
+qwen/qwen3.8-flash,en,wingless,wingless,6,0.061
+qwen/qwen3.8-flash,en,weather,weather,5,0.051
+qwen/qwen3.8-flash,en,tail,long tail,5,0.051
+qwen/qwen3.8-flash,en,nature,nature,4,0.04
+qwen/qwen3.8-flash,en,authority,authority,4,0.04
+qwen/qwen3.8-flash,en,speech,speak,3,0.03
+qwen/qwen3.8-flash,en,western dragon,european,3,0.03
+qwen/qwen3.8-flash,en,sacred,revered,2,0.02
+qwen/qwen3.8-flash,en,divine,spiritual qualities,2,0.02
+qwen/qwen3.8-flash,en,whiskers,whisker,2,0.02
+qwen/qwen3.8-flash,en,body,long,2,0.02
+qwen/qwen3.8-flash,en,important,key,2,0.02
+qwen/qwen3.8-flash,en,habitat,cave,2,0.02
+qwen/qwen3.8-flash,en,eastern dragon,chinese,2,0.02
+qwen/qwen3.8-flash,en,spikes,tail spikes,2,0.02
+qwen/qwen3.8-flash,en,clouds,clouds,2,0.02
+qwen/qwen3.8-flash,en,weather control,control over weather,2,0.02
+qwen/qwen3.8-flash,en,hero,hero,2,0.02
+qwen/qwen3.8-flash,en,poison,poison,2,0.02
+qwen/qwen3.8-flash,en,thunder,lightning,2,0.02
+qwen/qwen3.8-flash,en,slain,slain,2,0.02
+qwen/qwen3.8-flash,en,bat-like,bat-like,2,0.02
+qwen/qwen3.8-flash,en,majesty,majestic,1,0.01
+qwen/qwen3.8-flash,en,attack,capture princess,1,0.01
+qwen/qwen3.8-flash,en,challenge,challenges,1,0.01
+qwen/qwen3.8-flash,en,greek,greek,1,0.01
+qwen/qwen3.8-flash,en,culture,culture,1,0.01
+qwen/qwen3.8-flash,en,demon,satan,1,0.01
+qwen/qwen3.8-flash,en,territorial,fiercely territorial,1,0.01
+qwen/qwen3.8-flash,en,prosperity,prosperity,1,0.01
+qwen/qwen3.8-flash,en,armor,armor,1,0.01
+qwen/qwen3.8-flash,en,ancient,ancient,1,0.01
+qwen/qwen3.8-flash,en,control,control,1,0.01
+qwen/qwen3.8-flash,en,mysterious,mystery,1,0.01
+qwen/qwen3.8-flash,en,kidnapping,capture princess,1,0.01
+qwen/qwen3.8-flash,en,resilience,overcome obstacles,1,0.01
+qwen/qwen3.8-flash,en,sacrifice,demanding sacrifices,1,0.01
+qwen/qwen3.8-flash,en,appearance,describe,1,0.01
+qwen/qwen3.8-flash,en,mount,serve,1,0.01
+qwen/qwen3.8-flash,en,boss,boss,1,0.01
+qwen/qwen3.8-flash,en,spirit animal,powerful spirit,1,0.01
+qwen/qwen3.8-flash,en,multiple heads,serpents,1,0.01
+qwen/qwen3.8-flash,en,zodiac,sign,1,0.01
+qwen/qwen3.8-flash,en,ice,ice,1,0.01
+qwen/qwen3.8-flash,ja,mythical creature,伝説の生き物,36,0.36
+qwen/qwen3.8-flash,ja,flight,空を飛ぶ,34,0.34
+qwen/qwen3.8-flash,ja,guardian,守る,31,0.31
+qwen/qwen3.8-flash,ja,rain,雨,31,0.31
+qwen/qwen3.8-flash,ja,sacred,神聖な存在,30,0.3
+qwen/qwen3.8-flash,ja,fire,火を吐く,29,0.29
+qwen/qwen3.8-flash,ja,water,水,26,0.26
+qwen/qwen3.8-flash,ja,power,力,25,0.25
+qwen/qwen3.8-flash,ja,serpentine,蛇,22,0.22
+qwen/qwen3.8-flash,ja,royalty,皇帝の象徴,21,0.21
+qwen/qwen3.8-flash,ja,western dragon,西洋のドラゴン,18,0.18
+qwen/qwen3.8-flash,ja,symbol,象徴,18,0.18
+qwen/qwen3.8-flash,ja,luck,幸運,18,0.18
+qwen/qwen3.8-flash,ja,fire breath,火を吐く,17,0.17
+qwen/qwen3.8-flash,ja,wings,翼,17,0.17
+qwen/qwen3.8-flash,ja,divine,霊獣,17,0.17
+qwen/qwen3.8-flash,ja,mythology,神話,16,0.16
+qwen/qwen3.8-flash,ja,horns,角,16,0.16
+qwen/qwen3.8-flash,ja,reptilian,巨大なトカゲ,16,0.16
+qwen/qwen3.8-flash,ja,water deity,水神,15,0.15
+qwen/qwen3.8-flash,ja,villain,悪役,15,0.15
+qwen/qwen3.8-flash,ja,eastern dragon,東洋の竜,15,0.15
+qwen/qwen3.8-flash,ja,monster,怪物,13,0.13
+qwen/qwen3.8-flash,ja,wisdom,知恵,11,0.11
+qwen/qwen3.8-flash,ja,creature,生き物,9,0.09
+qwen/qwen3.8-flash,ja,dormant,眠る,9,0.09
+qwen/qwen3.8-flash,ja,whiskers,髭,9,0.09
+qwen/qwen3.8-flash,ja,claws,爪,9,0.09
+qwen/qwen3.8-flash,ja,ascension,昇る,8,0.08
+qwen/qwen3.8-flash,ja,scales,鱗,8,0.08
+qwen/qwen3.8-flash,ja,culture,ゲーム,8,0.08
+qwen/qwen3.8-flash,ja,hoarding,宝を守る,8,0.08
+qwen/qwen3.8-flash,ja,demon,悪魔的,8,0.08
+qwen/qwen3.8-flash,ja,large,巨大,8,0.08
+qwen/qwen3.8-flash,ja,authority,権威,7,0.07
+qwen/qwen3.8-flash,ja,folklore,物語,7,0.07
+qwen/qwen3.8-flash,ja,treasure,宝,7,0.07
+qwen/qwen3.8-flash,ja,majesty,威厳,6,0.06
+qwen/qwen3.8-flash,ja,evil,邪悪な存在,6,0.06
+qwen/qwen3.8-flash,ja,weather control,天候の神,6,0.06
+qwen/qwen3.8-flash,ja,control,司る,6,0.06
+qwen/qwen3.8-flash,ja,prosperity,繁栄,6,0.06
+qwen/qwen3.8-flash,ja,character,役割,6,0.06
+qwen/qwen3.8-flash,ja,media,アニメ,5,0.05
+qwen/qwen3.8-flash,ja,legs,四本の足,5,0.05
+qwen/qwen3.8-flash,ja,challenge,試練,5,0.05
+qwen/qwen3.8-flash,ja,appearance,姿,5,0.05
+qwen/qwen3.8-flash,ja,chaos,混沌,5,0.05
+qwen/qwen3.8-flash,ja,hero,英雄,4,0.04
+qwen/qwen3.8-flash,ja,ancient,太古の記憶を宿す存在である,4,0.04
+qwen/qwen3.8-flash,ja,fierce,恐怖,4,0.04
+qwen/qwen3.8-flash,ja,general,説明,4,0.04
+qwen/qwen3.8-flash,ja,magic,魔法,4,0.04
+qwen/qwen3.8-flash,ja,fertility,豊穣,4,0.04
+qwen/qwen3.8-flash,ja,clouds,雲,3,0.03
+qwen/qwen3.8-flash,ja,mysterious,神秘性,3,0.03
+qwen/qwen3.8-flash,ja,ice,吐く,3,0.03
+qwen/qwen3.8-flash,ja,boss,退治すべき怪物,3,0.03
+qwen/qwen3.8-flash,ja,nature,自然の偉大さ,3,0.03
+qwen/qwen3.8-flash,ja,setting,設定,3,0.03
+qwen/qwen3.8-flash,ja,intelligence,知性,3,0.03
+qwen/qwen3.8-flash,ja,attack,襲う,3,0.03
+qwen/qwen3.8-flash,ja,dangerous,人々を脅かす存在,3,0.03
+qwen/qwen3.8-flash,ja,greed,邪悪で貪欲な存在,3,0.03
+qwen/qwen3.8-flash,ja,transformation,変化,3,0.03
+qwen/qwen3.8-flash,ja,water control,水や雲を操る,3,0.03
+qwen/qwen3.8-flash,ja,japanese,日本の龍,2,0.02
+qwen/qwen3.8-flash,ja,thunder,雷,2,0.02
+qwen/qwen3.8-flash,ja,ambition,憧れ,2,0.02
+qwen/qwen3.8-flash,ja,freedom,自由奔放,2,0.02
+qwen/qwen3.8-flash,ja,body,長い体,2,0.02
+qwen/qwen3.8-flash,ja,destructive,破壊,2,0.02
+qwen/qwen3.8-flash,ja,chinese,中国,2,0.02
+qwen/qwen3.8-flash,ja,kidnapping,姫君を誘拐したり,2,0.02
+qwen/qwen3.8-flash,ja,slain,英雄によって退治される存在,2,0.02
+qwen/qwen3.8-flash,ja,creation,創作の相談,2,0.02
+qwen/qwen3.8-flash,ja,weather,天候,2,0.02
+qwen/qwen3.8-flash,ja,benevolent,善良,2,0.02
+qwen/qwen3.8-flash,ja,habitat,住む,2,0.02
+qwen/qwen3.8-flash,ja,concept,映し出す,1,0.01
+qwen/qwen3.8-flash,ja,gold,黄金の山脈,1,0.01
+qwen/qwen3.8-flash,ja,longevity,長寿,1,0.01
+qwen/qwen3.8-flash,ja,wingless,翼がない,1,0.01
+qwen/qwen3.8-flash,ja,cardinal direction,北方,1,0.01
+qwen/qwen3.8-flash,ja,omen,吉兆,1,0.01
+qwen/qwen3.8-flash,ja,fish,鯉,1,0.01
+qwen/qwen3.8-flash,ja,rare,超凡,1,0.01
+qwen/qwen3.8-flash,ja,quiet,沈黙,1,0.01
+qwen/qwen3.8-flash,ja,ally,パートナー,1,0.01
+qwen/qwen3.8-flash,ja,eyes,鬼の目,1,0.01
+qwen/qwen3.8-flash,ja,armor,物理防御,1,0.01
+qwen/qwen3.8-flash,ja,connector,天地をつなぐ存在,1,0.01
+qwen/qwen3.8-flash,ja,harmony,自然の調和,1,0.01
+qwen/qwen3.8-flash,ja,important,重要,1,0.01
+qwen/qwen3.8-flash,ja,dinosaur,恐竜のような姿,1,0.01
+qwen/qwen3.8-flash,ja,virtue,善悪のイメージ,1,0.01
+qwen/qwen3.8-flash,ja,guidance,航海,1,0.01
+qwen/qwen3.8-flash,ja,swimming,泳ぐ,1,0.01
+qwen/qwen3.8-flash,ja,zodiac,干支,1,0.01
+qwen/qwen3.8-flash,ja,teeth,牙,1,0.01
+qwen/qwen3.8-flash,ja,potential,得て雲雨を起す,1,0.01
+qwen/qwen3.8-flash,ja,glory,偉大,1,0.01
+qwen/qwen3.8-flash,ja,storm,嵐,1,0.01
+qwen/qwen3.8-flash,ja,shining,すごい,1,0.01
+qwen/qwen3.8-flash,ja,poison,毒液,1,0.01
+qwen/qwen3.8-flash,ja,tail,長い尾,1,0.01
+qwen/qwen3.8-flash,ja,loneliness,孤独,1,0.01
+qwen/qwen3.8-flash,ja,tradition,古典,1,0.01
+qwen/qwen3.8-flash,ja,volcano,火山,1,0.01
+qwen/qwen3.8-flash,ja,mountain,山頂,1,0.01
+qwen/qwen3.8-flash,ja,sky,天,1,0.01
+qwen/qwen3.8-flash,ja,palace,龍宮,1,0.01
+qwen/qwen3.8-flash,ko,royalty,왕권,45,0.459
+qwen/qwen3.8-flash,ko,luck,행운,42,0.429
+qwen/qwen3.8-flash,ko,mythical creature,상상 속의 동물,42,0.429
+qwen/qwen3.8-flash,ko,sacred,신성하다,38,0.388
+qwen/qwen3.8-flash,ko,power,권력,35,0.357
+qwen/qwen3.8-flash,ko,wisdom,지혜,30,0.306
+qwen/qwen3.8-flash,ko,rain,비,30,0.306
+qwen/qwen3.8-flash,ko,serpentine,뱀,27,0.276
+qwen/qwen3.8-flash,ko,horns,뿔,27,0.276
+qwen/qwen3.8-flash,ko,flight,날다,27,0.276
+qwen/qwen3.8-flash,ko,scales,비늘,23,0.235
+qwen/qwen3.8-flash,ko,authority,권위,22,0.224
+qwen/qwen3.8-flash,ko,claws,발톱,21,0.214
+qwen/qwen3.8-flash,ko,symbol,상징,21,0.214
+qwen/qwen3.8-flash,ko,prosperity,번영,20,0.204
+qwen/qwen3.8-flash,ko,benevolent,선하다,18,0.184
+qwen/qwen3.8-flash,ko,control,다스리다,18,0.184
+qwen/qwen3.8-flash,ko,eastern dragon,동양,11,0.112
+qwen/qwen3.8-flash,ko,mythology,신화,11,0.112
+qwen/qwen3.8-flash,ko,western dragon,서양,10,0.102
+qwen/qwen3.8-flash,ko,divine,신,10,0.102
+qwen/qwen3.8-flash,ko,water,물,10,0.102
+qwen/qwen3.8-flash,ko,head,머리,9,0.092
+qwen/qwen3.8-flash,ko,fire,뿜다,9,0.092
+qwen/qwen3.8-flash,ko,creature,동물,8,0.082
+qwen/qwen3.8-flash,ko,water control,다스리다,8,0.082
+qwen/qwen3.8-flash,ko,deer,사슴,8,0.082
+qwen/qwen3.8-flash,ko,eyes,눈,8,0.082
+qwen/qwen3.8-flash,ko,eagle,매,7,0.071
+qwen/qwen3.8-flash,ko,composite,합쳐지다,7,0.071
+qwen/qwen3.8-flash,ko,guardian,수호신,7,0.071
+qwen/qwen3.8-flash,ko,character,캐릭터,7,0.071
+qwen/qwen3.8-flash,ko,ox,소,6,0.061
+qwen/qwen3.8-flash,ko,tiger,호랑이,6,0.061
+qwen/qwen3.8-flash,ko,fish,물고기,6,0.061
+qwen/qwen3.8-flash,ko,reptilian,파충류,6,0.061
+qwen/qwen3.8-flash,ko,body,몸,6,0.061
+qwen/qwen3.8-flash,ko,omen,길조,6,0.061
+qwen/qwen3.8-flash,ko,nature,자연,6,0.061
+qwen/qwen3.8-flash,ko,wings,날개,6,0.061
+qwen/qwen3.8-flash,ko,evil,악,6,0.061
+qwen/qwen3.8-flash,ko,villain,악역,6,0.061
+qwen/qwen3.8-flash,ko,important,중요하다,5,0.051
+qwen/qwen3.8-flash,ko,folklore,이야기,5,0.051
+qwen/qwen3.8-flash,ko,rabbit,토끼,4,0.041
+qwen/qwen3.8-flash,ko,camel,낙타,4,0.041
+qwen/qwen3.8-flash,ko,ears,소,4,0.041
+qwen/qwen3.8-flash,ko,neck,목,4,0.041
+qwen/qwen3.8-flash,ko,abdomen,배,4,0.041
+qwen/qwen3.8-flash,ko,majesty,위엄,4,0.041
+qwen/qwen3.8-flash,ko,paws,호랑이,3,0.031
+qwen/qwen3.8-flash,ko,clouds,구름,3,0.031
+qwen/qwen3.8-flash,ko,ascension,승천하다,3,0.031
+qwen/qwen3.8-flash,ko,thunder,천둥,3,0.031
+qwen/qwen3.8-flash,ko,sky,하늘,3,0.031
+qwen/qwen3.8-flash,ko,magic,마법,3,0.031
+qwen/qwen3.8-flash,ko,culture,게임,3,0.031
+qwen/qwen3.8-flash,ko,harvest,농경의 신,3,0.031
+qwen/qwen3.8-flash,ko,setting,설정,3,0.031
+qwen/qwen3.8-flash,ko,legs,발,3,0.031
+qwen/qwen3.8-flash,ko,wingless,날개,3,0.031
+qwen/qwen3.8-flash,ko,dangerous,위협,3,0.031
+qwen/qwen3.8-flash,ko,tail,꼬리,2,0.02
+qwen/qwen3.8-flash,ko,horse,말,2,0.02
+qwen/qwen3.8-flash,ko,weather control,다스리다,2,0.02
+qwen/qwen3.8-flash,ko,connector,연결하다,2,0.02
+qwen/qwen3.8-flash,ko,appearance,생김새,2,0.02
+qwen/qwen3.8-flash,ko,clam,조개,2,0.02
+qwen/qwen3.8-flash,ko,challenge,시련,2,0.02
+qwen/qwen3.8-flash,ko,media,영화,2,0.02
+qwen/qwen3.8-flash,ko,treasure,보물,2,0.02
+qwen/qwen3.8-flash,ko,large,거대한,2,0.02
+qwen/qwen3.8-flash,ko,whiskers,수염,2,0.02
+qwen/qwen3.8-flash,ko,water deity,수신,2,0.02
+qwen/qwen3.8-flash,ko,longevity,장수,1,0.01
+qwen/qwen3.8-flash,ko,teeth,악어의 입,1,0.01
+qwen/qwen3.8-flash,ko,awakening,각성,1,0.01
+qwen/qwen3.8-flash,ko,palace,바다 속 용왕이 사는 궁전,1,0.01
+qwen/qwen3.8-flash,ko,weapon,무기,1,0.01
+qwen/qwen3.8-flash,ko,earth,지리,1,0.01
+qwen/qwen3.8-flash,ko,name,이름,1,0.01
+qwen/qwen3.8-flash,ko,zodiac,용띠,1,0.01
+qwen/qwen3.8-flash,ko,fertility,풍요,1,0.01
+qwen/qwen3.8-flash,ko,hero,영웅,1,0.01
+qwen/qwen3.8-flash,ko,bravery,용맹함,1,0.01
+qwen/qwen3.8-flash,ko,archetype,용의 종류,1,0.01
+qwen/qwen3.8-flash,ko,general,관점,1,0.01
+qwen/qwen3.8-flash,ko,creation,천지·우주,1,0.01
+qwen/qwen3.8-flash,ko,boss,최종 보스,1,0.01
+qwen/qwen3.8-flash,ko,weather,날씨,1,0.01
+qwen/qwen3.8-flash,ko,harmony,조화,1,0.01
+qwen/qwen3.8-flash,ko,freedom,자유롭다,1,0.01
+qwen/qwen3.8-flash,ko,life,생명력,1,0.01
+qwen/qwen3.8-flash,ko,monster,괴물,1,0.01
+qwen/qwen3.8-flash,ko,guidance,돕다,1,0.01
+qwen/qwen3.8-flash,ko,fierce,무섭다,1,0.01
+qwen/qwen3.8-flash,ko,demon,사탄,1,0.01
+qwen/qwen3.8-flash,ko,avian,새,1,0.01
+qwen/qwen3.8-flash,zh,luck,吉祥,97,0.97
+qwen/qwen3.8-flash,zh,power,力量,95,0.95
+qwen/qwen3.8-flash,zh,royalty,尊贵,87,0.87
+qwen/qwen3.8-flash,zh,authority,权威,79,0.79
+qwen/qwen3.8-flash,zh,symbol,象征,54,0.54
+qwen/qwen3.8-flash,zh,rain,雨水,46,0.46
+qwen/qwen3.8-flash,zh,horns,鹿角,39,0.39
+qwen/qwen3.8-flash,zh,divine,神兽,37,0.37
+qwen/qwen3.8-flash,zh,scales,鱼鳞,37,0.37
+qwen/qwen3.8-flash,zh,clouds,腾云驾雾,37,0.37
+qwen/qwen3.8-flash,zh,claws,鹰爪,34,0.34
+qwen/qwen3.8-flash,zh,wisdom,智慧,33,0.33
+qwen/qwen3.8-flash,zh,sacred,神圣,33,0.33
+qwen/qwen3.8-flash,zh,weather control,呼风唤雨,31,0.31
+qwen/qwen3.8-flash,zh,serpentine,蛇身,28,0.28
+qwen/qwen3.8-flash,zh,composite,九似,24,0.24
+qwen/qwen3.8-flash,zh,mythical creature,神异动物,20,0.2
+qwen/qwen3.8-flash,zh,weather,呼风唤雨,20,0.2
+qwen/qwen3.8-flash,zh,harmony,自然和谐,18,0.18
+qwen/qwen3.8-flash,zh,head,头似驼,17,0.17
+qwen/qwen3.8-flash,zh,eyes,眼似兔,17,0.17
+qwen/qwen3.8-flash,zh,culture,龙的传人,17,0.17
+qwen/qwen3.8-flash,zh,benevolent,仁慈,17,0.17
+qwen/qwen3.8-flash,zh,abdomen,腹似蜃,16,0.16
+qwen/qwen3.8-flash,zh,paws,掌似虎,15,0.15
+qwen/qwen3.8-flash,zh,prosperity,繁荣,14,0.14
+qwen/qwen3.8-flash,zh,evil,邪恶,12,0.12
+qwen/qwen3.8-flash,zh,ears,耳似牛,12,0.12
+qwen/qwen3.8-flash,zh,harvest,丰收,11,0.11
+qwen/qwen3.8-flash,zh,neck,项似蛇,10,0.1
+qwen/qwen3.8-flash,zh,guardian,守护,10,0.1
+qwen/qwen3.8-flash,zh,water deity,水神,9,0.09
+qwen/qwen3.8-flash,zh,wings,翅膀,9,0.09
+qwen/qwen3.8-flash,zh,flight,能飞,9,0.09
+qwen/qwen3.8-flash,zh,nature,自然力量,8,0.08
+qwen/qwen3.8-flash,zh,water,水,8,0.08
+qwen/qwen3.8-flash,zh,whiskers,有须,7,0.07
+qwen/qwen3.8-flash,zh,monster,巨兽,6,0.06
+qwen/qwen3.8-flash,zh,fire breath,喷火,6,0.06
+qwen/qwen3.8-flash,zh,control,掌管,6,0.06
+qwen/qwen3.8-flash,zh,majesty,威严,5,0.05
+qwen/qwen3.8-flash,zh,spirit animal,精神图腾,5,0.05
+qwen/qwen3.8-flash,zh,water control,掌管,5,0.05
+qwen/qwen3.8-flash,zh,transformation,变化,4,0.04
+qwen/qwen3.8-flash,zh,mysterious,神秘,3,0.03
+qwen/qwen3.8-flash,zh,large,巨大,3,0.03
+qwen/qwen3.8-flash,zh,creature,生物,3,0.03
+qwen/qwen3.8-flash,zh,important,重要,3,0.03
+qwen/qwen3.8-flash,zh,fire,喷火,3,0.03
+qwen/qwen3.8-flash,zh,zodiac,十二生肖,3,0.03
+qwen/qwen3.8-flash,zh,dangerous,危险,3,0.03
+qwen/qwen3.8-flash,zh,ancestor,德高望重,2,0.02
+qwen/qwen3.8-flash,zh,exorcism,驱邪避灾,2,0.02
+qwen/qwen3.8-flash,zh,challenge,挑战,2,0.02
+qwen/qwen3.8-flash,zh,fierce,凶猛,2,0.02
+qwen/qwen3.8-flash,zh,swimming,能游,2,0.02
+qwen/qwen3.8-flash,zh,concept,概念,2,0.02
+qwen/qwen3.8-flash,zh,eastern dragon,东方龙,2,0.02
+qwen/qwen3.8-flash,zh,resilience,意志坚定,2,0.02
+qwen/qwen3.8-flash,zh,virtue,正义,2,0.02
+qwen/qwen3.8-flash,zh,rabbit,眼似兔,1,0.01
+qwen/qwen3.8-flash,zh,fish,鳞似鱼,1,0.01
+qwen/qwen3.8-flash,zh,camel,头似驼,1,0.01
+qwen/qwen3.8-flash,zh,destructive,破坏,1,0.01
+qwen/qwen3.8-flash,zh,appearance,形象,1,0.01
+qwen/qwen3.8-flash,zh,body,身躯长,1,0.01
+qwen/qwen3.8-flash,zh,longevity,长寿,1,0.01
+qwen/qwen3.8-flash,zh,medieval,中世纪欧洲,1,0.01
+qwen/qwen3.8-flash,zh,mythology,神话,1,0.01
+qwen/qwen3.8-flash,zh,glory,荣耀,1,0.01
+qwen/qwen3.8-flash,zh,descendants,龙的传人,1,0.01
+qwen/qwen3.8-flash,zh,ambition,奋发向上,1,0.01
+qwen/qwen3.8-flash,zh,western dragon,西方龙,1,0.01
+qwen/qwen3.8-flash,zh,life,生生不息,1,0.01
+qwen/qwen3.8-flash,zh,fertility,农业,1,0.01
+qwen/qwen3.8-flash,zh,greed,贪婪,1,0.01
+qwen/qwen3.8-flash,zh,wind,风,1,0.01
+qwen/qwen3.8-flash,zh,chaos,混乱,1,0.01
+qwen/qwen3.8-flash,zh,ascension,鲤鱼跃龙门,1,0.01
+qwen/qwen3.8-flash,zh,magic,魔幻,1,0.01
+qwen/qwen3.8-flash,zh,omen,天命,1,0.01
+qwen/qwen3.8-flash,zh,order,秩序,1,0.01
+upstage/solar-mini4,en,mythical creature,legendary creature,53,0.589
+upstage/solar-mini4,en,wings,wings,43,0.478
+upstage/solar-mini4,en,fire,fire-breathing,36,0.4
+upstage/solar-mini4,en,reptilian,reptilian,31,0.344
+upstage/solar-mini4,en,serpentine,serpentine,29,0.322
+upstage/solar-mini4,en,creature,creature,28,0.311
+upstage/solar-mini4,en,power,power,22,0.244
+upstage/solar-mini4,en,claws,claws,21,0.233
+upstage/solar-mini4,en,large,large,18,0.2
+upstage/solar-mini4,en,folklore,folklore,14,0.156
+upstage/solar-mini4,en,mythology,mythology,14,0.156
+upstage/solar-mini4,en,scales,scales,14,0.156
+upstage/solar-mini4,en,western dragon,european,13,0.144
+upstage/solar-mini4,en,monster,monster,11,0.122
+upstage/solar-mini4,en,eastern dragon,chinese,11,0.122
+upstage/solar-mini4,en,symbol,symbol,9,0.1
+upstage/solar-mini4,en,wisdom,wisdom,8,0.089
+upstage/solar-mini4,en,dangerous,danger,6,0.067
+upstage/solar-mini4,en,tail,long tail,6,0.067
+upstage/solar-mini4,en,magic,magical,6,0.067
+upstage/solar-mini4,en,character,character,5,0.056
+upstage/solar-mini4,en,treasure,treasure,5,0.056
+upstage/solar-mini4,en,luck,good fortune,4,0.044
+upstage/solar-mini4,en,villain,villain,4,0.044
+upstage/solar-mini4,en,fierce,fierce,4,0.044
+upstage/solar-mini4,en,hoarding,hoard treasure,3,0.033
+upstage/solar-mini4,en,chaos,chaos,3,0.033
+upstage/solar-mini4,en,norse,norse,3,0.033
+upstage/solar-mini4,en,water,water,3,0.033
+upstage/solar-mini4,en,benevolent,benevolent,2,0.022
+upstage/solar-mini4,en,body,long,2,0.022
+upstage/solar-mini4,en,chinese,chinese,2,0.022
+upstage/solar-mini4,en,horns,horns,2,0.022
+upstage/solar-mini4,en,rain,rain,2,0.022
+upstage/solar-mini4,en,middle eastern,middle eastern,1,0.011
+upstage/solar-mini4,en,fire breath,fire-breathing,1,0.011
+upstage/solar-mini4,en,transformation,transformation,1,0.011
+upstage/solar-mini4,en,mysterious,mystery,1,0.011
+upstage/solar-mini4,en,divine,spiritual qualities,1,0.011
+upstage/solar-mini4,en,archetype,archetype,1,0.011
+upstage/solar-mini4,en,general,middle eastern,1,0.011
+upstage/solar-mini4,en,teeth,tooth,1,0.011
+upstage/solar-mini4,en,flight,fly,1,0.011
+upstage/solar-mini4,en,media,movie,1,0.011
+upstage/solar-mini4,en,culture,culture,1,0.011
+upstage/solar-mini4,en,ally,ally,1,0.011
+upstage/solar-mini4,en,guardian,protection,1,0.011
+upstage/solar-mini4,en,palace,istana,1,0.011
+upstage/solar-mini4,en,wyvern,wyvern,1,0.011
+upstage/solar-mini4,en,glory,keajaiban,1,0.011
+upstage/solar-mini4,en,boss,boss,1,0.011
+upstage/solar-mini4,en,appearance,describe,1,0.011
+upstage/solar-mini4,en,royalty,power,1,0.011
+upstage/solar-mini4,ja,mythical creature,伝説の生き物,70,0.729
+upstage/solar-mini4,ja,flight,空を飛ぶ,44,0.458
+upstage/solar-mini4,ja,power,力,38,0.396
+upstage/solar-mini4,ja,royalty,皇帝の象徴,33,0.344
+upstage/solar-mini4,ja,water,水,29,0.302
+upstage/solar-mini4,ja,authority,権威,28,0.292
+upstage/solar-mini4,ja,rain,雨,26,0.271
+upstage/solar-mini4,ja,sacred,神聖な存在,22,0.229
+upstage/solar-mini4,ja,divine,霊獣,21,0.219
+upstage/solar-mini4,ja,wings,翼,21,0.219
+upstage/solar-mini4,ja,guardian,守る,19,0.198
+upstage/solar-mini4,ja,fertility,豊穣,17,0.177
+upstage/solar-mini4,ja,symbol,象徴,16,0.167
+upstage/solar-mini4,ja,serpentine,蛇,14,0.146
+upstage/solar-mini4,ja,majesty,威厳,12,0.125
+upstage/solar-mini4,ja,prosperity,繁栄,12,0.125
+upstage/solar-mini4,ja,creature,生き物,11,0.115
+upstage/solar-mini4,ja,luck,幸運,11,0.115
+upstage/solar-mini4,ja,monster,怪物,10,0.104
+upstage/solar-mini4,ja,water deity,水神,8,0.083
+upstage/solar-mini4,ja,fire,火を吐く,8,0.083
+upstage/solar-mini4,ja,ascension,昇る,8,0.083
+upstage/solar-mini4,ja,storm,嵐,8,0.083
+upstage/solar-mini4,ja,control,司る,7,0.073
+upstage/solar-mini4,ja,transformation,変化,7,0.073
+upstage/solar-mini4,ja,fire breath,火を吐く,7,0.073
+upstage/solar-mini4,ja,large,巨大,7,0.073
+upstage/solar-mini4,ja,weather,天候,6,0.062
+upstage/solar-mini4,ja,bravery,勇気,6,0.062
+upstage/solar-mini4,ja,appearance,姿,6,0.062
+upstage/solar-mini4,ja,horns,角,6,0.062
+upstage/solar-mini4,ja,mythology,神話,5,0.052
+upstage/solar-mini4,ja,composite,蛇・魚・ワニなどを連想させる姿,5,0.052
+upstage/solar-mini4,ja,evil,邪悪な存在,4,0.042
+upstage/solar-mini4,ja,hoarding,宝を守る,4,0.042
+upstage/solar-mini4,ja,flood,洪水,4,0.042
+upstage/solar-mini4,ja,weather control,天候の神,3,0.031
+upstage/solar-mini4,ja,villain,悪役,3,0.031
+upstage/solar-mini4,ja,mysterious,神秘性,3,0.031
+upstage/solar-mini4,ja,fierce,恐怖,3,0.031
+upstage/solar-mini4,ja,western dragon,西洋のドラゴン,3,0.031
+upstage/solar-mini4,ja,harvest,農耕神,3,0.031
+upstage/solar-mini4,ja,reptilian,巨大なトカゲ,3,0.031
+upstage/solar-mini4,ja,claws,爪,3,0.031
+upstage/solar-mini4,ja,tail,長い尾,3,0.031
+upstage/solar-mini4,ja,movement,飛躍,3,0.031
+upstage/solar-mini4,ja,folklore,物語,2,0.021
+upstage/solar-mini4,ja,habitat,住む,2,0.021
+upstage/solar-mini4,ja,omen,吉兆,2,0.021
+upstage/solar-mini4,ja,sky,天,2,0.021
+upstage/solar-mini4,ja,thunder,雷,2,0.021
+upstage/solar-mini4,ja,eastern dragon,東洋の竜,2,0.021
+upstage/solar-mini4,ja,clouds,雲,2,0.021
+upstage/solar-mini4,ja,treasure,宝,2,0.021
+upstage/solar-mini4,ja,teeth,牙,2,0.021
+upstage/solar-mini4,ja,fish,鯉,2,0.021
+upstage/solar-mini4,ja,legs,四本の足,2,0.021
+upstage/solar-mini4,ja,messenger,使い,2,0.021
+upstage/solar-mini4,ja,hero,英雄,2,0.021
+upstage/solar-mini4,ja,slain,英雄によって退治される存在,2,0.021
+upstage/solar-mini4,ja,body,長い体,2,0.021
+upstage/solar-mini4,ja,longevity,長寿,1,0.01
+upstage/solar-mini4,ja,yellow dragon,黄竜,1,0.01
+upstage/solar-mini4,ja,glory,偉大,1,0.01
+upstage/solar-mini4,ja,food,果物が好き,1,0.01
+upstage/solar-mini4,ja,setting,設定,1,0.01
+upstage/solar-mini4,ja,people,たくさんの人,1,0.01
+upstage/solar-mini4,ja,chinese,中国,1,0.01
+upstage/solar-mini4,ja,japanese,日本の龍,1,0.01
+upstage/solar-mini4,ja,attack,襲う,1,0.01
+upstage/solar-mini4,ja,chaos,混沌,1,0.01
+upstage/solar-mini4,ja,spirit animal,霊獣,1,0.01
+upstage/solar-mini4,ja,destructive,破壊,1,0.01
+upstage/solar-mini4,ja,chosen,勇者に選ばれた,1,0.01
+upstage/solar-mini4,ja,magic,魔法,1,0.01
+upstage/solar-mini4,ja,exorcism,護符,1,0.01
+upstage/solar-mini4,ja,horse,馬,1,0.01
+upstage/solar-mini4,ja,wingless,翼がない,1,0.01
+upstage/solar-mini4,ja,descendants,竜族,1,0.01
+upstage/solar-mini4,ja,water control,水や雲を操る,1,0.01
+upstage/solar-mini4,ja,demon,悪魔的,1,0.01
+upstage/solar-mini4,ja,zodiac,干支,1,0.01
+upstage/solar-mini4,ja,connector,天地をつなぐ存在,1,0.01
+upstage/solar-mini4,ja,benevolent,善良,1,0.01
+upstage/solar-mini4,ja,wood,木,1,0.01
+upstage/solar-mini4,ja,spring,春,1,0.01
+upstage/solar-mini4,ja,azure dragon,青玄,1,0.01
+upstage/solar-mini4,ja,swimming,泳ぐ,1,0.01
+upstage/solar-mini4,ja,cute,魅力的である,1,0.01
+upstage/solar-mini4,ja,shining,すごい,1,0.01
+upstage/solar-mini4,ja,energy,龍脈,1,0.01
+upstage/solar-mini4,ja,challenge,試練,1,0.01
+upstage/solar-mini4,ja,scales,鱗,1,0.01
+upstage/solar-mini4,ja,palace,龍宮,1,0.01
+upstage/solar-mini4,ja,volcano,火山,1,0.01
+upstage/solar-mini4,ja,boss,退治すべき怪物,1,0.01
+upstage/solar-mini4,ja,duality,善悪の両面,1,0.01
+upstage/solar-mini4,ja,ally,パートナー,1,0.01
+upstage/solar-mini4,ja,general,説明,1,0.01
+upstage/solar-mini4,ja,cardinal direction,北方,1,0.01
+upstage/solar-mini4,ja,season,冬,1,0.01
+upstage/solar-mini4,ja,eyes,鬼の目,1,0.01
+upstage/solar-mini4,ja,culture,ゲーム,1,0.01
+upstage/solar-mini4,ko,mythical creature,상상 속의 동물,47,0.534
+upstage/solar-mini4,ko,power,권력,29,0.33
+upstage/solar-mini4,ko,royalty,왕권,25,0.284
+upstage/solar-mini4,ko,flight,날다,22,0.25
+upstage/solar-mini4,ko,water,물,18,0.205
+upstage/solar-mini4,ko,rain,비,15,0.17
+upstage/solar-mini4,ko,symbol,상징,15,0.17
+upstage/solar-mini4,ko,sacred,신성하다,14,0.159
+upstage/solar-mini4,ko,luck,행운,14,0.159
+upstage/solar-mini4,ko,wisdom,지혜,13,0.148
+upstage/solar-mini4,ko,authority,권위,12,0.136
+upstage/solar-mini4,ko,guardian,수호신,11,0.125
+upstage/solar-mini4,ko,creature,동물,10,0.114
+upstage/solar-mini4,ko,prosperity,번영,8,0.091
+upstage/solar-mini4,ko,serpentine,뱀,8,0.091
+upstage/solar-mini4,ko,folklore,이야기,7,0.08
+upstage/solar-mini4,ko,sky,하늘,6,0.068
+upstage/solar-mini4,ko,divine,신,6,0.068
+upstage/solar-mini4,ko,control,다스리다,5,0.057
+upstage/solar-mini4,ko,wings,날개,5,0.057
+upstage/solar-mini4,ko,transformation,변화,5,0.057
+upstage/solar-mini4,ko,ascension,승천하다,4,0.045
+upstage/solar-mini4,ko,appearance,생김새,4,0.045
+upstage/solar-mini4,ko,clouds,구름,4,0.045
+upstage/solar-mini4,ko,culture,게임,4,0.045
+upstage/solar-mini4,ko,horns,뿔,4,0.045
+upstage/solar-mini4,ko,fire,뿜다,4,0.045
+upstage/solar-mini4,ko,fierce,무섭다,4,0.045
+upstage/solar-mini4,ko,treasure,보물,3,0.034
+upstage/solar-mini4,ko,media,영화,3,0.034
+upstage/solar-mini4,ko,character,캐릭터,3,0.034
+upstage/solar-mini4,ko,large,거대한,3,0.034
+upstage/solar-mini4,ko,movement,오가다,3,0.034
+upstage/solar-mini4,ko,hero,영웅,3,0.034
+upstage/solar-mini4,ko,scales,비늘,3,0.034
+upstage/solar-mini4,ko,water deity,수신,3,0.034
+upstage/solar-mini4,ko,fire breath,불을 뿜다,3,0.034
+upstage/solar-mini4,ko,eastern dragon,동양,3,0.034
+upstage/solar-mini4,ko,mysterious,신비롭다,3,0.034
+upstage/solar-mini4,ko,monster,괴물,3,0.034
+upstage/solar-mini4,ko,cute,귀엽다,2,0.023
+upstage/solar-mini4,ko,bravery,용맹함,2,0.023
+upstage/solar-mini4,ko,majesty,위엄,2,0.023
+upstage/solar-mini4,ko,weather control,다스리다,2,0.023
+upstage/solar-mini4,ko,thunder,천둥,2,0.023
+upstage/solar-mini4,ko,claws,발톱,2,0.023
+upstage/solar-mini4,ko,topic,소재,2,0.023
+upstage/solar-mini4,ko,water control,다스리다,2,0.023
+upstage/solar-mini4,ko,mythology,신화,2,0.023
+upstage/solar-mini4,ko,wingless,날개,2,0.023
+upstage/solar-mini4,ko,benevolent,선하다,1,0.011
+upstage/solar-mini4,ko,invincibility,불가능을 뛰어넘는 힘,1,0.011
+upstage/solar-mini4,ko,magic,마법,1,0.011
+upstage/solar-mini4,ko,reptilian,파충류,1,0.011
+upstage/solar-mini4,ko,name,이름,1,0.011
+upstage/solar-mini4,ko,virtue,재주,1,0.011
+upstage/solar-mini4,ko,harvest,농경의 신,1,0.011
+upstage/solar-mini4,ko,pattern,문양,1,0.011
+upstage/solar-mini4,ko,abdomen,배,1,0.011
+upstage/solar-mini4,ko,storm,폭풍,1,0.011
+upstage/solar-mini4,ko,omen,길조,1,0.011
+upstage/solar-mini4,ko,exorcism,막다,1,0.011
+upstage/solar-mini4,ko,spirit animal,하늘을 나는 신령한 동물,1,0.011
+upstage/solar-mini4,ko,glory,왕의 덕과 천명을 찬양하는 노래,1,0.011
+upstage/solar-mini4,ko,fertility,풍요,1,0.011
+upstage/solar-mini4,ko,creation,천지·우주,1,0.011
+upstage/solar-mini4,ko,villain,악역,1,0.011
+upstage/solar-mini4,ko,head,머리,1,0.011
+upstage/solar-mini4,ko,western dragon,서양,1,0.011
+upstage/solar-mini4,ko,weather,날씨,1,0.011
+upstage/solar-mini4,zh,power,力量,100,1.0
+upstage/solar-mini4,zh,luck,吉祥,99,0.99
+upstage/solar-mini4,zh,royalty,尊贵,86,0.86
+upstage/solar-mini4,zh,rain,雨水,60,0.6
+upstage/solar-mini4,zh,divine,神兽,56,0.56
+upstage/solar-mini4,zh,majesty,威严,47,0.47
+upstage/solar-mini4,zh,water,水,45,0.45
+upstage/solar-mini4,zh,prosperity,繁荣,35,0.35
+upstage/solar-mini4,zh,authority,权威,34,0.34
+upstage/solar-mini4,zh,mythical creature,神异动物,33,0.33
+upstage/solar-mini4,zh,harvest,丰收,27,0.27
+upstage/solar-mini4,zh,symbol,象征,27,0.27
+upstage/solar-mini4,zh,serpentine,蛇身,25,0.25
+upstage/solar-mini4,zh,horns,鹿角,22,0.22
+upstage/solar-mini4,zh,scales,鱼鳞,22,0.22
+upstage/solar-mini4,zh,nature,自然力量,22,0.22
+upstage/solar-mini4,zh,guardian,守护,21,0.21
+upstage/solar-mini4,zh,claws,鹰爪,18,0.18
+upstage/solar-mini4,zh,clouds,腾云驾雾,16,0.16
+upstage/solar-mini4,zh,fertility,农业,15,0.15
+upstage/solar-mini4,zh,thunder,雷电,15,0.15
+upstage/solar-mini4,zh,mysterious,神秘,14,0.14
+upstage/solar-mini4,zh,sacred,神圣,14,0.14
+upstage/solar-mini4,zh,transformation,变化,13,0.13
+upstage/solar-mini4,zh,sky,天象,12,0.12
+upstage/solar-mini4,zh,control,掌管,10,0.1
+upstage/solar-mini4,zh,water control,掌管,9,0.09
+upstage/solar-mini4,zh,head,头似驼,9,0.09
+upstage/solar-mini4,zh,wisdom,智慧,9,0.09
+upstage/solar-mini4,zh,flood,洪水,9,0.09
+upstage/solar-mini4,zh,benevolent,仁慈,8,0.08
+upstage/solar-mini4,zh,weather control,呼风唤雨,8,0.08
+upstage/solar-mini4,zh,wind,风,7,0.07
+upstage/solar-mini4,zh,water deity,水神,6,0.06
+upstage/solar-mini4,zh,creature,生物,5,0.05
+upstage/solar-mini4,zh,culture,龙的传人,5,0.05
+upstage/solar-mini4,zh,weather,呼风唤雨,5,0.05
+upstage/solar-mini4,zh,bravery,勇气,5,0.05
+upstage/solar-mini4,zh,disaster,灾难,4,0.04
+upstage/solar-mini4,zh,important,重要,4,0.04
+upstage/solar-mini4,zh,longevity,长寿,4,0.04
+upstage/solar-mini4,zh,virtue,正义,4,0.04
+upstage/solar-mini4,zh,order,秩序,4,0.04
+upstage/solar-mini4,zh,feng shui,风水,4,0.04
+upstage/solar-mini4,zh,whiskers,有须,4,0.04
+upstage/solar-mini4,zh,body,身躯长,4,0.04
+upstage/solar-mini4,zh,evil,邪恶,4,0.04
+upstage/solar-mini4,zh,wings,翅膀,3,0.03
+upstage/solar-mini4,zh,chaos,混乱,3,0.03
+upstage/solar-mini4,zh,glory,荣耀,3,0.03
+upstage/solar-mini4,zh,composite,九似,3,0.03
+upstage/solar-mini4,zh,fire,喷火,3,0.03
+upstage/solar-mini4,zh,monster,巨兽,3,0.03
+upstage/solar-mini4,zh,tail,牛尾,3,0.03
+upstage/solar-mini4,zh,exorcism,驱邪避灾,3,0.03
+upstage/solar-mini4,zh,magic,魔幻,3,0.03
+upstage/solar-mini4,zh,ox,耳似牛,2,0.02
+upstage/solar-mini4,zh,ascension,鲤鱼跃龙门,2,0.02
+upstage/solar-mini4,zh,ancestor,德高望重,2,0.02
+upstage/solar-mini4,zh,tiger,掌似虎,2,0.02
+upstage/solar-mini4,zh,harmony,自然和谐,2,0.02
+upstage/solar-mini4,zh,spirit animal,精神图腾,2,0.02
+upstage/solar-mini4,zh,cosmos,乾坤,2,0.02
+upstage/solar-mini4,zh,pattern,吉祥的纹样,2,0.02
+upstage/solar-mini4,zh,greed,贪婪,1,0.01
+upstage/solar-mini4,zh,clam,腹似蜃,1,0.01
+upstage/solar-mini4,zh,appearance,形象,1,0.01
+upstage/solar-mini4,zh,tradition,古代艺术,1,0.01
+upstage/solar-mini4,zh,duality,通晓阴阳,1,0.01
+upstage/solar-mini4,zh,topic,媒介,1,0.01
+upstage/solar-mini4,zh,archetype,龙族,1,0.01
+upstage/solar-mini4,zh,paws,掌似虎,1,0.01
+upstage/solar-mini4,zh,legs,四足,1,0.01
+upstage/solar-mini4,zh,earth,地,1,0.01
+upstage/solar-mini4,zh,descendants,龙的传人,1,0.01
+upstage/solar-mini4,zh,energy,宇宙能量,1,0.01
+upstage/solar-mini4,zh,resilience,意志坚定,1,0.01
+upstage/solar-mini4,zh,omen,天命,1,0.01
+upstage/solar-mini4,zh,demon,地下世界,1,0.01
+upstage/solar-mini4,zh,armor,鳞片状的身甲,1,0.01
+upstage/solar-mini4,zh,guidance,引导,1,0.01
+upstage/solar-mini4,zh,mane,背部有鬣,1,0.01
+upstage/solar-mini4,zh,teeth,拥有獠牙,1,0.01
+upstage/solar-mini4,zh,creation,起源,1,0.01
+upstage/solar-mini4,zh,treasure,宝藏,1,0.01
+upstage/solar-mini4,zh,invincibility,不可侵犯,1,0.01
+upstage/solar-mini4,zh,family,家族,1,0.01
+upstage/solar-mini4,zh,fierce,凶猛,1,0.01
+upstage/solar-mini4,zh,large,巨大,1,0.01
+upstage/solar-mini4,zh,potential,潜力,1,0.01
+upstage/solar-mini4,zh,abdomen,腹似蜃,1,0.01
+upstage/solar-mini4,zh,wingless,无翼,1,0.01
+upstage/solar-mini4,zh,generosity,赐福者,1,0.01
+upstage/solar-mini4,zh,horse,马头,1,0.01
+upstage/solar-mini4,zh,versatile,灵活,1,0.01
+upstage/solar-mini4,zh,flight,能飞,1,0.01
+upstage/solar-mini4,zh,zodiac,十二生肖,1,0.01
+upstage/solar-mini4,zh,season,节气,1,0.01
