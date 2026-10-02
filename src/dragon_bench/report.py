@@ -10,7 +10,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from matplotlib.colors import LinearSegmentedColormap
 
-from .config import MODELS
+from .config import MODELS, run_subject
 from .extract import RESPONSE_TYPES, _read_jsonl
 
 SURFACE = "#fcfcfb"
@@ -24,6 +24,9 @@ DIVERGING = LinearSegmentedColormap.from_list("red_gray_blue", ["#b3302f", "#e34
 LANG_ORDER = ["en", "ko", "zh", "ja"]
 TOP_WORDS_PER_LANG = 25
 TOP_GLOSSES = 30
+# Below this many on-subject, same-language responses a cell's shares and valence are noise
+# (deepseek answers 용은 in Chinese 94% of the time), so it is shown as missing.
+MIN_CELL_N = 10
 
 plt.rcParams.update({
     "font.family": ["Arial Unicode MS", "Apple SD Gothic Neo", "Hiragino Sans", "PingFang SC"],
@@ -64,7 +67,7 @@ def load(run_dir: Path) -> tuple[list[dict], dict[str, str]]:
 
 def aggregate(rows: list[dict], valence: dict[str, str]) -> dict:
     cells: dict[tuple[str, str], dict] = defaultdict(lambda: {
-        "n": 0, "lang_match": 0, "dragon": 0, "types": Counter(), "glosses": Counter(),
+        "n": 0, "lang_match": 0, "sense": 0, "types": Counter(), "glosses": Counter(),
         "valence": Counter(), "tradition": Counter(),
     })
     # Concepts (English glosses) are the counting unit in every language; the most common
@@ -75,9 +78,9 @@ def aggregate(rows: list[dict], valence: dict[str, str]) -> dict:
         c["n"] += 1
         c["lang_match"] += r["lang_match"]
         c["types"][r["response_type"]] += 1
-        if not r["dragon_sense"] or not r["lang_match"]:
+        if not r["subject_sense"] or not r["lang_match"]:
             continue
-        c["dragon"] += 1
+        c["sense"] += 1
         # Presence per response, so one verbose answer cannot outweigh a hundred terse ones.
         c["glosses"].update({d["en"] for d in r["descriptors"]})
         for d in r["descriptors"]:
@@ -85,6 +88,10 @@ def aggregate(rows: list[dict], valence: dict[str, str]) -> dict:
             c["valence"][valence.get(d["en"], "unlabeled")] += 1
             c["tradition"][d["tradition"]] += 1
     return {"cells": cells, "gloss_of": gloss_of}
+
+
+def _usable(c: dict | None) -> bool:
+    return bool(c) and c["sense"] >= MIN_CELL_N
 
 
 def _net_valence(c: dict) -> float | None:
@@ -104,20 +111,26 @@ def _heatmap(ax, matrix, rows, cols, cmap, vmin, vmax, annotate=False, fmt="{:+.
         for i, row in enumerate(matrix):
             for j, v in enumerate(row):
                 if v == v:
-                    strong = abs(v - (vmin + vmax) / 2) > (vmax - vmin) * 0.3
+                    r, g, b, _ = cmap((v - vmin) / (vmax - vmin))
+                    dark = 0.2126 * r + 0.7152 * g + 0.0722 * b < 0.5
                     ax.text(j, i, fmt.format(v), ha="center", va="center", fontsize=8,
-                            color="#ffffff" if strong else INK)
+                            color="#ffffff" if dark else INK)
     return im
 
 
 def plot_valence(agg: dict, models: list[str], langs: list[str], out: Path) -> None:
-    matrix = [[_net_valence(agg["cells"][(m, l)]) if (m, l) in agg["cells"] else None for l in langs] for m in models]
-    matrix = [[float("nan") if v is None else v for v in row] for row in matrix]
+    cells = [[agg["cells"].get((m, l)) for l in langs] for m in models]
+    matrix = [[_net_valence(c) if _usable(c) else float("nan") for c in row] for row in cells]
     fig, ax = plt.subplots(figsize=(5.2, 4.6))
     im = _heatmap(ax, matrix, [_short(m) for m in models], langs, DIVERGING, -1, 1, annotate=True)
+    for i, row in enumerate(cells):
+        for j, c in enumerate(row):
+            if c and not _usable(c):
+                ax.text(j, i, f"n={c['sense']}", ha="center", va="center", fontsize=7, color=MUTED)
     ax.xaxis.tick_top()
     plt.setp(ax.get_xticklabels(), rotation=0, ha="center")
-    ax.set_title("Net valence of dragon descriptors (positive − negative) / all", fontsize=9, color=INK, pad=24)
+    ax.set_title(f"Net valence of {agg['subject']} descriptors (positive − negative) / all", fontsize=9, color=INK,
+                 pad=24)
     cb = fig.colorbar(im, ax=ax, fraction=0.05)
     cb.outline.set_visible(False)
     cb.ax.tick_params(labelsize=7, colors=MUTED, length=0)
@@ -130,17 +143,19 @@ def plot_words_by_lang(agg: dict, models: list[str], lang: str, out: Path) -> li
     total = Counter()
     for m in models:
         c = agg["cells"].get((m, lang))
-        if c and c["dragon"]:
-            total.update({k: v / c["dragon"] for k, v in c["glosses"].items()})
+        if _usable(c):
+            total.update({k: v / c["sense"] for k, v in c["glosses"].items()})
     top = [w for w, _ in total.most_common(TOP_WORDS_PER_LANG)]
+    if not top:
+        return []
     labels = [f"{agg['gloss_of'][(lang, w)].most_common(1)[0][0]} ({w})" if lang != "en" else w for w in top]
     matrix = []
     for m in models:
         c = agg["cells"].get((m, lang))
-        matrix.append([c["glosses"][w] / c["dragon"] if c and c["dragon"] else float("nan") for w in top])
+        matrix.append([c["glosses"][w] / c["sense"] if _usable(c) else float("nan") for w in top])
     fig, ax = plt.subplots(figsize=(11, 4.2))
     im = _heatmap(ax, matrix, [_short(m) for m in models], labels, SEQUENTIAL, 0, 1)
-    ax.set_title(f"[{lang}] share of dragon-sense responses using each concept — stem: "
+    ax.set_title(f"[{lang}] share of on-subject responses using each concept — stem: "
                  f"{agg['stem'][lang]}", fontsize=9, color=INK, loc="left")
     cb = fig.colorbar(im, ax=ax, fraction=0.025)
     cb.outline.set_visible(False)
@@ -154,20 +169,23 @@ def plot_words_by_lang(agg: dict, models: list[str], lang: str, out: Path) -> li
 def plot_cross(agg: dict, models: list[str], langs: list[str], out: Path) -> list[str]:
     total = Counter()
     for c in agg["cells"].values():
-        if c["dragon"]:
-            total.update({k: v / c["dragon"] for k, v in c["glosses"].items()})
+        if _usable(c):
+            total.update({k: v / c["sense"] for k, v in c["glosses"].items()})
     top = [g for g, _ in total.most_common(TOP_GLOSSES)]
+    if not top:
+        return []
     rows, matrix = [], []
     for l in langs:
         for m in models:
             c = agg["cells"].get((m, l))
             rows.append(f"{l} · {_short(m)}")
-            matrix.append([c["glosses"][g] / c["dragon"] if c and c["dragon"] else float("nan") for g in top])
+            matrix.append([c["glosses"][g] / c["sense"] if _usable(c) else float("nan") for g in top])
     fig, ax = plt.subplots(figsize=(12, 9))
     im = _heatmap(ax, matrix, rows, top, SEQUENTIAL, 0, 1)
     for boundary in range(len(models), len(rows), len(models)):
         ax.axhline(boundary - 0.5, color=MUTED, linewidth=1)
-    ax.set_title("Cross-language: share of dragon-sense responses using each descriptor (English gloss)",
+    ax.set_title(f"Cross-language: share of on-subject responses using each {agg['subject']} descriptor "
+                 "(English gloss)",
                  fontsize=9, color=INK, loc="left")
     cb = fig.colorbar(im, ax=ax, fraction=0.02)
     cb.outline.set_visible(False)
@@ -181,7 +199,8 @@ def plot_cross(agg: dict, models: list[str], langs: list[str], out: Path) -> lis
 def write_tables(agg: dict, models: list[str], langs: list[str], out_dir: Path) -> None:
     with (out_dir / "summary.csv").open("w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
-        w.writerow(["model", "lang", "n", "lang_match_rate", "dragon_sense_rate", *[f"type_{t}" for t in RESPONSE_TYPES],
+        w.writerow(["model", "lang", "n", "lang_match_rate", "subject_sense_rate", "sense_n", "low_n",
+                    *[f"type_{t}" for t in RESPONSE_TYPES],
                     "net_valence", "positive", "neutral", "negative", "unlabeled", "eastern", "western", "general"])
         for m in models:
             for l in langs:
@@ -189,23 +208,27 @@ def write_tables(agg: dict, models: list[str], langs: list[str], out_dir: Path) 
                 if not c:
                     continue
                 nv = _net_valence(c)
-                w.writerow([m, l, c["n"], round(c["lang_match"] / c["n"], 3), round(c["dragon"] / c["n"], 3),
+                w.writerow([m, l, c["n"], round(c["lang_match"] / c["n"], 3), round(c["sense"] / c["n"], 3),
+                            c["sense"], not _usable(c),
                             *[c["types"][t] for t in RESPONSE_TYPES], "" if nv is None else round(nv, 3),
                             *[c["valence"][k] for k in ("positive", "neutral", "negative", "unlabeled")],
                             *[c["tradition"][k] for k in ("eastern", "western", "general")]])
     with (out_dir / "descriptors.csv").open("w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
-        w.writerow(["model", "lang", "concept", "top_native_lemma", "responses", "share_of_dragon_sense"])
+        w.writerow(["model", "lang", "concept", "top_native_lemma", "responses", "share_of_subject_sense"])
         for (m, l), c in sorted(agg["cells"].items()):
             for concept, n in c["glosses"].most_common():
                 lemma = agg["gloss_of"][(l, concept)].most_common(1)[0][0]
-                w.writerow([m, l, concept, lemma, n, round(n / c["dragon"], 3) if c["dragon"] else ""])
+                w.writerow([m, l, concept, lemma, n, round(n / c["sense"], 3) if c["sense"] else ""])
 
 
 def write_markdown(agg: dict, models: list[str], langs: list[str], out_dir: Path) -> None:
-    lines = ["# Dragon Bench report", "", f"Stems: " + ", ".join(f"{l} `{agg['stem'][l]}`" for l in langs), "",
+    lines = [f"# Dragon Bench report: {agg['subject']}", "",
+             "Stems: " + ", ".join(f"{l} `{agg['stem'][l]}`" for l in langs), "",
+             f"Cells with fewer than {MIN_CELL_N} on-subject, same-language responses are marked *low n* and left out "
+             "of the heatmaps.", "",
              "## Filtering funnel", "",
-             "| model | lang | n | same language | dragon sense | clarification | multi_sense | definition | completion | net valence | eastern / western / general |",
+             "| model | lang | n | same language | on subject | clarification | multi_sense | definition | completion | net valence | eastern / western / general |",
              "|---|---|---|---|---|---|---|---|---|---|---|"]
     for m in models:
         for l in langs:
@@ -215,20 +238,21 @@ def write_markdown(agg: dict, models: list[str], langs: list[str], out_dir: Path
             nv = _net_valence(c)
             t = c["tradition"]
             lines.append(
-                f"| {_short(m)} | {l} | {c['n']} | {c['lang_match']} | {c['dragon']} | {c['types']['clarification']} | "
+                f"| {_short(m)} | {l} | {c['n']} | {c['lang_match']} | {c['sense']} | {c['types']['clarification']} | "
                 f"{c['types']['multi_sense']} | {c['types']['definition']} | {c['types']['completion']} | "
-                f"{'' if nv is None else f'{nv:+.2f}'} | {t['eastern']} / {t['western']} / {t['general']} |")
-    lines += ["", "## Top descriptors per cell (share of dragon-sense responses)", ""]
+                f"{'' if nv is None else f'{nv:+.2f}'}{'' if _usable(c) else ' *low n*'} | "
+                f"{t['eastern']} / {t['western']} / {t['general']} |")
+    lines += ["", "## Top descriptors per cell (share of on-subject responses)", ""]
     for l in langs:
         lines += [f"### {l} `{agg['stem'][l]}`", ""]
         for m in models:
             c = agg["cells"].get((m, l))
-            if not c or not c["dragon"]:
+            if not _usable(c):
                 continue
             top = ", ".join(
-                f"{w}{'' if l == 'en' else ' ' + agg['gloss_of'][(l, w)].most_common(1)[0][0]} {n / c['dragon']:.0%}"
+                f"{w}{'' if l == 'en' else ' ' + agg['gloss_of'][(l, w)].most_common(1)[0][0]} {n / c['sense']:.0%}"
                 for w, n in c["glosses"].most_common(10))
-            lines.append(f"- **{_short(m)}** (n={c['dragon']}): {top}")
+            lines.append(f"- **{_short(m)}** (n={c['sense']}): {top}")
         lines.append("")
     (out_dir / "report.md").write_text("\n".join(lines), encoding="utf-8")
 
@@ -240,6 +264,7 @@ def report(run_dir: Path) -> None:
     langs = [l for l in LANG_ORDER if any(r["lang"] == l for r in rows)]
     agg = aggregate(rows, valence)
     agg["stem"] = {r["lang"]: r["stem"] for r in rows}
+    agg["subject"] = run_subject(run_dir).self_words[0]
     out_dir = run_dir / "report"
     out_dir.mkdir(exist_ok=True)
     plot_valence(agg, models, langs, out_dir / "valence.png")

@@ -5,7 +5,7 @@ from pathlib import Path
 
 import httpx
 
-from .config import DEFAULT_CONCURRENCY, PER_MODEL_CONCURRENCY, STEMS, SamplingParams
+from .config import DEFAULT_CONCURRENCY, PER_MODEL_CONCURRENCY, SUBJECTS, SamplingParams
 from .openrouter import OpenRouterError, chat
 
 
@@ -24,10 +24,13 @@ async def collect(run_dir: Path, params: SamplingParams) -> None:
     run_dir.mkdir(parents=True, exist_ok=True)
     out_path = run_dir / "responses.jsonl"
     params_path = run_dir / "params.json"
-    record = {**params.__dict__, "stems": {l: STEMS[l] for l in params.langs}}
+    stems = SUBJECTS[params.subject].stems
+    record = {**params.__dict__, "stems": {l: stems[l] for l in params.langs}}
     # Subset re-runs (e.g. retrying one model) must not shrink the run's recorded scope.
     if params_path.exists():
         previous = json.loads(params_path.read_text(encoding="utf-8"))
+        if previous.get("subject", "dragon") != params.subject:
+            raise SystemExit(f"{run_dir.name} is a {previous.get('subject', 'dragon')} run, not {params.subject}")
         record["models"] = list(dict.fromkeys(previous["models"] + params.models))
         record["langs"] = list(dict.fromkeys(previous["langs"] + params.langs))
         record["stems"] = previous["stems"] | record["stems"]
@@ -42,7 +45,7 @@ async def collect(run_dir: Path, params: SamplingParams) -> None:
             row = {
                 "model": model,
                 "lang": lang,
-                "stem": STEMS[lang],
+                "stem": stems[lang],
                 "sample": sample,
                 "temperature": params.temperature,
                 "max_tokens": params.max_tokens,
@@ -51,7 +54,7 @@ async def collect(run_dir: Path, params: SamplingParams) -> None:
                 payload = await chat(
                     client,
                     model,
-                    [{"role": "user", "content": STEMS[lang]}],
+                    [{"role": "user", "content": stems[lang]}],
                     temperature=params.temperature,
                     max_tokens=params.max_tokens,
                 )
