@@ -22,8 +22,9 @@ def overview(run_dirs: list[Path]) -> None:
     out_dir = RUNS_DIR.parent / "overview"
     out_dir.mkdir(exist_ok=True)
     rows, valence, eastern, western, n_models, top, stems = [], {}, {}, {}, {}, {}, {}
-    for run_dir in run_dirs:
-        label = f"{run_subject(run_dir).name} ({run_dir.name})"
+    subjects = [run_subject(d).name for d in run_dirs]
+    for run_dir, subject in zip(run_dirs, subjects):
+        label = subject if subjects.count(subject) == 1 else f"{subject} ({run_dir.name})"
         rows.append(label)
         stems[label] = json.loads((run_dir / "params.json").read_text(encoding="utf-8"))["stems"]
         shares: dict[str, dict[str, list[float]]] = defaultdict(lambda: defaultdict(list))
@@ -71,7 +72,7 @@ def overview(run_dirs: list[Path]) -> None:
     lines = ["# Dragon Bench overview", "",
              "Net valence and tradition shares are means over the models whose cell is not low-n; "
              "concept shares are the mean share of on-subject responses that use the concept.", "",
-             "| subject (run) | lang | stem | models | net valence (min … max) | eastern | western | top concepts |",
+             "| subject | lang | stem | models | net valence (min … max) | eastern | western | top concepts |",
              "|---|---|---|---|---|---|---|---|"]
     for r in rows:
         for l in langs:
