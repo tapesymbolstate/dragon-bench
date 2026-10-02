@@ -1,9 +1,14 @@
 # Project Status
 
-**Last Updated:** 2026-10-02T16:45+09:00
+**Last Updated:** 2026-10-02T23:40+09:00
 **Last Author:** Claude Code
 
 ## Recent Changes (Latest First)
+
+### 2026-10-02 (evening): README and data published
+- ✅ README rewritten around purpose and findings, with a generated header image and the overview heatmap
+- ✅ Benchmark outputs under `data/` are now committed to the private repo `tapesymbolstate/dragon-benchmark` (old `origin` kept as remote `jujumilk3`)
+- 🔧 Overview rows are labelled by subject alone unless two runs share a subject
 
 ### 2026-10-02: v1 cleaned up and validated, seven more stems screened
 - ✅ v1 complete: the last 7 Mistral calls succeeded (3,200 / 3,200 responses and extractions)
@@ -49,7 +54,8 @@
 - `src/dragon_bench/report.py` — aggregation, low-n masking, heatmaps (matplotlib, CJK fonts from macOS), CSV and Markdown tables
 - `src/dragon_bench/validate.py` — stratified blind sample, label-vs-extractor comparison
 - `src/dragon_bench/overview.py` — cross-run net valence / tradition / top concepts
-- `data/runs/<run>/` — outputs (gitignored); `data/overview/` — cross-run summary; `smoke*` runs are pipeline tests
+- `data/runs/<run>/` — outputs (tracked; `smoke*` pipeline tests and `extractions.before-rename.jsonl` are gitignored); `data/overview/` — cross-run summary shown in the README
+- `docs/images/hero.jpg` — README header image (generated with Codex)
 
 ## How to Run
 
