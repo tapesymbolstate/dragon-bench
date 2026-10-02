@@ -70,4 +70,3 @@ uv run dragon-bench overview v1 dragon-hanja four thirteen white crow owl bat ch
 - `google/gemini-3.5-flash-lite` cannot run without reasoning; it runs with `effort: low` (hidden), so it is not strictly first-impulse like the others
 - Extractor (`gemini-2.5-flash-lite`) and taxonomy (`gemini-3.8-flash`) models are Google models; their judgements are not independent of the Google model under test. The v1 validation labels come from Claude, a different family, but Claude's own model (haiku-4.5) is also under test
 - 20-sample runs give ±10-point concept shares per cell; compare languages on the means over models, not single cells
-- Today's changes are not committed yet
