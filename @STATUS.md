@@ -7,7 +7,7 @@
 
 ### 2026-10-02 (evening): README and data published
 - ✅ README rewritten around purpose and findings, with a generated header image and the overview heatmap
-- ✅ Benchmark outputs under `data/` are now committed to the private repo `tapesymbolstate/dragon-benchmark` (old `origin` kept as remote `jujumilk3`)
+- ✅ Benchmark outputs under `data/` are now committed to the private repo `tapesymbolstate/dragon-bench` (old `origin` kept as remote `jujumilk3`)
 - 🔧 Overview rows are labelled by subject alone unless two runs share a subject
 
 ### 2026-10-02: v1 cleaned up and validated, seven more stems screened
