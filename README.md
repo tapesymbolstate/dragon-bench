@@ -56,3 +56,7 @@ uv run dragon-bench overview v1 dragon-hanja crow
 - The descriptor cap was 15 at first. That truncated answers that describe one tradition after the other: English answers lost their eastern part, Chinese answers their western part. The cap is now 30.
 - The 20-sample stems give roughly ±10-point shares per cell; compare languages on the means over models.
 - Concept shares are per response (presence), so a long answer counts the same as a short one.
+
+## License
+
+MIT, covering the code and everything under `data/` and `docs/` — see [LICENSE](LICENSE).
